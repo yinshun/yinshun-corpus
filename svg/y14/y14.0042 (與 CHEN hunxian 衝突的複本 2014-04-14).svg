@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- 由 Microsoft Visio 11.0, SVG Export, v1.0 產生 y14.0042-h.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="2.8822in" height="2.8822in"
+		viewBox="0 0 207.519 207.519" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
+	<title>y14.0038</title>
+	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#e8eef7;fill-opacity:0;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:#000000;font-family:新細明體;font-size:1.33333em}
+		.st3 {font-size:1em}
+		.st4 {stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Page-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(76.8302,-78.2476)">
+			<title>圓形</title>
+			<desc>神天 貪忿</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(11):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="26.9291" cy="180.59" width="47.13" height="40.3937"/>
+			<path d="M0 180.59 A26.9291 26.9291 0 1 1 53.86 180.59 A26.9291 26.9291 0 0 1 0 180.59 Z" class="st1"/>
+			<text x="10.93" y="175.61" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>神天<v:newlineChar/><tspan
+						x="10.93" dy="1.246em" class="st3">貪忿</tspan></text>		</g>
+		<g id="shape2-5" v:mID="2" v:groupContext="shape" transform="translate(33.6019,-35.0192)">
+			<title>圓形.2</title>
+			<desc>出家 解脫</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(11):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="70.1575" cy="137.361" width="122.78" height="105.236"/>
+			<path d="M0 137.36 A70.1575 70.1575 0 1 1 140.31 137.36 A70.1575 70.1575 0 0 1 0 137.36 Z" class="st1"/>
+			<text x="54.16" y="84.38" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>出家<v:newlineChar/><v:newlineChar/><v:newlineChar/><v:newlineChar/><v:newlineChar/><v:newlineChar/><tspan
+						x="54.16" dy="7.246em" class="st3">解脫</tspan></text>		</g>
+		<g id="shape3-9" v:mID="3" v:groupContext="shape" transform="translate(54.1531,-55.5704)">
+			<title>圓形.3</title>
+			<desc>在家 慈悲</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(11):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="49.6063" cy="157.912" width="86.82" height="74.4094"/>
+			<path d="M0 157.91 A49.6063 49.6063 0 0 1 99.21 157.91 A49.6063 49.6063 0 1 1 0 157.91 Z" class="st1"/>
+			<text x="33.61" y="124.13" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>在家<v:newlineChar/><v:newlineChar/><v:newlineChar/><v:newlineChar/><tspan
+						x="33.61" dy="4.846em" class="st3">慈悲</tspan></text>		</g>
+		<g id="group8-13" transform="translate(18.72,-18.72)" v:mID="8" v:groupContext="group">
+			<title>工作表.8</title>
+			<g id="shape4-14" v:mID="4" v:groupContext="shape" transform="translate(207.519,37.44) rotate(90)">
+				<title>工作表.4</title>
+				<path d="M0 207.52 L170.08 207.52" class="st4"/>
+			</g>
+			<g id="shape5-17" v:mID="5" v:groupContext="shape" transform="translate(377.597,37.44) rotate(90)">
+				<title>工作表.5</title>
+				<path d="M0 207.52 L170.08 207.52" class="st4"/>
+			</g>
+			<g id="shape6-20" v:mID="6" v:groupContext="shape" transform="translate(0,-170.079)">
+				<title>工作表.6</title>
+				<path d="M0 207.52 L170.08 207.52" class="st4"/>
+			</g>
+			<g id="shape7-23" v:mID="7" v:groupContext="shape">
+				<title>工作表.7</title>
+				<path d="M0 207.52 L170.08 207.52" class="st4"/>
+			</g>
+		</g>
+	</g>
+</svg>

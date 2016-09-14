@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- 由 Microsoft Visio 11.0, SVG Export, v1.0 產生 y36.0163.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="7.12713in" height="4.83776in"
+		viewBox="0 0 513.154 348.319" xml:space="preserve" color-interpolation-filters="sRGB" class="st4">
+	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Box)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#000000;font-family:新細明體;font-size:1.33333em}
+		.st3 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>頁-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(358.199,-299.096)">
+			<title>工作表.1</title>
+			<desc>界身論本市品</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="60.0945" cy="336.13" width="120.19" height="24.378"/>
+			<rect x="0" y="323.941" width="120.189" height="24.378" class="st1"/>
+			<text x="0.25em 1.452em 2.655em 3.857em 5.059em 6.262em" y="340.93" class="st2" v:langID="1028"><v:paragraph
+						v:horizAlign="4"/><v:tabList/>界身論本市品</text>		</g>
+		<g id="shape3-4" v:mID="3" v:groupContext="shape" transform="translate(-185.711,55.3169) rotate(-90)">
+			<title>工作表.3</title>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalText="true"/>
+			<rect x="0" y="220.193" width="36.5669" height="128.126" class="st3"/>
+		</g>
+		<g id="shape2-6" v:mID="2" v:groupContext="shape" transform="translate(38.4508,-299.096)">
+			<title>工作表.2</title>
+			<desc>品類論七事品</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="60.0945" cy="336.13" width="120.19" height="24.378"/>
+			<rect x="0" y="323.941" width="120.189" height="24.378" class="st1"/>
+			<text x="0.25em 1.452em 2.655em 3.857em 5.059em 6.262em" y="340.93" class="st2" v:langID="1028"><v:paragraph
+						v:horizAlign="4"/><v:tabList/>品類論七事品</text>		</g>
+		<g id="shape4-9" v:mID="4" v:groupContext="shape" transform="translate(342.183,-43.128)">
+			<title>工作表.4</title>
+			<desc>六受身‧六想身</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="68.0315" cy="336.13" width="136.07" height="24.378"/>
+			<rect x="0" y="323.941" width="136.063" height="24.378" class="st1"/>
+			<text x="12.03" y="340.93" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>六受身‧六想身</text>		</g>
+		<g id="shape5-12" v:mID="5" v:groupContext="shape" transform="translate(18.75,-68.3563)">
+			<title>工作表.5</title>
+			<desc>五煩惱‧五觸</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="60.0945" cy="288.224" width="120.19" height="120.189"/>
+			<rect x="0" y="228.13" width="120.189" height="120.189" class="st1"/>
+			<text x="12.09" y="293.02" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>五煩惱‧五觸</text>		</g>
+		<g id="shape7-15" v:mID="7" v:groupContext="shape" transform="translate(18.75,-262.53)">
+			<title>工作表.7</title>
+			<desc>十八界‧十二處</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="68.0315" cy="336.13" width="136.07" height="24.378"/>
+			<rect x="0" y="323.941" width="136.063" height="24.378" class="st1"/>
+			<text x="12.03" y="340.93" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>十八界‧十二處</text>		</g>
+		<g id="shape9-18" v:mID="9" v:groupContext="shape" transform="translate(18.75,-27.9626)">
+			<title>工作表.9</title>
+			<desc>五見‧五根‧五法</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76.1102" cy="272.209" width="152.23" height="152.22"/>
+			<rect x="0" y="196.098" width="152.22" height="152.22" class="st1"/>
+			<text x="12.11" y="277.01" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>五見‧五根‧五法</text>		</g>
+		<g id="shape10-21" v:mID="10" v:groupContext="shape" transform="translate(18.75,-238.152)">
+			<title>工作表.10</title>
+			<desc>五蘊‧五取蘊‧六界</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="84.0472" cy="336.13" width="168.1" height="24.378"/>
+			<rect x="0" y="323.941" width="168.094" height="24.378" class="st1"/>
+			<text x="12.05" y="340.93" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>五蘊‧五取蘊‧六界</text>		</g>
+		<g id="shape12-24" v:mID="12" v:groupContext="shape" transform="translate(18.75,-181.884)">
+			<title>工作表.12</title>
+			<desc>十大地法</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="44.0787" cy="304.24" width="88.16" height="88.1575"/>
+			<rect x="0" y="260.161" width="88.1575" height="88.1575" class="st1"/>
+			<text x="12.08" y="309.04" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>十大地法</text>		</g>
+		<g id="shape14-27" v:mID="14" v:groupContext="shape" transform="translate(18.75,-117.112)">
+			<title>工作表.14</title>
+			<desc>十大煩惱地法</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="60.0945" cy="288.224" width="120.19" height="120.189"/>
+			<rect x="0" y="228.13" width="120.189" height="120.189" class="st1"/>
+			<text x="12.09" y="293.02" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>十大煩惱地法</text>		</g>
+		<g id="shape16-30" v:mID="16" v:groupContext="shape" transform="translate(18.75,-67.5059)">
+			<title>工作表.16</title>
+			<desc>六識身‧六觸身</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="68.0315" cy="336.13" width="136.07" height="24.378"/>
+			<rect x="0" y="323.941" width="136.063" height="24.378" class="st1"/>
+			<text x="12.03" y="340.93" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>六識身‧六觸身</text>		</g>
+		<g id="shape19-33" v:mID="19" v:groupContext="shape" transform="translate(18.75,-43.128)">
+			<title>工作表.19</title>
+			<desc>六受身‧六想身</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="68.0315" cy="336.13" width="136.07" height="24.378"/>
+			<rect x="0" y="323.941" width="136.063" height="24.378" class="st1"/>
+			<text x="12.03" y="340.93" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>六受身‧六想身</text>		</g>
+		<g id="shape20-36" v:mID="20" v:groupContext="shape" transform="translate(134.037,55.3169) rotate(-90)">
+			<title>工作表.20</title>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalText="true"/>
+			<rect x="0" y="220.193" width="36.5669" height="128.126" class="st3"/>
+		</g>
+		<g id="shape30-38" v:mID="30" v:groupContext="shape" transform="translate(18.75,-101.522)">
+			<title>工作表.30</title>
+			<desc>十大善地法眾事分缺</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="100.063" cy="248.256" width="200.13" height="200.126"/>
+			<rect x="0" y="148.193" width="200.126" height="200.126" class="st1"/>
+			<text x="12.06" y="253.06" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>十大善地法（眾事分缺）</text>		</g>
+		<g id="shape36-41" v:mID="36" v:groupContext="shape" transform="translate(18.75,-18.75)">
+			<title>工作表.36</title>
+			<desc>六思身‧六愛身</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="68.0315" cy="336.13" width="136.07" height="24.378"/>
+			<rect x="0" y="323.941" width="136.063" height="24.378" class="st1"/>
+			<text x="12.03" y="340.93" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>六思身‧六愛身</text>		</g>
+		<g id="shape37-44" v:mID="37" v:groupContext="shape" transform="translate(18.75,-92.7343)">
+			<title>工作表.37</title>
+			<desc>十小煩惱地法</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="60.0945" cy="288.224" width="120.19" height="120.189"/>
+			<rect x="0" y="228.13" width="120.189" height="120.189" class="st1"/>
+			<text x="12.09" y="293.02" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>十小煩惱地法</text>		</g>
+		<g id="shape38-47" v:mID="38" v:groupContext="shape" transform="translate(342.183,-181.884)">
+			<title>工作表.38</title>
+			<desc>十大地法</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="44.0787" cy="304.24" width="88.16" height="88.1575"/>
+			<rect x="0" y="260.161" width="88.1575" height="88.1575" class="st1"/>
+			<text x="12.08" y="309.04" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>十大地法</text>		</g>
+		<g id="shape39-50" v:mID="39" v:groupContext="shape" transform="translate(342.183,-117.112)">
+			<title>工作表.39</title>
+			<desc>十大煩惱地法</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="60.0945" cy="288.224" width="120.19" height="120.189"/>
+			<rect x="0" y="228.13" width="120.189" height="120.189" class="st1"/>
+			<text x="12.09" y="293.02" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>十大煩惱地法</text>		</g>
+		<g id="shape40-53" v:mID="40" v:groupContext="shape" transform="translate(342.183,-92.7343)">
+			<title>工作表.40</title>
+			<desc>十小煩惱地法</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="60.0945" cy="288.224" width="120.19" height="120.189"/>
+			<rect x="0" y="228.13" width="120.189" height="120.189" class="st1"/>
+			<text x="12.09" y="293.02" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>十小煩惱地法</text>		</g>
+		<g id="shape41-56" v:mID="41" v:groupContext="shape" transform="translate(342.183,-68.3563)">
+			<title>工作表.41</title>
+			<desc>五煩惱‧五觸</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="60.0945" cy="288.224" width="120.19" height="120.189"/>
+			<rect x="0" y="228.13" width="120.189" height="120.189" class="st1"/>
+			<text x="12.09" y="293.02" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>五煩惱‧五觸</text>		</g>
+		<g id="shape42-59" v:mID="42" v:groupContext="shape" transform="translate(342.183,-27.9626)">
+			<title>工作表.42</title>
+			<desc>五見‧五根‧五法</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76.1102" cy="272.209" width="152.23" height="152.22"/>
+			<rect x="0" y="196.098" width="152.22" height="152.22" class="st1"/>
+			<text x="12.11" y="277.01" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>五見‧五根‧五法</text>		</g>
+		<g id="shape43-62" v:mID="43" v:groupContext="shape" transform="translate(342.183,-67.5059)">
+			<title>工作表.43</title>
+			<desc>六識身‧六觸身</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="68.0315" cy="336.13" width="136.07" height="24.378"/>
+			<rect x="0" y="323.941" width="136.063" height="24.378" class="st1"/>
+			<text x="12.03" y="340.93" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>六識身‧六觸身</text>		</g>
+		<g id="shape44-65" v:mID="44" v:groupContext="shape" transform="translate(342.183,-18.75)">
+			<title>工作表.44</title>
+			<desc>六思身‧六愛身</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="68.0315" cy="336.13" width="136.07" height="24.378"/>
+			<rect x="0" y="323.941" width="136.063" height="24.378" class="st1"/>
+			<text x="12.03" y="340.93" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>六思身‧六愛身</text>		</g>
+	</g>
+</svg>

@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- 由 Microsoft Visio 11.0, SVG Export, v1.0 產生 y30.0034.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="9.5169in" height="8.73343in"
+		viewBox="0 0 685.217 628.807" xml:space="preserve" color-interpolation-filters="sRGB" class="st4">
+	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Box)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#000000;font-family:新細明體;font-size:1.33333em}
+		.st3 {font-family:標楷體;font-size:1em}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>頁-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(18.75,-585.679)">
+			<title>工作表.1</title>
+			<desc>《中阿含經》一九○《小空經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="133.228" cy="616.618" width="266.46" height="24.378"/>
+			<rect x="0" y="604.429" width="266.457" height="24.378" class="st1"/>
+			<text x="5.23" y="621.42" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>《中阿含經》（一九<tspan
+						class="st3" v:langID="1033">○</tspan>）《小空經》</text>		</g>
+		<g id="shape2-5" v:mID="2" v:groupContext="shape" transform="translate(115.128,-557.333)">
+			<title>工作表.2</title>
+			<desc>一九一《大空經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="616.618" width="170.08" height="24.378"/>
+			<rect x="0" y="604.429" width="170.079" height="24.378" class="st1"/>
+			<text x="5.04" y="621.42" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（一九一）《大空經》</text>		</g>
+		<g id="shape3-8" v:mID="3" v:groupContext="shape" transform="translate(113.711,-528.986)">
+			<title>工作表.3</title>
+			<desc>一六三《分別六處經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="102.047" cy="616.618" width="204.1" height="24.378"/>
+			<rect x="0" y="604.429" width="204.094" height="24.378" class="st1"/>
+			<text x="6.05" y="621.42" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（一六三）《分別六處經》</text>		</g>
+		<g id="shape4-11" v:mID="4" v:groupContext="shape" transform="translate(113.711,-500.64)">
+			<title>工作表.4</title>
+			<desc>一六九《拘樓瘦無諍經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="110.551" cy="616.618" width="221.11" height="24.378"/>
+			<rect x="0" y="604.429" width="221.102" height="24.378" class="st1"/>
+			<text x="6.55" y="621.42" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（一六九）《拘樓瘦無諍經》</text>		</g>
+		<g id="shape5-14" v:mID="5" v:groupContext="shape" transform="translate(115.128,-399.443)">
+			<title>工作表.5</title>
+			<desc>三○《象跡喻經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="543.768" width="170.08" height="170.079"/>
+			<rect x="0" y="458.728" width="170.079" height="170.079" class="st1"/>
+			<text x="5.04" y="548.57" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（三<tspan class="st3"
+						v:langID="1033">○</tspan>）《象跡喻經》</text>		</g>
+		<g id="shape6-18" v:mID="6" v:groupContext="shape" transform="translate(115.128,-371.096)">
+			<title>工作表.6</title>
+			<desc>一八一《多界經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="543.768" width="170.08" height="170.079"/>
+			<rect x="0" y="458.728" width="170.079" height="170.079" class="st1"/>
+			<text x="5.04" y="548.57" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（一八一）《多界經》</text>		</g>
+		<g id="shape7-21" v:mID="7" v:groupContext="shape" transform="translate(116.545,-335.663)">
+			<title>工作表.7</title>
+			<desc>一○三《師子吼經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="92.126" cy="536.681" width="184.26" height="184.252"/>
+			<rect x="0" y="444.555" width="184.252" height="184.252" class="st1"/>
+			<text x="4.13" y="541.48" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（一<tspan class="st3"
+						v:langID="1033">○</tspan>三）《師子吼經》</text>		</g>
+		<g id="shape8-25" v:mID="8" v:groupContext="shape" transform="translate(114.278,-297.396)">
+			<title>工作表.8</title>
+			<desc>一六二《分別六界經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="102.047" cy="526.76" width="204.1" height="204.094"/>
+			<rect x="0" y="424.713" width="204.094" height="204.094" class="st1"/>
+			<text x="6.05" y="531.56" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（一六二）《分別六界經》</text>		</g>
+		<g id="shape9-28" v:mID="9" v:groupContext="shape" transform="translate(116.545,-278.97)">
+			<title>工作表.9</title>
+			<desc>七五《淨不動道經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="92.126" cy="536.681" width="184.26" height="184.252"/>
+			<rect x="0" y="444.555" width="184.252" height="184.252" class="st1"/>
+			<text x="4.13" y="541.48" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（七五）《淨不動道經》</text>		</g>
+		<g id="shape10-31" v:mID="10" v:groupContext="shape" transform="translate(116.545,-266.215)">
+			<title>工作表.10</title>
+			<desc>九七《大因經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76.5354" cy="552.272" width="153.08" height="153.071"/>
+			<rect x="0" y="475.736" width="153.071" height="153.071" class="st1"/>
+			<text x="4.54" y="557.07" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（九七）《大因經》</text>		</g>
+		<g id="shape11-34" v:mID="11" v:groupContext="shape" transform="translate(117.112,-246.372)">
+			<title>工作表.11</title>
+			<desc>二三《智經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="68.0315" cy="560.776" width="136.07" height="136.063"/>
+			<rect x="0" y="492.744" width="136.063" height="136.063" class="st1"/>
+			<text x="4.03" y="565.58" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（二三）《智經》</text>		</g>
+		<g id="shape12-37" v:mID="12" v:groupContext="shape" transform="translate(116.545,-209.522)">
+			<title>工作表.12</title>
+			<desc>一○《漏盡經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76.5354" cy="552.272" width="153.08" height="153.071"/>
+			<rect x="0" y="475.736" width="153.071" height="153.071" class="st1"/>
+			<text x="4.54" y="557.07" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（一<tspan class="st3"
+						v:langID="1033">○</tspan>）《漏盡經》</text>		</g>
+		<g id="shape13-41" v:mID="13" v:groupContext="shape" transform="translate(115.128,-172.671)">
+			<title>工作表.13</title>
+			<desc>一一九《說處經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="543.768" width="170.08" height="170.079"/>
+			<rect x="0" y="458.728" width="170.079" height="170.079" class="st1"/>
+			<text x="5.04" y="548.57" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（一一九）《說處經》</text>		</g>
+		<g id="shape14-44" v:mID="14" v:groupContext="shape" transform="translate(116.545,-137.238)">
+			<title>工作表.14</title>
+			<desc>一二二《成就戒經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="92.126" cy="536.681" width="184.26" height="184.252"/>
+			<rect x="0" y="444.555" width="184.252" height="184.252" class="st1"/>
+			<text x="4.13" y="541.48" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（一二二）《成就戒經》</text>		</g>
+		<g id="shape15-47" v:mID="15" v:groupContext="shape" transform="translate(113.711,-130.152)">
+			<title>工作表.15</title>
+			<desc>一《善法經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="70.8661" cy="557.941" width="141.74" height="141.732"/>
+			<rect x="0" y="487.075" width="141.732" height="141.732" class="st1"/>
+			<text x="6.87" y="562.74" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（一）《善法經》</text>		</g>
+		<g id="shape16-50" v:mID="16" v:groupContext="shape" transform="translate(116.545,-80.5453)">
+			<title>工作表.16</title>
+			<desc>一一三《諸法本經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="92.126" cy="536.681" width="184.26" height="184.252"/>
+			<rect x="0" y="444.555" width="184.252" height="184.252" class="st1"/>
+			<text x="4.13" y="541.48" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（一一三）《諸法本經》</text>		</g>
+		<g id="shape17-53" v:mID="17" v:groupContext="shape" transform="translate(116.545,-52.1988)">
+			<title>工作表.17</title>
+			<desc>一一一《達梵行經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="92.126" cy="536.681" width="184.26" height="184.252"/>
+			<rect x="0" y="444.555" width="184.252" height="184.252" class="st1"/>
+			<text x="4.13" y="541.48" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（一一一）《達梵行經》</text>		</g>
+		<g id="shape18-56" v:mID="18" v:groupContext="shape" transform="translate(116.545,-23.8524)">
+			<title>工作表.18</title>
+			<desc>一一二《阿奴波經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="92.126" cy="536.681" width="184.26" height="184.252"/>
+			<rect x="0" y="444.555" width="184.252" height="184.252" class="st1"/>
+			<text x="4.13" y="541.48" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（一一二）《阿奴波經》</text>		</g>
+		<g id="shape19-59" v:mID="19" v:groupContext="shape" transform="translate(18.75,-75.4429)">
+			<title>工作表.19</title>
+			<desc>《雜阿含經》《大正》一○四二經</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="124.724" cy="616.618" width="249.45" height="24.378"/>
+			<rect x="0" y="604.429" width="249.449" height="24.378" class="st1"/>
+			<text x="4.72" y="621.42" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>《雜阿含經》《大正》一<tspan
+						class="st3" v:langID="1033">○</tspan>四二經</text>		</g>
+		<g id="shape20-63" v:mID="20" v:groupContext="shape" transform="translate(115.128,-47.0965)">
+			<title>工作表.20</title>
+			<desc>《大正》一○四三經</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76.5354" cy="616.618" width="153.08" height="24.378"/>
+			<rect x="0" y="604.429" width="153.071" height="24.378" class="st1"/>
+			<text x="4.54" y="621.42" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>《大正》一<tspan
+						class="st3" v:langID="1033">○</tspan>四三經</text>		</g>
+		<g id="shape21-67" v:mID="21" v:groupContext="shape" transform="translate(106.624,-18.75)">
+			<title>工作表.21</title>
+			<desc>《大正》九八四經</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76.5354" cy="616.618" width="153.08" height="24.378"/>
+			<rect x="0" y="604.429" width="153.071" height="24.378" class="st1"/>
+			<text x="12.54" y="621.42" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>《大正》九八四經</text>		</g>
+		<g id="shape23-70" v:mID="23" v:groupContext="shape" transform="translate(344.734,-585.679)">
+			<title>工作表.23</title>
+			<desc>《中　部》一二一《空小經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="124.724" cy="616.618" width="249.45" height="24.378"/>
+			<rect x="0" y="604.429" width="249.449" height="24.378" class="st1"/>
+			<text x="4.72" y="621.42" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>《中　部》（一二一）《空小經》</text>		</g>
+		<g id="shape24-73" v:mID="24" v:groupContext="shape" transform="translate(425.522,-557.333)">
+			<title>工作表.24</title>
+			<desc>一二二《空大經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="616.618" width="170.08" height="24.378"/>
+			<rect x="0" y="604.429" width="170.079" height="24.378" class="st1"/>
+			<text x="5.04" y="621.42" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（一二二）《空大經》</text>		</g>
+		<g id="shape25-76" v:mID="25" v:groupContext="shape" transform="translate(425.522,-528.986)">
+			<title>工作表.25</title>
+			<desc>一三七《六處分別經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="100.63" cy="616.618" width="201.26" height="24.378"/>
+			<rect x="0" y="604.429" width="201.26" height="24.378" class="st1"/>
+			<text x="4.63" y="621.42" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（一三七）《六處分別經》</text>		</g>
+		<g id="shape26-79" v:mID="26" v:groupContext="shape" transform="translate(425.522,-500.64)">
+			<title>工作表.26</title>
+			<desc>一三九《無諍分別經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="100.63" cy="616.618" width="201.26" height="24.378"/>
+			<rect x="0" y="604.429" width="201.26" height="24.378" class="st1"/>
+			<text x="4.63" y="621.42" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（一三九）《無諍分別經》</text>		</g>
+		<g id="shape27-82" v:mID="27" v:groupContext="shape" transform="translate(426.372,-392.356)">
+			<title>工作表.27</title>
+			<desc>二八《象跡喻大經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="92.126" cy="536.681" width="184.26" height="184.252"/>
+			<rect x="0" y="444.555" width="184.252" height="184.252" class="st1"/>
+			<text x="4.13" y="541.48" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（二八）《象跡喻大經》</text>		</g>
+		<g id="shape28-85" v:mID="28" v:groupContext="shape" transform="translate(425.522,-371.096)">
+			<title>工作表.28</title>
+			<desc>一一五《多界經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="85.0394" cy="543.768" width="170.08" height="170.079"/>
+			<rect x="0" y="458.728" width="170.079" height="170.079" class="st1"/>
+			<text x="5.04" y="548.57" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（一一五）《多界經》</text>		</g>
+		<g id="shape29-88" v:mID="29" v:groupContext="shape" transform="translate(426.372,-335.663)">
+			<title>工作表.29</title>
+			<desc>一一《師子吼小經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="92.126" cy="536.681" width="184.26" height="184.252"/>
+			<rect x="0" y="444.555" width="184.252" height="184.252" class="st1"/>
+			<text x="4.13" y="541.48" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（一一）《師子吼小經》</text>		</g>
+		<g id="shape30-91" v:mID="30" v:groupContext="shape" transform="translate(417.868,-298.813)">
+			<title>工作表.30</title>
+			<desc>一四○《界分別經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="100.63" cy="528.177" width="201.26" height="201.26"/>
+			<rect x="0" y="427.547" width="201.26" height="201.26" class="st1"/>
+			<text x="12.63" y="532.98" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（一四<tspan class="st3"
+						v:langID="1033">○</tspan>）《界分別經》</text>		</g>
+		<g id="shape31-95" v:mID="31" v:groupContext="shape" transform="translate(424.104,-269.049)">
+			<title>工作表.31</title>
+			<desc>一○六《不動利益經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="102.047" cy="526.76" width="204.1" height="204.094"/>
+			<rect x="0" y="424.713" width="204.094" height="204.094" class="st1"/>
+			<text x="6.05" y="531.56" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（一<tspan class="st3"
+						v:langID="1033">○</tspan>六）《不動利益經》</text>		</g>
+		<g id="shape32-99" v:mID="32" v:groupContext="shape" transform="translate(337.081,-218.026)">
+			<title>工作表.32</title>
+			<desc>《長　部》一五《大緣經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="124.724" cy="504.083" width="249.45" height="249.449"/>
+			<rect x="0" y="379.358" width="249.449" height="249.449" class="st1"/>
+			<text x="12.72" y="508.88" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>《長　部》（一五）《大緣經》</text>		</g>
+		<g id="shape33-102" v:mID="33" v:groupContext="shape" transform="translate(344.734,-165.585)">
+			<title>工作表.33</title>
+			<desc>《相應部》一二《因緣相應》三二經</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="148.819" cy="479.988" width="297.64" height="297.638"/>
+			<rect x="0" y="331.169" width="297.638" height="297.638" class="st1"/>
+			<text x="4.82" y="484.79" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>《相應部》（一二）《因緣相應》三二經</text>		</g>
+		<g id="shape34-105" v:mID="34" v:groupContext="shape" transform="translate(331.978,-172.671)">
+			<title>工作表.34</title>
+			<desc>《增支部》〈六集〉五八經</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="113.386" cy="515.421" width="226.78" height="226.772"/>
+			<rect x="0" y="402.035" width="226.772" height="226.772" class="st1"/>
+			<text x="17.39" y="520.22" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>《增支部》〈六集〉五八經</text>		</g>
+		<g id="shape35-108" v:mID="35" v:groupContext="shape" transform="translate(421.27,-193.931)">
+			<title>工作表.35</title>
+			<desc>〈三集〉六七經</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="565.028" width="127.56" height="127.559"/>
+			<rect x="0" y="501.248" width="127.559" height="127.559" class="st1"/>
+			<text x="7.78" y="569.83" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>〈三集〉六七經</text>		</g>
+		<g id="shape36-111" v:mID="36" v:groupContext="shape" transform="translate(422.687,-158.498)">
+			<title>工作表.36</title>
+			<desc>〈五集〉一六六經</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="70.8661" cy="557.941" width="141.74" height="141.732"/>
+			<rect x="0" y="487.075" width="141.732" height="141.732" class="st1"/>
+			<text x="6.87" y="562.74" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>〈五集〉一六六經</text>		</g>
+		<g id="shape37-114" v:mID="37" v:groupContext="shape" transform="translate(421.27,-137.238)">
+			<title>工作表.37</title>
+			<desc>〈七集〉六四經</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="565.028" width="127.56" height="127.559"/>
+			<rect x="0" y="501.248" width="127.559" height="127.559" class="st1"/>
+			<text x="7.78" y="569.83" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>〈七集〉六四經</text>		</g>
+		<g id="shape38-117" v:mID="38" v:groupContext="shape" transform="translate(421.27,-108.892)">
+			<title>工作表.38</title>
+			<desc>〈十集〉五八經</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="565.028" width="127.56" height="127.559"/>
+			<rect x="0" y="501.248" width="127.559" height="127.559" class="st1"/>
+			<text x="7.78" y="569.83" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>〈十集〉五八經</text>		</g>
+		<g id="shape39-120" v:mID="39" v:groupContext="shape" transform="translate(421.27,-80.5453)">
+			<title>工作表.39</title>
+			<desc>〈六集〉六三經</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="565.028" width="127.56" height="127.559"/>
+			<rect x="0" y="501.248" width="127.559" height="127.559" class="st1"/>
+			<text x="7.78" y="569.83" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>〈六集〉六三經</text>		</g>
+		<g id="shape40-123" v:mID="40" v:groupContext="shape" transform="translate(421.27,-52.1988)">
+			<title>工作表.40</title>
+			<desc>〈六集〉六二經</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="565.028" width="127.56" height="127.559"/>
+			<rect x="0" y="501.248" width="127.559" height="127.559" class="st1"/>
+			<text x="7.78" y="569.83" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>〈六集〉六二經</text>		</g>
+		<g id="shape41-126" v:mID="41" v:groupContext="shape" transform="translate(344.734,-75.4429)">
+			<title>工作表.41</title>
+			<desc>《中　部》四一《薩羅村婆羅門經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="148.819" cy="616.618" width="297.64" height="24.378"/>
+			<rect x="0" y="604.429" width="297.638" height="24.378" class="st1"/>
+			<text x="4.82" y="621.42" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>《中　部》（四一）《薩羅村婆羅門經》</text>		</g>
+		<g id="shape42-129" v:mID="42" v:groupContext="shape" transform="translate(417.018,-47.0965)">
+			<title>工作表.42</title>
+			<desc>四二《毘蘭若村婆羅門經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="124.724" cy="616.618" width="249.45" height="24.378"/>
+			<rect x="0" y="604.429" width="249.449" height="24.378" class="st1"/>
+			<text x="12.72" y="621.42" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（四二）《毘蘭若村婆羅門經》</text>		</g>
+		<g id="shape43-132" v:mID="43" v:groupContext="shape" transform="translate(327.726,-18.75)">
+			<title>工作表.43</title>
+			<desc>《增支部》〈四集〉一九九經</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="124.724" cy="616.618" width="249.45" height="24.378"/>
+			<rect x="0" y="604.429" width="249.449" height="24.378" class="st1"/>
+			<text x="20.72" y="621.42" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>《增支部》〈四集〉一九九經</text>		</g>
+	</g>
+</svg>

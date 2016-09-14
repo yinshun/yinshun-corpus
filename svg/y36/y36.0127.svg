@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- 由 Microsoft Visio 11.0, SVG Export, v1.0 產生 y36.0127.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="9.63107in" height="8.56217in"
+		viewBox="0 0 693.437 616.476" xml:space="preserve" color-interpolation-filters="sRGB" class="st6">
+	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Box)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#000000;font-family:新細明體;font-size:1.33333em}
+		.st3 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st4 {font-size:1em}
+		.st5 {fill:#000000;font-family:新細明體;font-size:1.00001em}
+		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>頁-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(362.451,-567.254)">
+			<title>工作表.1</title>
+			<desc>舍利弗阿毘曇論</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="60.0945" cy="604.287" width="120.19" height="24.378"/>
+			<rect x="0" y="592.098" width="120.189" height="24.378" class="st1"/>
+			<text x="4.09" y="609.09" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>舍利弗阿毘曇論</text>		</g>
+		<g id="shape3-4" v:mID="3" v:groupContext="shape" transform="translate(-449.616,55.3169) rotate(-90)">
+			<title>工作表.3</title>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalText="true"/>
+			<rect x="0" y="488.35" width="36.5669" height="128.126" class="st3"/>
+		</g>
+		<g id="shape2-6" v:mID="2" v:groupContext="shape" transform="translate(42.7028,-567.254)">
+			<title>工作表.2</title>
+			<desc>法　　蘊　　論</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="60.0945" cy="604.287" width="120.19" height="24.378"/>
+			<rect x="0" y="592.098" width="120.189" height="24.378" class="st1"/>
+			<text x="0.25em" y="609.09" class="st2" v:langID="1028"><v:paragraph v:horizAlign="4"/><v:tabList/>法<tspan x="1.252em
+							 2.254em" dy="0em" class="st4">　　</tspan><tspan x="3.256em" dy="0em" class="st4">蘊　</tspan><tspan x="
+							4.258em 5.26em" dy="0em" class="st4">　　</tspan><tspan x="6.262em" dy="0em" class="st4">論</tspan></text>		</g>
+		<g id="shape4-13" v:mID="4" v:groupContext="shape" transform="translate(346.435,-349.411)">
+			<title>工作表.4</title>
+			<desc>見色不定是名眼入。</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="116.079" cy="500.398" width="232.16" height="232.157"/>
+			<rect x="0" y="384.319" width="232.157" height="232.157" class="st1"/>
+			<text x="28.39" y="505.2" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>見色，不定（是名眼入）。</text>		</g>
+		<g id="shape5-16" v:mID="5" v:groupContext="shape" transform="translate(346.435,-530.687)">
+			<title>工作表.5</title>
+			<desc>云何眼入眼根是名眼入。</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="116.079" cy="604.287" width="232.16" height="24.378"/>
+			<rect x="0" y="592.098" width="232.157" height="24.378" class="st1"/>
+			<text x="28.39" y="609.09" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>云何眼入？眼根是名眼入。</text>		</g>
+		<g id="shape6-19" v:mID="6" v:groupContext="shape" transform="translate(346.435,-506.309)">
+			<title>工作表.6</title>
+			<desc>云何眼入眼界是名眼入。</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="116.079" cy="604.287" width="232.16" height="24.378"/>
+			<rect x="0" y="592.098" width="232.157" height="24.378" class="st1"/>
+			<text x="28.39" y="609.09" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>云何眼入？眼界是名眼入。</text>		</g>
+		<g id="shape7-22" v:mID="7" v:groupContext="shape" transform="translate(18.75,-481.931)">
+			<title>工作表.7</title>
+			<desc>云何眼根謂眼於色已正當見及彼</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="156.047" cy="604.287" width="312.1" height="24.378"/>
+			<rect x="0" y="592.098" width="312.094" height="24.378" class="st1"/>
+			<text x="28.36" y="609.09" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>云何眼根？謂眼於色，已正當見，及彼</text>		</g>
+		<g id="shape8-25" v:mID="8" v:groupContext="shape" transform="translate(18.75,-385.695)">
+			<title>工作表.8</title>
+			<desc>同分是名眼根。</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="84.0472" cy="532.429" width="168.1" height="168.094"/>
+			<rect x="0" y="448.382" width="168.094" height="168.094" class="st1"/>
+			<text x="28.36" y="537.23" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>同分，是名眼根。</text>		</g>
+		<g id="shape9-28" v:mID="9" v:groupContext="shape" transform="translate(346.435,-479.522)">
+			<title>工作表.9</title>
+			<desc>云何眼入我分攝已見色今見色當</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="164.126" cy="604.287" width="328.26" height="24.378"/>
+			<rect x="0" y="592.098" width="328.252" height="24.378" class="st1"/>
+			<text x="28.44" y="609.09" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>云何眼入？我分攝，已見色，今見色，當</text>		</g>
+		<g id="shape10-31" v:mID="10" v:groupContext="shape" transform="translate(18.75,-433.175)">
+			<title>工作表.10</title>
+			<desc>又眼增上發眼識於色已正當了及彼</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="156.047" cy="604.287" width="312.1" height="24.378"/>
+			<rect x="0" y="592.098" width="312.094" height="24.378" class="st1"/>
+			<text x="28.36" y="609.09" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>又眼增上發眼識，於色已正當了，及彼</text>		</g>
+		<g id="shape11-34" v:mID="11" v:groupContext="shape" transform="translate(18.75,-336.939)">
+			<title>工作表.11</title>
+			<desc>同分是名眼根。</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="84.0472" cy="532.429" width="168.1" height="168.094"/>
+			<rect x="0" y="448.382" width="168.094" height="168.094" class="st1"/>
+			<text x="28.36" y="537.23" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>同分，是名眼根。</text>		</g>
+		<g id="shape12-37" v:mID="12" v:groupContext="shape" transform="translate(18.75,-240.561)">
+			<title>工作表.12</title>
+			<desc>又眼於色已正當礙及彼同分是名</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="156.047" cy="460.429" width="312.1" height="312.094"/>
+			<rect x="0" y="304.382" width="312.094" height="312.094" class="st1"/>
+			<text x="28.36" y="465.23" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>又眼於色，已正當礙，及彼同分，是名</text>		</g>
+		<g id="shape13-40" v:mID="13" v:groupContext="shape" transform="translate(18.75,-328.152)">
+			<title>工作表.13</title>
+			<desc>眼根。</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="44.0787" cy="572.398" width="88.16" height="88.1575"/>
+			<rect x="0" y="528.319" width="88.1575" height="88.1575" class="st1"/>
+			<text x="28.39" y="577.2" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>眼根。</text>		</g>
+		<g id="shape14-43" v:mID="14" v:groupContext="shape" transform="translate(18.75,-143.049)">
+			<title>工作表.14</title>
+			<desc>如是過去未來現在諸所有眼根名為眼</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="156.047" cy="460.429" width="312.1" height="312.094"/>
+			<rect x="0" y="304.382" width="312.094" height="312.094" class="st1"/>
+			<text x="28.36" y="465.23" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>如是過去未來現在諸所有眼根，名為眼</text>		</g>
+		<g id="shape15-46" v:mID="15" v:groupContext="shape" transform="translate(18.75,-118.671)">
+			<title>工作表.15</title>
+			<desc>根。……此復云何謂四大種所造淨色</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="156.047" cy="460.429" width="312.1" height="312.094"/>
+			<rect x="0" y="304.382" width="312.094" height="312.094" class="st1"/>
+			<text x="28.36" y="465.23" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>根。……此復云何？謂四大種所造淨色</text>		</g>
+		<g id="shape16-49" v:mID="16" v:groupContext="shape" transform="translate(346.435,-232.482)">
+			<title>工作表.16</title>
+			<desc>若眼我分攝色已對眼今對當對不</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="164.126" cy="452.35" width="328.26" height="328.252"/>
+			<rect x="0" y="288.224" width="328.252" height="328.252" class="st1"/>
+			<text x="28.44" y="457.15" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>若眼我分攝，色已對眼，今對，當對，不</text>		</g>
+		<g id="shape17-52" v:mID="17" v:groupContext="shape" transform="translate(346.435,-248.215)">
+			<title>工作表.17</title>
+			<desc>定若眼無礙是名眼入。</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="124.016" cy="492.461" width="248.04" height="248.031"/>
+			<rect x="0" y="368.445" width="248.031" height="248.031" class="st1"/>
+			<text x="28.33" y="497.26" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>定，若眼無礙（是名眼入）。</text>		</g>
+		<g id="shape18-55" v:mID="18" v:groupContext="shape" transform="translate(346.435,-522.75)">
+			<title>工作表.18</title>
+			<desc>一</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="20.126" cy="596.35" width="40.26" height="40.252"/>
+			<rect x="0" y="576.224" width="40.252" height="40.252" class="st1"/>
+			<text x="14.13" y="599.95" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一</text>		</g>
+		<g id="shape19-58" v:mID="19" v:groupContext="shape" transform="translate(346.435,-183.726)">
+			<title>工作表.19</title>
+			<desc>若眼我分攝色光已來今來當來不</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="164.126" cy="452.35" width="328.26" height="328.252"/>
+			<rect x="0" y="288.224" width="328.252" height="328.252" class="st1"/>
+			<text x="28.44" y="457.15" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>若眼我分攝，色光已來，今來，當來，不</text>		</g>
+		<g id="shape20-61" v:mID="20" v:groupContext="shape" transform="translate(-129.868,55.3169) rotate(-90)">
+			<title>工作表.20</title>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalText="true"/>
+			<rect x="0" y="488.35" width="36.5669" height="128.126" class="st3"/>
+		</g>
+		<g id="shape21-63" v:mID="21" v:groupContext="shape" transform="translate(346.435,-498.372)">
+			<title>工作表.21</title>
+			<desc>二</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="20.126" cy="596.35" width="40.26" height="40.252"/>
+			<rect x="0" y="576.224" width="40.252" height="40.252" class="st1"/>
+			<text x="14.13" y="599.95" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>二</text>		</g>
+		<g id="shape22-66" v:mID="22" v:groupContext="shape" transform="translate(346.435,-174.656)">
+			<title>工作表.22</title>
+			<desc>所造淨色是名眼入。</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="100.063" cy="516.413" width="200.13" height="200.126"/>
+			<rect x="0" y="416.35" width="200.126" height="200.126" class="st1"/>
+			<text x="28.38" y="521.21" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>所造淨色，是名眼入。</text>		</g>
+		<g id="shape23-69" v:mID="23" v:groupContext="shape" transform="translate(346.435,-134.97)">
+			<title>工作表.23</title>
+			<desc>云何眼入若眼我分攝去來現在四大</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="164.126" cy="452.35" width="328.26" height="328.252"/>
+			<rect x="0" y="288.224" width="328.252" height="328.252" class="st1"/>
+			<text x="28.44" y="457.15" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>云何眼入？若眼我分攝，去來現在，四大</text>		</g>
+		<g id="shape24-72" v:mID="24" v:groupContext="shape" transform="translate(346.435,-61.8366)">
+			<title>工作表.24</title>
+			<desc>云何眼入若眼我分攝過去未來現在淨</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="164.126" cy="452.35" width="328.26" height="328.252"/>
+			<rect x="0" y="288.224" width="328.252" height="328.252" class="st1"/>
+			<text x="28.44" y="457.15" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>云何眼入？若眼我分攝，過去未來現在淨</text>		</g>
+		<g id="shape25-75" v:mID="25" v:groupContext="shape" transform="translate(18.75,-473.994)">
+			<title>工作表.25</title>
+			<desc>一</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="20.126" cy="596.35" width="40.26" height="40.252"/>
+			<rect x="0" y="576.224" width="40.252" height="40.252" class="st1"/>
+			<text x="14.13" y="599.95" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一</text>		</g>
+		<g id="shape26-78" v:mID="26" v:groupContext="shape" transform="translate(346.435,-471.585)">
+			<title>工作表.26</title>
+			<desc>五</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="20.126" cy="596.35" width="40.26" height="40.252"/>
+			<rect x="0" y="576.224" width="40.252" height="40.252" class="st1"/>
+			<text x="14.13" y="599.95" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>五</text>		</g>
+		<g id="shape27-81" v:mID="27" v:groupContext="shape" transform="translate(18.75,-425.238)">
+			<title>工作表.27</title>
+			<desc>二</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="20.126" cy="596.35" width="40.26" height="40.252"/>
+			<rect x="0" y="576.224" width="40.252" height="40.252" class="st1"/>
+			<text x="14.13" y="599.95" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>二</text>		</g>
+		<g id="shape28-84" v:mID="28" v:groupContext="shape" transform="translate(18.75,-376.482)">
+			<title>工作表.28</title>
+			<desc>三</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="20.126" cy="596.35" width="40.26" height="40.252"/>
+			<rect x="0" y="576.224" width="40.252" height="40.252" class="st1"/>
+			<text x="14.13" y="599.95" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>三</text>		</g>
+		<g id="shape29-87" v:mID="29" v:groupContext="shape" transform="translate(18.75,-278.97)">
+			<title>工作表.29</title>
+			<desc>五</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="20.126" cy="596.35" width="40.26" height="40.252"/>
+			<rect x="0" y="576.224" width="40.252" height="40.252" class="st1"/>
+			<text x="14.13" y="599.95" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>五</text>		</g>
+		<g id="shape30-90" v:mID="30" v:groupContext="shape" transform="translate(18.75,-191.805)">
+			<title>工作表.30</title>
+			<desc>又眼於色已正當行及彼同分是名</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="156.047" cy="460.429" width="312.1" height="312.094"/>
+			<rect x="0" y="304.382" width="312.094" height="312.094" class="st1"/>
+			<text x="28.36" y="465.23" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>又眼於色，已正當行，及彼同分，是名</text>		</g>
+		<g id="shape31-93" v:mID="31" v:groupContext="shape" transform="translate(18.75,-327.726)">
+			<title>工作表.31</title>
+			<desc>四</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="20.126" cy="596.35" width="40.26" height="40.252"/>
+			<rect x="0" y="576.224" width="40.252" height="40.252" class="st1"/>
+			<text x="14.13" y="599.95" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>四</text>		</g>
+		<g id="shape32-96" v:mID="32" v:groupContext="shape" transform="translate(18.75,-279.396)">
+			<title>工作表.32</title>
+			<desc>眼根。</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="44.0787" cy="572.398" width="88.16" height="88.1575"/>
+			<rect x="0" y="528.319" width="88.1575" height="88.1575" class="st1"/>
+			<text x="28.39" y="577.2" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>眼根。</text>		</g>
+		<g id="shape33-99" v:mID="33" v:groupContext="shape" transform="translate(18.75,-222.278)">
+			<title>工作表.33</title>
+			<desc>。</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.063" cy="588.413" width="56.13" height="56.126"/>
+			<rect x="0" y="560.35" width="56.126" height="56.126" class="st1"/>
+			<text x="28.38" y="593.21" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>。</text>		</g>
+		<g id="shape34-102" v:mID="34" v:groupContext="shape" transform="translate(346.435,-376.482)">
+			<title>工作表.34</title>
+			<desc>七</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="20.126" cy="596.35" width="40.26" height="40.252"/>
+			<rect x="0" y="576.224" width="40.252" height="40.252" class="st1"/>
+			<text x="14.13" y="599.95" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>七</text>		</g>
+		<g id="shape35-105" v:mID="35" v:groupContext="shape" transform="translate(346.435,-327.726)">
+			<title>工作表.35</title>
+			<desc>六</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="20.126" cy="596.35" width="40.26" height="40.252"/>
+			<rect x="0" y="576.224" width="40.252" height="40.252" class="st1"/>
+			<text x="14.13" y="599.95" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>六</text>		</g>
+		<g id="shape36-108" v:mID="36" v:groupContext="shape" transform="translate(346.435,-247.364)">
+			<title>工作表.36</title>
+			<desc>定是名眼入。</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76.1102" cy="540.366" width="152.23" height="152.22"/>
+			<rect x="0" y="464.256" width="152.22" height="152.22" class="st1"/>
+			<text x="28.42" y="545.17" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>定，是名眼入。</text>		</g>
+		<g id="shape37-111" v:mID="37" v:groupContext="shape" transform="translate(346.435,-278.97)">
+			<title>工作表.37</title>
+			<desc>三</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="20.126" cy="596.35" width="40.26" height="40.252"/>
+			<rect x="0" y="576.224" width="40.252" height="40.252" class="st1"/>
+			<text x="14.13" y="599.95" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>三</text>		</g>
+		<g id="shape38-114" v:mID="38" v:groupContext="shape" transform="translate(346.435,-205.837)">
+			<title>工作表.38</title>
+			<desc>四</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="20.126" cy="596.35" width="40.26" height="40.252"/>
+			<rect x="0" y="576.224" width="40.252" height="40.252" class="st1"/>
+			<text x="14.13" y="599.95" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>四</text>		</g>
+		<g id="shape39-117" v:mID="39" v:groupContext="shape" transform="translate(346.435,-125.474)">
+			<title>工作表.39</title>
+			<desc>色是名眼入。</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76.1102" cy="540.366" width="152.23" height="152.22"/>
+			<rect x="0" y="464.256" width="152.22" height="152.22" class="st1"/>
+			<text x="28.42" y="545.17" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>色，是名眼入。</text>		</g>
+		<g id="shape40-120" v:mID="40" v:groupContext="shape" transform="translate(18.75,-165.018)">
+			<title>工作表.40</title>
+			<desc>或地獄或旁生或鬼界或天或人</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="156.047" cy="604.287" width="312.1" height="24.378"/>
+			<rect x="0" y="592.098" width="312.094" height="24.378" class="st1"/>
+			<text x="28.36" y="609.09" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>或地獄，或旁生，或鬼界，或天，或人</text>		</g>
+		<g id="shape41-123" v:mID="41" v:groupContext="shape" transform="translate(18.75,-44.8287)">
+			<title>工作表.41</title>
+			<desc>或中有或修所成……</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="108" cy="508.476" width="216" height="216"/>
+			<rect x="0" y="400.476" width="216" height="216" class="st1"/>
+			<text x="28.31" y="513.28" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>，或中有，或修所成……</text>		</g>
+		<g id="shape42-126" v:mID="42" v:groupContext="shape" transform="translate(18.75,-116.262)">
+			<title>工作表.42</title>
+			<desc>謂名眼名眼處名眼界名眼根名</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="156.047" cy="604.287" width="312.1" height="24.378"/>
+			<rect x="0" y="592.098" width="312.094" height="24.378" class="st1"/>
+			<text x="28.36" y="609.09" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>謂名眼，名眼處，名眼界，名眼根，名</text>		</g>
+		<g id="shape43-129" v:mID="43" v:groupContext="shape" transform="translate(18.75,-108.325)">
+			<title>工作表.43</title>
+			<desc>六</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="20.126" cy="596.35" width="40.26" height="40.252"/>
+			<rect x="0" y="576.224" width="40.252" height="40.252" class="st1"/>
+			<text x="14.13" y="599.95" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>六</text>		</g>
+		<g id="shape44-132" v:mID="44" v:groupContext="shape" transform="translate(18.75,-91.8839)">
+			<title>工作表.44</title>
+			<desc>見名道路名引導名白名淨名</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="156.047" cy="604.287" width="312.1" height="24.378"/>
+			<rect x="0" y="592.098" width="312.094" height="24.378" class="st1"/>
+			<text x="28.36" y="609.09" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>見，名道路，名引導，名白，名淨，名</text>		</g>
+		<g id="shape45-135" v:mID="45" v:groupContext="shape" transform="translate(18.75,-67.5059)">
+			<title>工作表.45</title>
+			<desc>藏名門名田名事名流名池</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="156.047" cy="604.287" width="312.1" height="24.378"/>
+			<rect x="0" y="592.098" width="312.094" height="24.378" class="st1"/>
+			<text x="28.36" y="609.09" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>藏，名門，名田，名事，名流，名池，</text>		</g>
+		<g id="shape46-138" v:mID="46" v:groupContext="shape" transform="translate(18.75,-43.128)">
+			<title>工作表.46</title>
+			<desc>名海名瘡名瘡門名此岸如是眼</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="156.047" cy="604.287" width="312.1" height="24.378"/>
+			<rect x="0" y="592.098" width="312.094" height="24.378" class="st1"/>
+			<text x="28.36" y="609.09" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>名海，名瘡，名瘡門，名此岸，如是眼</text>		</g>
+		<g id="shape47-141" v:mID="47" v:groupContext="shape" transform="translate(18.75,-18.75)">
+			<title>工作表.47</title>
+			<desc>根名內處攝。</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76.1102" cy="604.287" width="152.23" height="24.378"/>
+			<rect x="0" y="592.098" width="152.22" height="24.378" class="st1"/>
+			<text x="28.42" y="609.09" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>根，名內處攝。</text>		</g>
+		<g id="shape48-144" v:mID="48" v:groupContext="shape" transform="translate(346.435,-116.262)">
+			<title>工作表.48</title>
+			<desc>是眼入是眼根是眼界是田是物</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="164.126" cy="604.287" width="328.26" height="24.378"/>
+			<rect x="0" y="592.098" width="328.252" height="24.378" class="st1"/>
+			<text x="28.44" y="609.09" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>是眼入，是眼根，是眼界，是田，是物，</text>		</g>
+		<g id="shape49-147" v:mID="49" v:groupContext="shape" transform="translate(346.435,-108.325)">
+			<title>工作表.49</title>
+			<desc>八</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="20.126" cy="596.35" width="40.26" height="40.252"/>
+			<rect x="0" y="576.224" width="40.252" height="40.252" class="st1"/>
+			<text x="14.13" y="599.95" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>八</text>		</g>
+		<g id="shape50-150" v:mID="50" v:groupContext="shape" transform="translate(346.435,-91.8839)">
+			<title>工作表.50</title>
+			<desc>是門是藏是世是淨是泉是海</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="164.126" cy="604.287" width="328.26" height="24.378"/>
+			<rect x="0" y="592.098" width="328.252" height="24.378" class="st1"/>
+			<text x="28.44" y="609.09" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>是門，是藏，是世，是淨，是泉，是海，</text>		</g>
+		<g id="shape51-153" v:mID="51" v:groupContext="shape" transform="translate(346.435,-67.5059)">
+			<title>工作表.51</title>
+			<desc>是沃燋是洄澓是瘡是繫是目是</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="164.126" cy="604.287" width="328.26" height="24.378"/>
+			<rect x="0" y="592.098" width="328.252" height="24.378" class="st1"/>
+			<text x="28.44" y="609.09" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>是沃燋，是洄澓，是瘡，是繫，是目，是</text>		</g>
+		<g id="shape52-156" v:mID="52" v:groupContext="shape" transform="translate(346.435,-43.128)">
+			<title>工作表.52</title>
+			<desc>入我分是此岸是內入。</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="116.079" cy="604.287" width="232.16" height="24.378"/>
+			<rect x="0" y="592.098" width="232.157" height="24.378" class="st1"/>
+			<text x="28.39" y="609.09" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>入我分，是此岸，是內入。</text>		</g>
+	</g>
+</svg>

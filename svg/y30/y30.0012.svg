@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- 由 Microsoft Visio 11.0, SVG Export, v1.0 產生 y30.0012.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.99234in" height="8.5917in"
+		viewBox="0 0 647.449 618.602" xml:space="preserve" color-interpolation-filters="sRGB" class="st7">
+	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Box)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#000000;font-family:新細明體;font-size:1.33333em}
+		.st3 {font-family:標楷體;font-size:1em}
+		.st4 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st5 {stroke:#000000;stroke-dasharray:0,4.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st6 {stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;stroke-width:1}
+		.st7 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>頁-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group29-1" transform="translate(9.84646,599.852) rotate(-90)" v:mID="29" v:groupContext="group">
+			<title>工作表.29</title>
+			<g id="shape1-2" v:mID="1" v:groupContext="shape" transform="translate(994.193,37.5) rotate(90)">
+				<title>工作表.1</title>
+				<desc>「行五蘊擇攝第一」</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="92.126" cy="526.476" width="184.26" height="184.252"/>
+				<rect x="0" y="434.35" width="184.252" height="184.252" class="st1"/>
+				<text x="4.13" y="531.28" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>「行（五蘊）擇攝第一」</text>			</g>
+			<g id="shape2-5" v:mID="2" v:groupContext="shape" transform="translate(1049.47,244.429) rotate(90)">
+				<title>工作表.2</title>
+				<desc>論卷八五</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="36.8504" cy="581.752" width="73.71" height="73.7008"/>
+				<rect x="0" y="544.902" width="73.7008" height="73.7008" class="st1"/>
+				<text x="4.85" y="586.55" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>論卷八五</text>			</g>
+			<g id="shape3-8" v:mID="3" v:groupContext="shape" transform="translate(1065.06,349.311) rotate(90)">
+				<title>工作表.3</title>
+				<desc>八八</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="21.2598" cy="597.343" width="42.52" height="42.5197"/>
+				<rect x="0" y="576.083" width="42.5197" height="42.5197" class="st1"/>
+				<text x="5.26" y="602.14" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>八八</text>			</g>
+			<g id="shape4-11" v:mID="4" v:groupContext="shape" transform="translate(916.24,51.6732) rotate(90)">
+				<title>工作表.4</title>
+				<desc>經卷一‧卷一○‧卷三‧卷二‧卷五</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="141.732" cy="476.87" width="283.47" height="283.465"/>
+				<rect x="0" y="335.138" width="283.465" height="283.465" class="st1"/>
+				<text x="5.73" y="481.67" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>經：卷一‧卷一<tspan
+							class="st3" v:langID="1033">○</tspan>‧卷三‧卷二‧卷五</text>			</g>
+			<g id="shape5-15" v:mID="5" v:groupContext="shape" transform="translate(965.846,33.815) rotate(90)">
+				<title>工作表.5</title>
+				<desc>「處擇攝第二」</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="63.7795" cy="554.823" width="127.56" height="127.559"/>
+				<rect x="0" y="491.043" width="127.559" height="127.559" class="st1"/>
+				<text x="7.78" y="559.62" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>「處擇攝第二」</text>			</g>
+			<g id="shape6-18" v:mID="6" v:groupContext="shape" transform="translate(992.776,180.65) rotate(90)">
+				<title>工作表.6</title>
+				<desc>論卷八九</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="36.8504" cy="581.752" width="73.71" height="73.7008"/>
+				<rect x="0" y="544.902" width="73.7008" height="73.7008" class="st1"/>
+				<text x="4.85" y="586.55" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>論卷八九</text>			</g>
+			<g id="shape7-21" v:mID="7" v:groupContext="shape" transform="translate(1008.37,277.028) rotate(90)">
+				<title>工作表.7</title>
+				<desc>九二</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="21.2598" cy="597.343" width="42.52" height="42.5197"/>
+				<rect x="0" y="576.083" width="42.5197" height="42.5197" class="st1"/>
+				<text x="5.26" y="602.14" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>九二</text>			</g>
+			<g id="shape8-24" v:mID="8" v:groupContext="shape" transform="translate(842.539,50.2559) rotate(90)">
+				<title>工作表.8</title>
+				<desc>經卷八‧卷九‧卷四三‧卷一一‧卷一三</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="158.74" cy="459.862" width="317.49" height="317.48"/>
+				<rect x="0" y="301.122" width="317.48" height="317.48" class="st1"/>
+				<text x="6.74" y="464.66" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>經：卷八‧卷九‧卷四三‧卷一一‧卷一三</text>			</g>
+			<g id="shape9-27" v:mID="9" v:groupContext="shape" transform="translate(880.807,37.5) rotate(90)">
+				<title>工作表.9</title>
+				<desc>「緣起食諦界擇攝第三」</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="92.126" cy="526.476" width="184.26" height="184.252"/>
+				<rect x="0" y="434.35" width="184.252" height="184.252" class="st1"/>
+				<text x="4.13" y="531.28" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>「緣起食諦界擇攝第三」</text>			</g>
+			<g id="shape10-30" v:mID="10" v:groupContext="shape" transform="translate(936.083,244.429) rotate(90)">
+				<title>工作表.10</title>
+				<desc>論卷九三</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="36.8504" cy="581.752" width="73.71" height="73.7008"/>
+				<rect x="0" y="544.902" width="73.7008" height="73.7008" class="st1"/>
+				<text x="4.85" y="586.55" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>論卷九三</text>			</g>
+			<g id="shape11-33" v:mID="11" v:groupContext="shape" transform="translate(951.673,349.311) rotate(90)">
+				<title>工作表.11</title>
+				<desc>九六</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="21.2598" cy="597.343" width="42.52" height="42.5197"/>
+				<rect x="0" y="576.083" width="42.5197" height="42.5197" class="st1"/>
+				<text x="5.26" y="602.14" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>九六</text>			</g>
+			<g id="shape12-36" v:mID="12" v:groupContext="shape" transform="translate(767.421,47.4213) rotate(90)">
+				<title>工作表.12</title>
+				<desc>經卷一二‧卷一四‧卷一五‧卷一六‧卷一七</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="177.165" cy="441.437" width="354.34" height="354.331"/>
+				<rect x="0" y="264.272" width="354.331" height="354.331" class="st1"/>
+				<text x="9.17" y="446.24" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>經：卷一二‧卷一四‧卷一五‧卷一六‧卷一七</text>			</g>
+			<g id="shape13-39" v:mID="13" v:groupContext="shape" transform="translate(824.114,28.9961) rotate(90)">
+				<title>工作表.13</title>
+				<desc>「菩提分法擇攝第四」</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="92.126" cy="526.476" width="184.26" height="184.252"/>
+				<rect x="0" y="434.35" width="184.252" height="184.252" class="st1"/>
+				<text x="12.13" y="531.28" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>「菩提分法擇攝第四」</text>			</g>
+			<g id="shape14-42" v:mID="14" v:groupContext="shape" transform="translate(879.39,227.988) rotate(90)">
+				<title>工作表.14</title>
+				<desc>論卷九七</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="36.8504" cy="581.752" width="73.71" height="73.7008"/>
+				<rect x="0" y="544.902" width="73.7008" height="73.7008" class="st1"/>
+				<text x="4.85" y="586.55" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>論卷九七</text>			</g>
+			<g id="shape15-45" v:mID="15" v:groupContext="shape" transform="translate(894.98,322.382) rotate(90)">
+				<title>工作表.15</title>
+				<desc>九八</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="21.2598" cy="597.343" width="42.52" height="42.5197"/>
+				<rect x="0" y="576.083" width="42.5197" height="42.5197" class="st1"/>
+				<text x="5.26" y="602.14" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>九八</text>			</g>
+			<g id="shape16-48" v:mID="16" v:groupContext="shape" transform="translate(618.602,51.6732) rotate(90)">
+				<title>工作表.16</title>
+				<desc>經卷二四‧卷二五佚‧卷二六˙卷二七‧卷二八˙卷二九‧卷三○</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="269.291" cy="349.311" width="538.59" height="538.583"/>
+				<rect x="0" y="80.0197" width="538.583" height="538.583" class="st1"/>
+				<text x="5.29" y="354.11" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>經：卷二四‧（卷二五，佚）‧卷二六˙卷二七‧卷二八˙卷二九‧卷三<tspan
+							class="st3" v:langID="1033">○</tspan></text>			</g>
+			<g id="shape17-52" v:mID="17" v:groupContext="shape" transform="translate(1029.63,250.098) rotate(90)">
+				<title>工作表.17</title>
+				<path d="M0 618.6 L28.35 618.6" class="st4"/>
+			</g>
+			<g id="shape18-55" v:mID="18" v:groupContext="shape" transform="translate(1086.32,213.248) rotate(90)">
+				<title>工作表.18</title>
+				<path d="M0 618.6 L34.02 618.6" class="st5"/>
+			</g>
+			<g id="shape19-58" v:mID="19" v:groupContext="shape" transform="translate(972.933,320.965) rotate(90)">
+				<title>工作表.19</title>
+				<path d="M0 618.6 L28.35 618.6" class="st4"/>
+			</g>
+			<g id="shape20-61" v:mID="20" v:groupContext="shape" transform="translate(916.24,298.287) rotate(90)">
+				<title>工作表.20</title>
+				<path d="M0 618.6 L28.35 618.6" class="st4"/>
+			</g>
+			<g id="shape21-64" v:mID="21" v:groupContext="shape" transform="translate(1029.63,150.886) rotate(90)">
+				<title>工作表.21</title>
+				<path d="M0 618.6 L34.02 618.6" class="st5"/>
+			</g>
+			<g id="shape22-67" v:mID="22" v:groupContext="shape" transform="translate(972.933,213.248) rotate(90)">
+				<title>工作表.22</title>
+				<path d="M0 618.6 L34.02 618.6" class="st5"/>
+			</g>
+			<g id="shape23-70" v:mID="23" v:groupContext="shape" transform="translate(916.24,196.24) rotate(90)">
+				<title>工作表.23</title>
+				<path d="M0 618.6 L34.02 618.6" class="st5"/>
+			</g>
+			<g id="shape24-73" v:mID="24" v:groupContext="shape" transform="translate(1086.32,320.965) rotate(90)">
+				<title>工作表.24</title>
+				<path d="M0 618.6 L28.35 618.6" class="st4"/>
+			</g>
+			<g id="shape25-76" v:mID="25" v:groupContext="shape" transform="translate(1128.84,9.15354) rotate(90)">
+				<title>工作表.25</title>
+				<path d="M0 618.6 L609.45 618.6" class="st6"/>
+			</g>
+			<g id="shape26-79" v:mID="26" v:groupContext="shape" transform="translate(845.374,9.15354) rotate(90)">
+				<title>工作表.26</title>
+				<path d="M0 618.6 L609.45 618.6" class="st6"/>
+			</g>
+			<g id="shape27-82" v:mID="27" v:groupContext="shape" transform="translate(510.236,1237.2) rotate(180)">
+				<title>工作表.27</title>
+				<path d="M0 618.6 L283.46 618.6" class="st6"/>
+			</g>
+			<g id="shape28-85" v:mID="28" v:groupContext="shape" transform="translate(510.236,627.756) rotate(180)">
+				<title>工作表.28</title>
+				<path d="M0 618.6 L283.46 618.6" class="st6"/>
+			</g>
+		</g>
+	</g>
+</svg>

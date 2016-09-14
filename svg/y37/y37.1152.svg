@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- 由 Microsoft Visio 11.0, SVG Export, v1.0 產生 y37.1152.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="5.67027in" height="3.21533in"
+		viewBox="0 0 408.26 231.504" xml:space="preserve" color-interpolation-filters="sRGB" class="st4">
+	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Box)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#000000;font-family:新細明體;font-size:1.33333em}
+		.st3 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;stroke-width:0.24}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>頁-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(23.9094,-176.697)">
+			<title>工作表.1</title>
+			<desc>《密跡金剛力士經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76.1102" cy="219.315" width="152.23" height="24.378"/>
+			<rect x="0" y="207.126" width="152.22" height="24.378" class="st1"/>
+			<text x="4.11" y="224.11" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>《密跡金剛力士經》</text>		</g>
+		<g id="shape2-4" v:mID="2" v:groupContext="shape" transform="translate(232.13,-176.697)">
+			<title>工作表.2</title>
+			<desc>曠野城密跡宮</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="52.0157" cy="219.315" width="104.04" height="24.378"/>
+			<rect x="0" y="207.126" width="104.031" height="24.378" class="st1"/>
+			<text x="4.02" y="224.11" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>曠野城密跡宮</text>		</g>
+		<g id="shape3-7" v:mID="3" v:groupContext="shape" transform="translate(23.9094,-140.13)">
+			<title>工作表.3</title>
+			<desc>《大樹緊那羅王所問經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="92.126" cy="219.315" width="184.26" height="24.378"/>
+			<rect x="0" y="207.126" width="184.252" height="24.378" class="st1"/>
+			<text x="4.13" y="224.11" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>《大樹緊那羅王所問經》</text>		</g>
+		<g id="shape4-10" v:mID="4" v:groupContext="shape" transform="translate(23.9094,-63.7361)">
+			<title>工作表.4</title>
+			<desc>《海龍王經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="52.0157" cy="179.488" width="104.04" height="104.031"/>
+			<rect x="0" y="127.472" width="104.031" height="104.031" class="st1"/>
+			<text x="4.02" y="184.29" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>《海龍王經》</text>		</g>
+		<g id="shape5-13" v:mID="5" v:groupContext="shape" transform="translate(23.9094,-66.9959)">
+			<title>工作表.5</title>
+			<desc>《弘道廣顯三昧經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76.1102" cy="219.315" width="152.23" height="24.378"/>
+			<rect x="0" y="207.126" width="152.22" height="24.378" class="st1"/>
+			<text x="4.11" y="224.11" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>《弘道廣顯三昧經》</text>		</g>
+		<g id="shape6-16" v:mID="6" v:groupContext="shape" transform="translate(23.9094,-30.429)">
+			<title>工作表.6</title>
+			<desc>《超日明三昧經》</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="68.0315" cy="219.315" width="136.07" height="24.378"/>
+			<rect x="0" y="207.126" width="136.063" height="24.378" class="st1"/>
+			<text x="4.03" y="224.11" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>《超日明三昧經》</text>		</g>
+		<g id="shape7-19" v:mID="7" v:groupContext="shape" transform="translate(232.13,-140.13)">
+			<title>工作表.7</title>
+			<desc>香山緊那羅王宮</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="60.0945" cy="219.315" width="120.19" height="24.378"/>
+			<rect x="0" y="207.126" width="120.189" height="24.378" class="st1"/>
+			<text x="4.09" y="224.11" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>香山緊那羅王宮</text>		</g>
+		<g id="shape8-22" v:mID="8" v:groupContext="shape" transform="translate(232.13,-47.7203)">
+			<title>工作表.8</title>
+			<desc>海中娑伽羅龍王宮</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="68.0315" cy="163.472" width="136.07" height="136.063"/>
+			<rect x="0" y="95.4406" width="136.063" height="136.063" class="st1"/>
+			<text x="4.03" y="168.27" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>海中娑伽羅龍王宮</text>		</g>
+		<g id="shape9-25" v:mID="9" v:groupContext="shape" transform="translate(232.13,-66.9959)">
+			<title>工作表.9</title>
+			<desc>雪山阿耨達池龍王宮</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="76.1102" cy="219.315" width="152.23" height="24.378"/>
+			<rect x="0" y="207.126" width="152.22" height="24.378" class="st1"/>
+			<text x="4.11" y="224.11" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>雪山阿耨達池龍王宮</text>		</g>
+		<g id="shape10-28" v:mID="10" v:groupContext="shape" transform="translate(232.13,-30.429)">
+			<title>工作表.10</title>
+			<desc>日天王宮</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="36" cy="219.315" width="72" height="24.378"/>
+			<rect x="0" y="207.126" width="72" height="24.378" class="st1"/>
+			<text x="4" y="224.11" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>日天王宮</text>		</g>
+		<g id="group15-31" transform="translate(158.516,213.264) rotate(-90)" v:mID="15" v:groupContext="group">
+			<title>工作表.15</title>
+			<g id="shape11-32" v:mID="11" v:groupContext="shape" transform="translate(-231.504,231.504) rotate(-90)">
+				<title>工作表.11</title>
+				<path d="M0 231.5 L371.78 231.5" class="st3"/>
+			</g>
+			<g id="shape12-35" v:mID="12" v:groupContext="shape" transform="translate(-36.48,231.504) rotate(-90)">
+				<title>工作表.12</title>
+				<path d="M0 231.5 L371.78 231.5" class="st3"/>
+			</g>
+			<g id="shape13-38" v:mID="13" v:groupContext="shape">
+				<title>工作表.13</title>
+				<path d="M0 231.5 L195.02 231.5" class="st3"/>
+			</g>
+			<g id="shape14-41" v:mID="14" v:groupContext="shape" transform="translate(7.99361E-014,-371.78)">
+				<title>工作表.14</title>
+				<path d="M0 231.5 L195.02 231.5" class="st3"/>
+			</g>
+		</g>
+	</g>
+</svg>
