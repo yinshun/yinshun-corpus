@@ -34,8 +34,21 @@ var lb=function(tag){ //*this* point to session with useful status variable
 	//console.log(this.fileCount(),page,line,tag.attributes.n,this.vars.linekpos.toString(16));
 	this.vars.prevpage=pbn[0];
 }
+var ref=function(tag,closing){ //link to taisho or taixu
+	if (tag.isSelfClosing) {
+		var krange=this.makeKRange(this.kPos(),this.kPos());
+		Ref.parse.call(this,tag.attributes.type,tag.attributes.target,krange);
+		return;
+	}
 
-var ptr=function(tag){
+	if (closing) {
+		var krange=this.makeKRange(this.vars.refKPos,this.kPos());
+		Ref.parse.call(this,tag.attributes.type,tag.attributes.target,krange);
+	} else {		
+		this.vars.refKPos=this.kPos();
+	}
+}
+var ptr=function(tag){ //foot note marker in maintext, point to <note xml:id>
 	if (tag.attributes.type==="note"){
 		var nid=tag.attributes.target;//注釋號
 		if (nid){
@@ -43,15 +56,15 @@ var ptr=function(tag){
 		}
 	}
 }
-var note=function(tag,closing){ //
-	var xmlid=tag.attributes["xml:id"];
 
+var note=function(tag,closing){ //note cannot be nested.
+	var xmlid=tag.attributes["xml:id"];
 	if (xmlid) {
-		if (closing) {
-			console.log(this.vars.defKPos,this.kPos());
+		if (closing) { //closing a note in note group
+			//console.log(this.vars.defKPos,this.kPos());
 			var krange=this.makeKRange(this.vars.defKPos,this.kPos());
 			Note.def.call(this,xmlid.substr(4),krange);
-		} else {
+		} else {//keep the starting kpos of <note>
 			this.vars.defKPos=this.kPos();
 		}
 	} else { 
@@ -62,9 +75,7 @@ var note=function(tag,closing){ //
 		}
 	}
 }
-var ref=function(tag){
-	Ref.parse.call(this,tag.attributes.type,tag.attributes.target);
-}
+
 const fileStart=function(){
 	Note.bookStart.call(this);
 }
@@ -79,10 +90,10 @@ const body=function(){
 }
 var corpus=createCorpus("yinshun",{inputformat:"xml",addrbits:0x6b056,autostart:false});
 corpus.setHandlers(
-	{note,lb,choice,corr,sic,orig,reg,body,ptr,ref}
-	,{note,choice,corr,sic,orig,reg}
-	,{fileStart,fileEnd}
+	{note,lb,choice,corr,sic,orig,reg,body,ptr,ref},
+	{note,choice,corr,sic,orig,reg,ref},
+	{fileStart,fileEnd}
 );
 
 files.forEach(fn=>corpus.addFile(sourcepath+fn));
-console.log(corpus.romable.getRawFields("intertext"));
+console.log(corpus.romable.getRawFields("link"));

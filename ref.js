@@ -13,5 +13,7 @@ var parse=function(type,target,kpos){
 	if (!m){
 		console.log("wrong target pattern",target,"type",type);
 	}
+	var link=m[1]+"p"+m[2]+(m[3]||"");
+	this.putField("link",type+"@"+link,kpos);
 }
 module.exports={parse};
