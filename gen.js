@@ -2,8 +2,11 @@ const {createCorpus}=require("ksana-corpus");
 const fs=require("fs");
 const sourcepath="xml/";
 const {choice,sic,corr,orig,reg}=require("./choice");
-var maxfile=2;
+const Note=require("./note");
+const Ref=require("./ref");
+const maxfile=2;
 var files=["y42.xml"];//"appendix.xml"
+
 (function buildfilelist(){
 	for(var i=0;i<maxfile;i++)	{
 		var n="0"+i;
@@ -31,33 +34,55 @@ var lb=function(tag){ //*this* point to session with useful status variable
 	//console.log(this.fileCount(),page,line,tag.attributes.n,this.vars.linekpos.toString(16));
 	this.vars.prevpage=pbn[0];
 }
-var note=function(tag,closing){ //
-	if (closing) {
-		if (!tag.attributes["xml:id"]) { //inline note
-			this.vars.note=this.popText();
-			console.log(this.vars.note)
-		} else {
-			
-		}
-	} else {
-		if (!tag.attributes["xml:id"]) {
-			return true;	
+
+var ptr=function(tag){
+	if (tag.attributes.type==="note"){
+		var nid=tag.attributes.target;//注釋號
+		if (nid){
+			Note.ptr.call(this,nid.substr(5));
 		}
 	}
 }
+var note=function(tag,closing){ //
+	var xmlid=tag.attributes["xml:id"];
 
-var endOfBook=function(){
+	if (xmlid) {
+		if (closing) {
+			console.log(this.vars.defKPos,this.kPos());
+			var krange=this.makeKRange(this.vars.defKPos,this.kPos());
+			Note.def.call(this,xmlid.substr(4),krange);
+		} else {
+			this.vars.defKPos=this.kPos();
+		}
+	} else { 
+		if (closing) { //inline note
+				this.putField("note",this.popText());	
+		} else {  //capture the text
+			return true;
+		}
+	}
+}
+var ref=function(tag){
+	Ref.parse.call(this,tag.attributes.type,tag.attributes.target);
+}
+const fileStart=function(){
+	Note.bookStart.call(this);
+}
+const fileEnd=function(){
 	var s=this.popText();
 	if (this.vars.linekpos) this.putLine(this.vars.linekpos, s);
+	Note.bookEnd.call(this);
 }
-var body=function(){
+
+const body=function(){
 	this.start();
 }
 var corpus=createCorpus("yinshun",{inputformat:"xml",addrbits:0x6b056,autostart:false});
 corpus.setHandlers(
-	{note,lb,choice,corr,sic,orig,reg,body}
+	{note,lb,choice,corr,sic,orig,reg,body,ptr,ref}
 	,{note,choice,corr,sic,orig,reg}
-	,{endOfBook}
+	,{fileStart,fileEnd}
 );
 
 files.forEach(fn=>corpus.addFile(sourcepath+fn));
+console.log(corpus.romable.getRawFields("intertext"));
