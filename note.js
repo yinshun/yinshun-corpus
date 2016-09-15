@@ -1,7 +1,6 @@
 //正文內的腳注號<ptr type="note" target="id",
 var ptr=function(id,kpos){ 
-	kpos=kpos||this.kPos();
-
+	kpos=kpos||this.kPos;
 	this.vars.noteid[id]=kpos;
 }
 //章或節結束前的注釋群  連到注釋號 <note xml:id="id">
