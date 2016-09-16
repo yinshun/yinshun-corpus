@@ -5,15 +5,8 @@ const {choice,sic,corr,orig,reg}=require("./choice");
 const Note=require("./note");
 const Ref=require("./ref");
 const maxfile=2;
-var files=["y42.xml"];//"appendix.xml"
+var files=require("./filelist")(maxfile);
 
-(function buildfilelist(){
-	for(var i=0;i<maxfile;i++)	{
-		var n="0"+i;
-		n=n.substr(n.length-2);
-		files.push("y"+ n+".xml");
-	}
-});
 var showline=false;
 var lb=function(tag){ //*this* point to session with useful status variable
 	var s=this.popText();
