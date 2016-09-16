@@ -19,19 +19,25 @@ var lb=function(tag){ //*this* point to session with useful status variable
 	var s=this.popText();
 	
 	var pbn=tag.attributes.n.split(".");
-	if (this.vars.linekpos>-1) this.putLine(s,this.vars.linekpos);
+	try {
+		this.putLine(s,this.vars.linekpos);
+	} catch(e) {
+		console.error(e);
+	}
 
 	var page=parseInt(pbn[0],10), line=parseInt(pbn[1],10)-1;
-	if (isNaN(page)){
-		if (this.vars.prefacepage<0) this.vars.prefacepage=0;
-		else if (this.vars.prevpage!==pbn[0]) this.vars.prefacepage++;
-		page=this.vars.prefacepage;
-	} else {
-		page--;
-		page+=this.vars.prefacepage;
+	if (isNaN(page)) page=parseInt(pbn[0].substr(1),10);
+
+	if (this.vars.prevpage&&this.vars.prevpage!==pbn[0] && page===1) {
+		this.addBook();
 	}
+
+	if (isNaN(page)) {
+		throw "error page number "+pbn[0];
+	}
+	page--;
 	
-	this.vars.linekpos= this.makeKPos(this.fileCount,page,0,line,0);
+	this.vars.linekpos= this.makeKPos(this.bookCount,page,0,line,0);
 	//console.log(this.fileCount,page,line,tag.attributes.n,this.vars.linekpos.toString(16));
 	this.vars.prevpage=pbn[0];
 }
@@ -77,14 +83,17 @@ var note=function(tag,closing){ //note cannot be nested.
 	}
 }
 
-const fileStart=function(){
+const bookStart=function(){
 	Note.bookStart.call(this);
 	this.vars.linekpos=-1;
-	this.vars.prefacepage=-1;
 }
-const fileEnd=function(){
+const bookEnd=function(){
 	var s=this.popText();
-	if (this.vars.linekpos) this.putLine(s,this.vars.linekpos);
+	try {
+		this.putLine(s,this.vars.linekpos);
+	} catch(e) {
+		console.error(e);
+	}
 	Note.bookEnd.call(this);
 }
 const p=function(tag){
@@ -98,9 +107,10 @@ var corpus=createCorpus("yinshun",{inputformat:"xml",addrbits:0x6b056,autostart:
 corpus.setHandlers(
 	{note,lb,choice,corr,sic,orig,reg,body,ptr,ref,p},
 	{note,choice,corr,sic,orig,reg,ref},
-	{fileStart,fileEnd}
+	{bookStart,bookEnd}
 );
 
 files.forEach(fn=>corpus.addFile(sourcepath+fn));
+corpus.stop();
 //console.log(corpus.romable.getRawFields("p"));
 console.log(corpus.romable.getTexts());
