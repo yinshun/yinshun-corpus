@@ -56,11 +56,11 @@ const p=function(){
 			prevtoken=null;
 		}
 	};
-	this.resetLine(linecount++);
+	this.newLine(linecount++);
 	//if (s.length>1000) console.log(s,10);
 }
-const addrbits=0x1109F;//allow very long like (2^15)
-var corpus=createCorpus("yinshun",{inputformat:"xml",addrbits,autostart:true});
+const bits=[1,1,0,9,15]//allow very long line (2^15)
+var corpus=createCorpus("yinshun",{inputformat:"xml",bits,autostart:true});
 corpus.setHandlers(
 	{},
 	{p},
