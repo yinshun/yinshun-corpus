@@ -7,25 +7,26 @@ const Ref=require("./ref");
 const maxfile=2;
 var files=require("./filelist")(maxfile);
 
+var prevpage="";
+var refKPos=-1; //kpos of <ref>
+var defKPos=-1; //kpos of <def>
 var showline=false;
 var lb=function(tag){ //*this* point to session with useful status variable
-	var s=this.popBaseText();
-	if (s[s.length-1]=="\n") s=s.substr(0,s.length-1);
 	if (!tag.attributes.n){
 		//a lb without n in y01 a19.11
 		return;
 	}
+
+	var s=this.popBaseText();
+	if (s[s.length-1]=="\n") s=s.substr(0,s.length-1);
+
 	var pbn=tag.attributes.n.split(".");
-	try {
-		this.putLine(s,this.vars.linekpos);
-	} catch(e) {
-		console.error(e);
-	}
+	this.putLine(s);
 
 	var page=parseInt(pbn[0],10), line=parseInt(pbn[1],10)-1;
 	if (isNaN(page)) page=parseInt(pbn[0].substr(1),10);
 
-	if (this.vars.prevpage&&this.vars.prevpage!==pbn[0] && page===1) {
+	if (prevpage&&prevpage!==pbn[0] && page===1) {
 		this.addBook();
 	}
 
@@ -33,10 +34,11 @@ var lb=function(tag){ //*this* point to session with useful status variable
 		throw "error page number "+pbn[0];
 	}
 	page--;
-	
-	this.vars.linekpos= this.makeKPos(this.bookCount,page,0,line,0);
-	//console.log(this.fileCount,page,line,tag.attributes.n,this.vars.linekpos.toString(16));
-	this.vars.prevpage=pbn[0];
+
+	const kpos=this.makeKPos(this.bookCount,page,0,line,0);
+	this.newLine(kpos, this.tPos);
+
+	prevpage=pbn[0];
 }
 var ref=function(tag,closing){ //link to taisho or taixu
 	if (tag.isSelfClosing) {
@@ -46,10 +48,10 @@ var ref=function(tag,closing){ //link to taisho or taixu
 	}
 
 	if (closing) {
-		var krange=this.makeKRange(this.vars.refKPos,this.kPos);
+		var krange=this.makeKRange(refKPos,this.kPos);
 		Ref.parse.call(this,tag.attributes.type,tag.attributes.target,krange);
 	} else {		
-		this.vars.refKPos=this.kPos;
+		refKPos=this.kPos;
 	}
 }
 var ptr=function(tag){ //foot note marker in maintext, point to <note xml:id>
@@ -65,11 +67,11 @@ var note=function(tag,closing){ //note cannot be nested.
 	var xmlid=tag.attributes["xml:id"];
 	if (xmlid) {
 		if (closing) { //closing a note in note group
-			//console.log(this.vars.defKPos,this.kPos());
-			var krange=this.makeKRange(this.vars.defKPos,this.kPos);
+			
+			var krange=this.makeKRange(defKPos,this.kPos);
 			Note.def.call(this,xmlid.substr(4),krange);
 		} else {//keep the starting kpos of <note>
-			this.vars.defKPos=this.kPos;
+			defKPos=this.kPos;
 		}
 	} else { 
 		if (closing) { //inline note
@@ -82,16 +84,11 @@ var note=function(tag,closing){ //note cannot be nested.
 
 const bookStart=function(){
 	Note.bookStart.call(this);
-	this.vars.linekpos=-1;
 }
 const bookEnd=function(){
 	var s=this.popBaseText();
 	if (s[s.length-1]=="\n") s=s.substr(0,s.length-1);
-	try {
-		this.putLine(s,this.vars.linekpos);
-	} catch(e) {
-		console.error(e);
-	}
+	this.putLine(s);
 	Note.bookEnd.call(this);
 }
 const p=function(tag){
