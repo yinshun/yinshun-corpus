@@ -1,3 +1,5 @@
 *.pdf
 scan
 *.rar
+charset.js
+bigram.js

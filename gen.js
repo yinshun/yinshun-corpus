@@ -9,8 +9,12 @@ var files=require("./filelist")(maxfile);
 
 var showline=false;
 var lb=function(tag){ //*this* point to session with useful status variable
-	var s=this.popText();
-	
+	var s=this.popBaseText();
+	if (s[s.length-1]=="\n") s=s.substr(0,s.length-1);
+	if (!tag.attributes.n){
+		//a lb without n in y01 a19.11
+		return;
+	}
 	var pbn=tag.attributes.n.split(".");
 	try {
 		this.putLine(s,this.vars.linekpos);
@@ -81,7 +85,8 @@ const bookStart=function(){
 	this.vars.linekpos=-1;
 }
 const bookEnd=function(){
-	var s=this.popText();
+	var s=this.popBaseText();
+	if (s[s.length-1]=="\n") s=s.substr(0,s.length-1);
 	try {
 		this.putLine(s,this.vars.linekpos);
 	} catch(e) {
@@ -93,13 +98,16 @@ const p=function(tag){
 	this.putEmptyField("p");
 }
 
-const body=function(){
-	this.start();
+const body=function(tag,closing){
+	if (closing) {
+		this.stop();
+	}
+	else this.start();
 }
 var corpus=createCorpus("yinshun",{inputformat:"xml",addrbits:0x6b056,autostart:false});
 corpus.setHandlers(
 	{note,lb,choice,corr,sic,orig,reg,body,ptr,ref,p},
-	{note,choice,corr,sic,orig,reg,ref},
+	{note,choice,corr,sic,orig,reg,ref,body},
 	{bookStart,bookEnd}
 );
 
