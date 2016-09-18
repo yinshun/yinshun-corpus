@@ -1,12 +1,12 @@
 /* entire corpus statistic */
 /* generate bigram and charset*/
 /* compare with unicode variants*/
-var files=require("./filelist")(42);
+var files=require("./filelist")(5);
 var sourcepath="xml/";
-const {createCorpus}=require("ksana-corpus");
+const {createCorpus,tokenize,TokenTypes}=require("ksana-corpus");
 const fs=require("fs");
 var linecount=0;
-var charset={},bigram={};
+var charset={},bigram={},tokens={};
 const threshold=10;
 
 const fileStart=function(){
@@ -38,24 +38,32 @@ const addBigram=function(bi){
 	if (!bigram[bi]) bigram[bi]=0;
 	bigram[bi]++;
 }
-const addToken=function(token){
+const addToken=function(token,type){
+	if (type==TokenTypes.NUMBER)return;
+	if (!tokens[token]) tokens[token]=0;
+	tokens[token]++;
+}
+const addCJK=function(token){
 	if (!charset[token]) charset[token]=0;
-	charset[token]++;
+	charset[token]++;	
 }
 const p=function(){
-	var obj={str:this.popBaseText()};
-	var token=null,prevtoken=null;
-	while (token=this.getRawToken(obj)) {
-		token=token.trim();
-		var code=token.charCodeAt(0);
-		if (code>=0x3400 && code<0xf800) addToken(token);
-		if (prevtoken&&code>=0x4e00&&code<=0x9fff) addBigram(prevtoken+token);
-		if (code>=0x4e00&&code<=0x9fff) {
-			prevtoken=token;
+	var str=this.popBaseText();
+	var tokenized=tokenize(str);
+	var i,prevtk;
+	for (i=0;i<tokenized.length;i++) {
+		var tk=tokenized[i][0];
+		var type=tokenized[i][3];
+		var iscjk=type==TokenTypes.CJK;
+		if (iscjk) {
+			addCJK(tk);
+			prevtk&& addBigram(prevtk+tk);
+			prevtk=tk;
 		} else {
-			prevtoken=null;
+			addToken(tk,type);
+			prevtk=null;
 		}
-	};
+	}
 	this.newLine(linecount++);
 	//if (s.length>1000) console.log(s,10);
 }
@@ -69,12 +77,17 @@ corpus.setHandlers(
 
 files.forEach(fn=>corpus.addFile(sourcepath+fn));
 corpus.stop();
+var tokensA=sort(tokens);
 var charsetA=sort(charset);
 var bigramA=sort(bigram);
 console.log("total bigram",bigramA.length);
 trimBigram(bigramA,0.5);
-charsetA=charsetA.map((i)=>i[0]);
 console.log("after trim bigram",bigramA.length);
+
+charsetA=charsetA.map((i)=>i[0]);
+tokensA=tokensA.map((i)=>i[0]);
 bigramA=bigramA.map((i)=>i[0]);
-fs.writeFileSync("charset.js",'module.exports="'+charsetA.join(",")+'";',"utf8");
-fs.writeFileSync("bigram.js",'module.exports="'+bigramA.join(",")+'";',"utf8");
+
+fs.writeFileSync("charset.js",'module.exports="'+charsetA.join(" ")+'";',"utf8");
+fs.writeFileSync("tokens.js",'module.exports="'+tokensA.join(" ")+'";',"utf8");
+fs.writeFileSync("bigrams.js",'module.exports="'+bigramA.join(" ")+'";',"utf8");

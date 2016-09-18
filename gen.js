@@ -16,7 +16,7 @@ var lb=function(tag){
 		//a lb without n in y01 a19.11
 		return;
 	}
-
+	//deal with cross line <note>
 	var s=this.popBaseText();
 	if (s[s.length-1]==="\n") s=s.substr(0,s.length-1);
 
@@ -26,7 +26,7 @@ var lb=function(tag){
 	var page=parseInt(pbn[0],10), line=parseInt(pbn[1],10)-1;
 	if (isNaN(page)) page=parseInt(pbn[0].substr(1),10);
 
-	if (prevpage&&prevpage!==pbn[0] && page===1) {
+	if (prevpage!==pbn[0] && page===1) {
 		this.addBook();
 	}
 
@@ -34,10 +34,10 @@ var lb=function(tag){
 		throw "error page number "+pbn[0];
 	}
 	page--;
-
-	const kpos=this.makeKPos(this.bookCount,page,0,line,0);
-	this.newLine(kpos, this.tPos);
-
+	if (this.bookCount){
+		const kpos=this.makeKPos(this.bookCount-1,page,0,line,0);
+		this.newLine(kpos, this.tPos);
+	}
 	prevpage=pbn[0];
 }
 var ref=function(tag,closing){ //link to taisho or taixu
@@ -104,7 +104,12 @@ const onToken=function(token){
 
 	return token
 }
-var corpus=createCorpus("yinshun",{inputformat:"xml",bits:[6,11,0,5,6],autostart:false});
+const bigrams={};
+require("./bigrams").split(" ").forEach((bi)=>bigrams[bi]=true);
+
+var options={inputformat:"xml",bits:[6,11,0,5,6],
+autostart:false, removePunc:true,bigrams};
+var corpus=createCorpus("yinshun",options);
 corpus.setHandlers(
 	{note,lb,choice,corr,sic,orig,reg,body,ptr,ref,p}, //open tag handlers
 	{note,choice,corr,sic,orig,reg,ref,body},  //end tag handlers
@@ -112,7 +117,7 @@ corpus.setHandlers(
 );
 
 files.forEach(fn=>corpus.addFile(sourcepath+fn));
-corpus.stop();
-//console.log(corpus.romable.getRawFields("p"));
-//console.log(corpus.romable.getTexts());
-console.log(corpus.romable.getLineTPos());
+
+corpus.write("yinshun.kdb");
+//console.log(corpus.romable.buildROM({date:(new Date()).toString()}));
+console.log(corpus.totalPosting,corpus.tPos);
