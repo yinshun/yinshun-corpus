@@ -3,7 +3,11 @@
 /* compare with unicode variants*/
 var files=require("./filelist")(5);
 var sourcepath="xml/";
-const {createCorpus,tokenize,TokenTypes}=require("ksana-corpus");
+const {createCorpus}=require("ksana-corpus-builder");
+const Tokenizer=require("ksana-corpus/tokenizer");
+const tokenizer=Tokenizer.createTokenizer(Tokenizer.latest);
+const TT=tokenizer.TokenTypes;
+
 const fs=require("fs");
 var linecount=0;
 var charset={},bigram={},tokens={};
@@ -13,7 +17,7 @@ const fileStart=function(){
 	console.log(this.filename)
 }
 const bookEnd=function(){
-
+	
 }
 const trimBigram=function(bi,percent){
 	var freq=0,i;
@@ -39,7 +43,7 @@ const addBigram=function(bi){
 	bigram[bi]++;
 }
 const addToken=function(token,type){
-	if (type==TokenTypes.NUMBER)return;
+	if (type==TT.NUMBER)return;
 	if (!tokens[token]) tokens[token]=0;
 	tokens[token]++;
 }
@@ -49,12 +53,12 @@ const addCJK=function(token){
 }
 const p=function(){
 	var str=this.popBaseText();
-	var tokenized=tokenize(str);
+	var tokenized=tokenizer.tokenize(str);
 	var i,prevtk;
 	for (i=0;i<tokenized.length;i++) {
 		var tk=tokenized[i][0];
 		var type=tokenized[i][3];
-		var iscjk=type==TokenTypes.CJK;
+		var iscjk=type==TT.CJK;
 		if (iscjk) {
 			addCJK(tk);
 			prevtk&& addBigram(prevtk+tk);
@@ -67,7 +71,7 @@ const p=function(){
 	this.newLine(linecount++);
 	//if (s.length>1000) console.log(s,10);
 }
-const bits=[1,1,0,9,15]//allow very long line (2^15)
+const bits=[0,10,5,11]//allow very long line (2^15)
 var corpus=createCorpus("yinshun",{inputformat:"xml",bits,autostart:true});
 corpus.setHandlers(
 	{},

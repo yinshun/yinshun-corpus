@@ -1,4 +1,4 @@
-const {createCorpus}=require("ksana-corpus");
+const {createCorpus}=require("ksana-corpus-builder");
 const fs=require("fs");
 const sourcepath="xml/";
 const {choice,sic,corr,orig,reg}=require("./choice");
@@ -18,7 +18,10 @@ var lb=function(tag){
 	}
 	//deal with cross line <note>
 	var s=this.popBaseText();
-	if (s[s.length-1]==="\n") s=s.substr(0,s.length-1);
+	//trim tailing crlf
+	while (s.length && s[s.length-1]==="\n"||s[s.length-1]==="\r") {
+		s=s.substr(0,s.length-1);
+	}
 
 	var pbn=tag.attributes.n.split(".");
 	this.putLine(s);
@@ -35,23 +38,24 @@ var lb=function(tag){
 	}
 	page--;
 	if (this.bookCount){
-		const kpos=this.makeKPos(this.bookCount-1,page,0,line,0);
+		const kpos=this.makeKPos(this.bookCount-1,page,line,0);
 		this.newLine(kpos, this.tPos);
 	}
 	prevpage=pbn[0];
 }
 var ref=function(tag,closing){ //link to taisho or taixu
 	if (tag.isSelfClosing) {
-		var krange=this.makeKRange(this.kPos,this.kPos);
-		Ref.parse.call(this,tag.attributes.type,tag.attributes.target,krange);
-		return;
-	}
-
-	if (closing) {
-		var krange=this.makeKRange(refKPos,this.kPos);
-		Ref.parse.call(this,tag.attributes.type,tag.attributes.target,krange);
-	} else {		
-		refKPos=this.kPos;
+		if (closing){
+			var krange=this.makeKRange(this.kPos,this.kPos);
+			Ref.parse.call(this,tag.attributes.type,tag.attributes.target,krange);			
+		}
+	} else {
+		if (closing) {
+			var krange=this.makeKRange(refKPos,this.kPos);
+			Ref.parse.call(this,tag.attributes.type,tag.attributes.target,krange);
+		} else {		
+			refKPos=this.kPos;
+		}		
 	}
 }
 var ptr=function(tag){ //foot note marker in maintext, point to <note xml:id>
@@ -105,10 +109,10 @@ const onToken=function(token){
 	return token
 }
 const bigrams={};
-require("./bigrams").split(" ").forEach((bi)=>bigrams[bi]=true);
+//require("./bigrams").split(" ").forEach((bi)=>bigrams[bi]=true);
 
-var options={inputformat:"xml",bits:[6,11,0,5,6],
-autostart:false, removePunc:true,bigrams};
+var options={inputformat:"xml",bits:[6,11,5,6],
+autostart:false, removePunc:true,bigrams}; //set textOnly not to build inverted
 var corpus=createCorpus("yinshun",options);
 corpus.setHandlers(
 	{note,lb,choice,corr,sic,orig,reg,body,ptr,ref,p}, //open tag handlers
@@ -118,6 +122,8 @@ corpus.setHandlers(
 
 files.forEach(fn=>corpus.addFile(sourcepath+fn));
 
-corpus.write("yinshun.kdb");
+corpus.writeKDB("yinshun.cor",function(byteswritten){
+	console.log(byteswritten,"bytes written")
+});
 //console.log(corpus.romable.buildROM({date:(new Date()).toString()}));
 console.log(corpus.totalPosting,corpus.tPos);
