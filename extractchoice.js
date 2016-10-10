@@ -16,9 +16,9 @@ const stringifyTag=function(tag){
 	if (multilinelb) s+="\n";
 
 	for (var i in tag.attributes) {
-		attr+=i+'="'+tag.attributes[i]+'"';
+		attr+=" "+i+'="'+tag.attributes[i]+'"';
 	}	
-	if (attr&&!multilinelb) s+=" ";
+	if (attr&&multilinelb) attr=attr.substr(1);//remove leading blank
 	if (attr) s+=attr;
 	s+=tag.isSelfClosing?"/>":">";
 	return s;
@@ -76,13 +76,23 @@ const addContent=function(content,name){
 		offset=lastlinelength();
 		oldtexts[filename].push([lbnow,offset,otext]);
 	}
-	parser.onclosetag=function(tagname){
+	parser.onclosetag=function(tn){
 		const tag=tagstack.pop();
-		if (!tag.isSelfClosing && choosing==0) {
-			output+="</"+tagname+">";
+		if (!tag.isSelfClosing) {
+			const endtag="</"+tn+">";
+			if (choosing==3) {
+				if ((tn!="corr"&&tn!="reg")) ntext+=endtag;
+				choosing=1;
+			} else if (choosing==2) {
+				otext+=endtag;
+				if ((tn!="sic"&&tn!="orig")) ntext+=endtag;
+				choosing=1;
+			} else if (!choosing) {
+				output+=endtag;	
+			}
 		}
 
-		if (tagname=="choice") {
+		if (tn=="choice") {
 			choosing=false;
 			saveoldtext();
 			output+=ntext;			

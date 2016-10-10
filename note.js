@@ -12,6 +12,7 @@ var def=function(id,text){
 		console.error("def without ptr, xmlid:",id);
 		return;
 	}
+
 	this.putField("intertext",text,kpos);
 }
 var bookStart=function(){

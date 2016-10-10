@@ -6,20 +6,20 @@ const Note=require("./note");
 const Ref=require("./ref");
 const maxfile=0;
 var files=require("./filelist")(maxfile);
-
+//for (var i=0;i<39;i++) files.shift();
 var prevpage="";
 var refKPos=-1; //kpos of <ref>
 var defKPos=-1; //kpos of <def>
 var showline=false;
 var lb=function(tag){
-	if (!tag.attributes.n){
+	const n=tag.attributes.n;
+	if (!n || n.indexOf(".")==-1){
 		//a lb without n in y01 a19.11
+		//or lb n has no .  y13.xml page 132~137,not seen by engine.
 		return;
 	}
-	//deal with cross line <note>
 
-	var pbn=tag.attributes.n.split(".");
-
+	var pbn=n.split(".");
 
 	var page=parseInt(pbn[0],10), line=parseInt(pbn[1],10)-1;
 	if (isNaN(page)) page=parseInt(pbn[0].substr(1),10);
@@ -41,6 +41,9 @@ var lb=function(tag){
 	page--;
 	if (this.bookCount){
 		const kpos=this.makeKPos(this.bookCount-1,page,line,0);
+		if (kpos==-1) {
+			throw "error lb "+tag.attributes.n;
+		}
 		this.newLine(kpos, this.tPos);
 	}
 	prevpage=pbn[0];
@@ -68,6 +71,7 @@ var ptr=function(tag){ //foot note marker in maintext, point to <note xml:id>
 		}
 	}
 }
+
 
 var note=function(tag,closing){ //note cannot be nested.
 	var xmlid=tag.attributes["xml:id"];
@@ -123,7 +127,7 @@ const fileStart=function(fn,i){
 const bigrams={};
 //require("./bigrams").split(" ").forEach((bi)=>bigrams[bi]=true);
 
-var options={name:"yinshun",inputFormat:"xml",bits:[6,11,5,6],
+var options={name:"yinshun",inputFormat:"xml",bits:[7,11,5,6],
 autostart:false, removePunc:true,bigrams}; //set textOnly not to build inverted
 var corpus=createCorpus(options);
 corpus.setHandlers(

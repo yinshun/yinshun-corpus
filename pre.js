@@ -3,7 +3,7 @@
 /* compare with unicode variants*/
 var files=require("./filelist")(5);
 var sourcepath="xml/";
-const {createCorpus}=require("ksana-corpus-builder");
+const createCorpus=require("ksana-corpus-builder").createCorpus;
 const Tokenizer=require("ksana-corpus/tokenizer");
 const tokenizer=Tokenizer.createTokenizer(Tokenizer.latest);
 const TT=tokenizer.TokenTypes;
@@ -17,7 +17,7 @@ const fileStart=function(){
 	console.log(this.filename)
 }
 const bookEnd=function(){
-	
+
 }
 const trimBigram=function(bi,percent){
 	var freq=0,i;
