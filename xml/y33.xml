@@ -1118,25 +1118,30 @@ n="69.15"/>阿含》</title>以數相次而集經，一而二，二而三，乃�
 n="70.01"/>，或自四含中集出，內容多出入，諍論之所在也。四含之次第既有異說，各家所<lb
 n="70.02"/>誦之經文，亦具缺不同，編制亦異；學派之異見，固不僅解釋不同而已。</p><lb
 n="70.03"/><table facs="y33.0070.svg">
-<row><cell></cell><cell>銅鍱部</cell><cell>化地部</cell><cell>法藏部</cell><cell>大眾部</cell><cell>有部</cell></row>
-<lb n="70.04"/>
-<row><cell>長阿含</cell><cell>一、梵動經等</cell><cell rend="text-indent:-2em; padding-left:2em">一、增一、增十<lb n="70.05"/>、大因緣至<lb n="70.06"/>梵動</cell><cell  rend="text-indent:-2em; padding-left:2em">一、梵動、增<lb n="70.05"/>一至增十<lb n="70.06"/>、帝釋問<lb n="70.07"/>經</cell><cell>一、</cell><cell>二、</cell></row>
-<lb n="70.08"/>
-<row><cell>中阿含</cell><cell>二、根本說經等</cell><cell>二、</cell><cell>二、</cell><cell>二、</cell><cell>三、</cell></row>
-<lb n="70.09"/>
-<row><cell>雜阿含</cell><cell>三、五十六相應</cell><cell rend="text-indent:-2em; padding-left:2em">三、雜為四眾、<lb n="70.10"/>天子、天女<lb n="70.11"/>說</cell><cell rend="text-indent:-2em; padding-left:2em">四、雜比丘<lb n="70.10"/>、比丘尼、<lb n="70.11"/>優婆塞、<lb n="70.12"/>優婆夷、<lb n="70.13"/>雜天、雜<lb n="70.14"/>帝釋、雜<lb n="70.15"/>魔、雜梵<lb n="70.16"/>王</cell><cell rend="text-indent:-2em; padding-left:2em">四、根雜、力<lb n="70.10"/>雜、覺雜<lb n="70.11"/>、道雜等</cell><cell rend="text-indent:-2em; padding-left:2em">一、蘊品、處<lb n="70.10"/>界品、緣<lb n="70.11"/>起品、聲<lb n="70.12"/>聞品、佛<lb n="70.13"/>道品、伽<lb n="70.14"/>陀品</cell></row>
-<lb n="70.17"/>
-<row><cell>增一阿含</cell><cell>四、一集至十一集</cell><cell>四、一增至十一</cell><cell rend="text-indent:-2em; padding-left:2em">三、一事至十一事</cell><cell>三、一增至百</cell><cell rend="text-indent:-2em; padding-left:2em">四、一句事至十句事</cell></row>
-<lb n="70.18"/>
-<row><cell></cell><cell rend="text-indent:-2em; padding-left:2em">五、小誦、法句、<lb n="70.19"/>無問自說、如<lb n="70.20"/>是語、經集、<lb n="70.21"/>天宮事、餓鬼<lb n="70.22"/>事、長老偈、<pb n="71"/><lb n="71.01"/>長老尼偈、本<lb n="71.02"/>生、<choice><sic>解</sic><corr resp="厚觀法師 謝淑歆">義</corr></choice>釋、無<lb n="71.03"/><choice><sic>障礙</sic><corr resp="厚觀法師 謝淑歆">礙解</corr></choice>道、譬喻<lb n="71.04"/>、佛種姓經、<lb n="71.05"/>行藏──凡十<lb n="71.06"/>五部</cell><cell>五、其餘雜說</cell><cell rend="text-indent:-2em; padding-left:2em">五、生經、本<lb n="70.19"/>經、善因<lb n="70.20"/>緣經、方<lb n="70.21"/>等經、未<lb n="70.22"/>曾有經、<pb n="71"/><lb n="71.01"/>譬喻經、<lb n="71.02"/>優婆提舍<lb n="71.02"/>經、句義<lb n="71.03"/>經、法句<lb n="71.04"/>經、波羅<lb n="71.05"/>延經、雜<lb n="71.06"/>難、聖偈<lb n="71.07"/>經</cell><cell rend="text-indent:-2em; padding-left:2em">五、辟支佛阿<lb n="70.19"/>羅漢自說<lb n="70.20"/>本起因緣</cell><cell>（無）</cell></row>
-<lb n="71.08"/>
-<row><cell>附記</cell><cell></cell><cell></cell><cell><choice><orig>毗</orig><reg>毘</reg></choice>尼母論云：<lb n="71.09"/>修多羅乃至優<lb n="71.10"/>波提舍與雜藏<lb n="71.11"/>相應者，集為<lb n="71.12"/>雜藏。</cell><cell><title level="m">分別功德論</title>云<lb n="71.09"/>：或佛說，或<lb n="71.11"/>弟子說，或諸<lb n="71.12"/>天讚頌，或說<lb n="71.13"/>宿緣，三阿僧<lb n="71.14"/>祇菩薩所生，<lb n="71.15"/>文義非一，多<lb n="71.16"/>於三藏，故曰<lb n="71.17"/>雜藏</cell><cell></cell>
+<lb n="70.04"/><row><cell></cell><cell>銅鍱部</cell><cell>化地部</cell><cell>法藏部</cell><cell>大眾部</cell><cell>有部</cell></row>
+<lb n="70.05"/><row><cell>長阿含</cell><cell>一、梵動經等</cell><cell rend="text-indent:-2em; padding-left:2em">一、增一、增十、大因緣至梵動</cell>
+<lb n="70.06"/><cell rend="text-indent:-2em; padding-left:2em">一、梵動、增一至增十、帝釋問經</cell><cell>一、</cell><cell>二、</cell></row>
+<lb n="70.07"/><row><cell>中阿含</cell><cell>二、根本說經等</cell><cell>二、</cell><cell>二、</cell><cell>二、</cell><cell>三、</cell></row>
+<lb n="70.08"/><row><cell>雜阿含</cell><cell>三、五十六相應</cell><cell rend="text-indent:-2em; padding-left:2em">三、雜為四眾、天子、天女說</cell>
+<lb n="70.09"/><cell rend="text-indent:-2em; padding-left:2em">四、雜比丘、比丘尼、優婆塞、優婆夷、雜天、雜帝釋、雜魔、雜梵王</cell>
+<lb n="70.10"/><cell rend="text-indent:-2em; padding-left:2em">四、根雜、力雜、覺雜、道雜等</cell>
+<lb n="70.11"/><cell rend="text-indent:-2em; padding-left:2em">一、蘊品、處界品、緣起品、聲聞品、佛道品、伽陀品</cell></row>
+<lb n="70.12"/><row><cell>增一阿含</cell><cell>四、一集至十一集</cell><cell>四、一增至十一</cell><cell rend="text-indent:-2em; padding-left:2em">三、一事至十一事</cell>
+<lb n="70.13"/><cell>三、一增至百</cell>
+<lb n="70.14"/><cell rend="text-indent:-2em; padding-left:2em">四、一句事至十句事</cell></row>
+<lb n="70.15"/><row><cell></cell><cell rend="text-indent:-2em; padding-left:2em">五、小誦、法句、無問自說、如是語、經集、天宮事、餓鬼事、長老偈、
+<pb n="71"/>長老尼偈、本生、義釋、無礙解道、譬喻、佛種姓經、行藏──凡十五部</cell>
+<lb n="71.01"/><cell>五、其餘雜說</cell>
+<lb n="71.02"/><cell rend="text-indent:-2em; padding-left:2em">五、生經、本經、善因緣經、方等經、未曾有經、<pb n="71"/>譬喻經、優婆提舍經、句義經、法句經、波羅延經、雜難、聖偈經</cell>
+<lb n="71.03"/><cell rend="text-indent:-2em; padding-left:2em">五、辟支佛阿羅漢自說本起因緣</cell><cell>（無）</cell></row>
+<lb n="71.04"/><row><cell>附記</cell><cell></cell><cell></cell><cell>毘尼母論云：修多羅乃至優波提舍與雜藏相應者，集為雜藏。</cell>
+<lb n="71.05"/><cell><title level="m">分別功德論</title>云：或佛說，或弟子說，或諸天讚頌，或說宿緣，三阿僧祇菩薩所生，文義非一，多於三藏，故曰雜藏</cell><cell></cell>
 </row>
 </table><lb
-n="71.18"/><p>「雜藏」中之「本生」、「本事」等，薩婆多部亦有之，然以此為經、律所<lb
-n="71.19"/>固有，無有出三藏外者。此「雜藏」之離四含而獨立，非結集之舊。雖有目之為<lb
-n="71.20"/>「小阿含」者，然律文但曰「集為第五雜藏」，不名之為阿含，是異之也。雖然<lb
-n="71.21"/>，「雜藏」後出，而內容則有極古者，此不可不知也。「雜藏」之內容，與舊傳
+n="71.06"/><p>「雜藏」中之「本生」、「本事」等，薩婆多部亦有之，然以此為經、律所<lb
+n="71.07"/>固有，無有出三藏外者。此「雜藏」之離四含而獨立，非結集之舊。雖有目之為<lb
+n="71.08"/>「小阿含」者，然律文但曰「集為第五雜藏」，不名之為阿含，是異之也。雖然<lb
+n="71.09"/>，「雜藏」後出，而內容則有極古者，此不可不知也。「雜藏」之內容，與舊傳
 <pb n="72"/><lb
 n="72.01"/>九部經（依<title level="m">《法華》</title>說）之名目多合。不許「雜藏」者，以九部為聖典內容之分<lb
 n="72.02"/>類，非部帙之別。然許有「雜藏」者，則「本生」、「譬喻」等，確有部帙之差<lb
@@ -1397,11 +1402,11 @@ n="91.04"/><table facs="y33.0091.svg">
 </row><lb n="91.07"/>
 <row>
 <cell rend="border-right:none"></cell><cell rend="border-right:none"></cell><cell></cell>
-<cell rend="border-right:none">佛滅百十<lb n="91.08"/>六年後</cell><cell rend="border-right:none">舶主兒大天諍五<lb n="91.08"/>事</cell><cell>阿育王時分<lb n="91.08"/>二部</cell>
+<cell rend="border-right:none">佛滅百十<lb n="91.08"/>六年後</cell><cell rend="border-right:none">舶主兒大天諍五事</cell><cell>阿育王時分二部</cell>
 </row><lb n="91.09"/>
-<row>
-<cell rend="border-right:none">佛滅二百<lb n="91.10"/>卅年頃</cell><cell rend="border-right:none">賊住比丘起諍</cell><cell>達磨阿育王<lb n="91.10"/>時</cell>
-<cell rend="border-right:none">佛滅二百<lb n="91.10"/>年滿</cell><cell rend="border-right:none">大天諍五事</cell><cell>國王不明或<lb n="91.10"/>作妙雲王時</cell>
+<row><lb n="91.10"/>
+<cell rend="border-right:none">佛滅二百卅年頃</cell><cell rend="border-right:none">賊住比丘起諍</cell><cell>達磨阿育王時</cell>
+<cell rend="border-right:none">佛滅二百年滿</cell><cell rend="border-right:none">大天諍五事</cell><cell>國王不明或作妙雲王時</cell>
 </row><lb n="91.11"/>
 <row>
 <cell rend="border-right:none"></cell><cell rend="border-right:none">大眾部分出東山等六<lb n="91.12"/>部華氏城第三結集</cell><cell></cell>
@@ -2107,28 +2112,28 @@ n="138.05"/>
 <row><cell>問五　根</cell><cell>八　淨、根</cell><cell>八經十二　根　</cell></row>
 <lb n="139.05"/>
 <row><cell rend="border-bottom:none">問六　覺</cell><cell rend="border-bottom:none"></cell><cell rend="border-bottom:none"></cell></row>
-<lb n="139.01"/>
-<row><cell rend="border-bottom:none"></cell><cell rend="border-bottom:none">（諦之四聖種）</cell><cell rend="border-bottom:none"></cell></row>
-<lb n="139.02"/>
-<row><cell rend="border-bottom:none">　非問六　念處</cell><cell rend="border-bottom:none"></cell><cell rend="border-bottom:none"></cell></row>
-<lb n="139.03"/>
-<row><cell rend="border-bottom:none"></cell><cell rend="border-bottom:none">十四　三十七品</cell><cell rows="3">八經八　如意足，正斷，念處，聖種，三十七覺品</cell></row>
-<lb n="139.04"/>
-<row><cell rend="border-bottom:none">　非問七　正斷</cell><cell rend="border-bottom:none"></cell></row>
-<lb n="139.05"/>
-<row><cell>　非問八　神足</cell><cell></cell></row>
 <lb n="139.06"/>
-<row><cell rend="border-bottom:none">　非問九　禪定　</cell><cell rend="border-bottom:none">十二　禪定</cell><cell rend="border-bottom:none">七　定品</cell></row>
+<row><cell rend="border-bottom:none"></cell><cell rend="border-bottom:none">（諦之四聖種）</cell><cell rend="border-bottom:none"></cell></row>
 <lb n="139.07"/>
-<row><cell rend="border-bottom:none">　非問十　道（總集）</cell><cell rend="border-bottom:none">十三　雜定</cell><cell rend="border-bottom:none">八經十　三三昧  <lb n="139.08"/>八經七
- 四修定</cell></row>
+<row><cell rend="border-bottom:none">　非問六　念處</cell><cell rend="border-bottom:none"></cell><cell rend="border-bottom:none"></cell></row>
+<lb n="139.08"/>
+<row><cell rend="border-bottom:none"></cell><cell rend="border-bottom:none">十四　三十七品</cell><cell rows="3">八經八　如意足，正斷，念處，聖種，三十七覺品</cell></row>
 <lb n="139.09"/>
-<row><cell rend="border-bottom:none">問七　不善根</cell><cell rend="border-bottom:none"></cell><cell rend="border-bottom:none"></cell></row>
+<row><cell rend="border-bottom:none">　非問七　正斷</cell><cell rend="border-bottom:none"></cell></row>
 <lb n="139.10"/>
-<row><cell>　非問十一　煩惱（總集）</cell><cell>九　結使，禪智</cell><cell>四　使品　</cell></row>
+<row><cell>　非問八　神足</cell><cell></cell></row>
 <lb n="139.11"/>
-<row><cell rend="border-bottom:none">問八　善根</cell><cell rend="border-bottom:none"></cell><cell rend="border-bottom:none"></cell></row>
+<row><cell rend="border-bottom:none">　非問九　禪定　</cell><cell rend="border-bottom:none">十二　禪定</cell><cell rend="border-bottom:none">七　定品</cell></row>
 <lb n="139.12"/>
+<row><cell rend="border-bottom:none">　非問十　道（總集）</cell><cell rend="border-bottom:none">十三　雜定</cell><cell rend="border-bottom:none">八經十　三三昧  八經七
+ 四修定</cell></row>
+<lb n="139.13"/>
+<row><cell rend="border-bottom:none">問七　不善根</cell><cell rend="border-bottom:none"></cell><cell rend="border-bottom:none"></cell></row>
+<lb n="139.14"/>
+<row><cell>　非問十一　煩惱（總集）</cell><cell>九　結使，禪智</cell><cell>四　使品　</cell></row>
+<lb n="139.15"/>
+<row><cell rend="border-bottom:none">問八　善根</cell><cell rend="border-bottom:none"></cell><cell rend="border-bottom:none"></cell></row>
+<lb n="139.16"/>
 <row><cell>問九　大</cell><cell></cell><cell></cell></row>
 <pb n="140"/><lb n="140.01"/>
 <row><cell>問十　五戒</cell><cell>一、施戒</cell><cell>八經一　施戒修</cell></row>
