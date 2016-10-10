@@ -6271,7 +6271,7 @@ n="366.13"/>關係，只能說是相關部分。這類相關部分，在「摩�
 </row>
 <lb n="366.15"/>
 <row>
-<cell rend="padding-left:1em;text-indent:-1em">43和上阿闍黎共住弟子依止<pb n="367"/><lb n="367.01"/>弟子法（有關依止部分，<lb n="367.02"/>綜合在內）</cell><cell rend="padding-left:1em;text-indent:-1em">158和上159弟子160供養和上161<pb n="367"/>阿闍黎162近住弟子163和上<lb n="367.02"/>阿闍黎共行弟子近住弟子</cell><cell></cell>
+<cell rend="padding-left:1em;text-indent:-1em">43和上阿闍黎共住弟子依止<pb n="367"/><lb n="367.01"/>弟子法（有關依止部分，<lb n="367.02"/>綜合在內）</cell><cell rend="padding-left:1em;text-indent:-1em">158和上159弟子160供養和上161<lb/>阿闍黎162近住弟子163和上<lb/>阿闍黎共行弟子近住弟子</cell><cell></cell>
 </row>
 <lb n="367.03"/>
 <row>
@@ -14139,7 +14139,7 @@ n="766.03"/>二七經。<bibl>《<title level="m">本事經</title>‧<title lev
 n="766.04"/>），一〇九經。<bibl>《<title level="m">增支部</title>‧一集》</bibl>，共二〇（或二一）品，六〇八經。以<title level="m">《如是語》</title>、<title level="m">《本事<lb
 n="766.05"/>經》</title>為主，而比對如下：</p><lb
 n="766.06"/><figure><graphic url="y35.0766.svg"/><figDesc>
- 〔本事經〕 　　│〔如是語〕 　　│〔增壹阿含經〕　　│〔增支部〕 
+ 〔本事經〕 <ptr type="note" target="#note82.016"/>　　│〔如是語〕 <ptr type="note" target="#note82.017"/>　　│〔增壹阿含經〕<ptr type="note" target="#note82.018"/>　　│〔增支部〕 <ptr type="note" target="#note82.019"/>
 　1 無明蓋　　　　│14　　　　　│　　　　　　　　　 │
 　2 愛結　　　　　│15　　　　　│　　　　　　　　　 │
 　3 生死長遠　　　│24　　　　　│　　　　　　　 　　│
