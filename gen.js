@@ -1,10 +1,10 @@
 const {createCorpus}=require("ksana-corpus-builder");
 const fs=require("fs");
-const sourcepath="xml/";
+const sourcepath="genxml/";
 const {choice,sic,corr,orig,reg}=require("./choice");
 const Note=require("./note");
 const Ref=require("./ref");
-const maxfile=2;
+const maxfile=0;
 var files=require("./filelist")(maxfile);
 
 var prevpage="";
@@ -17,17 +17,19 @@ var lb=function(tag){
 		return;
 	}
 	//deal with cross line <note>
-	var s=this.popBaseText();
-	//trim tailing crlf
-	while (s.length && s[s.length-1]==="\n"||s[s.length-1]==="\r") {
-		s=s.substr(0,s.length-1);
-	}
 
 	var pbn=tag.attributes.n.split(".");
-	this.putLine(s);
+
 
 	var page=parseInt(pbn[0],10), line=parseInt(pbn[1],10)-1;
 	if (isNaN(page)) page=parseInt(pbn[0].substr(1),10);
+	if (page<1) {
+		console.log("negative page number, ",tag.name,"n=",tag.attributes.n);
+		return;
+	}
+
+	var s=this.popBaseText();
+	this.putLine(s);
 
 	if (prevpage!==pbn[0] && page===1) {
 		this.addBook();
@@ -95,7 +97,7 @@ const bookEnd=function(){
 	Note.bookEnd.call(this);
 }
 const p=function(tag){
-	this.putEmptyField("p");
+	this.putEmptyBookField("p");	
 }
 
 const body=function(tag,closing){
@@ -108,16 +110,26 @@ const onToken=function(token){
 
 	return token
 }
+const fileStart=function(fn,i){
+	const at=fn.lastIndexOf("/");
+	console.log(fn)
+	fn=fn.substr(at+1);
+	fn=fn.substr(0,fn.length-4);//remove .xml
+	var kpos=this.kPos;
+	if (this.kPos) kpos=this.nextLineStart(this.kPos); //this.kPos point to last char of previos file
+	this.putField("file",fn,kpos);
+}
+
 const bigrams={};
 //require("./bigrams").split(" ").forEach((bi)=>bigrams[bi]=true);
 
-var options={inputformat:"xml",bits:[6,11,5,6],
+var options={name:"yinshun",inputFormat:"xml",bits:[6,11,5,6],
 autostart:false, removePunc:true,bigrams}; //set textOnly not to build inverted
-var corpus=createCorpus("yinshun",options);
+var corpus=createCorpus(options);
 corpus.setHandlers(
 	{note,lb,choice,corr,sic,orig,reg,body,ptr,ref,p}, //open tag handlers
 	{note,choice,corr,sic,orig,reg,ref,body},  //end tag handlers
-	{bookStart,bookEnd,onToken}  //other handlers
+	{bookStart,bookEnd,onToken,fileStart}  //other handlers
 );
 
 files.forEach(fn=>corpus.addFile(sourcepath+fn));
