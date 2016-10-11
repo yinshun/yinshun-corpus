@@ -3,7 +3,7 @@ const targetpath="genxml/";
 const fs=require("fs");
 const Sax=require("sax");
 const maxfile=0;
-var oldtexts={};
+var choices={};
 var output="";
 var lbnow="",filename="";
 var files=require("./filelist")(maxfile);
@@ -71,10 +71,11 @@ const addContent=function(content,name){
 		const at=output.lastIndexOf("\n")+1;
 		return output.length-at;
 	}
-	const saveoldtext=function(){
-		if (!oldtexts[filename]) oldtexts[filename]=[];
+	const savechoices=function(){
+		if (!choices[filename]) choices[filename]=[];
 		offset=lastlinelength();
-		oldtexts[filename].push([lbnow,offset,otext]);
+		const warn=otext.length!==ntext.length?"*":"";
+		choices[filename].push([lbnow,offset,otext,ntext,warn]);
 	}
 	parser.onclosetag=function(tn){
 		const tag=tagstack.pop();
@@ -84,8 +85,7 @@ const addContent=function(content,name){
 				if ((tn!="corr"&&tn!="reg")) ntext+=endtag;
 				choosing=1;
 			} else if (choosing==2) {
-				otext+=endtag;
-				if ((tn!="sic"&&tn!="orig")) ntext+=endtag;
+				if ((tn!="sic"&&tn!="orig")) otext+=endtag;
 				choosing=1;
 			} else if (!choosing) {
 				output+=endtag;	
@@ -94,7 +94,7 @@ const addContent=function(content,name){
 
 		if (tn=="choice") {
 			choosing=false;
-			saveoldtext();
+			savechoices();
 			output+=ntext;			
 			otext="",ntext="";
 		}
@@ -115,4 +115,4 @@ const addFile=function(fn){
 }
 files.forEach(fn=>addFile(fn));
 
-fs.writeFileSync("choice.json",JSON.stringify(oldtexts,""," "),"utf8")
+fs.writeFileSync("choice.json",JSON.stringify(choices,""," "),"utf8")
