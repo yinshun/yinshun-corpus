@@ -9,9 +9,6 @@ const bookStart=function(){
 	noteReset.call(this);
 }
 const bookEnd=function(){
-	var s=this.popBaseText();
-	if (s[s.length-1]=="\n") s=s.substr(0,s.length-1);//dirty
-	this.putLine(s);
 }
 
 const body=function(tag,closing){
@@ -37,8 +34,8 @@ const fileStart=function(fn,i){
 const bigrams={};
 //require("./bigrams").split(" ").forEach((bi)=>bigrams[bi]=true);
 
-var options={name:"yinshun",inputFormat:"xml",bits:[7,11,5,6],
-autostart:false, removePunc:true,bigrams}; //set textOnly not to build inverted
+var options={name:"yinshun",inputFormat:"xml",bitPat:"yinshun",
+textOnly:true,autostart:false, removePunc:true,bigrams}; //set textOnly not to build inverted
 var corpus=createCorpus(options);
 
 const {char,g,mapping}=require("./eudc");
