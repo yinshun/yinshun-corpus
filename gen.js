@@ -1,9 +1,10 @@
 const {createCorpus}=require("ksana-corpus-builder");
 const fs=require("fs");
-const sourcepath="genxml/";
+const sourcepath="xml/";
 const maxfile=0;
 var files=require("./filelist")(maxfile);
-//for (var i=0;i<24;i++) files.shift();
+//for (var i=0;i<22;i++) files.shift();
+//files.length=3;
 
 const bookStart=function(){
 	noteReset.call(this);
@@ -35,24 +36,27 @@ const bigrams={};
 //require("./bigrams").split(" ").forEach((bi)=>bigrams[bi]=true);
 
 var options={name:"yinshun",inputFormat:"xml",bitPat:"yinshun",
+maxTextStackDepth:3,
 textOnly:true,autostart:false, removePunc:true,bigrams}; //set textOnly not to build inverted
 var corpus=createCorpus(options);
 
 const {char,g,mapping}=require("./eudc");
-const {div,head,title}=require("./div");
+const {div,div1,div2,div3,div4,head,title,divfinalize}=require("./div");
 const {p,lb,list,item}=require("./format");
 const {note,ptr,ref,noteReset}=require("./note");
 const {choice,sic,corr,orig,reg}=require("./choice");
-
+const finalize=function(){
+	divfinalize.call(this);
+}
 corpus.setHandlers(
 	//open tag handlers
-	{body,list,item,div,p,lb,title,head,mapping,char,g,note,
+	{body,list,item,div,div1,div2,div3,div4,p,lb,title,head,mapping,char,g,note,
 		choice,corr,sic,orig,reg,ptr,ref}, 
 	//end tag handlers
-	{body,list,div,head,title,mapping,char,note,
+	{body,list,div,div1,div2,div3,div4,head,title,mapping,char,note,
 		choice,corr,sic,orig,reg,ref},  
 	//other handlers
-	{bookStart,bookEnd,onToken,fileStart}  
+	{bookStart,bookEnd,onToken,fileStart,finalize}  
 );
 
 files.forEach(fn=>corpus.addFile(sourcepath+fn));

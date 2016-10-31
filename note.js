@@ -9,21 +9,46 @@ var ptr=function(tag){ //foot note marker in maintext, point to <note xml:id>
 	if (tag.attributes.type==="note"){
 		var nid=tag.attributes.target;//注釋號
 		if (nid){
-			noteid[nid.substr(5)]=this.kPos;
+			const id=nid.substr(5);
+			if (this.inChoice==2) return; //ignore sic and orig
+
+			if (noteid[id]) {
+				if (typeof noteid[id]=="object") {
+					noteid[id].push(this.kPos);
+				} else {
+			//701.12 in y36.xml note id126.002
+					console.warn("note",nid,"has more than one ptr");
+					noteid[id]=[noteid[id],this.kPos];
+				}
+			} else {
+				noteid[id]=this.kPos;				
+			}
 		}
 	}
 }
 
 //章或節結束前的注釋群  連到注釋號 <note xml:id="id">
 //id 只為了找回 ptr 的 kpos
-var def=function(id,text){
-	var kpos=noteid[id];
-	if (typeof kpos==="undefined"){
+var def=function(id,defkrange){
+	var notekpos=noteid[id];
+	if (typeof notekpos==="undefined"){
 		console.error("def without ptr, xmlid:",id);
 		return;
-	}
+	} else {
+		if (typeof notekpos=="number"){
+			this.putBookField("ptr",defkrange,notekpos);
+			this.putBookField("def",notekpos,defKPos);
+		} else {
+			notekpos.forEach(function(p){
+				this.putBookField("ptr",defkrange,p)}.bind(this)
+			);
+			notekpos.forEach(function(p){
+				this.putBookField("def",p,defKPos)}.bind(this)
+			);
 
-	this.putField("intertext",text,kpos);
+		}
+	}
+	//might have negative value
 }
 
 var note=function(tag,closing){ //note cannot be nested.
@@ -37,10 +62,14 @@ var note=function(tag,closing){ //note cannot be nested.
 			defKPos=this.kPos;
 		}
 	} else { 
-		if (closing) { //inline note
-				this.putField("note",this.popText());	
-		} else {  //capture the text
-			return CaptureText;
+		if (tag.attributes["place"]=="inline2") {
+				//inline note (夾注)
+		} else {
+			if (closing) { //inline note
+					this.putBookField("note",this.popText());	
+			} else {  //capture the text
+				return CaptureText;
+			}			
 		}
 	}
 }
