@@ -12,7 +12,7 @@ var divdepth=0;
 
 const head=function(tag,closing) {
 	if (divdepth<1)return;
-	if (divdepth && closing) {
+	if (divdepth===1 && closing) {
 		this.putField("article",this.peekText(),this.kPos);
 	}
 	return this.handlers.head_subtree.call(this,tag,closing,divdepth);
