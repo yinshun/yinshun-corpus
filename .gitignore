@@ -3,4 +3,5 @@ scan
 *.rar
 charset.js
 bigram.js
+*.cor
 *.kdb
