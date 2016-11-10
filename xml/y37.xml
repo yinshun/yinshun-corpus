@@ -4785,10 +4785,10 @@ n="293.07"/>而相同的，有：</p>
 <lb n="293.11"/>
 <row><cell>3.數習義</cell><cell>1.習近義‧2.本性義</cell></row>
 </table><lb
-n="293.15"/><p><cit><bibl><title level="m">《菩提資糧論》</title>說：</bibl><q>「尸羅者，謂習近也，此是體相。又本性義，如世間有樂戒、苦戒等」</q></cit><lb
-n="293.16"/>。「習近」，就是<title level="m">《大毘婆沙論》</title>的「數習」。不斷的這樣行，就會「習以成性」，所以說「本<lb
-n="293.17"/>性」。這是通於善惡，也通於苦樂的。現在約「善」說，不斷的行（習）善，成為善的習性，這<lb
-n="293.18"/>就是尸羅。這種善的習性，「好行善法」，是樂於為善，有向善行善的推動作用。「不放逸」，
+n="293.12"/><p><cit><bibl><title level="m">《菩提資糧論》</title>說：</bibl><q>「尸羅者，謂習近也，此是體相。又本性義，如世間有樂戒、苦戒等」</q></cit><lb
+n="293.13"/>。「習近」，就是<title level="m">《大毘婆沙論》</title>的「數習」。不斷的這樣行，就會「習以成性」，所以說「本<lb
+n="293.14"/>性」。這是通於善惡，也通於苦樂的。現在約「善」說，不斷的行（習）善，成為善的習性，這<lb
+n="293.15"/>就是尸羅。這種善的習性，「好行善法」，是樂於為善，有向善行善的推動作用。「不放逸」，
 <pb n="294"/><lb
 n="294.01"/>是<q>「於所斷修防修為性」</q><ptr type="note" target="#note41.021"/>。對於應斷除的不善，能防護不作；應修的善法，能夠去行。所以<cit><bibl><title level="m">《<lb
 n="294.02"/>增壹阿含經》</title>說：</bibl><q>「無放逸行，所謂護心也」</q></cit>（約防惡說）<ptr type="note" target="#note41.022"/>。尸羅是善的習性，所以說「此言<lb
@@ -5361,22 +5361,19 @@ n="330.13"/><p>一、銅鍱部所傳：如<title level="m">《島史》</title>�
 n="330.14"/>的 <foreign xml:lang="en">A</foreign>.說。分派的系統，為：</p>
 <pb n="331"/><lb
 n="331.01"/><figure><graphic url="y37.0331.svg"/><figDesc>
-
-
-　　　　　　　　　　　　　　　　　　　 ┌ 多聞（<foreign xml:lang="sa">Bahussutaka</foreign>）
-　　　　　　　　　┌牛家（<foreign xml:lang="sa">Gokulika</foreign>）——┤
-　大眾部—————┤一說（<foreign xml:lang="sa">Ekabyohāra</foreign>）　└ 說假（<foreign xml:lang="sa">Paññatti</foreign>）
-（<foreign xml:lang="sa"><choice><sic>Mahāsāṃgītika</sic><corr resp="厚觀法師 周怡曄">Mahāsāṃghika</corr></choice></foreign>）　└——————————制多（<foreign xml:lang="sa">Cetiya</foreign>）
-
-　　　　　　　　　　　　　　　　　　　　┌說一切有（<foreign xml:lang="sa">Sabbatthavāda</foreign>）——飲光（<foreign xml:lang="sa">Kassapika</foreign>）
-　　　　　　　　　　　　　　　　　　　　│　　　　　　——說轉（<foreign xml:lang="sa"><choice><sic>Saṃkantika</sic><corr resp="厚觀法師 周怡曄">Saṃkrāntika</corr></choice></foreign>）
-　　　　　　　　　┌化地————————┤　　　　　　　——說經（<foreign xml:lang="pi">Suttavāda</foreign>）
-　　　　　　　　　│（<foreign xml:lang="sa">Mahiṃsāsaka</foreign>）　　　└法護（<foreign xml:lang="sa">Dhammaguttika</foreign>）　　
-　　　　　　　　　│　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-　上座部—————┤　　　　　　　　　　┌法上（<foreign xml:lang="pi">Dhammuttarika</foreign>）
-（<foreign xml:lang="pi">Theravāda</foreign>）　　　│　　　　　　　　　　│
-　　　　　　　　　└犢子————————┤賢胄（<foreign xml:lang="pi">Bhaddayānika</foreign>）
-　　　　　　　　　（<foreign xml:lang="pi">Vajjiputtaka</foreign>）　　　　  │六城（<foreign xml:lang="sa">Chandagārika</foreign>）
+　　　　　　　　　　　　　　　　　　　 ┌ 多聞（<foreign xml:lang="sa">Bahussutaka</foreign>）<lb
+n="331.02"/>　　　　　　　　　┌牛家（<foreign xml:lang="sa">Gokulika</foreign>）——┤<lb
+n="331.03"/>　大眾部—————┤一說（<foreign xml:lang="sa">Ekabyohāra</foreign>）　└ 說假（<foreign xml:lang="sa">Paññatti</foreign>）<lb
+n="331.04"/>（<foreign xml:lang="sa"><choice><sic>Mahāsāṃgītika</sic><corr resp="厚觀法師 周怡曄">Mahāsāṃghika</corr></choice></foreign>）　└——————————制多（<foreign xml:lang="sa">Cetiya</foreign>）<lb
+n="331.05"/>　　　　　　　　　　　　　　　　　　　　┌說一切有（<foreign xml:lang="sa">Sabbatthavāda</foreign>）——飲光（<foreign xml:lang="sa">Kassapika</foreign>）<lb
+n="331.06"/>　　　　　　　　　　　　　　　　　　　　│　　　　　　——說轉（<foreign xml:lang="sa"><choice><sic>Saṃkantika</sic><corr resp="厚觀法師 周怡曄">Saṃkrāntika</corr></choice></foreign>）<lb
+n="331.07"/>　　　　　　　　　┌化地————————┤　　　　　　　——說經（<foreign xml:lang="pi">Suttavāda</foreign>）<lb
+n="331.08"/>　　　　　　　　　│（<foreign xml:lang="sa">Mahiṃsāsaka</foreign>）　　　└法護（<foreign xml:lang="sa">Dhammaguttika</foreign>）　　<lb
+n="331.09"/>　　　　　　　　　│　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+　上座部—————┤　　　　　　　　　　┌法上（<foreign xml:lang="pi">Dhammuttarika</foreign>）<lb
+n="331.10"/>（<foreign xml:lang="pi">Theravāda</foreign>）　　　│　　　　　　　　　　│<lb
+n="331.11"/>　　　　　　　　　└犢子————————┤賢胄（<foreign xml:lang="pi">Bhaddayānika</foreign>）<lb
+n="331.12"/>　　　　　　　　　（<foreign xml:lang="pi">Vajjiputtaka</foreign>）　　　　  │六城（<foreign xml:lang="sa">Chandagārika</foreign>）
 　　　　　　　　　　　　　　　　　　　　└正量（<foreign xml:lang="sa">Saṃmiti</foreign>）  
   
 </figDesc></figure><lb
@@ -5392,32 +5389,30 @@ n="332.05"/>譯的<title level="m">《十八部論》</title>，真諦（<foreig
 n="332.06"/>及西藏的譯本——四本，即塚書的 <foreign xml:lang="en">E</foreign>.<foreign xml:lang="en">F</foreign>.<foreign xml:lang="en">G</foreign>.<foreign xml:lang="en">H</foreign>.——四說。雖有小異，但大致相合，其分化譜系，<lb
 n="332.07"/>依<title level="m">《異部宗輪論》</title>說，是：</p><lb
 n="332.08"/><figure><graphic url="y37.0332.svg"/><figDesc>
-　　　　　　　　　　　　┌ 一說部（<foreign xml:lang="sa">Ekavyāvahārika</foreign>）
-　　　　　　　　　　　┌┤ 說出世部（<foreign xml:lang="sa"><choice><sic>Lokottaravādināḥ</sic><corr resp="厚觀法師 周怡曄">Lokottaravādin</corr></choice></foreign>）
-　　　　　　　　　　　│└ <choice><orig>鷄</orig><reg>雞</reg></choice>胤部（<foreign xml:lang="sa"><choice><sic>Kukkutika</sic><corr resp="厚觀法師 周怡曄">Kukkuṭika</corr></choice></foreign>）
-　　　　　　　　　　　├─多聞部（<foreign xml:lang="sa">Bahuśrutīya</foreign>）
-大眾部────────┤
-（<foreign xml:lang="sa">Mahāsāṃghika</foreign>）　　　├───說假部（<foreign xml:lang="sa">Prajñaptivādin</foreign>） 
-　　　　　　　　　　　│　　　┌ 制多山部（<foreign xml:lang="sa">Caityaśaila</foreign>）
-　　　　　　　　　　　└───┤ 西山住部（<foreign xml:lang="sa">Aparaśaila</foreign>）
-　　　　　　　　　　　　　　　└ 北山住部（<foreign xml:lang="sa">Uttaraśaila</foreign>）
-</figDesc></figure>
-<pb n="333"/>
-<figure><graphic url="y37.0333.svg"/><figDesc>
-
-　　　　　　　 ┌雪山部（<foreign xml:lang="sa">Haimavata</foreign>）
-　　　　　　　 │　　　　　　　　　　　　　　　　　　　　　　　　┌法上部（<foreign xml:lang="sa">Dharmottarīya</foreign>）
-　　　　　　　 │　　　　　　　　　　　　　　　　　　　　　　　　│賢冑部（<foreign xml:lang="sa"><choice><sic>Bhadrāyanīya</sic><corr resp="厚觀法師 周怡曄">Bhadrayānīya</corr></choice></foreign>）
-上座部────┤　　　　　　　　　 ┌─犢子部 ─────────┤
-（<foreign xml:lang="sa">Sthavira</foreign>）  　 │　　　　　　　　　 │ （<foreign xml:lang="sa">Vātsīputrīya</foreign>）　　　　　　　│正量部（Saṃmatīya）
-　　　　　　　 │　　　　　　　　　 │　　　　　　　　　　　　　 └密林山部（<foreign xml:lang="sa">Channagirika</foreign>）
-　　　　　　　 └說一切有部 ────┼───化地部（<foreign xml:lang="sa">Mahīśāsaka</foreign>）──法藏部（<foreign xml:lang="sa">Dharmaguptaka</foreign>）
-　　　　　　　（<foreign xml:lang="sa"><choice><sic>Sarvāstivāda</sic><corr resp="厚觀法師 謝淑歆">Sarvāstivādin</corr></choice></foreign>）　　　       │
-　　　　　　　　　　　　　　　　　　├────飲光部（<foreign xml:lang="sa">Kāśyapīya</foreign>，即善歲部 <foreign xml:lang="sa">Suvarṣaka</foreign>）
-　　　　　　　　　　　　　　　　　　│
-　　　　　　　　　　　　　　　　　　└─────經量部（<foreign xml:lang="sa">Sautrāntika</foreign>，即說轉部 <foreign xml:lang="sa">Saṃkrāntivādin</foreign>）
+　　　　　　　　　　　　┌ 一說部（<foreign xml:lang="sa">Ekavyāvahārika</foreign>）<lb
+n="332.09"/>　　　　　　　　　　　┌┤ 說出世部（<foreign xml:lang="sa"><choice><sic>Lokottaravādināḥ</sic><corr resp="厚觀法師 周怡曄">Lokottaravādin</corr></choice></foreign>）<lb
+n="332.10"/>　　　　　　　　　　　│└ <choice><orig>鷄</orig><reg>雞</reg></choice>胤部（<foreign xml:lang="sa"><choice><sic>Kukkutika</sic><corr resp="厚觀法師 周怡曄">Kukkuṭika</corr></choice></foreign>）<lb
+n="332.11"/>　　　　　　　　　　　├─多聞部（<foreign xml:lang="sa">Bahuśrutīya</foreign>）<lb
+n="332.12"/>大眾部────────┤
+（<foreign xml:lang="sa">Mahāsāṃghika</foreign>）　　　├───說假部（<foreign xml:lang="sa">Prajñaptivādin</foreign>） <lb
+n="332.13"/>　　　　　　　　　　　│　　　┌ 制多山部（<foreign xml:lang="sa">Caityaśaila</foreign>）<lb
+n="332.14"/>　　　　　　　　　　　└───┤ 西山住部（<foreign xml:lang="sa">Aparaśaila</foreign>）<lb
+n="332.15"/>　　　　　　　　　　　　　　　└ 北山住部（<foreign xml:lang="sa">Uttaraśaila</foreign>）
 </figDesc></figure>
 <pb n="333"/><lb
+n="333.01"/><figure><graphic url="y37.0333.svg"/><figDesc>
+　　　　　　　 ┌雪山部（<foreign xml:lang="sa">Haimavata</foreign>）<lb
+n="333.02"/>　　　　　　　 │　　　　　　　　　　　　　　　　　　　　　　　　┌法上部（<foreign xml:lang="sa">Dharmottarīya</foreign>）<lb
+n="333.03"/>　　　　　　　 │　　　　　　　　　　　　　　　　　　　　　　　　│賢冑部（<foreign xml:lang="sa"><choice><sic>Bhadrāyanīya</sic><corr resp="厚觀法師 周怡曄">Bhadrayānīya</corr></choice></foreign>）<lb
+n="333.04"/>上座部────┤　　　　　　　　　 ┌─犢子部 ─────────┤<lb
+n="333.05"/>（<foreign xml:lang="sa">Sthavira</foreign>）  　 │　　　　　　　　　 │ （<foreign xml:lang="sa">Vātsīputrīya</foreign>）　　　　　　　│正量部（Saṃmatīya）<lb
+n="333.06"/>　　　　　　　 │　　　　　　　　　 │　　　　　　　　　　　　　 └密林山部（<foreign xml:lang="sa">Channagirika</foreign>）<lb
+n="333.07"/>　　　　　　　 └說一切有部 ────┼───化地部（<foreign xml:lang="sa">Mahīśāsaka</foreign>）──法藏部（<foreign xml:lang="sa">Dharmaguptaka</foreign>）<lb
+n="333.08"/>　　　　　　　（<foreign xml:lang="sa"><choice><sic>Sarvāstivāda</sic><corr resp="厚觀法師 謝淑歆">Sarvāstivādin</corr></choice></foreign>）　　　       │<lb
+n="333.09"/>　　　　　　　　　　　　　　　　　　├────飲光部（<foreign xml:lang="sa">Kāśyapīya</foreign>，即善歲部 <foreign xml:lang="sa">Suvarṣaka</foreign>）<lb
+n="333.10"/>　　　　　　　　　　　　　　　　　　│<lb
+n="333.11"/>　　　　　　　　　　　　　　　　　　└─────經量部（<foreign xml:lang="sa">Sautrāntika</foreign>，即說轉部 <foreign xml:lang="sa">Saṃkrāntivādin</foreign>）
+</figDesc></figure><lb
 n="333.12"/><p>四本不同的是：從犢子部分出的，<title level="m">《十八部論》</title>的六城部（<foreign xml:lang="sa">Ṣaṇṇagarika</foreign>），其他三本作密<lb
 n="333.13"/>林山部。大眾部分化到制多山部，以下四本出入不一，如：</p>
 <table rendition="no_border" facs="y37.0333.svg">
@@ -5445,27 +5440,27 @@ n="334.14"/><p>另有上座部所傳（與說一切有部說相近）：大眾�
 n="334.15"/>。敘述了從二部而分十八部，但先後次第的經過不詳。其系譜為：</p>
 <pb n="335"/><lb
 n="335.01"/><figure><graphic url="y37.0335.svg"/><figDesc>
-　　　　　　　　　　　┌ 大眾部（<foreign xml:lang="sa">Mahāsāṃghika</foreign>）
-　　　　　　　　　　　│ 一說部（<foreign xml:lang="sa">Ekavyāvahārika</foreign>）
-　　　　　　　　　　　│ 說出世部（<foreign xml:lang="sa">Lokottaravādin</foreign>）
-　　　　　　　　　　　│ 多聞部（<foreign xml:lang="sa">Bahuśrutīya</foreign>）
-大眾部────────┤ 說假部（<foreign xml:lang="sa">Prajñaptivādin</foreign>）
-（<foreign xml:lang="sa">Mahāsāṃghika</foreign>）　　　│ 制多山部（<foreign xml:lang="sa"><choice><sic>Caitīyaśaila</sic><corr resp="厚觀法師 周怡曄">Caityaśaila</corr></choice></foreign>）
-　　　　　　　　　　　│ 東山部（<foreign xml:lang="sa">Pūrvaśaila</foreign>）
-　　　　　　　　　　　└ 西山部（<foreign xml:lang="sa">Aparaśaila</foreign>）
-　　　　　　　　　　　┌ 上座部（<foreign xml:lang="sa">Sthavira</foreign>）又名雪山部（<foreign xml:lang="sa">Haimavata</foreign>）
-　　　　　　　　　　　│ 說一切有部（<foreign xml:lang="sa">Sarvāstivādin</foreign>）又名分別說部（<foreign xml:lang="sa">Vibhajyavādin</foreign>）
-　　　　　　　　　　　│　　 又名說因部（<foreign xml:lang="sa">Hetuvādin</foreign>）又名 <foreign xml:lang="sa">Muruṇṭaka</foreign>
-　　　　　　　　　　　│ 犢子部（<foreign xml:lang="sa">Vātsīputrīya</foreign>）
-　　　　　　　　　　　│ 法上部（<foreign xml:lang="sa">Dharmottarīya</foreign>）
-上座部────────┤ 賢<choice><sic>道</sic><corr resp="厚觀法師 謝淑歆">冑</corr></choice>部（<foreign xml:lang="sa">Bhadrayānīya</foreign>）
-（<foreign xml:lang="sa">Sthavira</foreign>）　　　　　　│ 一切所貴部（<foreign xml:lang="sa">Saṃmatīya</foreign>）又名不可棄部（<foreign xml:lang="sa">Avantaka</foreign>）又名 <foreign xml:lang="sa">Kurukula</foreign>
-　　　　　　　　　　　│ 化地部（<foreign xml:lang="sa">Mahīśāsaka</foreign>）
-　　　　　　　　　　　│ 法藏部（<foreign xml:lang="sa">Dharmaguptaka</foreign>）
-　　　　　　　　　　　│ 善歲部（<foreign xml:lang="sa">Suvarṣaka</foreign>）又名飲光部（<foreign xml:lang="sa">Kāśyapīya</foreign>）
-　　　　　　　　　　　└（無）上部（<foreign xml:lang="sa">Uttarīya</foreign>）又名說轉部（<foreign xml:lang="sa">Saṃkrāntivādin</foreign>）
-</figDesc></figure>
+　　　　　　　　　　　┌ 大眾部（<foreign xml:lang="sa">Mahāsāṃghika</foreign>）<lb
+n="335.02"/>　　　　　　　　　　　│ 一說部（<foreign xml:lang="sa">Ekavyāvahārika</foreign>）<lb
+n="335.03"/>　　　　　　　　　　　│ 說出世部（<foreign xml:lang="sa">Lokottaravādin</foreign>）<lb
+n="335.04"/>　　　　　　　　　　　│ 多聞部（<foreign xml:lang="sa">Bahuśrutīya</foreign>）<lb
+n="335.05"/>大眾部────────┤ 說假部（<foreign xml:lang="sa">Prajñaptivādin</foreign>）<lb
+n="335.06"/>（<foreign xml:lang="sa">Mahāsāṃghika</foreign>）　　　│ 制多山部（<foreign xml:lang="sa"><choice><sic>Caitīyaśaila</sic><corr resp="厚觀法師 周怡曄">Caityaśaila</corr></choice></foreign>）<lb
+n="335.07"/>　　　　　　　　　　　│ 東山部（<foreign xml:lang="sa">Pūrvaśaila</foreign>）<lb
+n="335.08"/>　　　　　　　　　　　└ 西山部（<foreign xml:lang="sa">Aparaśaila</foreign>）<lb
+n="335.09"/>　　　　　　　　　　　┌ 上座部（<foreign xml:lang="sa">Sthavira</foreign>）又名雪山部（<foreign xml:lang="sa">Haimavata</foreign>）<lb
+n="335.10"/>　　　　　　　　　　　│ 說一切有部（<foreign xml:lang="sa">Sarvāstivādin</foreign>）又名分別說部（<foreign xml:lang="sa">Vibhajyavādin</foreign>）<lb
+n="335.11"/>　　　　　　　　　　　│　　 又名說因部（<foreign xml:lang="sa">Hetuvādin</foreign>）又名 <foreign xml:lang="sa">Muruṇṭaka</foreign><lb
+n="335.12"/>　　　　　　　　　　　│ 犢子部（<foreign xml:lang="sa">Vātsīputrīya</foreign>）<lb
+n="335.13"/>　　　　　　　　　　　│ 法上部（<foreign xml:lang="sa">Dharmottarīya</foreign>）<lb
+n="335.14"/>上座部────────┤ 賢<choice><sic>道</sic><corr resp="厚觀法師 謝淑歆">冑</corr></choice>部（<foreign xml:lang="sa">Bhadrayānīya</foreign>）
 <pb n="336"/><lb
+n="336.01"/>（<foreign xml:lang="sa">Sthavira</foreign>）　　　　　　│ 一切所貴部（<foreign xml:lang="sa">Saṃmatīya</foreign>）又名不可棄部（<foreign xml:lang="sa">Avantaka</foreign>）又名 <foreign xml:lang="sa">Kurukula</foreign><lb
+n="336.02"/>　　　　　　　　　　　│ 化地部（<foreign xml:lang="sa">Mahīśāsaka</foreign>）<lb
+n="336.03"/>　　　　　　　　　　　│ 法藏部（<foreign xml:lang="sa">Dharmaguptaka</foreign>）<lb
+n="336.04"/>　　　　　　　　　　　│ 善歲部（<foreign xml:lang="sa">Suvarṣaka</foreign>）又名飲光部（<foreign xml:lang="sa">Kāśyapīya</foreign>）<lb
+n="336.05"/>　　　　　　　　　　　└（無）上部（<foreign xml:lang="sa">Uttarīya</foreign>）又名說轉部（<foreign xml:lang="sa">Saṃkrāntivādin</foreign>）
+</figDesc></figure><lb
 n="336.06"/><p>上座部所傳，審細的考察起來，與說一切有部——<title level="m">《異部宗輪論》</title>的傳說相近。不同的是：<lb
 n="336.07"/>大眾部系中省去雞胤部，上座部系中缺少密林山部，本末恰合十八部。這一傳說，與<title level="m">《十八部論<lb
 n="336.08"/>》</title>特別相近：如制多、東山、西山——三部；無上部又名說轉部，與<title level="m">《十八部論》</title>的<q>「因大師欝<lb
@@ -5479,61 +5474,58 @@ n="336.15"/><p>三、大眾部所傳：這是塚書的 M.說。大眾部所傳�
 <pb n="337"/><lb
 n="337.01"/>別說部——三部，然後再分裂，其系譜是：</p><lb
 n="337.02"/><figure><graphic url="y37.0337.svg"/><figDesc>
-　　　　　　　　　　　　　　　　　　　　　┌ 根本說一切有部（<foreign xml:lang="sa">Mūlasarvāstivādin</foreign>）
-　　　　　　　　┌說一切有部───────┤
-　　　　　　　　│（<foreign xml:lang="sa">Sarvāstivādin</foreign>）　　　　　└ 說經部（<foreign xml:lang="sa">Sautrāntika</foreign>）
-上座部─────┤　　　　　　　　　　　　┌ 正量部（<foreign xml:lang="sa">Saṃmatīya</foreign>）
-（<foreign xml:lang="sa">Sthavira</foreign>）　　　│　　　　　　　　　　　　│ 法上部（<foreign xml:lang="sa">Dharmottarīya</foreign>）
-　　　　　　　　└犢子部─────────┤
- 　　　　　　　　（<foreign xml:lang="sa">Vātsīputrīya</foreign>）　　　│ 賢冑部（<foreign xml:lang="sa">Bhadrayānīya</foreign>）
-　　　　　　　　　　　　　　　　　　　　　└ 六城部（<foreign xml:lang="sa">Ṣaṇṇagarika</foreign>）
-　　　　　　　　┌ 根本大眾部（<foreign xml:lang="sa">Mūlamahāsāṃghika</foreign>）
-　　　　　　　　│ 東山部（<foreign xml:lang="sa">Pūrvaśaila</foreign>）
-　　　　　　　　│ 西山部（<foreign xml:lang="sa">Aparaśaila</foreign>）
-　　　　　　　　│ 王山部（<foreign xml:lang="sa">Rājagirika</foreign>）
-大眾部─────┤
-（<foreign xml:lang="sa">Mahāsāṃghika</foreign>）  │ 雪山部（<foreign xml:lang="sa">Haimavata</foreign>）
-　　　　　　　　│ 制多部（<foreign xml:lang="sa">Caitika</foreign>）
-　　　　　　　　│ 義成部（<foreign xml:lang="sa">Siddhārthika</foreign>）
-　　　　　　　　└ 牛住部（<foreign xml:lang="sa">Gokulika</foreign>）
-　　　　　　　　┌ 化地部（<foreign xml:lang="sa">Mahīśāsaka</foreign>）
-　　　　　　　　│ 飲光部（<foreign xml:lang="sa">Kāśyapīya</foreign>）
-分別說部────┤
-（<foreign xml:lang="sa">Vibhajyavādin</foreign>）│ 法藏部（<foreign xml:lang="sa">Dharmaguptaka</foreign>）
-　　　　　　　　└ 赤銅鍱部（<foreign xml:lang="sa"><choice><sic>Tāmraśātīya</sic><corr resp="厚觀法師 周怡曄">Tāmraśāṭīya</corr></choice></foreign>）
- 
-</figDesc></figure>
+　　　　　　　　　　　　　　　　　　　　　┌ 根本說一切有部（<foreign xml:lang="sa">Mūlasarvāstivādin</foreign>）<lb
+n="337.03"/>　　　　　　　　┌說一切有部───────┤<lb
+n="337.04"/>　　　　　　　　│（<foreign xml:lang="sa">Sarvāstivādin</foreign>）　　　　　└ 說經部（<foreign xml:lang="sa">Sautrāntika</foreign>）<lb
+n="337.05"/>上座部─────┤　　　　　　　　　　　　┌ 正量部（<foreign xml:lang="sa">Saṃmatīya</foreign>）<lb
+n="337.06"/>（<foreign xml:lang="sa">Sthavira</foreign>）　　　│　　　　　　　　　　　　│ 法上部（<foreign xml:lang="sa">Dharmottarīya</foreign>）<lb
+n="337.07"/>　　　　　　　　└犢子部─────────┤<lb
+n="337.08"/> 　　　　　　　　（<foreign xml:lang="sa">Vātsīputrīya</foreign>）　　　│ 賢冑部（<foreign xml:lang="sa">Bhadrayānīya</foreign>）<lb
+n="337.09"/>　　　　　　　　　　　　　　　　　　　　　└ 六城部（<foreign xml:lang="sa">Ṣaṇṇagarika</foreign>）<lb
+n="337.10"/>　　　　　　　　┌ 根本大眾部（<foreign xml:lang="sa">Mūlamahāsāṃghika</foreign>）<lb
+n="337.11"/>　　　　　　　　│ 東山部（<foreign xml:lang="sa">Pūrvaśaila</foreign>）<lb
+n="337.12"/>　　　　　　　　│ 西山部（<foreign xml:lang="sa">Aparaśaila</foreign>）<lb
+n="337.13"/>　　　　　　　　│ 王山部（<foreign xml:lang="sa">Rājagirika</foreign>）<lb
+n="337.14"/>大眾部─────┤<lb
+n="337.15"/>（<foreign xml:lang="sa">Mahāsāṃghika</foreign>）  │ 雪山部（<foreign xml:lang="sa">Haimavata</foreign>）<lb
+n="337.16"/>　　　　　　　　│ 制多部（<foreign xml:lang="sa">Caitika</foreign>）<lb
+n="337.17"/>　　　　　　　　│ 義成部（<foreign xml:lang="sa">Siddhārthika</foreign>）<lb
+n="337.18"/>　　　　　　　　└ 牛住部（<foreign xml:lang="sa">Gokulika</foreign>）<lb
+n="337.19"/>　　　　　　　　┌ 化地部（<foreign xml:lang="sa">Mahīśāsaka</foreign>）
 <pb n="338"/><lb
+n="338.01"/>　　　　　　　　│ 飲光部（<foreign xml:lang="sa">Kāśyapīya</foreign>）<lb
+n="338.02"/>分別說部────┤<lb
+n="338.03"/>（<foreign xml:lang="sa">Vibhajyavādin</foreign>）│ 法藏部（<foreign xml:lang="sa">Dharmaguptaka</foreign>）<lb
+n="338.04"/>　　　　　　　　└ 赤銅鍱部（<foreign xml:lang="sa"><choice><sic>Tāmraśātīya</sic><corr resp="厚觀法師 周怡曄">Tāmraśāṭīya</corr></choice></foreign>）
+</figDesc></figure><lb
 n="338.05"/><p>四、一切所貴——正量部所傳：為塚書的 <foreign xml:lang="en">D</foreign>.說。其分派的系譜，是：</p><lb
 n="338.06"/><figure><graphic url="y37.0338.svg"/><figDesc>
-　　　　　　　　　　┌一說部（<foreign xml:lang="sa">Ekavyāvahārika</foreign>）
-大眾部───────┤　　　　　　　　　　　　　　　　　　　　　　　　　┌多聞部（<foreign xml:lang="sa">Bahuśrutīya</foreign>）
-（<foreign xml:lang="sa">Mahāsāṃghika</foreign>）　　 │　　　　　　　　　　　　　　　　　　　　　　　┌─┤
-　　　　　　　　　　└牛住部（<foreign xml:lang="sa">Gokulika</foreign>）─┤　└說假部（<foreign xml:lang="sa">Prajñaptivādin</foreign>）
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　└──制多部（<foreign xml:lang="sa">Caitika</foreign>）
-
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　┌化地部（<foreign xml:lang="sa">Mahīśāsaka</foreign>）
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　│
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　│法藏部（<foreign xml:lang="sa">Dharmaguptaka</foreign>）
-　　　　　　　　　　　　　　　　　　　　　┌說一切有部─────────┬分別說部 ────────┤
-　　　　　　　　　　　　　　　　　　　　　│　（<foreign xml:lang="sa">Sarvāstivādin</foreign>）　　　　　　│（<foreign xml:lang="sa">Vibhajyavādin</foreign>）　　　　　│銅鍱部（<foreign xml:lang="sa">Tāmraśaṭīya</foreign>）
+　　　　　　　　　　┌一說部（<foreign xml:lang="sa">Ekavyāvahārika</foreign>）<lb
+n="338.07"/>大眾部───────┤　　　　　　　　　　　　　　　　　　　　　　　　　┌多聞部（<foreign xml:lang="sa">Bahuśrutīya</foreign>）<lb
+n="338.08"/>（<foreign xml:lang="sa">Mahāsāṃghika</foreign>）　　 │　　　　　　　　　　　　　　　　　　　　　　　┌─┤<lb
+n="338.09"/>　　　　　　　　　　└牛住部（<foreign xml:lang="sa">Gokulika</foreign>）─┤　└說假部（<foreign xml:lang="sa">Prajñaptivādin</foreign>）<lb
+n="338.10"/>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　└──制多部（<foreign xml:lang="sa">Caitika</foreign>）<lb
+n="338.11"/>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　┌化地部（<foreign xml:lang="sa">Mahīśāsaka</foreign>）<lb
+n="338.12"/>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　│
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　│法藏部（<foreign xml:lang="sa">Dharmaguptaka</foreign>）<lb
+n="338.13"/>　　　　　　　　　　　　　　　　　　　　　┌說一切有部─────────┬分別說部 ────────┤<lb
+n="338.14"/>　　　　　　　　　　　　　　　　　　　　　│　（<foreign xml:lang="sa">Sarvāstivādin</foreign>）　　　　　　│（<foreign xml:lang="sa">Vibhajyavādin</foreign>）　　　　　│銅鍱部（<foreign xml:lang="sa">Tāmraśaṭīya</foreign>）<lb
+n="338.15"/>　　　　　　　　　　　　　　　　　　　　　│　　　　　　　　　　　　　　│　　　　　　　　　　　　 │
 　　　　　　　　　　　　　　　　　　　　　│　　　　　　　　　　　　　　│　　　　　　　　　　　　 │
 　　　　　　　　　　　　　　　　　　　　　│　　　　　　　　　　　　　　│　　　　　　　　　　　　 │
-　　　　　　　　　　　　　　　　　　　　　│　　　　　　　　　　　　　　│　　　　　　　　　　　　 │
-　　　　　　　　　　　　　　　　　　　　　│　　　　　　　　　　　　　　│　　　　　　　　　　　　 └飲光部（<foreign xml:lang="sa">Kāśyapīya</foreign>）
-　　　　　　　┌先上座部─────────┤　　　　　　　　　　　　　　│
-　　　　　　　│ （<foreign xml:lang="sa">Pūrvasthavira</foreign>）　　　　　　│　　　　　　　　　　　　　　└說轉部（<foreign xml:lang="sa">Saṃkrāntivādin</foreign>）
-　　　　　　　│　　　　　　　　　　　　　 │　　　　　　　　　　　　　　　　　　　　　　　　　　　┌ 法上部（<foreign xml:lang="sa">Dharmottarīya</foreign>）
-　　　　　　　│　　　　　　　　　　　　　 │　　　　　　　　　　　　　　┌大山部────────┬┤
-上座部────┤　　　　　　　　　　　　　 │　　　　　　　　　　　　　　│（<foreign xml:lang="pi">Mahāgirika</foreign>）　　　　　│└ 賢冑部（<foreign xml:lang="sa">Bhadrayānīya</foreign>）
-（<foreign xml:lang="sa">Sthavira</foreign>）　　│　　　　　　　　　　　　　 └犢子部───────────┤　　　　　　　　　　　│
-　　　　　　　│　　　　　　　　　　　　　 （<foreign xml:lang="sa">Vātsīputrīya</foreign>）　　　　　　　　  │　　　　　　　　　　 　│
-　　　　　　　│　　　　　　　　　　　　　　　　　　　　　　　　　　　　 └正量部────────┴─ 六城部（<foreign xml:lang="sa">Ṣaṇṇagarika</foreign>）
-　　　　　　　│　　　　　　　　　　　　　　　　　　　　　　　　　　　（<foreign xml:lang="sa">Saṃmatīya</foreign>）
-　　　　　　　└ 雪山部（<foreign xml:lang="sa">Haimavata</foreign>）
-</figDesc></figure>
 <pb n="339"/><lb
-n="339.11"/><p>正量部的傳說，與一般不同的，是大山部。六城部從大山部生，又說從正量部生六城部。大<lb
+n="339.01"/>　　　　　　　　　　　　　　　　　　　　　│　　　　　　　　　　　　　　│　　　　　　　　　　　　 └飲光部（<foreign xml:lang="sa">Kāśyapīya</foreign>）<lb
+n="339.02"/>　　　　　　　┌先上座部─────────┤　　　　　　　　　　　　　　│<lb
+n="339.03"/>　　　　　　　│ （<foreign xml:lang="sa">Pūrvasthavira</foreign>）　　　　　　│　　　　　　　　　　　　　　└說轉部（<foreign xml:lang="sa">Saṃkrāntivādin</foreign>）<lb
+n="339.04"/>　　　　　　　│　　　　　　　　　　　　　 │　　　　　　　　　　　　　　　　　　　　　　　　　　　┌ 法上部（<foreign xml:lang="sa">Dharmottarīya</foreign>）<lb
+n="339.05"/>　　　　　　　│　　　　　　　　　　　　　 │　　　　　　　　　　　　　　┌大山部────────┬┤<lb
+n="339.06"/>上座部────┤　　　　　　　　　　　　　 │　　　　　　　　　　　　　　│（<foreign xml:lang="pi">Mahāgirika</foreign>）　　　　　│└ 賢冑部（<foreign xml:lang="sa">Bhadrayānīya</foreign>）<lb
+n="339.07"/>（<foreign xml:lang="sa">Sthavira</foreign>）　　│　　　　　　　　　　　　　 └犢子部───────────┤　<lb
+n="339.08"/>　　　　　　　　　　│　　　　　　　│　　　　　　　　　　　　　 （<foreign xml:lang="sa">Vātsīputrīya</foreign>）　　　　　　　　  │　<lb
+n="339.09"/>　　　　　　　　　 　│　　　　　　　│　　　　　　　　　　　　　　　　　　　　　　　　　　　　 └正量部────────┴─ 六城部（<foreign xml:lang="sa">Ṣaṇṇagarika</foreign>）<lb
+n="339.10"/>　　　　　　　│　　　　　　　　　　　　　　　　　　　　　　　　　　　（<foreign xml:lang="sa">Saṃmatīya</foreign>）<lb
+n="339.11"/>　　　　　　　└ 雪山部（<foreign xml:lang="sa">Haimavata</foreign>）
+</figDesc></figure><lb<p>正量部的傳說，與一般不同的，是大山部。六城部從大山部生，又說從正量部生六城部。大<lb
 n="339.12"/>山與正量，也許是一部的別名吧！</p><lb
 n="339.13"/><p>上面四派的傳說，就是佛教中最重要的，自稱「根本」的上座（其實是銅鍱部）、大眾、說<lb
 n="339.14"/>一切有、正量部的傳說。雖所說的不相同，但都代表了自己一派的傳說。塚書還有六說，那是後<lb
@@ -5574,10 +5566,10 @@ n="342.01"/>同性。對於不同的部分，如推究其不同的原因，為�
 n="342.02"/>有幫助的。部派分化的經過，可以因而得到更近於事實的論定。要論究部派的次第分化，首先要<lb
 n="342.03"/>確定二部、三部、四部——部派的大綱，如下：</p><lb
 n="342.04"/><figure><graphic url="y37.0342.svg"/><figDesc>
-大眾部──大眾部　　　　　───大眾部
-　　　　┌（上座）分別說部───分別說部（上座部）
-上座部─┤　　　　　　　　　　┌說一切有部
-　　　　└上座（說一切有）部─┤
+大眾部──大眾部　　　　　───大眾部<lb
+n="342.05"/>　　　　┌（上座）分別說部───分別說部（上座部）<lb
+n="342.06"/>上座部─┤　　　　　　　　　　┌說一切有部<lb
+n="342.07"/>　　　　└上座（說一切有）部─┤
 　　　　　　　　　　　　　　　└犢 子 部（正 量）
 </figDesc></figure><lb
 n="342.08"/><p>佛法先分為大眾部（<foreign xml:lang="sa">Mahāsāṃghika</foreign>）與上座部（<foreign xml:lang="sa">Sthavira</foreign>），是佛教界一致的傳說。大眾<lb
@@ -5602,14 +5594,15 @@ n="343.10"/>分別說部生起，是「大眾說」、「正量說」所同的�
 n="343.11"/>但進一步觀察，仍可發見他的共同性。銅鍱部的傳說，是以上座部、分別說部正統自居的。在他<lb
 n="343.12"/>，上座、分別說、銅鍱——三名，是看作一體的。所以，銅鍱部所說是：</p><lb
 n="343.13"/><figure><graphic url="y37.0343.svg"/><figDesc>
-上座部（銅鍱）──化地部 ……┬飲光部
-　　　　　　　　　　　　　　 └法藏部
+上座部（銅鍱）──化地部 ……┬飲光部<lb
+n="343.14"/>　　　　　　　　　　　　　　 └法藏部
 </figDesc></figure><lb
 n="343.15"/><p>四部同屬一系，只是在生起先後上，自以為就是上座部，最根本的。這一理由，也可以解說
 <pb n="344"/><lb
 n="344.01"/>「有部說」：</p><lb
 n="344.02"/><figure><graphic url="y37.0344.svg"/><figDesc>
-說一切有部─┬化地部──法藏部
+說一切有部─┬化地部──法藏部<lb
+n="344.03"/>
 　　　　　　└─────飲光部
 </figDesc></figure><lb
 n="344.04"/><p>化地、飲光、法藏，都從說一切有部生；有部自以為上座部的正統，所以等於說從上座部生<lb
@@ -5654,28 +5647,27 @@ n="346.10"/>際。這樣，佛法分為二部、三部、四部，而分出更�
 n="346.11"/>十八部是誰，是不容易的，這<choice><orig>裏</orig><reg>裡</reg></choice>只就大綱分派，加以推定而已。</p>
 <pb n="347"/><lb
 n="347.01"/><figure><graphic url="y37.0347.svg"/><figDesc>
-
-　　　　　　┌　|一說部　　　　　　　　　　　　　|　　　　　　　　　　　|
-　　　　　　│　|────────────────|───────────|說大空（方廣）部
-　　　　　　│　| （說出世部）　　　　　　　　　  |　　　　　　　　　　　|
-　大眾部──┤　|　　　　　　　　　　　　　　　　|　　　　　　　　　　　|
-　　　　　　│　|　　　　 ┌多聞部　　　　　　　 |　　　　　　　　　　　|
-　　　　　　│　|雞胤部 ─┤　　　　　　　　　　 |　　　　　　　　　　　|
-　　　　　　│　|　　　　 └說假部　　　　　　　 |　　　　　　　　　　　|
-　　　　　　│　|　　　　　　　　　　　　　　　　|　　　　　┌（東山部）|
-　　　　　　└　|────────────────|制多部──┤　 　　　 |
-　　　　　　　　|　　　　　　　　　　　　　　　　|　　　　　└（西山部）|
-　　　　　　　　|　　　　　　　　　　　　　　　　|　　　　　┌ 法上部　 |
-　　　　　　　　|　　　　　　　　　　　　　　　　|　　　　　│ 賢冑部　 |
-　　　　　　　　|　　　　　　　　　　┌─────|犢子部──┤　　　　　|
-　　　　　　　　|　　　　　　　　　　│　　　　　|　　　　　│ 正量部　 |
-　　　　　　　　|　　　　　　　　　　│　　　　　|　　　　　└ 六城部　 |
-　　　　　　┌　|上座（說一切有）部─┴說一切有部|───────────|說轉部
-　上座───┤　|　　　　　　　　　　　　　　　┌|化地部　　　　　　　　|
-　　　　　　│　|　　　　　　　　　　　　　　　│|法藏部　　　　　　　　|
-　　　　　　└　|（上座）分別說部───────┤|　　　　　　　　　　　|
-　　　　　　　　|　　　　　　　　　　　　　　　│|飲光部　　　　　　　　|
-　　　　　　　　|　　　　　　　　　　　　　　　└|銅鍱部　　　　　　　　|
+　　　　　　┌　|一說部　　　　　　　　　　　　　|　　　　　　　　　　　|<lb
+n="347.02"/>　　　　　　│　|────────────────|───────────|說大空（方廣）部<lb
+n="347.03"/>　　　　　　│　| （說出世部）　　　　　　　　　  |　　　　　　　　　　　|<lb
+n="347.04"/>　大眾部──┤　|　　　　　　　　　　　　　　　　|　　　　　　　　　　　|<lb
+n="347.05"/>　　　　　　│　|　　　　 ┌多聞部　　　　　　　 |　　　　　　　　　　　|<lb
+n="347.06"/>　　　　　　│　|雞胤部 ─┤　　　　　　　　　　 |　　　　　　　　　　　|<lb
+n="347.07"/>　　　　　　│　|　　　　 └說假部　　　　　　　 |　　　　　　　　　　　|<lb
+n="347.08"/>　　　　　　│　|　　　　　　　　　　　　　　　　|　　　　　┌（東山部）|<lb
+n="347.09"/>　　　　　　└　|────────────────|制多部──┤　 　　　 |<lb
+n="347.10"/>　　　　　　　　|　　　　　　　　　　　　　　　　|　　　　　└（西山部）|<lb
+n="347.11"/>　　　　　　　　|　　　　　　　　　　　　　　　　|　　　　　┌ 法上部　 |<lb
+n="347.12"/>　　　　　　　　|　　　　　　　　　　　　　　　　|　　　　　│ 賢冑部　 |<lb
+n="347.13"/>　　　　　　　　|　　　　　　　　　　┌─────|犢子部──┤　　　　　|<lb
+n="347.14"/>　　　　　　　　|　　　　　　　　　　│　　　　　|　　　　　│ 正量部　 |<lb
+n="347.15"/>　　　　　　　　|　　　　　　　　　　│　　　　　|　　　　　└ 六城部　 |<lb
+n="347.16"/>　　　　　　┌　|上座（說一切有）部─┴說一切有部|───────────|說轉部<lb
+n="347.17"/>　上座───┤　|　　　　　　　　　　　　　　　┌|化地部　　　　　　　　|<lb
+n="347.18"/>　　　　　　│　|　　　　　　　　　　　　　　　│|法藏部　　　　　　　　|<lb
+n="347.19"/>　　　　　　└　|（上座）分別說部───────┤|　　　　　　　　　　　|<lb
+n="347.20"/>　　　　　　　　|　　　　　　　　　　　　　　　│|飲光部　　　　　　　　|<lb
+n="347.21"/>　　　　　　　　|　　　　　　　　　　　　　　　└|銅鍱部　　　　　　　　|
 </figDesc></figure>
 <pb n="348"/><lb
 n="348.01"/><p>從部派分裂的系譜中，理會出部派分裂的四階段，每一階段的意義不同。第一階段，分為大<lb
@@ -10064,41 +10056,41 @@ n="620.07"/>究<title level="m">《般若經》</title>的集出過程，推定<
 n="620.08"/>，到底那些是存有共同部分？現在依「中品般若」的「放光本」，「下品般若」的「漢譯本」，<lb
 n="620.09"/>對比如下：</p><lb
 n="620.10"/><figure><graphic url="y37.0620.svg"/><figDesc>
-「放光本」　　　　　　　　　　　「漢譯本」
-┌───────┐
-│〈放光品〉第一│
-│　　|　　　　　│
-│〈舌相品〉第八│
-└───────┘
- 〈行品〉第九───────┐
-　　|　　　　　　　　　　　│
- 〈僧那僧涅品〉第一八　　　│
-┌──────────┐ 　│
-│〈問摩訶衍品〉第一九│ 　│
-│〈陀隣尼品〉第二〇　│ 　├──〈道行品〉第一
-│〈治地品〉第二一　　│ 　│
-└──────────┘ 　│
- 〈問出衍品〉第二二　　　　│
-　　|　　　　　　　　　　　│
- 〈問觀品〉第二七─────┘
- 〈無住品〉第二八 ───────〈難問品〉第二
-　　|
- 〈無盡品〉第六八　　　　　　　 〈不可盡品〉第二六
-　　　　　　　　　　　　　　　　┌───────┐
-　　　　　　　　　　　　　　　　│〈隨品〉第二七│
-　　　　　　　　　　　　　　　　└───────┘
-┌──────────┐
-│〈六度相攝品〉第六九│
-│　　|　　　　　　　　│
-│　　|　　　　　　　　│
-│〈諸法妙化品〉第八七│
-└──────────┘
-　〈薩陀波倫品〉第八八 ─────〈薩陀波倫菩薩品〉第二八
-　　　|
-　　　|　　　　　　　　　　│
-　〈囑累品〉第九〇 ────┴──〈囑累品〉第三〇
-</figDesc></figure>
+「放光本」　　　　　　　　　　　「漢譯本」<lb
+n="620.11"/>┌───────┐<lb
+n="620.12"/>│〈放光品〉第一│<lb
+n="620.13"/>│　　|　　　　　│<lb
+n="620.14"/>│〈舌相品〉第八│<lb
+n="620.15"/>└───────┘
+<pb n="621"/><lb
+n="621.01"/> 〈行品〉第九───────┐<lb
+n="621.02"/>　　|　　　　　　　　　　　│<lb
+n="621.03"/> 〈僧那僧涅品〉第一八　　　│<lb
+n="621.04"/>┌──────────┐ 　│<lb
+n="621.05"/>│〈問摩訶衍品〉第一九│ 　│<lb
+n="621.06"/>│〈陀隣尼品〉第二〇　│ 　├──〈道行品〉第一<lb
+n="621.07"/>│〈治地品〉第二一　　│ 　│<lb
+n="621.08"/>└──────────┘ 　│<lb
+n="621.09"/> 〈問出衍品〉第二二　　　　│<lb
+n="621.10"/>　　|　　　　　　　　　　　│<lb
+n="621.11"/> 〈問觀品〉第二七─────┘<lb
+n="621.12"/> 〈無住品〉第二八 ───────〈難問品〉第二<lb
+n="621.13"/>　　| 〈無盡品〉第六八　　　　　　　 〈不可盡品〉第二六<lb
+n="621.14"/>　　　　　　　　　　　　　　　　┌───────┐<lb
+n="621.15"/>　　　　　　　　　　　　　　　　│〈隨品〉第二七│<lb
+n="621.16"/>　　　　　　　　　　　　　　　　└───────┘<lb
+n="621.17"/>┌──────────┐<lb
+n="621.18"/>│〈六度相攝品〉第六九│<lb
+n="621.19"/>│　　|　　　　　　　　│
 <pb n="622"/><lb
+n="622.01"/>│　　|　　　　　　　　│<lb
+n="622.02"/>│〈諸法妙化品〉第八七│<lb
+n="622.03"/>└──────────┘<lb
+n="622.04"/>　〈薩陀波倫品〉第八八 ─────〈薩陀波倫菩薩品〉第二八<lb
+n="622.05"/>　　　|<lb
+n="622.06"/>　　　|　　　　　　　　　　│<lb
+n="622.07"/>　〈囑累品〉第九〇 ────┴──〈囑累品〉第三〇
+</figDesc></figure><lb
 n="622.08"/><p>依「中品般若」的「放光本」說，全經可分為三部分：「前分」、「中分」、「後分」。「<lb
 n="622.09"/>中（間部）分」，從<title level="a">〈行品〉</title>第九，到<title level="a">〈無盡品〉</title>第六八，共六〇品，占全經的三分之二。這部<lb
 n="622.10"/>分，與「漢譯本」的前二六品相當（廣與略不同），僅在論到「大乘」時，「中品般若」多了<title level="a">〈<lb
@@ -10159,9 +10151,9 @@ n="625.15"/>趣分〉</title>。鈴木忠宗的<title level="a">〈關於般若�
 n="626.01"/>」<ptr type="note" target="#note77.007"/>。梶芳光運的<title level="m">《原始般若經之研究》</title>，以廣泛的比較，而推定「小品」為在先的。並考定<title level="m">《<lb
 n="626.02"/>般若經》</title>的發展體系為<ptr type="note" target="#note77.008"/>：</p><lb
 n="626.03"/><figure><graphic url="y37.0626.svg"/><figDesc>
-原始般若經→道行經系統→放光經系統 →初會系統
-　　　　　　文殊問般若經 ─────→第八會
-　　　　　　金剛般若經 ──────→第九會
+原始般若經→道行經系統→放光經系統 →初會系統<lb
+n="626.04"/>　　　　　　文殊問般若經 ─────→第八會<lb
+n="626.05"/>　　　　　　金剛般若經 ──────→第九會
 </figDesc></figure><lb
 n="626.06"/><p>在二部、三部、五分中，推定為：從「原始般若」而<title level="m">《道行般若》</title>——「下品」；從<title level="m">《道行<lb
 n="626.07"/>般若》</title>而<title level="m">《放光般若》</title>——「中品」；更從<title level="m">《放光般若》</title>而發展為「初會」般若——「上品」。<lb
@@ -10755,13 +10747,13 @@ n="662.15"/>，學習佛的自行化他為目標的。所以「下品般若」�
 n="663.01"/>是「原始般若」，是「直示般若」深法的。第二品以下，是由淺而深的「漸學般若」，可以約菩<lb
 n="663.02"/>薩四階位說（二種四階位的綜合，含有五階位），說明由淺而深的修學歷程，列表如下：</p><lb
 n="663.03"/><figure><graphic url="y37.0663.svg"/><figDesc>
-直示般若 ──────────────────〈初品〉
-　　　　┌ 發心‧初學────────────〈釋提桓因品〉…………〈歎淨品〉
-　　　　│（發心）初學轉久學────────〈不可思議品〉…………〈船喻品〉
-漸學般若│（發心‧初學）久學得不退─────〈大如品〉………………〈深心求菩提
-　　　　│　　　　　　　　　　　　　　　　　　　　　　　　　　　　　品〉上
-　　　　└（發心‧初學‧久學）不退向佛道──〈深心求菩提品〉下……〈見阿閦佛國
-　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　品〉
+直示般若 ──────────────────〈初品〉<lb
+n="663.04"/>　　　　┌ 發心‧初學────────────〈釋提桓因品〉…………〈歎淨品〉<lb
+n="663.05"/>　　　　│（發心）初學轉久學────────〈不可思議品〉…………〈船喻品〉<lb
+n="663.06"/>漸學般若│（發心‧初學）久學得不退─────〈大如品〉………………〈深心求菩提<lb
+n="663.07"/>　　　　│　　　　　　　　　　　　　　　　　　　　　　　　　　　　　品〉上<lb
+n="663.08"/>　　　　└（發心‧初學‧久學）不退向佛道──〈深心求菩提品〉下……〈見阿閦佛國<lb
+n="663.09"/>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　品〉
 </figDesc></figure><lb
 n="663.10"/><p>「原始般若」是專提般若波羅蜜的，著重於不退轉（為二乘）菩薩的深悟無生。法門的流行<lb
 n="663.11"/>傳布，不退轉以下的，是久學、新學、初發心。對於發心、新學，著重於聽聞、讀、誦、受持、<lb
@@ -11041,16 +11033,16 @@ n="680.08"/>品般若」，沒有這一部分，所以是集成「中品般若�
 n="680.09"/>」間的不同。這樣，「前分」只有五品。第一<title level="a">〈序品〉</title>，是全經的序分，也是「前分」的序分。<lb
 n="680.10"/>「前分」五品，可分為序起、正說、結讚——三分，內容如下：</p><lb
 n="680.11"/><figure><graphic url="y37.0680.svg"/><figDesc>
-　　　┌放光現瑞，十方菩薩來集──────┐
-序起─┤列舉菩薩法，勸學般若波羅蜜────┴〈序品〉第一
-　　　└得諸天敬奉與護持─────────┐
-　　　┌行般若波羅蜜，超勝二乘─────┬┴〈奉鉢品〉第二
-正說─┤習應般若波羅蜜，是空相應────┴─〈習應品〉第三
-　　　└般若相應菩薩，何處來生，往生何處─┐
-結讚─┬聽眾得益受記───────────┴〈往生品〉第四
-　　　└大眾稱歎般若────────────〈歎度品〉第五
-</figDesc></figure>
+　　　┌放光現瑞，十方菩薩來集──────┐<lb
+n="680.12"/>序起─┤列舉菩薩法，勸學般若波羅蜜────┴〈序品〉第一<lb
+n="680.13"/>　　　└得諸天敬奉與護持─────────┐<lb
+n="680.14"/>　　　┌行般若波羅蜜，超勝二乘─────┬┴〈奉鉢品〉第二<lb
+n="680.15"/>正說─┤習應般若波羅蜜，是空相應────┴─〈習應品〉第三
 <pb n="681"/><lb
+n="681.01"/>　　　└般若相應菩薩，何處來生，往生何處─┐<lb
+n="681.02"/>結讚─┬聽眾得益受記───────────┴〈往生品〉第四<lb
+n="681.03"/>　　　└大眾稱歎般若────────────〈歎度品〉第五
+</figDesc></figure><lb
 n="681.04"/><p>「前分」，佛為舍利弗（<foreign xml:lang="sa">Śāriputra</foreign>）說。經文的重點是：首先說：<q>「菩薩摩訶薩，欲以一切<lb
 n="681.05"/>種智知一切法，當習行般若波羅蜜」</q><ptr type="note" target="#note82.014"/>。一切種智是佛智，佛智要從菩薩修習廣大的功德中來，<lb
 n="681.06"/>而這都非學般若不可。般若能攝受廣大功德行，不只是「下品般若」那樣的攝導五度。這段經文<lb
@@ -12354,11 +12346,11 @@ n="761.02"/>八部。周（天<choice><orig>册</orig><reg>冊</reg></choice>萬
 n="761.03"/>本，完全依據<title level="m">《歷代三寶紀》</title>。然偶爾注明，某經有多少紙（頁），所以知道當時實際存在（注<lb
 n="761.04"/>明紙數）的，只有三部，與<title level="m">《眾經目錄》</title>等相同的三部<ptr type="note" target="#note88.004"/>。<title level="m">《大經》</title>古譯而注明多少紙的，初見<lb
 n="761.05"/>於靜泰的<title level="m">《眾經目錄》</title><ptr type="note" target="#note88.005"/>；<title level="m">《大周刊定目錄》</title>有二說<ptr type="note" target="#note88.006"/>，今對列如下：</p>
-<table rendition="#custom_table_6" facs="y37.0761.svg">
-<lb n="761.06"/>
-<row><cell></cell><cell><title level="m">《靜泰錄》</title></cell><cell><title level="m">《大周錄》</title>卷三</cell><cell><title level="m">《大周錄》</title>卷十三</cell></row>
-<row><cell><title level="m">《無量清淨平等覺經》</title>　白延譯</cell><cell>六十紙</cell><cell>七十紙</cell><cell>三十六紙</cell></row>
-<row><cell><title level="m">《阿彌陀經》</title>　　　　　支謙譯</cell><cell>五十三紙</cell><cell>五十三紙</cell><cell>五十三紙</cell></row>
+<table rendition="#custom_table_6" facs="y37.0761.svg"><lb
+ n="761.06"/><row><cell></cell><cell><title level="m">《靜泰錄》</title></cell><cell><title level="m">《大周錄》</title>卷三</cell><cell><title level="m">《大周錄》</title>卷十三</cell></row><lb
+ n="761.07"/><row><cell><title level="m">《無量清淨平等覺經》</title>　白延譯</cell><cell>六十紙</cell><cell>七十紙</cell><cell>三十六紙</cell></row><lb
+ n="761.08"/><row><cell><title level="m">《阿彌陀經》</title>　　　　　支謙譯</cell><cell>五十三紙</cell><cell>五十三紙</cell><cell>五十三紙</cell></row><lb
+ n="761.09"/>
 <row><cell><title level="m">《無量壽經》</title>　　　　　竺法護譯</cell><cell>三十九紙</cell><cell>四十六紙</cell><cell>三十六紙</cell></row>
 </table><lb
 n="761.10"/><p>依<title>《大正藏》</title>古譯三部（每頁分三欄）來計算：支謙譯的<title level="m">《阿彌陀經》</title>，共五十四欄，是五<lb
@@ -13642,27 +13634,27 @@ n="840.14"/>—前四品相當。序起部分，與<title level="m">《賢護經
 n="840.15"/>全正確，今對列如下：</p>
 <pb n="841"/><lb
 n="841.01"/><figure><graphic url="y37.0841.svg"/><figDesc>
-┌───┐　　　　　　┌───┐
-│三卷本│　　　　　　│一卷本│
-└───┘　　　　　　└───┘
-1.〈問事品〉………………1.〈問事品〉（簡略）
-2.〈行品〉…………………2.〈行品〉
-3.〈四事品〉………………3.〈四事品〉（缺末後偈）
-4.〈譬喻品〉………………4.〈譬喻品〉
-5.〈無著品〉
-6.〈四輩品〉………………5.〈四輩品〉
-7.〈授決品〉
-8.〈擁護品〉………………6.〈擁護品〉（缺偈）
-9.〈羼羅耶佛品〉
-10 〈請佛品〉
-11 〈無想品〉
-12 〈十八不共十種力品〉
-13 〈勸助品〉………………7.〈勸助品〉（缺偈）
-14 〈師子意佛品〉………／
-15 〈至誠佛品〉……………8.〈至誠品〉（缺偈）
-16 〈佛印品〉……………／
-</figDesc></figure>
+┌───┐　　　　　　┌───┐<lb
+n="841.02"/>│三卷本│　　　　　　│一卷本│<lb
+n="841.03"/>└───┘　　　　　　└───┘<lb
+n="841.04"/>1.〈問事品〉………………1.〈問事品〉（簡略）<lb
+n="841.05"/>2.〈行品〉…………………2.〈行品〉<lb
+n="841.06"/>3.〈四事品〉………………3.〈四事品〉（缺末後偈）<lb
+n="841.07"/>4.〈譬喻品〉………………4.〈譬喻品〉<lb
+n="841.08"/>5.〈無著品〉<lb
+n="841.09"/>6.〈四輩品〉………………5.〈四輩品〉<lb
+n="841.10"/>7.〈授決品〉<lb
+n="841.11"/>8.〈擁護品〉………………6.〈擁護品〉（缺偈）<lb
+n="841.12"/>9.〈羼羅耶佛品〉<lb
+n="841.13"/>10 〈請佛品〉<lb
+n="841.14"/>11 〈無想品〉
+12 〈十八不共十種力品〉<lb
+n="841.15"/>13 〈勸助品〉………………7.〈勸助品〉（缺偈）<lb
+n="841.16"/>14 〈師子意佛品〉………／
 <pb n="842"/><lb
+n="842.01"/>15 〈至誠佛品〉……………8.〈至誠品〉（缺偈<lb
+n="842.02"/>）16 〈佛印品〉……………／
+</figDesc></figure><lb
 n="842.03"/><p><title level="m">《般舟三昧經》</title>一卷本，比三卷本缺了六品，由於文字部分與三卷本相合，所以或推論為從<lb
 n="842.04"/>三卷本抄出的。一卷本與三卷本（及<title level="m">《賢護經》</title>）對比起來，一卷本序分，如沒有八大菩薩，應<lb
 n="842.05"/>該是簡略了的。否則，<title level="a">〈擁護品〉</title>中的八大菩薩，<q>「見佛所說，皆大歡喜」</q>，就不免有突然而來<lb
@@ -14921,10 +14913,9 @@ n="920.03"/>可分為二期：竺法護（及同時）及以前所譯的，是�
 n="920.04"/>竺法護所譯的，西元三世紀初，也應該已經存在了。竺法護以後所譯的，是後期，大體是三世紀<lb
 n="920.05"/>以後所集出的。列表如下：</p>
 <table rendition="#custom_table_6" facs="y37.0920.svg">
-<lb n="920.06"/>
-<row><cell></cell><cell>A</cell><cell>B</cell><cell>C</cell><cell>合計</cell></row>
-<row><cell>前期所譯</cell><cell>四</cell><cell>二二</cell><cell>八</cell><cell>三四</cell></row>
-<row><cell>後期所譯</cell><cell>三</cell><cell>六</cell><cell>四</cell><cell>一三</cell></row>
+<lb n="920.06"/><row><cell></cell><cell>A</cell><cell>B</cell><cell>C</cell><cell>合計</cell></row><lb
+n="920.07"/><row><cell>前期所譯</cell><cell>四</cell><cell>二二</cell><cell>八</cell><cell>三四</cell></row><lb
+n="920.08"/><row><cell>後期所譯</cell><cell>三</cell><cell>六</cell><cell>四</cell><cell>一三</cell></row>
 </table><lb
 n="920.09"/><p>二、依文體——長行或長行與偈頌雜說來分別：原始聖典的<title level="m">《雜阿含經》</title>，就有長行與長行<lb
 n="920.10"/>偈頌雜說的二類。為天（四眾）人（四眾）八眾所作的通俗說法，都是長行與偈頌雜說的。大乘<lb
@@ -16757,38 +16748,36 @@ n="1033.01"/>的。然與舊有的三千大千世界的結構，也有類似處�
 n="1033.02"/>、中千、大千，而成三千大千世界。華藏莊嚴世界海，是以娑婆世界那樣的世界為單位，經一世<lb
 n="1033.03"/>界種，十世界種，百世界種，也經三番的組合而成，如下圖：</p><lb
 n="1033.04"/><figure><graphic url="y37.1033.svg"/><figDesc>
-　　　　　　┌─────────────┐
-　　　　　　│　　　　　　千　　　　　　│
+　　　　　　┌─────────────┐<lb
+n="1033.05"/>　　　　　　│　　　　　　千　　　　　　│
 　　　　　　│　+---------------------------------+　│
 　　　　　　│　|　　　　 千　　　　　 |　│
 　　　　　　│　|　+------------------------+　|　│
 　　　　　　│　|　|　　　千　　　　|　|　│
-　　娑婆世界│　|　|　+----------------+　|　|　│
-　　　　　　│大|中|小|一四天下 　|世 |世|世│
-　　　　　　│　|　|　+----------------+　|　|　│
+　　娑婆世界│　|　|　+----------------+　|　|　│<lb
+n="1033.06"/>　　　　　　│大|中|小|一四天下 　|世 |世|世│<lb
+n="1033.07"/>　　　　　　│　|　|　+----------------+　|　|　│
 　　　　　　│　|　|　　　界　　　　|　|　│
 　　　　　　│　|　+------------------------+　|　│
 　　　　　　│　|　　　　 界　　　　　 |　│
 　　　　　　│　+---------------------------------+　│
 　　　　　　│　　　　　　界　　　　　　│
-　　　　　　└─────────────┘
-
-
-　　　　　　┌────────────────┐
-　　　　　　│　　　　　　　世　　　　　　　　│
+　　　　　　└─────────────┘<lb
+n="1033.08"/>　　　　　　┌────────────────┐<lb
+n="1033.09"/>　　　　　　│　　　　　　　世　　　　　　　　│
 　　　　　　│　┌────────────┐　│
 　　　　　　│　│　　　　　世　　　　　　│　│
 　　　　　　│　│　┌────────┐　│　│
-　　　　　　│　│　│　　　世　　　　│　│　│
-　　華藏世界│　│　│　 +---------------+　 │　│　│
-　　　　　　│百│十│一│娑婆世界│界│界│界│
-　　　　　　│　│　│　 +---------------+　│　│　│
+　　　　　　│　│　│　　　世　　　　│　│　│<lb
+n="1033.10"/>　　華藏世界│　│　│　 +---------------+　 │　│　│<lb
+n="1033.11"/>　　　　　　│百│十│一│娑婆世界│界│界│界│<lb
+n="1033.12"/>　　　　　　│　│　│　 +---------------+　│　│　│
 　　　　　　│　│　│　　　種　　　　│　│　│
 　　　　　　│　│　└────────┘　│　│
 　　　　　　│　│　　　　　種　　　　　　│　│
 　　　　　　│　└────────────┘　│
-　　　　　　│　　　　　　　種　　　　　　　　│
-　　　　　　└────────────────┘
+　　　　　　│　　　　　　　種　　　　　　　　│<lb
+n="1033.13"/>　　　　　　└────────────────┘
 </figDesc></figure><lb
 n="1033.14"/><p>約佛所化的世界來說，也有同樣的意義。一向說，釋迦佛是在一四天下的南洲成佛，而以三<lb
 n="1033.15"/>千大千世界為化土，這才引起誰真誰化的疑問。大乘經擴展了釋尊的化區，<cit><bibl><title level="m">《首楞嚴三昧經》</title>說
