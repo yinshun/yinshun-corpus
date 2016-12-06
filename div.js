@@ -1,5 +1,6 @@
 const CaptureText=true;
 const title=function(tag,closing){
+	if (tag.attributes.level) return ;//prevent duplicate title
 	if (this.started)return;//only process title before body
 	if (closing) {
 		const t=this.popText();
@@ -13,7 +14,7 @@ var divdepth=0;
 const head=function(tag,closing) {
 	if (divdepth<1)return;
 	if (divdepth===1 && closing) {
-		this.putField("article",this.peekText(),this.kPos);
+		this.putArticle(this.peekText());
 	}
 	return this.handlers.head_subtree.call(this,tag,closing,divdepth);
 }
@@ -32,15 +33,12 @@ const div=function(tag,closing) {
 const divfinalize=function(){
 	this.handlers.head_subtree_finalize.call(this);
 }
-
-const div1=function(tag,closing){
-	const depth=parseInt(tag.name.substr(3),10);
-	if (closing) {
-		const text=this.popText();
-		this.putField("toc",depth+"\t"+text);
-	} else {
-		return true;
-	}
+const collection=function(tag){
+	this.putField("toc","1\t"+tag.attributes.label);
 }
-const div2=div1, div3=div1 ,div4=div1;
-module.exports={title,div,div1,div2,div3,div4,head,divfinalize};
+const articlegroup=function(tag){
+	this.putField("toc","2\t"+tag.attributes.label);
+	this.putGroup(tag.attributes.label);
+}
+
+module.exports={div,title,collection,articlegroup,head,divfinalize};

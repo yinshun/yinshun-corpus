@@ -53,6 +53,6 @@ var parse=function(type,target,kpos){
 		link=m[1]+"p"+m[2]+(m[3]||"");
 	}
 
-	this.putBookField("link",type+"@"+link,kpos);
+	this.putArticleField("link",type+"@"+link,kpos);
 }
 module.exports={parse};

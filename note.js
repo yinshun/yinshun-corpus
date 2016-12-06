@@ -36,14 +36,14 @@ var def=function(id,defkrange){
 		return;
 	} else {
 		if (typeof notekpos=="number"){
-			this.putBookField("ptr",defkrange,notekpos);
-			this.putBookField("def",notekpos,defKPos);
+			this.putArticleField("ptr",defkrange,notekpos);
+			this.putArticleField("def",notekpos,defKPos);
 		} else {
 			notekpos.forEach(function(p){
-				this.putBookField("ptr",defkrange,p)}.bind(this)
+				this.putArticleField("ptr",defkrange,p)}.bind(this)
 			);
 			notekpos.forEach(function(p){
-				this.putBookField("def",p,defKPos)}.bind(this)
+				this.putArticleField("def",p,defKPos)}.bind(this)
 			);
 
 		}
@@ -66,7 +66,8 @@ var note=function(tag,closing){ //note cannot be nested.
 				//inline note (夾注)
 		} else {
 			if (closing) { //inline note
-					this.putBookField("note",this.popText());	
+				const t=this.popText();
+				t&&this.putArticleField("note",t);
 			} else {  //capture the text
 				return CaptureText;
 			}			
