@@ -3,8 +3,8 @@ const fs=require("fs");
 const sourcepath="xml/";
 const maxfile=0;
 var files=require("./filelist")(maxfile);
-//for (var i=0;i<22;i++) files.shift();
-//files.length=5;
+//for (var i=0;i<39;i++) files.shift();
+//files.length=2;
 
 const bookStart=function(){
 	noteReset.call(this);
@@ -46,10 +46,11 @@ var corpus=createCorpus(options);
 const {char,g,mapping}=require("./eudc");
 const {div,collection,articlegroup,head,title,divfinalize}=require("./div");
 const {p,lb,list,item}=require("./format");
-const {note,ptr,ref,noteReset}=require("./note");
+const {note,ptr,ref,noteReset,notefinalize}=require("./note");
 const {choice,sic,corr,orig,reg}=require("./choice");
 const finalize=function(){
 	divfinalize.call(this);
+	notefinalize.call(this);
 }
 corpus.setHandlers(
 	//open tag handlers

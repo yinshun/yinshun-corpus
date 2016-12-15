@@ -2,9 +2,9 @@
 var noteid={};
 const CaptureText=true;
 const Ref=require("./ref");
-var refKPos=-1; //kpos of <ref>
-var defKPos=-1; //kpos of <def>
-
+var refKPos=0; //kpos of <ref>
+var defKPos=0; //kpos of <def>
+var ptr_id="";
 var ptr=function(tag){ //foot note marker in maintext, point to <note xml:id>
 	if (tag.attributes.type==="note"){
 		var nid=tag.attributes.target;//注釋號
@@ -45,12 +45,40 @@ var def=function(id,defkrange){
 			notekpos.forEach(function(p){
 				this.putArticleField("def",p,defKPos)}.bind(this)
 			);
-
 		}
 	}
 	//might have negative value
 }
+const cbetareg1=/CBETA, ?T(\d+), ?no\. ?\d+[AB]?, ?p\. ?(\d+), ?([abc]\d+)\-([abc]\d)+/
+const cbetareg2=	/CBETA, ?T(\d+), ?no\. ?\d+[AB]?, ?p\. ?(\d+), ?([abc]\d)+/
+var taisholinks=[];
+const parseCBETA=function(str,kpos){
+	var m=str.match(cbetareg1);
+	if (!m) {
+		m=str.match(cbetareg2);
+	}
 
+	if (m) {
+		var v=m[1];
+		if (v.charAt(0)=="0") v=v.substr(1);
+		var link=v+"p"+m[2]+m[3];
+		if (m[4]) link+='-'+m[4];
+		taisholinks.push(link+"\t"+kpos);
+	}
+}
+const targetreg=/vol:(\d+);page:(p\d+[abc])/
+const parseTaishoTarget=function(target,kpos){
+	var m=target.match(targetreg);
+	if (m) {
+		taisholinks.push(m[1]+m[2]+"\t"+kpos);
+	} else {
+		console.error("error taisho target",target);
+	}
+}
+const notefinalize=function(){
+	require("fs").writeFileSync("taisholinks.txt",taisholinks.join("\n"),"utf8");
+	taisholinks=[];
+}
 var note=function(tag,closing){ //note cannot be nested.
 	if (tag.attributes.type=="editorial")return;
 	var xmlid=tag.attributes["xml:id"];
@@ -58,7 +86,9 @@ var note=function(tag,closing){ //note cannot be nested.
 		if (closing) { //closing a note in note group
 			var krange=this.makeKRange(defKPos,this.kPos);
 			def.call(this,xmlid.substr(4),krange);
+			defKPos=0;
 		} else {//keep the starting kpos of <note>
+			ptr_id=xmlid.substr(4);
 			defKPos=this.kPos;
 		}
 	} else { 
@@ -67,6 +97,7 @@ var note=function(tag,closing){ //note cannot be nested.
 		} else {
 			if (closing) { //inline note
 				const t=this.popText();
+				parseCBETA(t,this.kPos);
 				t&&this.putArticleField("note",t);
 			} else {  //capture the text
 				return CaptureText;
@@ -83,17 +114,34 @@ var noteReset=function(){
 var ref=function(tag,closing){ //link to taisho or taixu
 	if (tag.isSelfClosing) {
 		if (closing){
-			var krange=this.makeKRange(this.kPos,this.kPos);
-			Ref.parse.call(this,tag.attributes.type,tag.attributes.target,krange);			
+			const krange=this.makeKRange(this.kPos,this.kPos);
+			const target=tag.attributes.target;
+			if (tag.attributes.type==="taisho") {
+				var kpos=this.kPos;
+				if (defKPos) { //ref inside <note xml:id> </note> , use ptr as kpos
+					kpos=noteid[ptr_id]+"\t"+ptr_id;
+				}
+				parseTaishoTarget(target,kpos);
+			}
+			Ref.parse.call(this,tag.attributes.type,target,krange);
 		}
 	} else {
 		if (closing) {
-			var krange=this.makeKRange(refKPos,this.kPos);
-			Ref.parse.call(this,tag.attributes.type,tag.attributes.target,krange);
+			const krange=this.makeKRange(refKPos,this.kPos);
+			const target=tag.attributes.target;
+
+			if (tag.attributes.type==="taisho") {
+				var kpos=this.kPos;
+				if (defKPos) { //ref inside <note xml:id> </note> , use ptr as kpos
+					kpos=noteid[ptr_id]+"\t"+ptr_id;
+				}
+				parseTaishoTarget(target,kpos);
+			}
+			Ref.parse.call(this,tag.attributes.type,target,krange);
 		} else {		
 			refKPos=this.kPos;
 		}		
 	}
 }
 
-module.exports={note,ptr,ref,noteReset};
+module.exports={note,ptr,ref,noteReset,notefinalize};
