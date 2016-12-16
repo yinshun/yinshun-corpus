@@ -4,7 +4,7 @@ const sourcepath="xml/";
 const maxfile=0;
 var files=require("./filelist")(maxfile);
 //for (var i=0;i<39;i++) files.shift();
-//files.length=2;
+//files.length=30;
 
 const bookStart=function(){
 	noteReset.call(this);
