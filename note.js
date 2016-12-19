@@ -49,8 +49,8 @@ var def=function(id,defkrange){
 	}
 	//might have negative value
 }
-const cbetareg1=/CBETA, ?T(\d+), ?no\. ?\d+[AB]?, ?p\. ?(\d+), ?([abc]\d+)\-([abc]\d)+/
-const cbetareg2=	/CBETA, ?T(\d+), ?no\. ?\d+[AB]?, ?p\. ?(\d+), ?([abc]\d)+/
+
+const cbetareg=/CBETA, ?T(\d+), ?no\. ?\d+[AB]?, ?p\. ?(\d+), ?([abc]\d+)/
 var linktotaisho=[];
 const addtaisholink=function(taishoaddress,kpos,id){
 	if (typeof kpos!=="number") {
@@ -59,16 +59,11 @@ const addtaisholink=function(taishoaddress,kpos,id){
 	linktotaisho.push([kpos,taishoaddress]);
 }
 const parseCBETA=function(str,kpos){
-	var m=str.match(cbetareg1);
-	if (!m) {
-		m=str.match(cbetareg2);
-	}
-
+	var m=str.match(cbetareg);
 	if (m) {
 		var v=m[1];
 		if (v.charAt(0)=="0") v=v.substr(1);
 		var link=v+"p"+m[2]+m[3];
-		if (m[4]) link+='-'+m[4];
 		addtaisholink(link,kpos);
 	}
 }
@@ -82,6 +77,7 @@ const parseTaishoTarget=function(target,kpos){
 	}
 }
 const notefinalize=function(){
+	linktotaisho.sort((a,b)=>a[0]-b[0]);
 	const pos=linktotaisho.map(item=>item[0] );
 	const value=linktotaisho.map(item=>item[1] );
 	require("fs").writeFileSync("linktotaisho.js",'module.exports={'+
