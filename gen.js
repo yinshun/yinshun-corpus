@@ -40,6 +40,7 @@ var options={name:"yinshun",inputFormat:"xml",bitPat:"yinshun",
 maxTextStackDepth:3,
 articleFields:["ptr","def","note","link"],
 //textOnly:true,
+removePunc:true,
 autostart:false,bigrams}; //set textOnly not to build inverted
 var corpus=createCorpus(options);
 

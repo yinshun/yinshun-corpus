@@ -50,7 +50,7 @@ var def=function(id,defkrange){
 	//might have negative value
 }
 
-const cbetareg=/CBETA, ?T(\d+), ?no\. ?\d+[AB]?, ?p\. ?(\d+), ?([abc]\d+)/
+const cbetareg=/CBETA, ?T(\d+), ?no\. ?\d+[A-Za-z]?, ?p\. ?(\d+), ?([abc]\d+)/
 var linktotaisho=[];
 const addtaisholink=function(taishoaddress,kpos,id){
 	if (typeof kpos!=="number") {
