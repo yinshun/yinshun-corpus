@@ -36,7 +36,7 @@ require("./bigrams").split(" ").forEach((bi)=>bigrams[bi]=true);
 
 //build bigram if not exists
 
-var options={name:"yinshun",inputFormat:"xml",bitPat:"yinshun",
+var options={name:"yinshun",inputFormat:"xml",bitPat:"yinshun",title:"印順法師佛學著作集",
 maxTextStackDepth:3,
 articleFields:["ptr","def","note","link"],
 //textOnly:true,
