@@ -38,6 +38,7 @@ var def=function(id,defkrange){
 		if (typeof notekpos=="number"){
 			this.putArticleField("ptr",defkrange,notekpos);
 			this.putArticleField("def",notekpos,defKPos);
+			this.putArticleField("noteid",id);
 		} else {
 			notekpos.forEach(function(p){
 				this.putArticleField("ptr",defkrange,p)}.bind(this)
@@ -45,6 +46,9 @@ var def=function(id,defkrange){
 			notekpos.forEach(function(p){
 				this.putArticleField("def",p,defKPos)}.bind(this)
 			);
+			notekpos.forEach(function(){
+				this.putArticleField("noteid",id)
+			})
 		}
 	}
 	//might have negative value
