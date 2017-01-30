@@ -38,7 +38,7 @@ require("./bigrams").split(" ").forEach((bi)=>bigrams[bi]=true);
 
 var options={name:"yinshun",inputFormat:"xml",bitPat:"yinshun",title:"印順法師佛學著作集",
 maxTextStackDepth:3,
-articleFields:["ptr","def","note","link","noteid"],
+articleFields:["ptr","def","note","link","noteid","figure"],
 //textOnly:true,
 removePunc:true,
 extrasize:1024*1024*10, //for svg
@@ -50,7 +50,7 @@ const {div,collection,articlegroup,head,title,divfinalize}=require("./div");
 const {p,lb,list,item}=require("./format");
 const {note,ptr,ref,noteReset,notefinalize}=require("./note");
 const {choice,sic,corr,orig,reg}=require("./choice");
-const {graphic}=require("./graphic");
+const {graphic,figure}=require("./graphic");
 const finalize=function(){
 	divfinalize.call(this);
 	notefinalize.call(this);
@@ -58,10 +58,10 @@ const finalize=function(){
 corpus.setHandlers(
 	//open tag handlers
 	{body,list,item,div,collection,articlegroup,p,lb,title,head,mapping,char,g,note,
-		choice,corr,sic,orig,reg,ptr,ref,graphic}, 
+		choice,corr,sic,orig,reg,ptr,ref,graphic,figure}, 
 	//end tag handlers
 	{body,list,div,head,title,mapping,char,note,
-		choice,corr,sic,orig,reg,ref},  
+		choice,corr,sic,orig,reg,ref,figure}, 
 	//other handlers
 	{bookStart,bookEnd,onToken,fileStart,finalize}  
 );
