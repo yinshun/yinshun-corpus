@@ -15,7 +15,7 @@ var figurestartkpos=0;
 const figure=function(tag,isclosing){
 	if (isclosing) {
 		if (svgcontent) {
-			const kpos=this.kPos+1;//to cover all character including
+			const kpos=this.kPos;//to cover all character including
 			this.putArticleField("figure", svgcontent , this.makeKRange(figurestartkpos,kpos));
 		}
 	} else {
