@@ -5,6 +5,7 @@ const maxfile=0;
 var files=require("./filelist")(maxfile);
 //for (var i=0;i<39;i++) files.shift();
 //files.length=1;
+const bilink=require("./bilink");
 
 const bookStart=function(){
 	noteReset.call(this);
@@ -27,20 +28,23 @@ const fileStart=function(fn,i){
 	console.log(fn)
 	fn=fn.substr(at+1);
 	fn=fn.substr(0,fn.length-4);//remove .xml
-	kpos=this.nextLineStart(this.kPos); //this.kPos point to last char of previos file
+	var kpos=this.nextLineStart(this.kPos); //this.kPos point to last char of previos file
 	this.putField("file",fn,kpos);
 }
 
 const bigrams={};
+const linkTo={"taisho":[]};//list of articles has bilink to taisho, for taisho to build reverse link
+
 require("./bigrams").split(" ").forEach((bi)=>bigrams[bi]=true);
 
 //build bigram if not exists
 
 var options={name:"yinshun",inputFormat:"xml",bitPat:"yinshun",title:"印順法師佛學著作集",
 maxTextStackDepth:3,
-articleFields:["ptr","def","note","link","noteid","figure"],
+articleFields:["ptr","def","note","link","noteid","figure","bilink"],
 //textOnly:true,
 removePunc:true,
+linkTo:linkTo,
 extrasize:1024*1024*10, //for svg
 autostart:false,bigrams}; //set textOnly not to build inverted
 var corpus=createCorpus(options);
@@ -51,9 +55,12 @@ const {p,lb,list,item}=require("./format");
 const {note,ptr,ref,noteReset,notefinalize}=require("./note");
 const {choice,sic,corr,orig,reg}=require("./choice");
 const {graphic,figure}=require("./graphic");
+
+
 const finalize=function(){
 	divfinalize.call(this);
 	notefinalize.call(this);
+	linkTo.taisho=bilink.putbilink(this);
 }
 corpus.setHandlers(
 	//open tag handlers
