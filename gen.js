@@ -38,10 +38,10 @@ const linkTo={"taisho":[]};//list of articles has bilink to taisho, for taisho t
 require("./bigrams").split(" ").forEach((bi)=>bigrams[bi]=true);
 
 //build bigram if not exists
-
+const bilinkfield="bilink@taisho";
 var options={name:"yinshun",inputFormat:"xml",bitPat:"yinshun",title:"印順法師佛學著作集",
 maxTextStackDepth:3,
-articleFields:["ptr","def","note","link","noteid","figure","bilink"],
+articleFields:["ptr","def","note","link","noteid","figure",bilinkfield],
 //textOnly:true,
 removePunc:true,
 linkTo:linkTo,
@@ -60,7 +60,7 @@ const {graphic,figure}=require("./graphic");
 const finalize=function(){
 	divfinalize.call(this);
 	notefinalize.call(this);
-	linkTo.taisho=bilink.putbilink(this);
+	linkTo.taisho=bilink.putbilink(this,bilinkfield);
 }
 corpus.setHandlers(
 	//open tag handlers
