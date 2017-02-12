@@ -33,12 +33,13 @@ const fileStart=function(fn,i){
 }
 
 const bigrams={};
-const linkTo={"taisho":[]};//list of articles has bilink to taisho, for taisho to build reverse link
 
 require("./bigrams").split(" ").forEach((bi)=>bigrams[bi]=true);
 
 //build bigram if not exists
 const bilinkfield="bilink@taisho";
+const linkTo={[bilinkfield]:[]};//list of articles has bilink to taisho, for taisho to build reverse link
+
 var options={name:"yinshun",inputFormat:"xml",bitPat:"yinshun",title:"印順法師佛學著作集",
 maxTextStackDepth:3,
 articleFields:["ptr","def","note","link","noteid","figure",bilinkfield],
@@ -60,7 +61,7 @@ const {graphic,figure}=require("./graphic");
 const finalize=function(){
 	divfinalize.call(this);
 	notefinalize.call(this);
-	linkTo.taisho=bilink.putbilink(this,bilinkfield);
+	linkTo[bilinkfield]=bilink.putbilink(this,bilinkfield);
 }
 corpus.setHandlers(
 	//open tag handlers

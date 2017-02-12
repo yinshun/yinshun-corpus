@@ -16,7 +16,7 @@ const putbilink=function(cor,fieldname) { //put bilink to taisho, return a list 
 		}
 		articles[article]=true;
 		const value=parseInt(bilink[1],10);
-		corks.putArticleField(fieldname,value,krange,article);
+		cor.putArticleField(fieldname,value,krange,article);
 	}
 	return Object.keys(articles).map(i=>parseInt(i,10)).sort((a,b)=>a-b);
 }
