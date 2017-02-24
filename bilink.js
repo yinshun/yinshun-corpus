@@ -8,7 +8,7 @@ const putbilink=function(cor,fieldname) { //put bilink to taisho, return a list 
 	var articles={};
 	for (var i=0;i<bilinks.length;i++) {
 		const bilink=bilinks[i].split("\t");
-		var krange=cor.parseRange(bilink[0]).kRange;
+		var krange=cor.parseRange(bilink[0]).range;
 		var article=cor.findArticle(krange);
 		if (article<0) {
 			console.log("invalid address",bilink[0],'filename',fn);

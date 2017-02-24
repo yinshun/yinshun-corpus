@@ -1,9 +1,11 @@
 const {createCorpus}=require("ksana-corpus-builder");
+//require("./ksanalib.min");
+//cd const {createCorpus}=KsanaCorpusBuilder;
 const fs=require("fs");
 const sourcepath="xml/";
 const maxfile=0;
 var files=require("./filelist")(maxfile);
-//for (var i=0;i<39;i++) files.shift();
+//for (var i=0;i<42;i++) files.shift();
 //files.length=1;
 const bilink=require("./bilink");
 
@@ -42,7 +44,7 @@ const linkTo={[bilinkfield]:[]};//list of articles has bilink to taisho, for tai
 
 var options={name:"yinshun",inputFormat:"xml",bitPat:"yinshun",title:"印順法師佛學著作集",
 maxTextStackDepth:3,
-articleFields:["ptr","def","note","link","noteid","figure",bilinkfield],
+articleFields:["head","ptr","def","yinshunnote","link","noteid","figure",bilinkfield],
 //textOnly:true,
 removePunc:true,
 linkTo:linkTo,

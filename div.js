@@ -13,8 +13,14 @@ var divdepth=0;
 
 const head=function(tag,closing) {
 	if (divdepth<1)return;
-	if (divdepth===1 && closing) {
-		this.putArticle(this.peekText());
+	if (!closing) {
+		headkpos=this.kPos;
+	}
+	if ( closing) {
+		const t=this.peekText();
+		if (divdepth===1) this.putArticle(t);
+		const len=this.kcount(t);
+		this.putArticleField( "head", divdepth ,this.makeRange(headkpos,headkpos+len));
 	}
 	return this.handlers.head_subtree.call(this,tag,closing,divdepth);
 }

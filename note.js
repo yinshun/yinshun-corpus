@@ -95,7 +95,7 @@ var note=function(tag,closing){ //note cannot be nested.
 	var xmlid=tag.attributes["xml:id"];
 	if (xmlid) {
 		if (closing) { //closing a note in note group
-			var krange=this.makeKRange(defKPos,this.kPos);
+			var krange=this.makeRange(defKPos,this.kPos);
 			def.call(this,xmlid.substr(4),krange);
 			defKPos=0;
 		} else {//keep the starting kpos of <note>
@@ -109,7 +109,7 @@ var note=function(tag,closing){ //note cannot be nested.
 			if (closing) { //inline note
 				const t=this.popText();
 				parseCBETA(t,this.kPos);
-				t&&this.putArticleField("note",t);
+				t&&this.putArticleField("yinshunnote",t);
 			} else {  //capture the text
 				return CaptureText;
 			}			
@@ -124,7 +124,7 @@ var noteReset=function(){
 
 var ref=function(tag,closing){ //link to taisho or taixu
 	if (tag.isSelfClosing) {
-		const krange=this.makeKRange(this.kPos,this.kPos);
+		const krange=this.makeRange(this.kPos,this.kPos);
 		const target=tag.attributes.target;
 		if (tag.attributes.type==="taisho") {
 			var kpos=this.kPos;
@@ -136,7 +136,7 @@ var ref=function(tag,closing){ //link to taisho or taixu
 		Ref.parse.call(this,tag.attributes.type,target,krange);
 	} else {
 		if (closing) {
-			const krange=this.makeKRange(refKPos,this.kPos);
+			const krange=this.makeRange(refKPos,this.kPos);
 			const target=tag.attributes.target;
 
 			if (tag.attributes.type==="taisho") {
