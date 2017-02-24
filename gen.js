@@ -44,7 +44,7 @@ const linkTo={[bilinkfield]:[]};//list of articles has bilink to taisho, for tai
 
 var options={name:"yinshun",inputFormat:"xml",bitPat:"yinshun",title:"印順法師佛學著作集",
 maxTextStackDepth:3,
-articleFields:["head","ptr","def","yinshunnote","link","noteid","figure",bilinkfield],
+articleFields:["head","ptr","def","yinshunnote","link","noteid","figure",bilinkfield,"p"],
 //textOnly:true,
 removePunc:true,
 linkTo:linkTo,

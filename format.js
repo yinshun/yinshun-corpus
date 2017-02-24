@@ -5,11 +5,11 @@ var lb=function(tag){
 }
 
 const p=function(tag){
-	this.putEmptyBookField("p");	
+	this.putEmptyArticleField("p");	
 }
 const item=function(tag,closing){
 	if (!closing && inlist) {
-		this.putEmptyBookField("p");
+		this.putEmptyArticleField("p");
 	}
 }
 const list=function(tag,closing){
