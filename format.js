@@ -7,6 +7,13 @@ var lb=function(tag){
 const p=function(tag){
 	this.putEmptyArticleField("p");	
 }
+
+const q=function(tag,closing,kpos){
+	if (closing) {
+		this.putEmptyArticleField("q",this.makeRange(kpos,this.kPos));	
+	}
+}
+
 const item=function(tag,closing){
 	if (!closing && inlist) {
 		this.putEmptyArticleField("p");
@@ -15,4 +22,4 @@ const item=function(tag,closing){
 const list=function(tag,closing){
 	inlist=!closing;
 }
-module.exports={lb,list,p,item};
+module.exports={lb,list,p,q,item};
