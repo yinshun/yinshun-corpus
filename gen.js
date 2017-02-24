@@ -1,6 +1,9 @@
-const {createCorpus}=require("ksana-corpus-builder");
-//require("./ksanalib.min");
-//cd const {createCorpus}=KsanaCorpusBuilder;
+var createCorpus=null
+try {
+	createCorpus=require("ksana-corpus-builder").createCorpus;
+} catch(e){
+	createCorpus=require("ksana-corpus-lib").createCorpus;
+}
 const fs=require("fs");
 const sourcepath="xml/";
 const maxfile=0;
