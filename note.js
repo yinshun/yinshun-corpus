@@ -96,7 +96,7 @@ const notefinalize=function(){
 		'};',"utf8");
 	linktotaisho=[];
 }
-var note=function(tag,closing){ //note cannot be nested.
+var note=function(tag,closing,kpos){ //note cannot be nested.
 	if (tag.attributes.type=="editorial")return;
 	var xmlid=tag.attributes["xml:id"];
 	if (xmlid) {
@@ -113,9 +113,15 @@ var note=function(tag,closing){ //note cannot be nested.
 				//inline note (夾注)
 		} else {
 			if (closing) { //inline note
-				const t=this.popText();
-				parseCBETA(t,this.kPos);
-				t&&this.putArticleField("yinshunnote",t);
+				if (tag.attributes["place"]=="inline") {
+					const t=this.popText();
+					this.addText(t);
+					t&&this.putArticleField("inlinenote",t,this.makeRange(kpos,this.kPos));
+				} else {
+					const t=this.popText();
+					parseCBETA(t,this.kPos);
+					t&&this.putArticleField("yinshunnote",t);					
+				}
 			} else {  //capture the text
 				return CaptureText;
 			}			
