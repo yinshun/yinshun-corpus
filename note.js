@@ -72,12 +72,18 @@ const parseCBETA=function(str,kpos){
 	}
 }
 const targetreg=/vol:(\d+);page:(p\d+[abc])/
+const targetreg2=/vol:(\d+)/
 const parseTaishoTarget=function(target,kpos){
 	var m=target.match(targetreg);
 	if (m) {
 		addtaisholink(m[1]+m[2],kpos);
 	} else {
-		console.error("error taisho target",target);
+		var m=target.match(targetreg2);
+		if (m) {
+			addtaisholink(m[1]+'p1a0100',kpos); //for y43.xml
+		} else {
+			console.error("error taisho target",target);
+		}
 	}
 }
 const notefinalize=function(){

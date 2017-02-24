@@ -4,6 +4,7 @@ try {
 } catch(e){
 	createCorpus=require("ksana-corpus-lib").createCorpus;
 }
+
 const fs=require("fs");
 const sourcepath="xml/";
 const maxfile=0;
@@ -47,11 +48,11 @@ const linkTo={[bilinkfield]:[]};//list of articles has bilink to taisho, for tai
 
 var options={name:"yinshun",inputFormat:"xml",bitPat:"yinshun",title:"印順法師佛學著作集",
 maxTextStackDepth:3,
-articleFields:["head","ptr","def","yinshunnote","link","noteid","figure",bilinkfield,"p"],
+articleFields:["head","ptr","def","yinshunnote","link","noteid","figure","table",bilinkfield,"p"],
 //textOnly:true,
 removePunc:true,
 linkTo:linkTo,
-extrasize:1024*1024*10, //for svg
+extrasize:1024*1024*30, //for svg
 autostart:false,bigrams}; //set textOnly not to build inverted
 var corpus=createCorpus(options);
 
@@ -60,7 +61,7 @@ const {div,collection,articlegroup,head,title,divfinalize}=require("./div");
 const {p,lb,list,item}=require("./format");
 const {note,ptr,ref,noteReset,notefinalize}=require("./note");
 const {choice,sic,corr,orig,reg}=require("./choice");
-const {graphic,figure}=require("./graphic");
+const {graphic,figure,table}=require("./graphic");
 
 
 const finalize=function(){
@@ -71,10 +72,10 @@ const finalize=function(){
 corpus.setHandlers(
 	//open tag handlers
 	{body,list,item,div,collection,articlegroup,p,lb,title,head,mapping,char,g,note,
-		choice,corr,sic,orig,reg,ptr,ref,graphic,figure}, 
+		choice,corr,sic,orig,reg,ptr,ref,graphic,figure,table}, 
 	//end tag handlers
 	{body,list,div,head,title,mapping,char,note,
-		choice,corr,sic,orig,reg,ref,figure}, 
+		choice,corr,sic,orig,reg,ref,figure,table}, 
 	//other handlers
 	{bookStart,bookEnd,onToken,fileStart,finalize}  
 );

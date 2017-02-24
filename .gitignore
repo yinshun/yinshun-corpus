@@ -5,3 +5,6 @@ charset.js
 bigram.js
 *.cor
 *.kdb
+*.vsdx
+genxml
+*.docx
