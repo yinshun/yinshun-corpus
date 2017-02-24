@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 y35.486.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.26772in" height="11.6929in"
+		viewBox="0 0 595.276 841.89" xml:space="preserve" color-interpolation-filters="sRGB" class="st4">
+	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#000000;font-family:新細明體;font-size:1.00001em}
+		.st3 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>頁-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="連接器" v:index="0"/>
+		<g id="group19-1" transform="translate(171.511,-727.008)" v:mID="19" v:groupContext="group">
+			<title>工作表.19</title>
+			<g id="shape7-2" v:mID="7" v:groupContext="shape" transform="translate(0,-60.8661)">
+				<title>工作表.7</title>
+				<desc>一長‧二中。三雜相應</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="112.127" cy="831.89" width="224.26" height="20"/>
+				<rect x="0" y="821.89" width="224.254" height="20" class="st1"/>
+				<text x="4" y="835.49" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>（一）長‧（二）中。（三）雜（相應）</text>			</g>
+			<g id="shape9-5" v:mID="9" v:groupContext="shape" transform="translate(7.99361E-15,-39.6535)">
+				<title>工作表.9</title>
+				<desc>四增一增支</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="63.4961" cy="831.89" width="127" height="20"/>
+				<rect x="0" y="821.89" width="126.992" height="20" class="st1"/>
+				<text x="4" y="835.49" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>（四）增一（增支）</text>			</g>
+			<g id="shape12-8" v:mID="12" v:groupContext="shape" transform="translate(-6.39488E-14,-18.4409)">
+				<title>工作表.12</title>
+				<desc>一相應‧二中。三長</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="96.3779" cy="831.89" width="192.76" height="20"/>
+				<rect x="0" y="821.89" width="192.756" height="20" class="st1"/>
+				<text x="4" y="835.49" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>（一）相應‧（二）中。（三）長</text>			</g>
+			<g id="shape15-11" v:mID="15" v:groupContext="shape">
+				<title>工作表.15</title>
+				<desc>四增一</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="38" cy="831.89" width="76" height="20"/>
+				<rect x="0" y="821.89" width="76" height="20" class="st1"/>
+				<text x="4" y="835.49" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>（四）增一</text>			</g>
+		</g>
+		<g id="shape2-14" v:mID="2" v:groupContext="shape" transform="translate(38.8176,-777.874)">
+			<title>工作表.2</title>
+			<desc>大眾部等說</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="38" cy="831.89" width="76" height="20"/>
+			<rect x="0" y="821.89" width="76" height="20" class="st1"/>
+			<text x="8" y="835.49" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>大眾部等說</text>		</g>
+		<g id="shape4-17" v:mID="4" v:groupContext="shape" transform="translate(29.4318,-735.354)">
+			<title>工作表.4</title>
+			<desc>說一切有部說</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="42.6929" cy="831.89" width="85.39" height="20"/>
+			<rect x="0" y="821.89" width="85.3858" height="20" class="st1"/>
+			<text x="6.69" y="835.49" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>說一切有部說</text>		</g>
+		<g id="group25-20" transform="translate(114.818,-775.764)" v:mID="25" v:groupContext="group">
+			<title>工作表.25</title>
+			<g id="shape22-21" v:mID="22" v:groupContext="shape" transform="translate(0,-12.0709)">
+				<title>工作表.22</title>
+				<path d="M0 841.89 L22.44 841.89" class="st3"/>
+			</g>
+			<g id="shape23-24" v:mID="23" v:groupContext="shape" transform="translate(-214.358,21.9174) rotate(-16.336)">
+				<title>工作表.23</title>
+				<path d="M0 841.89 L35.69 841.89" class="st3"/>
+			</g>
+			<g id="shape24-27" v:mID="24" v:groupContext="shape" transform="translate(302.266,35.7937) rotate(19.4132)">
+				<title>工作表.24</title>
+				<path d="M0 841.89 L36.32 841.89" class="st3"/>
+			</g>
+		</g>
+		<g id="group26-30" transform="translate(114.818,-733.244)" v:mID="26" v:groupContext="group">
+			<title>工作表.26</title>
+			<g id="shape27-31" v:mID="27" v:groupContext="shape" transform="translate(0,-12.0709)">
+				<title>工作表.27</title>
+				<path d="M0 841.89 L22.44 841.89" class="st3"/>
+			</g>
+			<g id="shape28-34" v:mID="28" v:groupContext="shape" transform="translate(-214.358,21.9174) rotate(-16.336)">
+				<title>工作表.28</title>
+				<path d="M0 841.89 L35.69 841.89" class="st3"/>
+			</g>
+			<g id="shape29-37" v:mID="29" v:groupContext="shape" transform="translate(302.266,35.7937) rotate(19.4132)">
+				<title>工作表.29</title>
+				<path d="M0 841.89 L36.32 841.89" class="st3"/>
+			</g>
+		</g>
+	</g>
+</svg>
