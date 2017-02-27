@@ -25,8 +25,11 @@ const head=function(tag,closing) {
 	return this.handlers.head_subtree.call(this,tag,closing,divdepth);
 }
 
-const div=function(tag,closing) {
+const div=function(tag,closing,kpos) {
 	if (closing) {
+		if (tag.attributes.type==="論") {//for 雜阿含經論會編
+			this.putArticleField("span", "salun",this.makeRange(kpos,this.kPos));
+		}
 		divdepth--;
 	} else {
 		if (divdepth==0) {

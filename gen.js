@@ -49,18 +49,20 @@ const linkTo={[bilinkfield]:[]};//list of articles has bilink to taisho, for tai
 var options={name:"yinshun",inputFormat:"xml",bitPat:"yinshun",title:"印順法師佛學著作集",
 maxTextStackDepth:3,
 articleFields:["head","ptr","def","yinshunnote","inlinenote",
-"link","noteid","figure","table",bilinkfield,"p","q","salun"],
-groupColumns:[12,24,32],
+"link","noteid","figure","table",bilinkfield,"p","span"],
 //textOnly:true,
 removePunc:true,
 linkTo:linkTo,
+
+displayOptions:{groupColumn:[12,24,32]},
+
 extrasize:1024*1024*30, //for svg
 autostart:false,bigrams}; //set textOnly not to build inverted
 var corpus=createCorpus(options);
 
 const {char,g,mapping}=require("./eudc");
 const {div,collection,articlegroup,head,title,divfinalize}=require("./div");
-const {p,q,lb,list,item}=require("./format");
+const {p,q,lb,list,item,seg}=require("./format");
 const {note,ptr,ref,noteReset,notefinalize}=require("./note");
 const {choice,sic,corr,orig,reg}=require("./choice");
 const {graphic,figure,table}=require("./graphic");
@@ -74,10 +76,10 @@ const finalize=function(){
 corpus.setHandlers(
 	//open tag handlers
 	{body,list,item,div,collection,articlegroup,p,q,lb,title,head,mapping,char,g,note,
-		choice,corr,sic,orig,reg,ptr,ref,graphic,figure,table}, 
+		choice,corr,sic,orig,reg,ptr,ref,graphic,figure,table,seg}, 
 	//end tag handlers
 	{body,list,div,head,title,mapping,char,note,q,
-		choice,corr,sic,orig,reg,ref,figure,table}, 
+		choice,corr,sic,orig,reg,ref,figure,table,seg}, 
 	//other handlers
 	{bookStart,bookEnd,onToken,fileStart,finalize}  
 );
