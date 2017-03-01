@@ -41,6 +41,7 @@ var def=function(id,defkrange){
 			this.putArticleField("noteid",id);
 		} else {
 			notekpos.forEach(function(p){
+
 				this.putArticleField("ptr",defkrange,p)}.bind(this)
 			);
 			notekpos.forEach(function(p){
@@ -108,38 +109,33 @@ var note=function(tag,closing,kpos){ //note cannot be nested.
 			ptr_id=xmlid.substr(4);
 			defKPos=this.kPos;
 		}
-	} else { 
-		if (tag.attributes["place"]=="inline2") {
-				//inline note (夾注)
+	} else {
+		if (tag.attributes.place=="inline" || tag.attributes.place=="inline2") {
+
+			//leave it
 		} else {
-			if (closing) { //inline note
-				if (tag.attributes["place"]=="inline") {
-					const t=this.popText();
-					this.addText(t);
-					t&&this.putArticleField("inlinenote",t,this.makeRange(kpos,this.kPos));
-				} else {
-					const t=this.popText();
-					parseCBETA(t,this.kPos);
-					t&&this.putArticleField("yinshunnote",t);					
-				}
-			} else {  //capture the text
-				return CaptureText;
-			}			
+			if (closing) {
+				const t=this.popText();
+				parseCBETA(t,this.kPos);
+				t&&this.putArticleField("yinshunnote",t);
+			} else {
+				return true;//must capture , because some note are very long
+			}
 		}
 	}
-}
+	
+} 
 
 var noteReset=function(){
 	noteid={};
 }
 
 
-var ref=function(tag,closing){ //link to taisho or taixu
+var ref=function(tag,closing,kpos){ //link to taisho or taixu
 	if (tag.isSelfClosing) {
 		const krange=this.makeRange(this.kPos,this.kPos);
 		const target=tag.attributes.target;
 		if (tag.attributes.type==="taisho") {
-			var kpos=this.kPos;
 			if (defKPos) { //ref inside <note xml:id> </note> , use ptr as kpos
 				kpos=noteid[ptr_id];
 			}
@@ -148,7 +144,7 @@ var ref=function(tag,closing){ //link to taisho or taixu
 		Ref.parse.call(this,tag.attributes.type,target,krange);
 	} else {
 		if (closing) {
-			const krange=this.makeRange(refKPos,this.kPos);
+			const krange=this.makeRange(kpos,this.kPos);
 			const target=tag.attributes.target;
 
 			if (tag.attributes.type==="taisho") {
@@ -159,8 +155,6 @@ var ref=function(tag,closing){ //link to taisho or taixu
 				parseTaishoTarget(target,kpos);
 			}
 			Ref.parse.call(this,tag.attributes.type,target,krange);
-		} else {		
-			refKPos=this.kPos;
 		}		
 	}
 }

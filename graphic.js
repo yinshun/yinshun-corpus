@@ -29,15 +29,12 @@ const graphic=function(tag){
 		console.log("error loading svg",fn)
 	}
 }
-var figurestartkpos=0;
-const figure=function(tag,isclosing){
+
+const figure=function(tag,isclosing,kpos){
 	if (isclosing) {
 		if (svgcontent) {
-			const kpos=this.kPos;//to cover all character including
-			this.putArticleField("figure", svgcontent , this.makeRange(figurestartkpos,kpos));
+			this.putArticleField("figure", svgcontent , this.makeRange(kpos,this.kPos));
 		}
-	} else {
-		figurestartkpos=this.kPos;
 	}
 }
 module.exports={graphic,figure,table}
