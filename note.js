@@ -97,7 +97,7 @@ const notefinalize=function(){
 		'};',"utf8");
 	linktotaisho=[];
 }
-var note=function(tag,closing,kpos){ //note cannot be nested.
+var note=function(tag,closing,kpos,tpos,start,end){ //note cannot be nested.
 	if (tag.attributes.type=="editorial")return;
 	var xmlid=tag.attributes["xml:id"];
 	if (xmlid) {
@@ -111,11 +111,14 @@ var note=function(tag,closing,kpos){ //note cannot be nested.
 		}
 	} else {
 		if (tag.attributes.place=="inline" || tag.attributes.place=="inline2") {
-
+			if (tag.attributes.place=="inline" && closing) {
+				var krange=this.makeRange(kpos,this.kPos);
+				this.putArticleField("span","inlinenote",krange);
+			}
 			//leave it
 		} else {
 			if (closing) {
-				const t=this.popText();
+				const t=this.substring(start,end);
 				parseCBETA(t,this.kPos);
 				t&&this.putArticleField("yinshunnote",t);
 			} else {

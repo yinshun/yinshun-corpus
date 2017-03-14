@@ -9,21 +9,15 @@ var choice=function(tag,closing){
 	}
 }
 var sic=function(tag,closing){
-	if (closing) {
-		_sic=this.popText();
-	} else {
+	if (!closing) {
 		this.inChoice=2;
 		return true;//return true if want to capture text
 	}
 }
 var orig=sic;
-var corr=function(tag,closing){
-	if (closing){
-		_corr=this.popText();
-		this.addText(_corr);
-	} else {
+var corr=function(tag,closing,kpos,tpos,start,end){
+	if (!closing){
 		this.inChoice=3;
-		return true;
 	}
 }
 var reg=corr;
