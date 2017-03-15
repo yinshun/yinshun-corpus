@@ -45,7 +45,6 @@ topDIVAsArticle:true,
 rendClass:["q"],
 articleFields:["head","ptr","def","yinshunnote","inlinenote",
 "link","noteid","figure","table",bilinkfield,"p","span"],
-removePunc:true,
 linkTo:linkTo,
 displayOptions:{groupColumn:[12,24,32]},
 extrasize:1024*1024*30, //for svg
