@@ -10,7 +10,7 @@ const sourcepath="xml/";
 const maxfile=0;
 var files=require("./filelist")(maxfile);
 //for (var i=0;i<35;i++) files.shift();
-//files.length=2;
+//files.length=17;
 const bilink=require("./bilink");
 
 const bookStart=function(){

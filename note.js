@@ -74,7 +74,14 @@ const parseCBETA=function(str,kpos){
 }
 const targetreg=/vol:(\d+);page:(p\d+[abc])/
 const targetreg2=/vol:(\d+)/
-const parseTaishoTarget=function(target,kpos){
+const processTaishoTarget=function(target,kpos){
+
+	if (defKPos) { 
+	//ref inside <note xml:id> </note> , use ptr as kpos
+	//for link-taisho-yinshun
+		kpos=noteid[ptr_id];
+	}
+
 	var m=target.match(targetreg);
 	if (m) {
 		addtaisholink(m[1]+m[2],kpos);
@@ -86,6 +93,7 @@ const parseTaishoTarget=function(target,kpos){
 			console.error("error taisho target",target);
 		}
 	}
+	return target;
 }
 const notefinalize=function(){
 	linktotaisho.sort((a,b)=>a[0]-b[0]);
@@ -133,30 +141,21 @@ var noteReset=function(){
 	noteid={};
 }
 
-
+const processTarget=function(corpus,target,kpos){
+	if (corpus=="taisho") return processTaishoTarget(target,kpos);
+	else return target;
+}
 var ref=function(tag,closing,kpos){ //link to taisho or taixu
+	const corpus=tag.attributes.type;
+	var target=tag.attributes.target;
 	if (tag.isSelfClosing) {
 		const krange=this.makeRange(this.kPos,this.kPos);
-		const target=tag.attributes.target;
-		if (tag.attributes.type==="taisho") {
-			if (defKPos) { //ref inside <note xml:id> </note> , use ptr as kpos
-				kpos=noteid[ptr_id];
-			}
-			parseTaishoTarget(target,kpos);
-		}
-		Ref.parse.call(this,tag.attributes.type,target,krange);
+		target=processTarget(corpus,target,kpos);
+		Ref.parse.call(this,corpus,target,krange);
 	} else {
 		if (closing) {
 			const krange=this.makeRange(kpos,this.kPos);
-			const target=tag.attributes.target;
-
-			if (tag.attributes.type==="taisho") {
-				var kpos=this.kPos;
-				if (defKPos) { //ref inside <note xml:id> </note> , use ptr as kpos
-					kpos=noteid[ptr_id];
-				}
-				parseTaishoTarget(target,kpos);
-			}
+			target=processTarget(corpus,target,kpos);
 			Ref.parse.call(this,tag.attributes.type,target,krange);
 		}		
 	}
