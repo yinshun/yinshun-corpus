@@ -10,8 +10,7 @@ const sourcepath="xml/";
 const maxfile=0;
 var files=require("./filelist")(maxfile);
 //for (var i=0;i<35;i++) files.shift();
-//files.length=17;
-const bilink=require("./bilink");
+//files.length=2;
 
 const bookStart=function(){
 	noteReset.call(this);
@@ -36,7 +35,7 @@ const bigrams={};
 require("./bigrams").split(" ").forEach((bi)=>bigrams[bi]=true);
 
 //build bigram if not exists
-const bilinkfield="bilink@taisho";
+const bilinkfield="k@taisho";
 const linkTo={[bilinkfield]:[]};//list of articles has bilink to taisho, for taisho to build reverse link
 
 var options={name:"yinshun",inputFormat:"xml",
@@ -48,7 +47,7 @@ articleFields:["head","ptr","def","yinshunnote","inlinenote",
 linkTo:linkTo,
 displayOptions:{groupColumn:[12,24,32]},
 extrasize:1024*1024*30, //for svg
-autostart:false,bigrams}; //set textOnly not to build inverted
+autostart:false,external:{bigrams}}; //set textOnly not to build inverted
 var corpus=createCorpus(options);
 
 const {char,g,mapping}=require("./eudc");
@@ -58,9 +57,18 @@ const {note,ptr,ref,noteReset,notefinalize}=require("./note");
 const {choice,sic,corr,orig,reg}=require("./choice");
 const {graphic,figure,table}=require("./graphic");
 
+const putbilink=function(cor,fieldname) { //put bilink to taisho, return a list of article has bilink
+	const fn='link-taisho-yinshun.json';
+	if (!fs.existsSync(fn))exit;
+	const bilinks=JSON.parse(fs.readFileSync(fn,"utf8"));
+	if (typeof bilinks[0]!=="string") bilinks.shift();
+
+	return cor.importLinks(fieldname,bilinks,"taisho");
+}
+
 const finalize=function(){
 	notefinalize.call(this);
-	linkTo[bilinkfield]=bilink.putbilink(this,bilinkfield);
+	linkTo[bilinkfield]=putbilink(this,bilinkfield);
 }
 corpus.setHandlers(
 	//open tag handlers
