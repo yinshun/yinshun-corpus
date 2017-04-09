@@ -18,15 +18,19 @@ const table=function(tag,isclosing,kpos){
 		this.putArticleField("table", svg , this.makeRange(kpos,this.kPos));
 	}
 }
-const graphic=function(tag){
+const graphic=function(tag,isclosing,kpos){
 	const url=tag.attributes.url;
 	const fn="svg/"+url.substr(0,3)+'/'+url;
-	
+	const inline=tag.attributes.inline;
 	if (fs.existsSync(fn)) {
 		svgcontent=fs.readFileSync(fn,"utf8");
 	} else {
 		svgcontent="";
 		console.log("error loading svg",fn)
+	}
+	if (inline) {
+		this.putArticleField("inlinesvg", svgcontent , kpos);
+		svgcontent="";
 	}
 }
 

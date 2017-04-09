@@ -10,7 +10,7 @@ const sourcepath="xml/";
 const maxfile=0;
 var files=require("./filelist")(maxfile);
 //for (var i=0;i<35;i++) files.shift();
-//files.length=2;
+//files.length=11;
 
 const bookStart=function(){
 	noteReset.call(this);
@@ -29,21 +29,21 @@ const fileStart=function(fn,i){
 	fn=fn.substr(0,fn.length-4);//remove .xml
 	var kpos=this.nextLineStart(this.kPos); //this.kPos point to last char of previos file
 }
-
+console.time("build");
 const bigrams={};
 
 require("./bigrams").split(" ").forEach((bi)=>bigrams[bi]=true);
 
 //build bigram if not exists
-const bilinkfield="k@taisho";
+const bilinkfield="k<taisho";
 const linkTo={[bilinkfield]:[]};//list of articles has bilink to taisho, for taisho to build reverse link
 
-var options={name:"yinshun",inputFormat:"xml",
-bitPat:"yinshun",title:"印順法師佛學著作集",
+var options={id:"yinshun",inputFormat:"xml",
+title:"印順法師佛學著作集",
 topDIVAsArticle:true,
 rendClass:["q"],
 articleFields:["head","ptr","def","yinshunnote","inlinenote",
-"link","noteid","figure","table",bilinkfield,"p","span"],
+"link","noteid","figure","table",bilinkfield,"p","span","svg"],
 linkTo:linkTo,
 displayOptions:{groupColumn:[12,24,32]},
 extrasize:1024*1024*30, //for svg
@@ -85,6 +85,5 @@ files.forEach(fn=>corpus.addFile(sourcepath+fn));
 
 corpus.writeKDB("yinshun.cor",function(byteswritten){
 	console.log(byteswritten,"bytes written")
+	console.timeEnd("build");
 });
-
-console.log(corpus.totalPosting,corpus.tPos);
