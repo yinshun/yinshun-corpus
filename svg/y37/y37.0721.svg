@@ -1,550 +1,397 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<!-- 由 Microsoft Visio 11.0, SVG Export, v1.0 產生 y37.0721.svg Page-1 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 y37.0721-h.svg 頁-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="6.82699in" height="10.4062in"
-		viewBox="0 0 491.543 749.246" xml:space="preserve" color-interpolation-filters="sRGB" class="st4">
-	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false">
-		<v:userDefs>
-			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Box)"/>
-			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
-		</v:userDefs>
-	</v:documentProperties>
-
+		width="5.40412in" height="8.96885in" viewBox="0 0 389.096 645.757" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st4">
 	<style type="text/css">
 	<![CDATA[
 		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
 		.st2 {fill:#000000;font-family:新細明體;font-size:1.33333em}
-		.st3 {stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;stroke-width:1}
+		.st3 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
 		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
-	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+	<g>
 		<title>頁-1</title>
-		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
-				v:shadowOffsetY="-8.50394"/>
-		<g id="group32-1" transform="translate(-276.703,730.496) rotate(-90)" v:mID="32" v:groupContext="group">
-			<title>工作表.32</title>
-			<g id="shape1-2" v:mID="1" v:groupContext="shape" transform="translate(1389.88,324.049) rotate(90)">
+		<g id="group84-1" transform="translate(0.375,-0.375)">
+			<title>工作表.84</title>
+			<g id="shape1-2" transform="translate(2.9976E-13,-623.622)">
 				<title>工作表.1</title>
 				<desc>十四空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>十四空</text>			</g>
-			<g id="shape2-5" v:mID="2" v:groupContext="shape" transform="translate(1389.88,423.262) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">十四空</text>			</g>
+			<g id="shape2-5" transform="translate(99.2126,-623.622)">
 				<title>工作表.2</title>
 				<desc>十六空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>十六空</text>			</g>
-			<g id="shape3-8" v:mID="3" v:groupContext="shape" transform="translate(1389.88,522.474) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">十六空</text>			</g>
+			<g id="shape3-8" transform="translate(198.425,-623.622)">
 				<title>工作表.3</title>
 				<desc>十八空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>十八空</text>			</g>
-			<g id="shape4-11" v:mID="4" v:groupContext="shape" transform="translate(1389.88,621.687) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">十八空</text>			</g>
+			<g id="shape4-11" transform="translate(297.638,-623.622)">
 				<title>工作表.4</title>
 				<desc>二十空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>二十空</text>			</g>
-			<g id="shape5-14" v:mID="5" v:groupContext="shape" transform="translate(1368.62,324.049) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">二十空</text>			</g>
+			<g id="shape5-14" transform="translate(1.8785E-13,-595.276)">
 				<title>工作表.5</title>
 				<desc>內空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="21.2598" cy="727.986" width="42.52" height="42.5197"/>
-				<rect x="0" y="706.726" width="42.5197" height="42.5197" class="st1"/>
-				<text x="5.26" y="732.79" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>內空</text>			</g>
-			<g id="shape6-17" v:mID="6" v:groupContext="shape" transform="translate(1340.27,324.049) rotate(90)">
+				<rect x="0" y="625.914" width="42.5197" height="19.8425" class="st1"/>
+				<text x="5.26" y="640.64" class="st2">內空</text>			</g>
+			<g id="shape6-17" transform="translate(1.51879E-13,-566.929)">
 				<title>工作表.6</title>
 				<desc>外空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="21.2598" cy="727.986" width="42.52" height="42.5197"/>
-				<rect x="0" y="706.726" width="42.5197" height="42.5197" class="st1"/>
-				<text x="5.26" y="732.79" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>外空</text>			</g>
-			<g id="shape7-20" v:mID="7" v:groupContext="shape" transform="translate(1304.84,324.049) rotate(90)">
+				<rect x="0" y="625.914" width="42.5197" height="19.8425" class="st1"/>
+				<text x="5.26" y="640.64" class="st2">外空</text>			</g>
+			<g id="shape7-20" transform="translate(1.71863E-13,-538.583)">
 				<title>工作表.7</title>
 				<desc>內外空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>內外空</text>			</g>
-			<g id="shape8-23" v:mID="8" v:groupContext="shape" transform="translate(1283.58,324.049) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">內外空</text>			</g>
+			<g id="shape8-23" transform="translate(2.15827E-13,-510.236)">
 				<title>工作表.8</title>
 				<desc>空空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="21.2598" cy="727.986" width="42.52" height="42.5197"/>
-				<rect x="0" y="706.726" width="42.5197" height="42.5197" class="st1"/>
-				<text x="5.26" y="732.79" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>空空</text>			</g>
-			<g id="shape9-26" v:mID="9" v:groupContext="shape" transform="translate(1255.23,324.049) rotate(90)">
+				<rect x="0" y="625.914" width="42.5197" height="19.8425" class="st1"/>
+				<text x="5.26" y="640.64" class="st2">空空</text>			</g>
+			<g id="shape9-26" transform="translate(1.8785E-13,-481.89)">
 				<title>工作表.9</title>
 				<desc>大空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="21.2598" cy="727.986" width="42.52" height="42.5197"/>
-				<rect x="0" y="706.726" width="42.5197" height="42.5197" class="st1"/>
-				<text x="5.26" y="732.79" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>大空</text>			</g>
-			<g id="shape10-29" v:mID="10" v:groupContext="shape" transform="translate(1219.8,324.049) rotate(90)">
+				<rect x="0" y="625.914" width="42.5197" height="19.8425" class="st1"/>
+				<text x="5.26" y="640.64" class="st2">大空</text>			</g>
+			<g id="shape10-29" transform="translate(2.35811E-13,-453.543)">
 				<title>工作表.10</title>
 				<desc>勝義空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>勝義空</text>			</g>
-			<g id="shape11-32" v:mID="11" v:groupContext="shape" transform="translate(1191.45,324.049) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">勝義空</text>			</g>
+			<g id="shape11-32" transform="translate(1.71863E-13,-425.197)">
 				<title>工作表.11</title>
 				<desc>有為空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>有為空</text>			</g>
-			<g id="shape12-35" v:mID="12" v:groupContext="shape" transform="translate(1163.1,324.049) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">有為空</text>			</g>
+			<g id="shape12-35" transform="translate(1.71863E-13,-396.85)">
 				<title>工作表.12</title>
 				<desc>無為空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>無為空</text>			</g>
-			<g id="shape13-38" v:mID="13" v:groupContext="shape" transform="translate(1134.76,324.049) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">無為空</text>			</g>
+			<g id="shape13-38" transform="translate(1.71863E-13,-368.504)">
 				<title>工作表.13</title>
 				<desc>畢竟空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>畢竟空</text>			</g>
-			<g id="shape14-41" v:mID="14" v:groupContext="shape" transform="translate(1106.41,324.049) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">畢竟空</text>			</g>
+			<g id="shape14-41" transform="translate(2.35811E-13,-340.157)">
 				<title>工作表.14</title>
 				<desc>無際空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>無際空</text>			</g>
-			<g id="shape15-44" v:mID="15" v:groupContext="shape" transform="translate(1085.15,324.049) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">無際空</text>			</g>
+			<g id="shape15-44" transform="translate(1.51879E-13,-311.811)">
 				<title>工作表.15</title>
 				<desc>散空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="21.2598" cy="727.986" width="42.52" height="42.5197"/>
-				<rect x="0" y="706.726" width="42.5197" height="42.5197" class="st1"/>
-				<text x="5.26" y="732.79" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>散空</text>			</g>
-			<g id="shape16-47" v:mID="16" v:groupContext="shape" transform="translate(1041.21,522.474) rotate(90)">
+				<rect x="0" y="625.914" width="42.5197" height="19.8425" class="st1"/>
+				<text x="5.26" y="640.64" class="st2">散空</text>			</g>
+			<g id="shape16-47" transform="translate(198.425,-283.465)">
 				<title>工作表.16</title>
 				<desc>散無散空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="36.8504" cy="712.396" width="73.71" height="73.7008"/>
-				<rect x="0" y="675.545" width="73.7008" height="73.7008" class="st1"/>
-				<text x="4.85" y="717.2" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>散無散空</text>			</g>
-			<g id="shape17-50" v:mID="17" v:groupContext="shape" transform="translate(1021.37,423.262) rotate(90)">
+				<rect x="0" y="625.914" width="73.7008" height="19.8425" class="st1"/>
+				<text x="4.85" y="640.64" class="st2">散無散空</text>			</g>
+			<g id="shape17-50" transform="translate(99.2126,-255.118)">
 				<title>工作表.17</title>
 				<desc>無散空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>無散空</text>			</g>
-			<g id="shape18-53" v:mID="18" v:groupContext="shape" transform="translate(1012.87,621.687) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">無散空</text>			</g>
+			<g id="shape18-53" transform="translate(297.638,-255.118)">
 				<title>工作表.18</title>
 				<desc>無變異空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="36.8504" cy="712.396" width="73.71" height="73.7008"/>
-				<rect x="0" y="675.545" width="73.7008" height="73.7008" class="st1"/>
-				<text x="4.85" y="717.2" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>無變異空</text>			</g>
-			<g id="shape19-56" v:mID="19" v:groupContext="shape" transform="translate(993.026,324.049) rotate(90)">
+				<rect x="0" y="625.914" width="73.7008" height="19.8425" class="st1"/>
+				<text x="4.85" y="640.64" class="st2">無變異空</text>			</g>
+			<g id="shape19-56" transform="translate(2.35811E-13,-226.772)">
 				<title>工作表.19</title>
 				<desc>本性空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>本性空</text>			</g>
-			<g id="shape20-59" v:mID="20" v:groupContext="shape" transform="translate(964.679,621.687) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">本性空</text>			</g>
+			<g id="shape20-59" transform="translate(297.638,-198.425)">
 				<title>工作表.20</title>
 				<desc>自相空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>自相空</text>			</g>
-			<g id="shape21-62" v:mID="21" v:groupContext="shape" transform="translate(927.829,324.049) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">自相空</text>			</g>
+			<g id="shape21-62" transform="translate(3.19744E-14,-170.079)">
 				<title>工作表.21</title>
 				<desc>自共相空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="36.8504" cy="712.396" width="73.71" height="73.7008"/>
-				<rect x="0" y="675.545" width="73.7008" height="73.7008" class="st1"/>
-				<text x="4.85" y="717.2" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>自共相空</text>			</g>
-			<g id="shape22-65" v:mID="22" v:groupContext="shape" transform="translate(943.419,423.262) rotate(90)">
+				<rect x="0" y="625.914" width="73.7008" height="19.8425" class="st1"/>
+				<text x="4.85" y="640.64" class="st2">自共相空</text>			</g>
+			<g id="shape22-65" transform="translate(99.2126,-170.079)">
 				<title>工作表.22</title>
 				<desc>相空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="21.2598" cy="727.986" width="42.52" height="42.5197"/>
-				<rect x="0" y="706.726" width="42.5197" height="42.5197" class="st1"/>
-				<text x="5.26" y="732.79" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>相空</text>			</g>
-			<g id="shape23-68" v:mID="23" v:groupContext="shape" transform="translate(907.986,621.687) rotate(90)">
+				<rect x="0" y="625.914" width="42.5197" height="19.8425" class="st1"/>
+				<text x="5.26" y="640.64" class="st2">相空</text>			</g>
+			<g id="shape23-68" transform="translate(297.638,-141.732)">
 				<title>工作表.23</title>
 				<desc>共相空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>共相空</text>			</g>
-			<g id="shape24-71" v:mID="24" v:groupContext="shape" transform="translate(871.136,324.049) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">共相空</text>			</g>
+			<g id="shape24-71" transform="translate(2.55795E-13,-113.386)">
 				<title>工作表.24</title>
 				<desc>一切法空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="36.8504" cy="712.396" width="73.71" height="73.7008"/>
-				<rect x="0" y="675.545" width="73.7008" height="73.7008" class="st1"/>
-				<text x="4.85" y="717.2" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一切法空</text>			</g>
-			<g id="shape25-74" v:mID="25" v:groupContext="shape" transform="translate(842.789,522.474) rotate(90)">
+				<rect x="0" y="625.914" width="73.7008" height="19.8425" class="st1"/>
+				<text x="4.85" y="640.64" class="st2">一切法空</text>			</g>
+			<g id="shape25-74" transform="translate(198.425,-85.0394)">
 				<title>工作表.25</title>
 				<desc>不可得空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="36.8504" cy="712.396" width="73.71" height="73.7008"/>
-				<rect x="0" y="675.545" width="73.7008" height="73.7008" class="st1"/>
-				<text x="4.85" y="717.2" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>不可得空</text>			</g>
-			<g id="shape26-77" v:mID="26" v:groupContext="shape" transform="translate(822.947,423.262) rotate(90)">
+				<rect x="0" y="625.914" width="73.7008" height="19.8425" class="st1"/>
+				<text x="4.85" y="640.64" class="st2">不可得空</text>			</g>
+			<g id="shape26-77" transform="translate(99.2126,-56.6929)">
 				<title>工作表.26</title>
 				<desc>無性空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>無性空</text>			</g>
-			<g id="shape27-80" v:mID="27" v:groupContext="shape" transform="translate(794.6,522.474) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">無性空</text>			</g>
+			<g id="shape27-80" transform="translate(198.425,-28.3465)">
 				<title>工作表.27</title>
 				<desc>自性空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>自性空</text>			</g>
-			<g id="shape28-83" v:mID="28" v:groupContext="shape" transform="translate(749.246,423.262) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">自性空</text>			</g>
+			<g id="shape28-83" transform="translate(99.2126,0)">
 				<title>工作表.28</title>
 				<desc>無性自性空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="45.3543" cy="703.892" width="90.71" height="90.7087"/>
-				<rect x="0" y="658.537" width="90.7087" height="90.7087" class="st1"/>
-				<text x="5.35" y="708.69" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>無性自性空</text>			</g>
-			<g id="shape33-86" v:mID="33" v:groupContext="shape" transform="translate(1368.62,423.262) rotate(90)">
+				<rect x="0" y="625.914" width="90.7087" height="19.8425" class="st1"/>
+				<text x="5.35" y="640.64" class="st2">無性自性空</text>			</g>
+			<g id="shape33-86" transform="translate(99.2126,-595.276)">
 				<title>工作表.33</title>
 				<desc>內空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="21.2598" cy="727.986" width="42.52" height="42.5197"/>
-				<rect x="0" y="706.726" width="42.5197" height="42.5197" class="st1"/>
-				<text x="5.26" y="732.79" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>內空</text>			</g>
-			<g id="shape34-89" v:mID="34" v:groupContext="shape" transform="translate(1368.62,522.474) rotate(90)">
+				<rect x="0" y="625.914" width="42.5197" height="19.8425" class="st1"/>
+				<text x="5.26" y="640.64" class="st2">內空</text>			</g>
+			<g id="shape34-89" transform="translate(198.425,-595.276)">
 				<title>工作表.34</title>
 				<desc>內空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="21.2598" cy="727.986" width="42.52" height="42.5197"/>
-				<rect x="0" y="706.726" width="42.5197" height="42.5197" class="st1"/>
-				<text x="5.26" y="732.79" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>內空</text>			</g>
-			<g id="shape35-92" v:mID="35" v:groupContext="shape" transform="translate(1368.62,621.687) rotate(90)">
+				<rect x="0" y="625.914" width="42.5197" height="19.8425" class="st1"/>
+				<text x="5.26" y="640.64" class="st2">內空</text>			</g>
+			<g id="shape35-92" transform="translate(297.638,-595.276)">
 				<title>工作表.35</title>
 				<desc>內空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="21.2598" cy="727.986" width="42.52" height="42.5197"/>
-				<rect x="0" y="706.726" width="42.5197" height="42.5197" class="st1"/>
-				<text x="5.26" y="732.79" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>內空</text>			</g>
-			<g id="shape36-95" v:mID="36" v:groupContext="shape" transform="translate(1340.27,423.262) rotate(90)">
+				<rect x="0" y="625.914" width="42.5197" height="19.8425" class="st1"/>
+				<text x="5.26" y="640.64" class="st2">內空</text>			</g>
+			<g id="shape36-95" transform="translate(99.2126,-566.929)">
 				<title>工作表.36</title>
 				<desc>外空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="21.2598" cy="727.986" width="42.52" height="42.5197"/>
-				<rect x="0" y="706.726" width="42.5197" height="42.5197" class="st1"/>
-				<text x="5.26" y="732.79" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>外空</text>			</g>
-			<g id="shape37-98" v:mID="37" v:groupContext="shape" transform="translate(1340.27,522.474) rotate(90)">
+				<rect x="0" y="625.914" width="42.5197" height="19.8425" class="st1"/>
+				<text x="5.26" y="640.64" class="st2">外空</text>			</g>
+			<g id="shape37-98" transform="translate(198.425,-566.929)">
 				<title>工作表.37</title>
 				<desc>外空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="21.2598" cy="727.986" width="42.52" height="42.5197"/>
-				<rect x="0" y="706.726" width="42.5197" height="42.5197" class="st1"/>
-				<text x="5.26" y="732.79" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>外空</text>			</g>
-			<g id="shape38-101" v:mID="38" v:groupContext="shape" transform="translate(1340.27,621.687) rotate(90)">
+				<rect x="0" y="625.914" width="42.5197" height="19.8425" class="st1"/>
+				<text x="5.26" y="640.64" class="st2">外空</text>			</g>
+			<g id="shape38-101" transform="translate(297.638,-566.929)">
 				<title>工作表.38</title>
 				<desc>外空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="21.2598" cy="727.986" width="42.52" height="42.5197"/>
-				<rect x="0" y="706.726" width="42.5197" height="42.5197" class="st1"/>
-				<text x="5.26" y="732.79" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>外空</text>			</g>
-			<g id="shape39-104" v:mID="39" v:groupContext="shape" transform="translate(1304.84,423.262) rotate(90)">
+				<rect x="0" y="625.914" width="42.5197" height="19.8425" class="st1"/>
+				<text x="5.26" y="640.64" class="st2">外空</text>			</g>
+			<g id="shape39-104" transform="translate(99.2126,-538.583)">
 				<title>工作表.39</title>
 				<desc>內外空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>內外空</text>			</g>
-			<g id="shape40-107" v:mID="40" v:groupContext="shape" transform="translate(1304.84,522.474) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">內外空</text>			</g>
+			<g id="shape40-107" transform="translate(198.425,-538.583)">
 				<title>工作表.40</title>
 				<desc>內外空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>內外空</text>			</g>
-			<g id="shape41-110" v:mID="41" v:groupContext="shape" transform="translate(1304.84,621.687) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">內外空</text>			</g>
+			<g id="shape41-110" transform="translate(297.638,-538.583)">
 				<title>工作表.41</title>
 				<desc>內外空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>內外空</text>			</g>
-			<g id="shape42-113" v:mID="42" v:groupContext="shape" transform="translate(1283.58,423.262) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">內外空</text>			</g>
+			<g id="shape42-113" transform="translate(99.2126,-510.236)">
 				<title>工作表.42</title>
 				<desc>空空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="21.2598" cy="727.986" width="42.52" height="42.5197"/>
-				<rect x="0" y="706.726" width="42.5197" height="42.5197" class="st1"/>
-				<text x="5.26" y="732.79" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>空空</text>			</g>
-			<g id="shape43-116" v:mID="43" v:groupContext="shape" transform="translate(1283.58,522.474) rotate(90)">
+				<rect x="0" y="625.914" width="42.5197" height="19.8425" class="st1"/>
+				<text x="5.26" y="640.64" class="st2">空空</text>			</g>
+			<g id="shape43-116" transform="translate(198.425,-510.236)">
 				<title>工作表.43</title>
 				<desc>空空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="21.2598" cy="727.986" width="42.52" height="42.5197"/>
-				<rect x="0" y="706.726" width="42.5197" height="42.5197" class="st1"/>
-				<text x="5.26" y="732.79" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>空空</text>			</g>
-			<g id="shape44-119" v:mID="44" v:groupContext="shape" transform="translate(1283.58,621.687) rotate(90)">
+				<rect x="0" y="625.914" width="42.5197" height="19.8425" class="st1"/>
+				<text x="5.26" y="640.64" class="st2">空空</text>			</g>
+			<g id="shape44-119" transform="translate(297.638,-510.236)">
 				<title>工作表.44</title>
 				<desc>空空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="21.2598" cy="727.986" width="42.52" height="42.5197"/>
-				<rect x="0" y="706.726" width="42.5197" height="42.5197" class="st1"/>
-				<text x="5.26" y="732.79" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>空空</text>			</g>
-			<g id="shape45-122" v:mID="45" v:groupContext="shape" transform="translate(1255.23,423.262) rotate(90)">
+				<rect x="0" y="625.914" width="42.5197" height="19.8425" class="st1"/>
+				<text x="5.26" y="640.64" class="st2">空空</text>			</g>
+			<g id="shape45-122" transform="translate(99.2126,-481.89)">
 				<title>工作表.45</title>
 				<desc>大空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="21.2598" cy="727.986" width="42.52" height="42.5197"/>
-				<rect x="0" y="706.726" width="42.5197" height="42.5197" class="st1"/>
-				<text x="5.26" y="732.79" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>大空</text>			</g>
-			<g id="shape46-125" v:mID="46" v:groupContext="shape" transform="translate(1255.23,522.474) rotate(90)">
+				<rect x="0" y="625.914" width="42.5197" height="19.8425" class="st1"/>
+				<text x="5.26" y="640.64" class="st2">大空</text>			</g>
+			<g id="shape46-125" transform="translate(198.425,-481.89)">
 				<title>工作表.46</title>
 				<desc>大空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="21.2598" cy="727.986" width="42.52" height="42.5197"/>
-				<rect x="0" y="706.726" width="42.5197" height="42.5197" class="st1"/>
-				<text x="5.26" y="732.79" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>大空</text>			</g>
-			<g id="shape47-128" v:mID="47" v:groupContext="shape" transform="translate(1255.23,621.687) rotate(90)">
+				<rect x="0" y="625.914" width="42.5197" height="19.8425" class="st1"/>
+				<text x="5.26" y="640.64" class="st2">大空</text>			</g>
+			<g id="shape47-128" transform="translate(297.638,-481.89)">
 				<title>工作表.47</title>
 				<desc>大空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="21.2598" cy="727.986" width="42.52" height="42.5197"/>
-				<rect x="0" y="706.726" width="42.5197" height="42.5197" class="st1"/>
-				<text x="5.26" y="732.79" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>大空</text>			</g>
-			<g id="shape48-131" v:mID="48" v:groupContext="shape" transform="translate(1219.8,423.262) rotate(90)">
+				<rect x="0" y="625.914" width="42.5197" height="19.8425" class="st1"/>
+				<text x="5.26" y="640.64" class="st2">大空</text>			</g>
+			<g id="shape48-131" transform="translate(99.2126,-453.543)">
 				<title>工作表.48</title>
 				<desc>勝義空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>勝義空</text>			</g>
-			<g id="shape49-134" v:mID="49" v:groupContext="shape" transform="translate(1219.8,522.474) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">勝義空</text>			</g>
+			<g id="shape49-134" transform="translate(198.425,-453.543)">
 				<title>工作表.49</title>
 				<desc>勝義空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>勝義空</text>			</g>
-			<g id="shape50-137" v:mID="50" v:groupContext="shape" transform="translate(1219.8,621.687) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">勝義空</text>			</g>
+			<g id="shape50-137" transform="translate(297.638,-453.543)">
 				<title>工作表.50</title>
 				<desc>勝義空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>勝義空</text>			</g>
-			<g id="shape51-140" v:mID="51" v:groupContext="shape" transform="translate(1191.45,423.262) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">勝義空</text>			</g>
+			<g id="shape51-140" transform="translate(99.2126,-425.197)">
 				<title>工作表.51</title>
 				<desc>有為空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>有為空</text>			</g>
-			<g id="shape52-143" v:mID="52" v:groupContext="shape" transform="translate(1191.45,522.474) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">有為空</text>			</g>
+			<g id="shape52-143" transform="translate(198.425,-425.197)">
 				<title>工作表.52</title>
 				<desc>有為空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>有為空</text>			</g>
-			<g id="shape53-146" v:mID="53" v:groupContext="shape" transform="translate(1191.45,621.687) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">有為空</text>			</g>
+			<g id="shape53-146" transform="translate(297.638,-425.197)">
 				<title>工作表.53</title>
 				<desc>有為空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>有為空</text>			</g>
-			<g id="shape54-149" v:mID="54" v:groupContext="shape" transform="translate(1163.1,423.262) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">有為空</text>			</g>
+			<g id="shape54-149" transform="translate(99.2126,-396.85)">
 				<title>工作表.54</title>
 				<desc>無為空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>無為空</text>			</g>
-			<g id="shape55-152" v:mID="55" v:groupContext="shape" transform="translate(1163.1,522.474) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">無為空</text>			</g>
+			<g id="shape55-152" transform="translate(198.425,-396.85)">
 				<title>工作表.55</title>
 				<desc>無為空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>無為空</text>			</g>
-			<g id="shape56-155" v:mID="56" v:groupContext="shape" transform="translate(1163.1,621.687) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">無為空</text>			</g>
+			<g id="shape56-155" transform="translate(297.638,-396.85)">
 				<title>工作表.56</title>
 				<desc>無為空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>無為空</text>			</g>
-			<g id="shape57-158" v:mID="57" v:groupContext="shape" transform="translate(1134.76,423.262) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">無為空</text>			</g>
+			<g id="shape57-158" transform="translate(99.2126,-368.504)">
 				<title>工作表.57</title>
 				<desc>畢竟空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>畢竟空</text>			</g>
-			<g id="shape58-161" v:mID="58" v:groupContext="shape" transform="translate(1134.76,522.474) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">畢竟空</text>			</g>
+			<g id="shape58-161" transform="translate(198.425,-368.504)">
 				<title>工作表.58</title>
 				<desc>畢竟空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>畢竟空</text>			</g>
-			<g id="shape59-164" v:mID="59" v:groupContext="shape" transform="translate(1134.76,621.687) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">畢竟空</text>			</g>
+			<g id="shape59-164" transform="translate(297.638,-368.504)">
 				<title>工作表.59</title>
 				<desc>畢竟空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>畢竟空</text>			</g>
-			<g id="shape60-167" v:mID="60" v:groupContext="shape" transform="translate(1106.41,423.262) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">畢竟空</text>			</g>
+			<g id="shape60-167" transform="translate(99.2126,-340.157)">
 				<title>工作表.60</title>
 				<desc>無際空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>無際空</text>			</g>
-			<g id="shape61-170" v:mID="61" v:groupContext="shape" transform="translate(1106.41,522.474) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">無際空</text>			</g>
+			<g id="shape61-170" transform="translate(198.425,-340.157)">
 				<title>工作表.61</title>
 				<desc>無際空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>無際空</text>			</g>
-			<g id="shape62-173" v:mID="62" v:groupContext="shape" transform="translate(1106.41,621.687) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">無際空</text>			</g>
+			<g id="shape62-173" transform="translate(297.638,-340.157)">
 				<title>工作表.62</title>
 				<desc>無際空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>無際空</text>			</g>
-			<g id="shape63-176" v:mID="63" v:groupContext="shape" transform="translate(1085.15,621.687) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">無際空</text>			</g>
+			<g id="shape63-176" transform="translate(297.638,-311.811)">
 				<title>工作表.63</title>
 				<desc>散空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="21.2598" cy="727.986" width="42.52" height="42.5197"/>
-				<rect x="0" y="706.726" width="42.5197" height="42.5197" class="st1"/>
-				<text x="5.26" y="732.79" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>散空</text>			</g>
-			<g id="shape65-179" v:mID="65" v:groupContext="shape" transform="translate(993.026,423.262) rotate(90)">
+				<rect x="0" y="625.914" width="42.5197" height="19.8425" class="st1"/>
+				<text x="5.26" y="640.64" class="st2">散空</text>			</g>
+			<g id="shape65-179" transform="translate(99.2126,-226.772)">
 				<title>工作表.65</title>
 				<desc>本性空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>本性空</text>			</g>
-			<g id="shape66-182" v:mID="66" v:groupContext="shape" transform="translate(993.026,522.474) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">本性空</text>			</g>
+			<g id="shape66-182" transform="translate(198.425,-226.772)">
 				<title>工作表.66</title>
 				<desc>本性空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>本性空</text>			</g>
-			<g id="shape67-185" v:mID="67" v:groupContext="shape" transform="translate(993.026,621.687) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">本性空</text>			</g>
+			<g id="shape67-185" transform="translate(297.638,-226.772)">
 				<title>工作表.67</title>
 				<desc>本性空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>本性空</text>			</g>
-			<g id="shape68-188" v:mID="68" v:groupContext="shape" transform="translate(927.829,522.474) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">本性空</text>			</g>
+			<g id="shape68-188" transform="translate(198.425,-170.079)">
 				<title>工作表.68</title>
 				<desc>自共相空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="36.8504" cy="712.396" width="73.71" height="73.7008"/>
-				<rect x="0" y="675.545" width="73.7008" height="73.7008" class="st1"/>
-				<text x="4.85" y="717.2" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>自共相空</text>			</g>
-			<g id="shape69-191" v:mID="69" v:groupContext="shape" transform="translate(871.136,423.262) rotate(90)">
+				<rect x="0" y="625.914" width="73.7008" height="19.8425" class="st1"/>
+				<text x="4.85" y="640.64" class="st2">自共相空</text>			</g>
+			<g id="shape69-191" transform="translate(99.2126,-113.386)">
 				<title>工作表.69</title>
 				<desc>一切法空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="36.8504" cy="712.396" width="73.71" height="73.7008"/>
-				<rect x="0" y="675.545" width="73.7008" height="73.7008" class="st1"/>
-				<text x="4.85" y="717.2" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一切法空</text>			</g>
-			<g id="shape70-194" v:mID="70" v:groupContext="shape" transform="translate(871.136,522.474) rotate(90)">
+				<rect x="0" y="625.914" width="73.7008" height="19.8425" class="st1"/>
+				<text x="4.85" y="640.64" class="st2">一切法空</text>			</g>
+			<g id="shape70-194" transform="translate(198.425,-113.386)">
 				<title>工作表.70</title>
 				<desc>一切法空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="36.8504" cy="712.396" width="73.71" height="73.7008"/>
-				<rect x="0" y="675.545" width="73.7008" height="73.7008" class="st1"/>
-				<text x="4.85" y="717.2" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一切法空</text>			</g>
-			<g id="shape71-197" v:mID="71" v:groupContext="shape" transform="translate(871.136,621.687) rotate(90)">
+				<rect x="0" y="625.914" width="73.7008" height="19.8425" class="st1"/>
+				<text x="4.85" y="640.64" class="st2">一切法空</text>			</g>
+			<g id="shape71-197" transform="translate(297.638,-113.386)">
 				<title>工作表.71</title>
 				<desc>一切法空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="36.8504" cy="712.396" width="73.71" height="73.7008"/>
-				<rect x="0" y="675.545" width="73.7008" height="73.7008" class="st1"/>
-				<text x="4.85" y="717.2" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一切法空</text>			</g>
-			<g id="shape64-200" v:mID="64" v:groupContext="shape" transform="translate(842.789,621.687) rotate(90)">
+				<rect x="0" y="625.914" width="73.7008" height="19.8425" class="st1"/>
+				<text x="4.85" y="640.64" class="st2">一切法空</text>			</g>
+			<g id="shape64-200" transform="translate(297.638,-85.0394)">
 				<title>工作表.64</title>
 				<desc>不可得空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="36.8504" cy="712.396" width="73.71" height="73.7008"/>
-				<rect x="0" y="675.545" width="73.7008" height="73.7008" class="st1"/>
-				<text x="4.85" y="717.2" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>不可得空</text>			</g>
-			<g id="shape72-203" v:mID="72" v:groupContext="shape" transform="translate(822.947,522.474) rotate(90)">
+				<rect x="0" y="625.914" width="73.7008" height="19.8425" class="st1"/>
+				<text x="4.85" y="640.64" class="st2">不可得空</text>			</g>
+			<g id="shape72-203" transform="translate(198.425,-56.6929)">
 				<title>工作表.72</title>
 				<desc>無性空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>無性空</text>			</g>
-			<g id="shape73-206" v:mID="73" v:groupContext="shape" transform="translate(822.947,621.687) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">無性空</text>			</g>
+			<g id="shape73-206" transform="translate(297.638,-56.6929)">
 				<title>工作表.73</title>
 				<desc>無性空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>無性空</text>			</g>
-			<g id="shape74-209" v:mID="74" v:groupContext="shape" transform="translate(794.6,621.687) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">無性空</text>			</g>
+			<g id="shape74-209" transform="translate(297.638,-28.3465)">
 				<title>工作表.74</title>
 				<desc>自性空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="720.9" width="56.7" height="56.6929"/>
-				<rect x="0" y="692.553" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="725.7" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>自性空</text>			</g>
-			<g id="shape75-212" v:mID="75" v:groupContext="shape" transform="translate(749.246,621.687) rotate(90)">
+				<rect x="0" y="625.914" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="640.64" class="st2">自性空</text>			</g>
+			<g id="shape75-212" transform="translate(297.638,-6.82121E-13)">
 				<title>工作表.75</title>
 				<desc>無性自性空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="45.3543" cy="703.892" width="90.71" height="90.7087"/>
-				<rect x="0" y="658.537" width="90.7087" height="90.7087" class="st1"/>
-				<text x="5.35" y="708.69" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>無性自性空</text>			</g>
-			<g id="shape76-215" v:mID="76" v:groupContext="shape" transform="translate(749.246,522.474) rotate(90)">
+				<rect x="0" y="625.914" width="90.7087" height="19.8425" class="st1"/>
+				<text x="5.35" y="640.64" class="st2">無性自性空</text>			</g>
+			<g id="shape76-215" transform="translate(198.425,-1.13687E-13)">
 				<title>工作表.76</title>
 				<desc>無性自性空</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="45.3543" cy="703.892" width="90.71" height="90.7087"/>
-				<rect x="0" y="658.537" width="90.7087" height="90.7087" class="st1"/>
-				<text x="5.35" y="708.69" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>無性自性空</text>			</g>
-			<g id="shape77-218" v:mID="77" v:groupContext="shape" transform="translate(1460.74,295.703) rotate(90)">
-				<title>工作表.77</title>
-				<path d="M0 749.25 L453.54 749.25" class="st3"/>
+				<rect x="0" y="625.914" width="90.7087" height="19.8425" class="st1"/>
+				<text x="5.35" y="640.64" class="st2">無性自性空</text>			</g>
+			<g id="shape78-218" transform="translate(1.41733,-622.205)">
+				<title>工作表.78</title>
+				<rect x="0" y="623.08" width="56.6929" height="22.6772" class="st3"/>
 			</g>
-			<g id="shape29-221" v:mID="29" v:groupContext="shape" transform="translate(752.081,295.703) rotate(90)">
-				<title>工作表.29</title>
-				<path d="M0 749.25 L453.54 749.25" class="st3"/>
+			<g id="shape79-220" transform="translate(100.387,-622.205)">
+				<title>工作表.79</title>
+				<rect x="0" y="623.08" width="56.6929" height="22.6772" class="st3"/>
 			</g>
-			<g id="shape30-224" v:mID="30" v:groupContext="shape" transform="translate(2.83465,-453.543)">
-				<title>工作表.30</title>
-				<path d="M0 749.25 L708.66 749.25" class="st3"/>
+			<g id="shape80-222" transform="translate(198.587,-622.205)">
+				<title>工作表.80</title>
+				<rect x="0" y="623.08" width="56.6929" height="22.6772" class="st3"/>
 			</g>
-			<g id="shape31-227" v:mID="31" v:groupContext="shape" transform="translate(2.83465,0)">
-				<title>工作表.31</title>
-				<path d="M0 749.25 L708.66 749.25" class="st3"/>
+			<g id="shape83-224" transform="translate(297.638,-622.205)">
+				<title>工作表.83</title>
+				<rect x="0" y="623.08" width="56.6929" height="22.6772" class="st3"/>
 			</g>
 		</g>
 	</g>

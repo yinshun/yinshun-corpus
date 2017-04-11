@@ -1,109 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<!-- 由 Microsoft Visio 11.0, SVG Export, v1.0 產生 y16.0278.svg Page-1 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 y16.0278-h.svg 頁-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="6.55391in" height="4.23108in"
-		viewBox="0 0 471.882 304.637" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
-	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false">
-		<v:userDefs>
-			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Box)"/>
-			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
-		</v:userDefs>
-	</v:documentProperties>
-
+		width="5.90018in" height="3.39624in" viewBox="0 0 424.813 244.53" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st3">
 	<style type="text/css">
 	<![CDATA[
 		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
 		.st2 {fill:#000000;font-family:新細明體;font-size:1.33333em}
-		.st3 {font-size:1em}
-		.st4 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;stroke-width:0.24}
-		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
-	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+	<g>
 		<title>頁-1</title>
-		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
-				v:shadowOffsetY="-8.50394"/>
-		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(23.9093,-249.831)">
-			<title>工作表.1</title>
-			<desc>《攝論》《成唯識論》名同</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="212.031" cy="292.449" width="424.07" height="24.378"/>
-			<rect x="0" y="280.26" width="424.063" height="24.378" class="st1"/>
-			<text x="4" y="297.25" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>《攝論》（《成唯識論》名同）</text>		</g>
-		<g id="shape2-4" v:mID="2" v:groupContext="shape" transform="translate(23.9093,-213.264)">
-			<title>工作表.2</title>
-			<desc>損力益能轉　　　　　　　　　　　　　　　　　　　　</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="212.031" cy="292.449" width="424.07" height="24.378"/>
-			<rect x="0" y="280.26" width="424.063" height="24.378" class="st1"/>
-			<text x="4.03" y="297.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>１損力益能轉　　　　　　　　　　　　　　　　　　　　</text>		</g>
-		<g id="shape3-7" v:mID="3" v:groupContext="shape" transform="translate(23.9093,-140.13)">
-			<title>工作表.3</title>
-			<desc>修習轉…………………………………………有用轉依　</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="212.031" cy="292.449" width="424.07" height="24.378"/>
-			<rect x="0" y="280.26" width="424.063" height="24.378" class="st1"/>
-			<text x="4.03" y="297.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>３修習轉<tspan class="st3"
-						v:langID="1033">…………………………………………</tspan>４有用轉依　</text>		</g>
-		<g id="shape4-11" v:mID="4" v:groupContext="shape" transform="translate(23.9093,-66.9959)">
-			<title>工作表.4</title>
-			<desc>下劣轉…………………………………………一分轉依　</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="212.031" cy="292.449" width="424.07" height="24.378"/>
-			<rect x="0" y="280.26" width="424.063" height="24.378" class="st1"/>
-			<text x="4.03" y="297.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>５下劣轉<tspan class="st3"
-						v:langID="1033">…………………………………………</tspan>１一分轉依　</text>		</g>
-		<g id="shape5-15" v:mID="5" v:groupContext="shape" transform="translate(23.9093,-103.563)">
-			<title>工作表.5</title>
-			<desc>果圓滿轉………………………………………究竟轉依　</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="212.031" cy="292.449" width="424.07" height="24.378"/>
-			<rect x="0" y="280.26" width="424.063" height="24.378" class="st1"/>
-			<text x="4.03" y="297.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>４果圓滿轉<tspan
-						class="st3" v:langID="1033">………………………………………</tspan>５究竟轉依　</text>		</g>
-		<g id="shape6-19" v:mID="6" v:groupContext="shape" transform="translate(23.9093,-176.697)">
-			<title>工作表.6</title>
-			<desc>通達轉…………………………………………有動轉依　</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="212.031" cy="292.449" width="424.07" height="24.378"/>
-			<rect x="0" y="280.26" width="424.063" height="24.378" class="st1"/>
-			<text x="4.03" y="297.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>２通達轉<tspan class="st3"
-						v:langID="1033">…………………………………………</tspan>３有動轉依　</text>		</g>
-		<g id="shape7-23" v:mID="7" v:groupContext="shape" transform="translate(23.9093,-30.429)">
-			<title>工作表.7</title>
-			<desc>廣大轉…………………………………………具分轉依　</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="212.031" cy="292.449" width="424.07" height="24.378"/>
-			<rect x="0" y="280.26" width="424.063" height="24.378" class="st1"/>
-			<text x="4.03" y="297.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>６廣大轉<tspan class="st3"
-						v:langID="1033">…………………………………………</tspan>２具分轉依　</text>		</g>
-		<g id="group12-27" transform="translate(149.004,286.397) rotate(-90)" v:mID="12" v:groupContext="group">
-			<title>工作表.12</title>
-			<g id="shape8-28" v:mID="8" v:groupContext="shape" transform="translate(0,-435.402)">
-				<title>工作表.8</title>
-				<path d="M0 304.64 L268.16 304.64" class="st4"/>
-			</g>
-			<g id="shape9-31" v:mID="9" v:groupContext="shape">
-				<title>工作表.9</title>
-				<path d="M0 304.64 L268.16 304.64" class="st4"/>
-			</g>
-			<g id="shape10-34" v:mID="10" v:groupContext="shape" transform="translate(-304.637,304.637) rotate(-90)">
-				<title>工作表.10</title>
-				<path d="M0 304.64 L435.4 304.64" class="st4"/>
-			</g>
-			<g id="shape11-37" v:mID="11" v:groupContext="shape" transform="translate(-36.48,304.637) rotate(-90)">
-				<title>工作表.11</title>
-				<path d="M0 304.64 L435.4 304.64" class="st4"/>
-			</g>
+		<g id="group14-1" transform="translate(0.375,-0.375)">
+			<title>工作表.14</title>
+			<g id="shape1-2" transform="translate(0,-219.402)">
+				<title>工作表.1</title>
+				<desc>《攝論》《成唯識論》名同</desc>
+				<rect x="0" y="220.152" width="424.063" height="24.378" class="st1"/>
+				<text x="4" y="237.14" class="st2">《攝論》（《成唯識論》名同）</text>			</g>
+			<g id="shape2-5" transform="translate(2.8777E-13,-182.835)">
+				<title>工作表.2</title>
+				<desc>損力益能轉　　　　　　　　　　　　　　　　　　　　</desc>
+				<rect x="0" y="220.152" width="424.063" height="24.378" class="st1"/>
+				<text x="4.03" y="237.14" class="st2">１損力益能轉</text>			</g>
+			<g id="shape3-8" transform="translate(4.79616E-13,-109.701)">
+				<title>工作表.3</title>
+				<desc>修習轉…………………………………………有用轉依　</desc>
+				<rect x="0" y="220.152" width="424.063" height="24.378" class="st1"/>
+				<text x="4.03" y="237.14" class="st2">３修習轉…………………………………………４有用轉依</text>			</g>
+			<g id="shape4-11" transform="translate(6.39488E-13,-36.5669)">
+				<title>工作表.4</title>
+				<desc>下劣轉…………………………………………一分轉依　</desc>
+				<rect x="0" y="220.152" width="424.063" height="24.378" class="st1"/>
+				<text x="4.03" y="237.14" class="st2">５下劣轉…………………………………………１一分轉依</text>			</g>
+			<g id="shape5-14" transform="translate(4.15668E-13,-73.1339)">
+				<title>工作表.5</title>
+				<desc>果圓滿轉………………………………………究竟轉依　</desc>
+				<rect x="0" y="220.152" width="424.063" height="24.378" class="st1"/>
+				<text x="4.03" y="237.14" class="st2">４果圓滿轉………………………………………５究竟轉依</text>			</g>
+			<g id="shape6-17" transform="translate(1.27898E-13,-146.268)">
+				<title>工作表.6</title>
+				<desc>通達轉…………………………………………有動轉依　</desc>
+				<rect x="0" y="220.152" width="424.063" height="24.378" class="st1"/>
+				<text x="4.03" y="237.14" class="st2">２通達轉…………………………………………３有動轉依</text>			</g>
+			<g id="shape7-20">
+				<title>工作表.7</title>
+				<desc>廣大轉…………………………………………具分轉依　</desc>
+				<rect x="0" y="220.152" width="424.063" height="24.378" class="st1"/>
+				<text x="4.03" y="237.14" class="st2">６廣大轉…………………………………………２具分轉依</text>			</g>
+			<g id="shape13-23" transform="translate(319.965,-223.591)">
+				<title>工作表.13</title>
+				<desc>《三無性論》</desc>
+				<rect x="0" y="228.53" width="104" height="16" class="st1"/>
+				<text x="4" y="241.33" class="st2">《三無性論》</text>			</g>
 		</g>
-		<g id="shape13-40" v:mID="13" v:groupContext="shape" transform="translate(343.874,-254.02)">
-			<title>工作表.13</title>
-			<desc>《三無性論》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="52" cy="296.637" width="104" height="16"/>
-			<rect x="0" y="288.637" width="104" height="16" class="st1"/>
-			<text x="4" y="301.44" class="st2" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>《三無性論》</text>		</g>
 	</g>
 </svg>

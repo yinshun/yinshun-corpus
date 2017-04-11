@@ -1,123 +1,87 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<!-- 由 Microsoft Visio 11.0, SVG Export, v1.0 產生 y11.0103-h.svg Page-1 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 y11.0103-h.svg 頁-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="7.96094in" height="7.80346in"
-		viewBox="0 0 573.188 561.849" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
+		width="7.26558in" height="1.85055in" viewBox="0 0 523.122 133.24" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st4">
 	<title>y11.0103</title>
-	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false"/>
 
 	<style type="text/css">
 	<![CDATA[
 		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
 		.st2 {fill:#000000;font-family:新細明體;font-size:1.33333em}
 		.st3 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
-		.st4 {stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
-		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
-	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
-		<title>Page-1</title>
-		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
-				v:shadowOffsetY="-8.50394"/>
-		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(27.9326,-18.72)">
-			<title>工作表.1</title>
-			<desc>大眾迦旃延蜫勒系────────────────────蜫勒</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="260.079" cy="299.645" width="520.16" height="524.409"/>
-			<rect x="0" y="37.44" width="520.157" height="524.409" class="st1"/>
-			<text x="4.08" y="304.44" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>大眾（迦旃延蜫勒系）────────────────────蜫勒</text>		</g>
-		<g id="shape2-4" v:mID="2" v:groupContext="shape" transform="translate(267.96,-253.519)">
-			<title>工作表.2</title>
-			<desc>說一切有系────────六分毘曇</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="140.756" cy="421.767" width="281.52" height="280.165"/>
-			<rect x="0" y="281.684" width="281.512" height="280.165" class="st1"/>
-			<text x="4.76" y="426.57" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>說一切有系────────六分毘曇</text>		</g>
-		<g id="shape3-7" v:mID="3" v:groupContext="shape" transform="translate(427.216,-303.563)">
-			<title>工作表.3</title>
-			<desc>───七分毘曇</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="61.3858" cy="500.157" width="122.78" height="123.386"/>
-			<rect x="0" y="438.464" width="122.772" height="123.386" class="st1"/>
-			<text x="5.39" y="504.96" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>───七分毘曇</text>		</g>
-		<g id="shape4-10" v:mID="4" v:groupContext="shape" transform="translate(267.94,-167.594)">
-			<title>工作表.4</title>
-			<desc>犢子系─────────舍利弗毘曇</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="141.197" cy="420.881" width="282.4" height="281.937"/>
-			<rect x="0" y="279.912" width="282.394" height="281.937" class="st1"/>
-			<text x="5.2" y="425.68" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>犢子系─────────舍利弗毘曇</text>		</g>
-		<g id="shape5-13" v:mID="5" v:groupContext="shape" transform="translate(379.11,-337.055)">
-			<title>工作表.5</title>
-			<desc>南海系</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="28.0787" cy="533.381" width="56.16" height="56.937"/>
-			<rect x="0" y="504.912" width="56.1575" height="56.937" class="st1"/>
-			<text x="4.08" y="538.18" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>南海系</text>		</g>
-		<g id="shape6-16" v:mID="6" v:groupContext="shape" transform="translate(379.11,-308.44)">
-			<title>工作表.6</title>
-			<desc>大陸系</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="28.0787" cy="533.381" width="56.16" height="56.937"/>
-			<rect x="0" y="504.912" width="56.1575" height="56.937" class="st1"/>
-			<text x="4.08" y="538.18" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>大陸系</text>		</g>
-		<g id="shape7-19" v:mID="7" v:groupContext="shape" transform="translate(267.496,-314.952)">
-			<title>工作表.7</title>
-			<desc>分別說系</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="36.937" cy="525.586" width="73.88" height="72.5276"/>
-			<rect x="0" y="489.322" width="73.874" height="72.5276" class="st1"/>
-			<text x="4.94" y="530.39" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>分別說系</text>		</g>
-		<g id="shape8-22" v:mID="8" v:groupContext="shape" transform="translate(530.381,-318.094) rotate(19.7312)">
-			<title>工作表.8</title>
-			<path d="M0 561.85 L40.4 561.85" class="st3"/>
-		</g>
-		<g id="shape9-25" v:mID="9" v:groupContext="shape" transform="translate(571.693,724.532) rotate(159.912)">
-			<title>工作表.9</title>
-			<path d="M0 561.85 L40.49 561.85" class="st3"/>
-		</g>
-		<g id="shape10-28" v:mID="10" v:groupContext="shape" transform="translate(73.24,655.712) rotate(-135.767)">
-			<title>工作表.10</title>
-			<path d="M0 561.85 L41.2 561.85" class="st3"/>
-		</g>
-		<g id="shape11-31" v:mID="11" v:groupContext="shape" transform="translate(27.9326,-234.862)">
-			<title>工作表.11</title>
-			<desc>上座舍利弗毘曇系────</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="116.972" cy="445.629" width="233.95" height="232.441"/>
-			<rect x="0" y="329.409" width="233.945" height="232.441" class="st1"/>
-			<text x="4.97" y="450.43" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>上座（舍利弗毘曇系）────</text>		</g>
-		<g id="shape12-34" v:mID="12" v:groupContext="shape" transform="translate(818.68,168.248) rotate(90)">
-			<title>工作表.12</title>
-			<path d="M0 561.85 L85.04 561.85" class="st3"/>
-		</g>
-		<g id="shape13-37" v:mID="13" v:groupContext="shape" transform="translate(271.003,730.097) rotate(180)">
-			<title>工作表.13</title>
-			<path d="M0 561.85 L14.17 561.85" class="st3"/>
-		</g>
-		<g id="shape14-40" v:mID="14" v:groupContext="shape" transform="translate(271.003,815.136) rotate(180)">
-			<title>工作表.14</title>
-			<path d="M0 561.85 L14.17 561.85" class="st3"/>
-		</g>
-		<g id="group19-43" transform="translate(-7.38142,301.476) rotate(-90)" v:mID="19" v:groupContext="group">
-			<title>工作表.19</title>
-			<g id="shape15-44" v:mID="15" v:groupContext="shape" transform="translate(0,-535.748)">
-				<title>工作表.15</title>
-				<path d="M0 561.85 L153.07 561.85" class="st4"/>
+	<g>
+		<title>頁-1</title>
+		<g id="group16-1" transform="translate(0.36,-0.36)">
+			<title>工作表.16</title>
+			<g id="shape1-2">
+				<title>工作表.1</title>
+				<desc>大眾迦旃延蜫勒系────────────────────蜫勒</desc>
+				<rect x="0" y="113.397" width="520.157" height="19.8425" class="st1"/>
+				<text x="4.08" y="128.12" class="st2">大眾（迦旃延蜫勒系）────────────────────蜫勒</text>			</g>
+			<g id="shape2-5" transform="translate(240.028,-112.677)">
+				<title>工作表.2</title>
+				<desc>說一切有系────────六分毘曇</desc>
+				<rect x="0" y="113.397" width="281.512" height="19.8425" class="st1"/>
+				<text x="4.76" y="128.12" class="st2">說一切有系────────六分毘曇</text>			</g>
+			<g id="shape3-8" transform="translate(399.283,-84.3307)">
+				<title>工作表.3</title>
+				<desc>───七分毘曇</desc>
+				<rect x="0" y="113.397" width="122.772" height="19.8425" class="st1"/>
+				<text x="5.39" y="128.12" class="st2">───七分毘曇</text>			</g>
+			<g id="shape4-11" transform="translate(240.008,-27.6378)">
+				<title>工作表.4</title>
+				<desc>犢子系─────────舍利弗毘曇</desc>
+				<rect x="0" y="113.397" width="282.394" height="19.8425" class="st1"/>
+				<text x="5.2" y="128.12" class="st2">犢子系─────────舍利弗毘曇</text>			</g>
+			<g id="shape5-14" transform="translate(351.177,-84.5984)">
+				<title>工作表.5</title>
+				<desc>海南系</desc>
+				<rect x="0" y="113.397" width="56.1575" height="19.8425" class="st1"/>
+				<text x="4.08" y="128.12" class="st2">海南系</text>			</g>
+			<g id="shape6-17" transform="translate(351.177,-55.9843)">
+				<title>工作表.6</title>
+				<desc>大陸系</desc>
+				<rect x="0" y="113.397" width="56.1575" height="19.8425" class="st1"/>
+				<text x="4.08" y="128.12" class="st2">大陸系</text>			</g>
+			<g id="shape7-20" transform="translate(239.563,-70.2913)">
+				<title>工作表.7</title>
+				<desc>分別說系</desc>
+				<rect x="0" y="113.397" width="73.874" height="19.8425" class="st1"/>
+				<text x="4.94" y="128.12" class="st2">分別說系</text>			</g>
+			<g id="shape8-23" transform="translate(357.747,-72.2558) rotate(19.7312)">
+				<title>工作表.8</title>
+				<path d="M0 133.24 L40.4 133.24" class="st3"/>
 			</g>
-			<g id="shape16-47" v:mID="16" v:groupContext="shape">
-				<title>工作表.16</title>
-				<path d="M0 561.85 L153.07 561.85" class="st4"/>
+			<g id="shape9-26" transform="translate(396.55,164.39) rotate(159.912)">
+				<title>工作表.9</title>
+				<path d="M0 133.24 L40.49 133.24" class="st3"/>
 			</g>
-			<g id="shape17-50" v:mID="17" v:groupContext="shape" transform="translate(-408.779,561.849) rotate(-90)">
-				<title>工作表.17</title>
-				<path d="M0 561.85 L535.75 561.85" class="st4"/>
+			<g id="shape10-29" transform="translate(344.298,191.006) rotate(-135.767)">
+				<title>工作表.10</title>
+				<path d="M0 133.24 L41.2 133.24" class="st3"/>
 			</g>
-			<g id="shape18-53" v:mID="18" v:groupContext="shape" transform="translate(561.849,26.1014) rotate(90)">
-				<title>工作表.18</title>
-				<path d="M0 561.85 L535.75 561.85" class="st4"/>
+			<g id="shape11-32" transform="translate(0,-70.1575)">
+				<title>工作表.11</title>
+				<desc>上座舍利弗毘曇系────</desc>
+				<rect x="0" y="113.397" width="233.945" height="19.8425" class="st1"/>
+				<text x="4.97" y="128.12" class="st2">上座（舍利弗毘曇系）────</text>			</g>
+			<g id="shape12-35" transform="translate(362.137,10.6413) rotate(90)">
+				<title>工作表.12</title>
+				<path d="M0 133.24 L85.04 133.24" class="st3"/>
+			</g>
+			<g id="shape13-38" transform="translate(243.071,143.881) rotate(180)">
+				<title>工作表.13</title>
+				<path d="M0 133.24 L14.17 133.24" class="st3"/>
+			</g>
+			<g id="shape14-41" transform="translate(243.071,228.92) rotate(180)">
+				<title>工作表.14</title>
+				<path d="M0 133.24 L14.17 133.24" class="st3"/>
 			</g>
 		</g>
 	</g>

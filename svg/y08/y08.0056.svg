@@ -1,64 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<!-- 由 Microsoft Visio 11.0, SVG Export, v1.0 產生 y08.0056-h.svg Page-1 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 y08.0056-h.svg 頁-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="3.51213in" height="4.12575in"
-		viewBox="0 0 252.873 297.054" xml:space="preserve" color-interpolation-filters="sRGB" class="st4">
+		width="2.788in" height="1.07299in" viewBox="0 0 200.736 77.2554" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st3">
 	<title>y08.0056</title>
-	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false"/>
 
 	<style type="text/css">
 	<![CDATA[
 		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
 		.st2 {fill:#000000;font-family:新細明體;font-size:1.33333em}
-		.st3 {stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
-		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
-	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
-		<title>Page-1</title>
-		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
-				v:shadowOffsetY="-8.50394"/>
-		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(28.6767,-75.4129)">
-			<title>工作表.1</title>
-			<desc>慚愧――止息意――梵行勝</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="100.008" cy="195.594" width="200.02" height="202.921"/>
-			<rect x="0" y="94.1329" width="200.016" height="202.921" class="st1"/>
-			<text x="4.01" y="200.39" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>慚愧――止息意――梵行勝</text>		</g>
-		<g id="shape2-4" v:mID="2" v:groupContext="shape" transform="translate(28.6767,-47.0665)">
-			<title>工作表.2</title>
-			<desc>智慧――末奴沙――憶念勝</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="100.008" cy="195.594" width="200.02" height="202.921"/>
-			<rect x="0" y="94.1329" width="200.016" height="202.921" class="st1"/>
-			<text x="4.01" y="200.39" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>智慧――末奴沙――憶念勝</text>		</g>
-		<g id="shape3-7" v:mID="3" v:groupContext="shape" transform="translate(28.6767,-18.72)">
-			<title>工作表.3</title>
-			<desc>堅忍――忍――――勇猛勝</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="100.008" cy="195.594" width="200.02" height="202.921"/>
-			<rect x="0" y="94.1329" width="200.016" height="202.921" class="st1"/>
-			<text x="4.01" y="200.39" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>堅忍――忍――――勇猛勝</text>		</g>
-		<g id="group8-10" transform="translate(-62.9011,196.716) rotate(-90)" v:mID="8" v:groupContext="group">
-			<title>工作表.8</title>
-			<g id="shape4-11" v:mID="4" v:groupContext="shape" transform="translate(-3.19744E-014,-215.433)">
-				<title>工作表.4</title>
-				<path d="M0 297.05 L99.21 297.05" class="st3"/>
-			</g>
-			<g id="shape5-14" v:mID="5" v:groupContext="shape">
-				<title>工作表.5</title>
-				<path d="M0 297.05 L99.21 297.05" class="st3"/>
-			</g>
-			<g id="shape6-17" v:mID="6" v:groupContext="shape" transform="translate(396.267,81.6211) rotate(90)">
-				<title>工作表.6</title>
-				<path d="M0 297.05 L215.43 297.05" class="st3"/>
-			</g>
-			<g id="shape7-20" v:mID="7" v:groupContext="shape" transform="translate(297.054,81.6211) rotate(90)">
-				<title>工作表.7</title>
-				<path d="M0 297.05 L215.43 297.05" class="st3"/>
-			</g>
+	<g>
+		<title>頁-1</title>
+		<g id="group4-1" transform="translate(0.36,-0.36)">
+			<title>工作表.4</title>
+			<g id="shape1-2" transform="translate(6.39488E-14,-56.6929)">
+				<title>工作表.1</title>
+				<desc>慚愧――止息意――梵行勝</desc>
+				<rect x="0" y="57.4129" width="200.016" height="19.8425" class="st1"/>
+				<text x="4.01" y="72.13" class="st2">慚愧――止息意――梵行勝</text>			</g>
+			<g id="shape2-5" transform="translate(1.43885E-13,-28.3465)">
+				<title>工作表.2</title>
+				<desc>智慧――末奴沙――憶念勝</desc>
+				<rect x="0" y="57.4129" width="200.016" height="19.8425" class="st1"/>
+				<text x="4.01" y="72.13" class="st2">智慧――末奴沙――憶念勝</text>			</g>
+			<g id="shape3-8">
+				<title>工作表.3</title>
+				<desc>堅忍――忍――――勇猛勝</desc>
+				<rect x="0" y="57.4129" width="200.016" height="19.8425" class="st1"/>
+				<text x="4.01" y="72.13" class="st2">堅忍――忍――――勇猛勝</text>			</g>
 		</g>
 	</g>
 </svg>

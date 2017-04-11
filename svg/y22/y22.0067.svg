@@ -1,577 +1,398 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<!-- 由 Microsoft Visio 11.0, SVG Export, v1.0 產生 y22.0067.svg Page-1 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 y22.0067-h.svg 頁-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.25765in" height="13.633in"
-		viewBox="0 0 594.551 981.579" xml:space="preserve" color-interpolation-filters="sRGB" class="st6">
-	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false">
-		<v:userDefs>
-			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Box)"/>
-			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
-		</v:userDefs>
-	</v:documentProperties>
-
+		width="7.60097in" height="11.4986in" viewBox="0 0 547.27 827.9" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st5">
 	<style type="text/css">
 	<![CDATA[
 		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
 		.st2 {fill:#000000;font-family:新細明體;font-size:1.33333em}
 		.st3 {fill:#000000;font-family:新細明體;font-size:1.00001em}
 		.st4 {font-size:1em}
-		.st5 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;stroke-width:0.24}
-		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
-	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+	<g>
 		<title>頁-1</title>
-		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
-				v:shadowOffsetY="-8.50394"/>
-		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(24.1219,-832.577)">
-			<title>工作表.1</title>
-			<desc>曹溪慧能</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.13" y="948.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>曹溪慧能</text>		</g>
-		<g id="shape2-4" v:mID="2" v:groupContext="shape" transform="translate(24.1219,-869.144)">
-			<title>工作表.2</title>
-			<desc>人名</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.13" y="948.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（人名）</text>		</g>
-		<g id="shape3-7" v:mID="3" v:groupContext="shape" transform="translate(156.5,-869.144)">
-			<title>工作表.3</title>
-			<desc>生地</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.13" y="948.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（生地）</text>		</g>
-		<g id="shape4-10" v:mID="4" v:groupContext="shape" transform="translate(386.39,-869.144)">
-			<title>工作表.4</title>
-			<desc>化區</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.13" y="948.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（化區）</text>		</g>
-		<g id="shape9-13" v:mID="9" v:groupContext="shape" transform="translate(24.1219,-796.01)">
-			<title>工作表.9</title>
-			<desc>南嶽懷讓</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.13" y="948.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>南嶽懷讓</text>		</g>
-		<g id="shape10-16" v:mID="10" v:groupContext="shape" transform="translate(24.1219,-759.443)">
-			<title>工作表.10</title>
-			<desc>青原行思</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.13" y="948.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>青原行思</text>		</g>
-		<g id="shape11-19" v:mID="11" v:groupContext="shape" transform="translate(24.1219,-722.876)">
-			<title>工作表.11</title>
-			<desc>馬祖道一</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.13" y="948.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>馬祖道一</text>		</g>
-		<g id="shape12-22" v:mID="12" v:groupContext="shape" transform="translate(24.1219,-686.309)">
-			<title>工作表.12</title>
-			<desc>石頭希遷</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.13" y="948.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>石頭希遷</text>		</g>
-		<g id="shape13-25" v:mID="13" v:groupContext="shape" transform="translate(24.1219,-649.742)">
-			<title>工作表.13</title>
-			<desc>百丈懷海</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.13" y="948.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>百丈懷海</text>		</g>
-		<g id="shape14-28" v:mID="14" v:groupContext="shape" transform="translate(24.1219,-613.175)">
-			<title>工作表.14</title>
-			<desc>天皇道悟</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.13" y="948.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>天皇道悟</text>		</g>
-		<g id="shape15-31" v:mID="15" v:groupContext="shape" transform="translate(24.1219,-576.608)">
-			<title>工作表.15</title>
-			<desc>藥山惟儼</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.13" y="948.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>藥山惟儼</text>		</g>
-		<g id="shape16-34" v:mID="16" v:groupContext="shape" transform="translate(24.1219,-540.041)">
-			<title>工作表.16</title>
-			<desc>黃蘗希運</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.13" y="948.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>黃蘗希運</text>		</g>
-		<g id="shape17-37" v:mID="17" v:groupContext="shape" transform="translate(24.1219,-503.474)">
-			<title>工作表.17</title>
-			<desc>溈山靈祐</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.13" y="948.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>溈山靈祐</text>		</g>
-		<g id="shape18-40" v:mID="18" v:groupContext="shape" transform="translate(24.1219,-466.907)">
-			<title>工作表.18</title>
-			<desc>龍潭崇信</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.13" y="948.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>龍潭崇信</text>		</g>
-		<g id="shape19-43" v:mID="19" v:groupContext="shape" transform="translate(24.1219,-430.341)">
-			<title>工作表.19</title>
-			<desc>雲巖曇晟</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.13" y="948.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>雲巖曇晟</text>		</g>
-		<g id="shape20-46" v:mID="20" v:groupContext="shape" transform="translate(24.1219,-393.774)">
-			<title>工作表.20</title>
-			<desc>臨濟義玄</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.13" y="948.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>臨濟義玄</text>		</g>
-		<g id="shape21-49" v:mID="21" v:groupContext="shape" transform="translate(24.1219,-357.207)">
-			<title>工作表.21</title>
-			<desc>仰山慧寂</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.2" y="948.25" class="st2" v:langID="1028"><v:paragraph v:indentLeft="-5.67" v:horizAlign="1"/><v:tabList/>仰山慧寂</text>		</g>
-		<g id="shape22-52" v:mID="22" v:groupContext="shape" transform="translate(24.1219,-320.64)">
-			<title>工作表.22</title>
-			<desc>德山宣鑑</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.13" y="948.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>德山宣鑑</text>		</g>
-		<g id="shape23-55" v:mID="23" v:groupContext="shape" transform="translate(24.1219,-284.073)">
-			<title>工作表.23</title>
-			<desc>洞山良价</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.13" y="948.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>洞山良价</text>		</g>
-		<g id="shape24-58" v:mID="24" v:groupContext="shape" transform="translate(24.1219,-247.506)">
-			<title>工作表.24</title>
-			<desc>雪峰義存</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.13" y="948.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>雪峰義存</text>		</g>
-		<g id="shape25-61" v:mID="25" v:groupContext="shape" transform="translate(24.1219,-210.939)">
-			<title>工作表.25</title>
-			<desc>曹山本寂</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.13" y="948.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>曹山本寂</text>		</g>
-		<g id="shape26-64" v:mID="26" v:groupContext="shape" transform="translate(24.1219,-174.372)">
-			<title>工作表.26</title>
-			<desc>玄沙師備</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.13" y="948.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>玄沙師備</text>		</g>
-		<g id="shape27-67" v:mID="27" v:groupContext="shape" transform="translate(24.1219,-137.805)">
-			<title>工作表.27</title>
-			<desc>雲門文偃</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.13" y="948.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>雲門文偃</text>		</g>
-		<g id="shape28-70" v:mID="28" v:groupContext="shape" transform="translate(24.1219,-101.238)">
-			<title>工作表.28</title>
-			<desc>地藏桂琛</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.13" y="948.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>地藏桂琛</text>		</g>
-		<g id="shape29-73" v:mID="29" v:groupContext="shape" transform="translate(24.1219,-64.6713)">
-			<title>工作表.29</title>
-			<desc>清涼文益</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="38.126" cy="943.453" width="76.26" height="76.252"/>
-			<rect x="0" y="905.327" width="76.252" height="76.252" class="st1"/>
-			<text x="6.13" y="948.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>清涼文益</text>		</g>
-		<g id="shape32-76" v:mID="32" v:groupContext="shape" transform="translate(159.334,-778.577)">
-			<title>工作表.32</title>
-			<desc>新州始興──今廣東始興</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="92.126" cy="889.453" width="184.26" height="184.252"/>
-			<rect x="0" y="797.327" width="184.252" height="184.252" class="st1"/>
-			<text x="4.13" y="894.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>新州始興──今廣東始興</text>		</g>
-		<g id="shape33-79" v:mID="33" v:groupContext="shape" transform="translate(153.665,-747.254)">
-			<title>工作表.33</title>
-			<desc>金　　州──陝西安康</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="86.8819" cy="894.697" width="173.77" height="173.764"/>
-			<rect x="0" y="807.815" width="173.764" height="173.764" class="st1"/>
-			<text x="9.72" y="899.5" class="st2" v:langID="1028"><v:paragraph v:indentLeft="5.67" v:horizAlign="1"/><v:tabList/>金　　州──陝西安康</text>		</g>
-		<g id="shape34-82" v:mID="34" v:groupContext="shape" transform="translate(159.334,-713.522)">
-			<title>工作表.34</title>
-			<desc>吉州安城──江西吉安</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>吉州安城──江西吉安</text>		</g>
-		<g id="shape35-85" v:mID="35" v:groupContext="shape" transform="translate(159.334,-676.955)">
-			<title>工作表.35</title>
-			<desc>漢州什邡──四川什邡</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>漢州什邡──四川什邡</text>		</g>
-		<g id="shape36-88" v:mID="36" v:groupContext="shape" transform="translate(159.334,-640.388)">
-			<title>工作表.36</title>
-			<desc>端州高要──廣東高要</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>端州高要──廣東高要</text>		</g>
-		<g id="shape37-91" v:mID="37" v:groupContext="shape" transform="translate(159.334,-603.821)">
-			<title>工作表.37</title>
-			<desc>福州長樂──福建長樂</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>福州長樂──福建長樂</text>		</g>
-		<g id="shape38-94" v:mID="38" v:groupContext="shape" transform="translate(159.334,-567.254)">
-			<title>工作表.38</title>
-			<desc>婺州東陽──浙江東陽</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>婺州東陽──浙江東陽</text>		</g>
-		<g id="shape39-97" v:mID="39" v:groupContext="shape" transform="translate(159.334,-530.687)">
-			<title>工作表.39</title>
-			<desc>絳州　　──山西新絳</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>絳州　　──山西新絳</text>		</g>
-		<g id="shape40-100" v:mID="40" v:groupContext="shape" transform="translate(182.649,-586.671)">
-			<title>工作表.40</title>
-			<desc>　</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="28.063" cy="953.516" width="56.13" height="56.126"/>
-			<rect x="0" y="925.453" width="56.126" height="56.126" class="st1"/>
-			<text x="4.06" y="958.32" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>（　）</text>		</g>
-		<g id="shape41-103" v:mID="41" v:groupContext="shape" transform="translate(190.586,-594.608)">
-			<title>工作表.41</title>
-			<desc>潮陽出家</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="20.126" cy="961.453" width="40.26" height="40.252"/>
-			<rect x="0" y="941.327" width="40.252" height="40.252" class="st1"/>
-			<text x="8.13" y="957.85" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>潮陽<tspan x="8.13"
-						dy="1.2em" class="st4">出家</tspan></text>		</g>
-		<g id="shape42-107" v:mID="42" v:groupContext="shape" transform="translate(159.334,-494.12)">
-			<title>工作表.42</title>
-			<desc>閩─────福建閩侯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>閩─────福建閩侯</text>		</g>
-		<g id="shape43-110" v:mID="43" v:groupContext="shape" transform="translate(159.334,-457.553)">
-			<title>工作表.43</title>
-			<desc>福州長谿──福　　建</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>福州長谿──福　　建</text>		</g>
-		<g id="shape44-113" v:mID="44" v:groupContext="shape" transform="translate(159.334,-420.986)">
-			<title>工作表.44</title>
-			<desc>渚　　宮──湖北江陵</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>渚　　宮──湖北江陵</text>		</g>
-		<g id="shape45-116" v:mID="45" v:groupContext="shape" transform="translate(159.334,-384.419)">
-			<title>工作表.45</title>
-			<desc>鍾陵建昌──江西南城</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>鍾陵建昌──江西南城</text>		</g>
-		<g id="shape46-119" v:mID="46" v:groupContext="shape" transform="translate(159.334,-347.852)">
-			<title>工作表.46</title>
-			<desc>曹　　州──山東曹縣</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>曹　　州──山東曹縣</text>		</g>
-		<g id="shape47-122" v:mID="47" v:groupContext="shape" transform="translate(159.334,-311.285)">
-			<title>工作表.47</title>
-			<desc>韶州懷化──廣　　東</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>韶州懷化──廣　　東</text>		</g>
-		<g id="shape48-125" v:mID="48" v:groupContext="shape" transform="translate(159.334,-274.719)">
-			<title>工作表.48</title>
-			<desc>劍　　南──四川西北</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>劍　　南──四川西北</text>		</g>
-		<g id="shape49-128" v:mID="49" v:groupContext="shape" transform="translate(159.334,-238.152)">
-			<title>工作表.49</title>
-			<desc>會　　稽──浙江紹興</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>會　　稽──浙江紹興</text>		</g>
-		<g id="shape50-131" v:mID="50" v:groupContext="shape" transform="translate(159.334,-201.585)">
-			<title>工作表.50</title>
-			<desc>泉州南安──福建南安</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>泉州南安──福建南安</text>		</g>
-		<g id="shape51-134" v:mID="51" v:groupContext="shape" transform="translate(159.334,-165.018)">
-			<title>工作表.51</title>
-			<desc>泉州莆田──福建莆田</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>泉州莆田──福建莆田</text>		</g>
-		<g id="shape52-137" v:mID="52" v:groupContext="shape" transform="translate(159.334,-128.451)">
-			<title>工作表.52</title>
-			<desc>福州閩縣──福建閩侯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>福州閩縣──福建閩侯</text>		</g>
-		<g id="shape53-140" v:mID="53" v:groupContext="shape" transform="translate(159.334,-91.8839)">
-			<title>工作表.53</title>
-			<desc>嘉　　興──浙江嘉興</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>嘉　　興──浙江嘉興</text>		</g>
-		<g id="shape54-143" v:mID="54" v:groupContext="shape" transform="translate(159.334,-55.3169)">
-			<title>工作表.54</title>
-			<desc>常　　山──浙江常山</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>常　　山──浙江常山</text>		</g>
-		<g id="shape55-146" v:mID="55" v:groupContext="shape" transform="translate(159.334,-18.75)">
-			<title>工作表.55</title>
-			<desc>餘　　杭──浙江餘杭</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>餘　　杭──浙江餘杭</text>		</g>
-		<g id="shape56-149" v:mID="56" v:groupContext="shape" transform="translate(386.39,-777.726)">
-			<title>工作表.56</title>
-			<desc>韶　　州──今廣東曲江</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="92.126" cy="889.453" width="184.26" height="184.252"/>
-			<rect x="0" y="797.327" width="184.252" height="184.252" class="st1"/>
-			<text x="4.13" y="894.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>韶　　州──今廣東曲江</text>		</g>
-		<g id="shape57-152" v:mID="57" v:groupContext="shape" transform="translate(386.39,-750.089)">
-			<title>工作表.57</title>
-			<desc>南　　嶽──湖南南嶽</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>南　　嶽──湖南南嶽</text>		</g>
-		<g id="shape58-155" v:mID="58" v:groupContext="shape" transform="translate(386.39,-713.522)">
-			<title>工作表.58</title>
-			<desc>吉州廬陵──江西吉水</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>吉州廬陵──江西吉水</text>		</g>
-		<g id="shape59-158" v:mID="59" v:groupContext="shape" transform="translate(386.39,-676.955)">
-			<title>工作表.59</title>
-			<desc>撫州臨川──江西臨川</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>撫州臨川──江西臨川</text>		</g>
-		<g id="shape60-161" v:mID="60" v:groupContext="shape" transform="translate(386.39,-640.388)">
-			<title>工作表.60</title>
-			<desc>南　　嶽──湖南南嶽</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>南　　嶽──湖南南嶽</text>		</g>
-		<g id="shape61-164" v:mID="61" v:groupContext="shape" transform="translate(386.39,-603.821)">
-			<title>工作表.61</title>
-			<desc>洪　　州──江西南昌</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>洪　　州──江西南昌</text>		</g>
-		<g id="shape62-167" v:mID="62" v:groupContext="shape" transform="translate(386.39,-567.254)">
-			<title>工作表.62</title>
-			<desc>荊　　州──湖北江陵</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>荊　　州──湖北江陵</text>		</g>
-		<g id="shape63-170" v:mID="63" v:groupContext="shape" transform="translate(386.39,-530.687)">
-			<title>工作表.63</title>
-			<desc>灃州藥山──湖　　南</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>灃州藥山──湖　　南</text>		</g>
-		<g id="shape64-173" v:mID="64" v:groupContext="shape" transform="translate(386.39,-494.12)">
-			<title>工作表.64</title>
-			<desc>洪　　州──江西南昌</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>洪　　州──江西南昌</text>		</g>
-		<g id="shape65-176" v:mID="65" v:groupContext="shape" transform="translate(386.39,-457.553)">
-			<title>工作表.65</title>
-			<desc>潭州潙山──湖南寧湘</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>潭州潙山──湖南寧湘</text>		</g>
-		<g id="shape66-179" v:mID="66" v:groupContext="shape" transform="translate(386.39,-420.986)">
-			<title>工作表.66</title>
-			<desc>灃州龍潭──湖　　南</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>灃州龍潭──湖　　南</text>		</g>
-		<g id="shape67-182" v:mID="67" v:groupContext="shape" transform="translate(386.39,-384.419)">
-			<title>工作表.67</title>
-			<desc>潭州雲巖──湖　　南</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>潭州雲巖──湖　　南</text>		</g>
-		<g id="shape68-185" v:mID="68" v:groupContext="shape" transform="translate(386.39,-347.852)">
-			<title>工作表.68</title>
-			<desc>鎮　　州──河北正定</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>鎮　　州──河北正定</text>		</g>
-		<g id="shape69-188" v:mID="69" v:groupContext="shape" transform="translate(386.39,-311.285)">
-			<title>工作表.69</title>
-			<desc>袁州仰山──江　　西</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>袁州仰山──江　　西</text>		</g>
-		<g id="shape70-191" v:mID="70" v:groupContext="shape" transform="translate(385.61,-275.569)">
-			<title>工作表.70</title>
-			<desc>灃陽至德山─　　　　</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>灃陽至德山─　　　　</text>		</g>
-		<g id="shape71-194" v:mID="71" v:groupContext="shape" transform="translate(514.232,-338.498)">
-			<title>工作表.71</title>
-			<desc>灃縣常德</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="20.126" cy="961.453" width="40.26" height="40.252"/>
-			<rect x="0" y="941.327" width="40.252" height="40.252" class="st1"/>
-			<text x="12.25" y="957.85" class="st3" v:langID="1028"><v:paragraph v:horizAlign="2"/><v:tabList/>灃縣<tspan x="12.25"
-						dy="1.2em" class="st4">常德</tspan></text>		</g>
-		<g id="shape72-198" v:mID="72" v:groupContext="shape" transform="translate(480.854,-331.553)">
-			<title>工作表.72</title>
-			<desc>湖 南</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="28.063" cy="953.516" width="56.13" height="56.126"/>
-			<rect x="0" y="925.453" width="56.126" height="56.126" class="st1"/>
-			<text x="4" y="958.32" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>湖  南</text>		</g>
-		<g id="shape73-201" v:mID="73" v:groupContext="shape" transform="translate(386.39,-238.152)">
-			<title>工作表.73</title>
-			<desc>筠州洞山──江西高安</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>筠州洞山──江西高安</text>		</g>
-		<g id="shape74-204" v:mID="74" v:groupContext="shape" transform="translate(386.39,-201.585)">
-			<title>工作表.74</title>
-			<desc>福州閩川──福建閩侯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>福州閩川──福建閩侯</text>		</g>
-		<g id="shape75-207" v:mID="75" v:groupContext="shape" transform="translate(386.39,-165.018)">
-			<title>工作表.75</title>
-			<desc>撫州曹山──江西臨川</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>撫州曹山──江西臨川</text>		</g>
-		<g id="shape76-210" v:mID="76" v:groupContext="shape" transform="translate(386.39,-128.451)">
-			<title>工作表.76</title>
-			<desc>福州玄沙山─福建閩侯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>福州玄沙山─福建閩侯</text>		</g>
-		<g id="shape77-213" v:mID="77" v:groupContext="shape" transform="translate(386.39,-91.8839)">
-			<title>工作表.77</title>
-			<desc>龍州雲門山─廣東乳源</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>龍州雲門山─廣東乳源</text>		</g>
-		<g id="shape78-216" v:mID="78" v:groupContext="shape" transform="translate(386.39,-55.3169)">
-			<title>工作表.78</title>
-			<desc>漳州漳浦──　　　　</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>漳州漳浦──　　　　</text>		</g>
-		<g id="shape79-219" v:mID="79" v:groupContext="shape" transform="translate(480.854,-111.301)">
-			<title>工作表.79</title>
-			<desc>福 建</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="28.063" cy="953.516" width="56.13" height="56.126"/>
-			<rect x="0" y="925.453" width="56.126" height="56.126" class="st1"/>
-			<text x="4" y="958.32" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>福  建</text>		</g>
-		<g id="shape80-222" v:mID="80" v:groupContext="shape" transform="translate(514.232,-119.238)">
-			<title>工作表.80</title>
-			<desc>龍溪漳浦</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="20.126" cy="961.453" width="40.26" height="40.252"/>
-			<rect x="0" y="941.327" width="40.252" height="40.252" class="st1"/>
-			<text x="12.25" y="957.85" class="st3" v:langID="1028"><v:paragraph v:horizAlign="2"/><v:tabList/>龍溪<tspan x="12.25"
-						dy="1.2em" class="st4">漳浦</tspan></text>		</g>
-		<g id="shape81-226" v:mID="81" v:groupContext="shape" transform="translate(386.39,-18.75)">
-			<title>工作表.81</title>
-			<desc>金　　陵──南　　京</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="897.531" width="168.1" height="168.094"/>
-			<rect x="0" y="813.484" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="902.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>金　　陵──南　　京</text>		</g>
-		<g id="group8-229" transform="translate(-405.268,896.64) rotate(-90)" v:mID="8" v:groupContext="group">
-			<title>工作表.8</title>
-			<g id="shape5-230" v:mID="5" v:groupContext="shape" transform="translate(6.39488E-014,-558.071)">
-				<title>工作表.5</title>
-				<path d="M0 981.58 L840.19 981.58" class="st5"/>
-			</g>
-			<g id="shape6-233" v:mID="6" v:groupContext="shape" transform="translate(-981.579,981.579) rotate(-90)">
-				<title>工作表.6</title>
-				<path d="M0 981.58 L558.07 981.58" class="st5"/>
-			</g>
-			<g id="shape7-236" v:mID="7" v:groupContext="shape" transform="translate(-141.39,981.579) rotate(-90)">
-				<title>工作表.7</title>
-				<path d="M0 981.58 L558.07 981.58" class="st5"/>
-			</g>
-			<g id="shape30-239" v:mID="30" v:groupContext="shape">
-				<title>工作表.30</title>
-				<path d="M0 981.58 L840.19 981.58" class="st5"/>
-			</g>
+		<g id="group82-1" transform="translate(0.375,-0.375)">
+			<title>工作表.82</title>
+			<g id="shape1-2" transform="translate(3.51719E-13,-767.906)">
+				<title>工作表.1</title>
+				<desc>曹溪慧能</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.13" y="821.36" class="st2">曹溪慧能</text>			</g>
+			<g id="shape2-5" transform="translate(9.59233E-14,-804.472)">
+				<title>工作表.2</title>
+				<desc>人名</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.13" y="821.36" class="st2">（人名）</text>			</g>
+			<g id="shape3-8" transform="translate(132.378,-804.472)">
+				<title>工作表.3</title>
+				<desc>生地</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.13" y="821.36" class="st2">（生地）</text>			</g>
+			<g id="shape4-11" transform="translate(362.268,-804.472)">
+				<title>工作表.4</title>
+				<desc>化區</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.13" y="821.36" class="st2">（化區）</text>			</g>
+			<g id="shape9-14" transform="translate(3.51719E-13,-731.339)">
+				<title>工作表.9</title>
+				<desc>南嶽懷讓</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.13" y="821.36" class="st2">南嶽懷讓</text>			</g>
+			<g id="shape10-17" transform="translate(6.07514E-13,-694.772)">
+				<title>工作表.10</title>
+				<desc>青原行思</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.13" y="821.36" class="st2">青原行思</text>			</g>
+			<g id="shape11-20" transform="translate(6.07514E-13,-658.205)">
+				<title>工作表.11</title>
+				<desc>馬祖道一</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.13" y="821.36" class="st2">馬祖道一</text>			</g>
+			<g id="shape12-23" transform="translate(8.63309E-13,-621.638)">
+				<title>工作表.12</title>
+				<desc>石頭希遷</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.13" y="821.36" class="st2">石頭希遷</text>			</g>
+			<g id="shape13-26" transform="translate(8.63309E-13,-585.071)">
+				<title>工作表.13</title>
+				<desc>百丈懷海</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.13" y="821.36" class="st2">百丈懷海</text>			</g>
+			<g id="shape14-29" transform="translate(1.1191E-12,-548.504)">
+				<title>工作表.14</title>
+				<desc>天皇道悟</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.13" y="821.36" class="st2">天皇道悟</text>			</g>
+			<g id="shape15-32" transform="translate(1.1191E-12,-511.937)">
+				<title>工作表.15</title>
+				<desc>藥山惟儼</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.13" y="821.36" class="st2">藥山惟儼</text>			</g>
+			<g id="shape16-35" transform="translate(1.3749E-12,-475.37)">
+				<title>工作表.16</title>
+				<desc>黃蘗希運</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.13" y="821.36" class="st2">黃蘗希運</text>			</g>
+			<g id="shape17-38" transform="translate(1.3749E-12,-438.803)">
+				<title>工作表.17</title>
+				<desc>溈山靈祐</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.13" y="821.36" class="st2">溈山靈祐</text>			</g>
+			<g id="shape18-41" transform="translate(1.6307E-12,-402.236)">
+				<title>工作表.18</title>
+				<desc>龍潭崇信</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.13" y="821.36" class="st2">龍潭崇信</text>			</g>
+			<g id="shape19-44" transform="translate(1.6307E-12,-365.669)">
+				<title>工作表.19</title>
+				<desc>雲巖曇晟</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.13" y="821.36" class="st2">雲巖曇晟</text>			</g>
+			<g id="shape20-47" transform="translate(1.88649E-12,-329.102)">
+				<title>工作表.20</title>
+				<desc>臨濟義玄</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.13" y="821.36" class="st2">臨濟義玄</text>			</g>
+			<g id="shape21-50" transform="translate(1.88649E-12,-292.535)">
+				<title>工作表.21</title>
+				<desc>仰山慧寂</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.2" y="821.36" class="st2">仰山慧寂</text>			</g>
+			<g id="shape22-53" transform="translate(2.14229E-12,-255.969)">
+				<title>工作表.22</title>
+				<desc>德山宣鑑</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.13" y="821.36" class="st2">德山宣鑑</text>			</g>
+			<g id="shape23-56" transform="translate(2.14229E-12,-219.402)">
+				<title>工作表.23</title>
+				<desc>洞山良价</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.13" y="821.36" class="st2">洞山良价</text>			</g>
+			<g id="shape24-59" transform="translate(2.39808E-12,-182.835)">
+				<title>工作表.24</title>
+				<desc>雪峰義存</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.13" y="821.36" class="st2">雪峰義存</text>			</g>
+			<g id="shape25-62" transform="translate(2.39808E-12,-146.268)">
+				<title>工作表.25</title>
+				<desc>曹山本寂</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.13" y="821.36" class="st2">曹山本寂</text>			</g>
+			<g id="shape26-65" transform="translate(2.65388E-12,-109.701)">
+				<title>工作表.26</title>
+				<desc>玄沙師備</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.13" y="821.36" class="st2">玄沙師備</text>			</g>
+			<g id="shape27-68" transform="translate(2.65388E-12,-73.1339)">
+				<title>工作表.27</title>
+				<desc>雲門文偃</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.13" y="821.36" class="st2">雲門文偃</text>			</g>
+			<g id="shape28-71" transform="translate(2.90967E-12,-36.5669)">
+				<title>工作表.28</title>
+				<desc>地藏桂琛</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.13" y="821.36" class="st2">地藏桂琛</text>			</g>
+			<g id="shape29-74">
+				<title>工作表.29</title>
+				<desc>清涼文益</desc>
+				<rect x="0" y="805.222" width="76.252" height="22.6772" class="st1"/>
+				<text x="6.13" y="821.36" class="st2">清涼文益</text>			</g>
+			<g id="shape32-77" transform="translate(135.213,-767.906)">
+				<title>工作表.32</title>
+				<desc>新州始興──今廣東始興</desc>
+				<rect x="0" y="805.222" width="184.252" height="22.6772" class="st1"/>
+				<text x="4.13" y="821.36" class="st2">新州始興──今廣東始興</text>			</g>
+			<g id="shape33-80" transform="translate(129.543,-731.339)">
+				<title>工作表.33</title>
+				<desc>金　　州──陝西安康</desc>
+				<rect x="0" y="805.222" width="173.764" height="22.6772" class="st1"/>
+				<text x="9.72" y="821.36" class="st2">金　　州──陝西安康</text>			</g>
+			<g id="shape34-83" transform="translate(135.213,-694.772)">
+				<title>工作表.34</title>
+				<desc>吉州安城──江西吉安</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">吉州安城──江西吉安</text>			</g>
+			<g id="shape35-86" transform="translate(135.213,-658.205)">
+				<title>工作表.35</title>
+				<desc>漢州什邡──四川什邡</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">漢州什邡──四川什邡</text>			</g>
+			<g id="shape36-89" transform="translate(135.213,-621.638)">
+				<title>工作表.36</title>
+				<desc>端州高要──廣東高要</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">端州高要──廣東高要</text>			</g>
+			<g id="shape37-92" transform="translate(135.213,-585.071)">
+				<title>工作表.37</title>
+				<desc>福州長樂──福建長樂</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">福州長樂──福建長樂</text>			</g>
+			<g id="shape38-95" transform="translate(135.213,-548.504)">
+				<title>工作表.38</title>
+				<desc>婺州東陽──浙江東陽</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">婺州東陽──浙江東陽</text>			</g>
+			<g id="shape39-98" transform="translate(135.213,-511.937)">
+				<title>工作表.39</title>
+				<desc>絳州　　──山西新絳</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">絳州　　──山西新絳</text>			</g>
+			<g id="shape40-101" transform="translate(158.528,-511.937)">
+				<title>工作表.40</title>
+				<desc>　</desc>
+				<rect x="0" y="805.222" width="56.126" height="22.6772" class="st1"/>
+				<text x="4.06" y="821.36" class="st2">（　）</text>			</g>
+			<g id="shape41-104" transform="translate(166.465,-506.268)">
+				<title>工作表.41</title>
+				<desc>潮陽出家</desc>
+				<rect x="0" y="793.884" width="40.252" height="34.0157" class="st1"/>
+				<text x="8.13" y="807.29" class="st3">潮陽<tspan x="8.13" dy="1.2em" class="st4">出家</tspan></text>			</g>
+			<g id="shape42-108" transform="translate(135.213,-475.37)">
+				<title>工作表.42</title>
+				<desc>閩─────福建閩侯</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">閩─────福建閩侯</text>			</g>
+			<g id="shape43-111" transform="translate(135.213,-438.803)">
+				<title>工作表.43</title>
+				<desc>福州長谿──福　　建</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">福州長谿──福　　建</text>			</g>
+			<g id="shape44-114" transform="translate(135.213,-402.236)">
+				<title>工作表.44</title>
+				<desc>渚　　宮──湖北江陵</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">渚　　宮──湖北江陵</text>			</g>
+			<g id="shape45-117" transform="translate(135.213,-365.669)">
+				<title>工作表.45</title>
+				<desc>鍾陵建昌──江西南城</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">鍾陵建昌──江西南城</text>			</g>
+			<g id="shape46-120" transform="translate(135.213,-329.102)">
+				<title>工作表.46</title>
+				<desc>曹　　州──山東曹縣</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">曹　　州──山東曹縣</text>			</g>
+			<g id="shape47-123" transform="translate(135.213,-292.535)">
+				<title>工作表.47</title>
+				<desc>韶州懷化──廣　　東</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">韶州懷化──廣　　東</text>			</g>
+			<g id="shape48-126" transform="translate(135.213,-255.969)">
+				<title>工作表.48</title>
+				<desc>劍　　南──四川西北</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">劍　　南──四川西北</text>			</g>
+			<g id="shape49-129" transform="translate(135.213,-219.402)">
+				<title>工作表.49</title>
+				<desc>會　　稽──浙江紹興</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">會　　稽──浙江紹興</text>			</g>
+			<g id="shape50-132" transform="translate(135.213,-182.835)">
+				<title>工作表.50</title>
+				<desc>泉州南安──福建南安</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">泉州南安──福建南安</text>			</g>
+			<g id="shape51-135" transform="translate(135.213,-146.268)">
+				<title>工作表.51</title>
+				<desc>泉州莆田──福建莆田</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">泉州莆田──福建莆田</text>			</g>
+			<g id="shape52-138" transform="translate(135.213,-109.701)">
+				<title>工作表.52</title>
+				<desc>福州閩縣──福建閩侯</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">福州閩縣──福建閩侯</text>			</g>
+			<g id="shape53-141" transform="translate(135.213,-73.1339)">
+				<title>工作表.53</title>
+				<desc>嘉　　興──浙江嘉興</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">嘉　　興──浙江嘉興</text>			</g>
+			<g id="shape54-144" transform="translate(135.213,-36.5669)">
+				<title>工作表.54</title>
+				<desc>常　　山──浙江常山</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">常　　山──浙江常山</text>			</g>
+			<g id="shape55-147" transform="translate(135.213,-4.54747E-13)">
+				<title>工作表.55</title>
+				<desc>餘　　杭──浙江餘杭</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">餘　　杭──浙江餘杭</text>			</g>
+			<g id="shape56-150" transform="translate(362.268,-767.055)">
+				<title>工作表.56</title>
+				<desc>韶　　州──今廣東曲江</desc>
+				<rect x="0" y="805.222" width="184.252" height="22.6772" class="st1"/>
+				<text x="4.13" y="821.36" class="st2">韶　　州──今廣東曲江</text>			</g>
+			<g id="shape57-153" transform="translate(362.268,-731.339)">
+				<title>工作表.57</title>
+				<desc>南　　嶽──湖南南嶽</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">南　　嶽──湖南南嶽</text>			</g>
+			<g id="shape58-156" transform="translate(362.268,-694.772)">
+				<title>工作表.58</title>
+				<desc>吉州廬陵──江西吉水</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">吉州廬陵──江西吉水</text>			</g>
+			<g id="shape59-159" transform="translate(362.268,-658.205)">
+				<title>工作表.59</title>
+				<desc>撫州臨川──江西臨川</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">撫州臨川──江西臨川</text>			</g>
+			<g id="shape60-162" transform="translate(362.268,-621.638)">
+				<title>工作表.60</title>
+				<desc>南　　嶽──湖南南嶽</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">南　　嶽──湖南南嶽</text>			</g>
+			<g id="shape61-165" transform="translate(362.268,-585.071)">
+				<title>工作表.61</title>
+				<desc>洪　　州──江西南昌</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">洪　　州──江西南昌</text>			</g>
+			<g id="shape62-168" transform="translate(362.268,-548.504)">
+				<title>工作表.62</title>
+				<desc>荊　　州──湖北江陵</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">荊　　州──湖北江陵</text>			</g>
+			<g id="shape63-171" transform="translate(362.268,-511.937)">
+				<title>工作表.63</title>
+				<desc>澧州藥山──湖　　南</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">澧州藥山──湖　　南</text>			</g>
+			<g id="shape64-174" transform="translate(362.268,-475.37)">
+				<title>工作表.64</title>
+				<desc>洪　　州──江西南昌</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">洪　　州──江西南昌</text>			</g>
+			<g id="shape65-177" transform="translate(362.268,-438.803)">
+				<title>工作表.65</title>
+				<desc>潭州潙山──湖南寧湘</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">潭州潙山──湖南寧湘</text>			</g>
+			<g id="shape66-180" transform="translate(362.268,-402.236)">
+				<title>工作表.66</title>
+				<desc>澧州龍潭──湖　　南</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">澧州龍潭──湖　　南</text>			</g>
+			<g id="shape67-183" transform="translate(362.268,-365.669)">
+				<title>工作表.67</title>
+				<desc>潭州雲巖──湖　　南</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">潭州雲巖──湖　　南</text>			</g>
+			<g id="shape68-186" transform="translate(362.268,-329.102)">
+				<title>工作表.68</title>
+				<desc>鎮　　州──河北正定</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">鎮　　州──河北正定</text>			</g>
+			<g id="shape69-189" transform="translate(362.268,-292.535)">
+				<title>工作表.69</title>
+				<desc>袁州仰山──江　　西</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">袁州仰山──江　　西</text>			</g>
+			<g id="shape70-192" transform="translate(361.488,-256.819)">
+				<title>工作表.70</title>
+				<desc>澧陽至德山─　　　　</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">澧陽至德山─</text>			</g>
+			<g id="shape71-195" transform="translate(490.11,-250.157)">
+				<title>工作表.71</title>
+				<desc>澧縣常德</desc>
+				<rect x="0" y="793.884" width="40.252" height="34.0157" class="st1"/>
+				<text x="12.25" y="807.29" class="st3">澧縣<tspan x="12.25" dy="1.2em" class="st4">常德</tspan></text>			</g>
+			<g id="shape72-199" transform="translate(456.732,-256.819)">
+				<title>工作表.72</title>
+				<desc>湖 南</desc>
+				<rect x="0" y="805.222" width="56.126" height="22.6772" class="st1"/>
+				<text x="4" y="821.36" class="st2">湖  南</text>			</g>
+			<g id="shape73-202" transform="translate(362.268,-219.402)">
+				<title>工作表.73</title>
+				<desc>筠州洞山──江西高安</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">筠州洞山──江西高安</text>			</g>
+			<g id="shape74-205" transform="translate(362.268,-182.835)">
+				<title>工作表.74</title>
+				<desc>福州閩川──福建閩侯</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">福州閩川──福建閩侯</text>			</g>
+			<g id="shape75-208" transform="translate(362.268,-146.268)">
+				<title>工作表.75</title>
+				<desc>撫州曹山──江西臨川</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">撫州曹山──江西臨川</text>			</g>
+			<g id="shape76-211" transform="translate(362.268,-109.701)">
+				<title>工作表.76</title>
+				<desc>福州玄沙山─福建閩侯</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">福州玄沙山─福建閩侯</text>			</g>
+			<g id="shape77-214" transform="translate(362.268,-73.1339)">
+				<title>工作表.77</title>
+				<desc>龍州雲門山─廣東乳源</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">龍州雲門山─廣東乳源</text>			</g>
+			<g id="shape78-217" transform="translate(362.268,-36.5669)">
+				<title>工作表.78</title>
+				<desc>漳州漳浦──　　　　</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">漳州漳浦──</text>			</g>
+			<g id="shape79-220" transform="translate(456.732,-36.5669)">
+				<title>工作表.79</title>
+				<desc>福 建</desc>
+				<rect x="0" y="805.222" width="56.126" height="22.6772" class="st1"/>
+				<text x="4" y="821.36" class="st2">福  建</text>			</g>
+			<g id="shape80-223" transform="translate(490.11,-30.8976)">
+				<title>工作表.80</title>
+				<desc>龍溪漳浦</desc>
+				<rect x="0" y="793.884" width="40.252" height="34.0157" class="st1"/>
+				<text x="12.25" y="807.29" class="st3">龍溪<tspan x="12.25" dy="1.2em" class="st4">漳浦</tspan></text>			</g>
+			<g id="shape81-227" transform="translate(362.268,-1.25056E-12)">
+				<title>工作表.81</title>
+				<desc>金　　陵──南　　京</desc>
+				<rect x="0" y="805.222" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="821.36" class="st2">金　　陵──南　　京</text>			</g>
 		</g>
 	</g>
 </svg>

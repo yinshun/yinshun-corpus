@@ -1,100 +1,67 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<!-- 由 Microsoft Visio 11.0, SVG Export, v1.0 產生 y17.0173-h.svg Page-1 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 y17.0173-h.svg 頁-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.78772in" height="6.63268in"
-		viewBox="0 0 632.716 477.553" xml:space="preserve" color-interpolation-filters="sRGB" class="st6">
+		width="7.89351in" height="1.42636in" viewBox="0 0 568.333 102.698" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st5">
 	<title>y17.0173</title>
-	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false"/>
 
 	<style type="text/css">
 	<![CDATA[
 		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
 		.st2 {fill:#000000;font-family:新細明體;font-size:1.33333em}
 		.st3 {font-size:1em}
-		.st4 {stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
-		.st5 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
-		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+		.st4 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
-	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
-		<title>Page-1</title>
-		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
-				v:shadowOffsetY="-8.50394"/>
-		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(33.283,-269.395)">
-			<title>工作表.1</title>
-			<desc>觀察義禪</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="36.5827" cy="440.581" width="73.17" height="73.9449"/>
-			<rect x="0" y="403.608" width="73.1654" height="73.9449" class="st1"/>
-			<text x="4.58" y="445.56" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>觀察義禪</text>		</g>
-		<g id="shape2-4" v:mID="2" v:groupContext="shape" transform="translate(33.283,-241.048)">
-			<title>工作表.2</title>
-			<desc>攀緣如禪</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="36.5827" cy="440.581" width="73.17" height="73.9449"/>
-			<rect x="0" y="403.608" width="73.1654" height="73.9449" class="st1"/>
-			<text x="4.58" y="445.56" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>攀緣如禪</text>		</g>
-		<g id="shape3-7" v:mID="3" v:groupContext="shape" transform="translate(33.283,-212.702)">
-			<title>工作表.3</title>
-			<desc>如來禪</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="36.5827" cy="440.581" width="73.17" height="73.9449"/>
-			<rect x="0" y="403.608" width="73.1654" height="73.9449" class="st1"/>
-			<text x="0.25em 1.786em 3.323em" y="445.56" class="st2" v:langID="1028"><v:paragraph v:horizAlign="4"/><v:tabList/>如來禪</text>		</g>
-		<g id="shape4-10" v:mID="4" v:groupContext="shape" transform="translate(173.208,-166.052)">
-			<title>工作表.4</title>
-			<desc>觀唯心所現似義顯現法無我性。</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="141.732" cy="337.238" width="283.47" height="280.63"/>
-			<rect x="0" y="196.923" width="283.465" height="280.63" class="st1"/>
-			<text x="5.73" y="342.22" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>觀唯心所現（似義顯現），法無我性。</text>		</g>
-		<g id="shape5-13" v:mID="5" v:groupContext="shape" transform="translate(175.37,-112.072)">
-			<title>工作表.5</title>
-			<desc>觀真如離我法妄想空無我性的影像還在。</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="165.205" cy="311.604" width="330.41" height="331.898"/>
-			<rect x="0" y="145.655" width="330.409" height="331.898" class="st1"/>
-			<text x="5.21" y="316.59" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>觀真如，離我法妄想，空無我性的影像還在。</text>		</g>
-		<g id="shape6-16" v:mID="6" v:groupContext="shape" transform="translate(180.821,-18.7193) rotate(-0.1)">
-			<title>工作表.6</title>
-			<desc>離空無我相現證如實甚深空空義愚夫不能了。……自覺聖智子實際我所說。</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="213.039" cy="257.868" width="426.08" height="439.37"/>
-			<rect x="0" y="38.183" width="426.079" height="439.37" class="st1"/>
-			<text x="4" y="252.7" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>離空無我相，現證如實（甚深空空義，愚夫不能了。<tspan class="st3"
-						v:langID="1033">……</tspan>自<tspan x="4" dy="1.234em" class="st3">覺聖智子</tspan>，實際我所說）。</text>		</g>
-		<g id="group11-21" transform="translate(136.443,275.627) rotate(-90)" v:mID="11" v:groupContext="group">
-			<title>工作表.11</title>
-			<g id="shape7-22" v:mID="7" v:groupContext="shape" transform="translate(-6.39488E-014,-595.276)">
-				<title>工作表.7</title>
-				<path d="M0 477.55 L132.79 477.55" class="st4"/>
+	<g>
+		<title>頁-1</title>
+		<g id="group15-1" transform="translate(0.36,-0.36)">
+			<title>工作表.15</title>
+			<g id="shape1-2" transform="translate(-1.59872E-14,-79.3009)">
+				<title>工作表.1</title>
+				<desc>觀察義禪</desc>
+				<rect x="0" y="80.0209" width="73.1654" height="22.6772" class="st1"/>
+				<text x="4.58" y="96.34" class="st2">觀察義禪</text>			</g>
+			<g id="shape2-5" transform="translate(4.79616E-14,-50.9545)">
+				<title>工作表.2</title>
+				<desc>攀緣如禪</desc>
+				<rect x="0" y="80.0209" width="73.1654" height="22.6772" class="st1"/>
+				<text x="4.58" y="96.34" class="st2">攀緣如禪</text>			</g>
+			<g id="shape3-8" transform="translate(2.07834E-13,-22.608)">
+				<title>工作表.3</title>
+				<desc>如來禪</desc>
+				<rect x="0" y="80.0209" width="73.1654" height="22.6772" class="st1"/>
+				<text x="0.25em 1.786em 3.323em" y="96.34" class="st2">如來禪</text>			</g>
+			<g id="shape4-11" transform="translate(139.925,-79.3009)">
+				<title>工作表.4</title>
+				<desc>觀唯心所現似義顯現法無我性。</desc>
+				<rect x="0" y="80.0209" width="283.465" height="22.6772" class="st1"/>
+				<text x="5.73" y="96.34" class="st2">觀唯心所現（似義顯現），法無我性。</text>			</g>
+			<g id="shape5-14" transform="translate(139.925,-50.9545)">
+				<title>工作表.5</title>
+				<desc>觀真如離我法妄想空無我性的影像還在。</desc>
+				<rect x="0" y="80.0209" width="330.409" height="22.6772" class="st1"/>
+				<text x="5.21" y="96.34" class="st2">觀真如，離我法妄想，空無我性的影像還在。</text>			</g>
+			<g id="shape6-17" transform="translate(141.356,0.000156418) rotate(-0.1)">
+				<title>工作表.6</title>
+				<desc>離空無我相現證如實甚深空空義愚夫不能了。……自覺聖智子實際我所說。</desc>
+				<rect x="0" y="57.3438" width="426.079" height="45.3543" class="st1"/>
+				<text x="4" y="74.85" class="st2">離空無我相，現證如實（甚深空空義，愚夫不能了。……自<tspan x="4" dy="1.234em" class="st3">覺聖智子</tspan>，實際我所說）。</text>			</g>
+			<g id="shape12-21" transform="translate(70.7205,-90.6395)">
+				<title>工作表.12</title>
+				<path d="M0 102.7 L70.62 102.7" class="st4"/>
 			</g>
-			<g id="shape8-25" v:mID="8" v:groupContext="shape">
-				<title>工作表.8</title>
-				<path d="M0 477.55 L132.79 477.55" class="st4"/>
+			<g id="shape13-24" transform="translate(70.7205,-62.293)">
+				<title>工作表.13</title>
+				<path d="M0 102.7 L70.62 102.7" class="st4"/>
 			</g>
-			<g id="shape9-28" v:mID="9" v:groupContext="shape" transform="translate(-344.766,477.553) rotate(-90)">
-				<title>工作表.9</title>
-				<path d="M0 477.55 L595.28 477.55" class="st4"/>
+			<g id="shape14-27" transform="translate(70.7205,-33.9466)">
+				<title>工作表.14</title>
+				<path d="M0 102.7 L70.62 102.7" class="st4"/>
 			</g>
-			<g id="shape10-31" v:mID="10" v:groupContext="shape" transform="translate(477.553,-117.723) rotate(90)">
-				<title>工作表.10</title>
-				<path d="M0 477.55 L595.28 477.55" class="st4"/>
-			</g>
-		</g>
-		<g id="shape12-34" v:mID="12" v:groupContext="shape" transform="translate(104.003,-306.367)">
-			<title>工作表.12</title>
-			<path d="M0 477.55 L70.62 477.55" class="st5"/>
-		</g>
-		<g id="shape13-37" v:mID="13" v:groupContext="shape" transform="translate(104.003,-278.021)">
-			<title>工作表.13</title>
-			<path d="M0 477.55 L70.62 477.55" class="st5"/>
-		</g>
-		<g id="shape14-40" v:mID="14" v:groupContext="shape" transform="translate(104.003,-249.674)">
-			<title>工作表.14</title>
-			<path d="M0 477.55 L70.62 477.55" class="st5"/>
 		</g>
 	</g>
 </svg>

@@ -1,420 +1,250 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<!-- 由 Microsoft Visio 11.0, SVG Export, v1.0 產生 y28.0075.svg Page-1 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 y28.0075-v.svg 頁-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="2.16021in" height="5.15942in"
-		viewBox="0 0 155.535 371.478" xml:space="preserve" color-interpolation-filters="sRGB" class="st9">
-	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false">
-		<v:userDefs>
-			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Box)"/>
-			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
-		</v:userDefs>
-	</v:documentProperties>
-
+		width="1.43897in" height="4.62065in" viewBox="0 0 103.606 332.687" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st8">
 	<style type="text/css">
 	<![CDATA[
-		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;stroke-width:0.24}
-		.st2 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
-		.st3 {fill:#000000;font-family:新細明體;font-size:1.33333em}
-		.st4 {fill:#d3d3ab;fill-opacity:0;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
-		.st5 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
-		.st6 {stroke:#000000;stroke-dasharray:0,5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
-		.st7 {marker-end:url(#mrkr5-120);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
-		.st8 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.28409090909091}
-		.st9 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#000000;font-family:新細明體;font-size:1.33333em}
+		.st3 {fill:#d3d3ab;fill-opacity:0;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st4 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st5 {stroke:#000000;stroke-dasharray:0,7.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st6 {marker-end:url(#mrkr5-107);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st7 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.37313432835821}
+		.st8 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
 	<defs id="Markers">
 		<g id="lend5">
-			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364514 1.67301 0.372642 1.98465 1.00043 " style="stroke:none"/>
+			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364515 1.67301 0.372641 1.98465 1.00043 " style="stroke:none"/>
 		</g>
-		<marker id="mrkr5-120" class="st8" v:arrowType="5" v:arrowSize="2" v:setback="6.16" refX="-6.16" orient="auto"
-				markerUnits="strokeWidth" overflow="visible">
-			<use xlink:href="#lend5" transform="scale(-3.52,-3.52) "/>
+		<marker id="mrkr5-107" class="st7" refX="-4.69" orient="auto" markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-2.68,-2.68) "/>
 		</marker>
 	</defs>
-	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+	<g>
 		<title>頁-1</title>
-		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
-				v:shadowOffsetY="-8.50394"/>
-		<g id="group49-1" transform="translate(18.24,-18.24)" v:mID="49" v:groupContext="group">
-			<title>工作表.49</title>
-			<g id="shape1-2" v:mID="1" v:groupContext="shape" transform="translate(6.39488E-014,-334.488)">
-				<title>工作表.1</title>
-				<path d="M0 371.48 L119.06 371.48" class="st1"/>
-			</g>
-			<g id="shape5-5" v:mID="5" v:groupContext="shape" transform="translate(-371.478,371.478) rotate(-90)">
-				<title>工作表.5</title>
-				<path d="M0 371.48 L334.49 371.48" class="st1"/>
-			</g>
-			<g id="shape11-8" v:mID="11" v:groupContext="shape" transform="translate(-252.423,371.478) rotate(-90)">
-				<title>工作表.11</title>
-				<path d="M0 371.48 L334.49 371.48" class="st1"/>
-			</g>
-			<g id="shape48-11" v:mID="48" v:groupContext="shape">
-				<title>工作表.48</title>
-				<path d="M0 371.48 L119.06 371.48" class="st1"/>
-			</g>
-		</g>
-		<g id="shape50-14" v:mID="50" v:groupContext="shape" transform="translate(54.4252,-146.933)">
-			<title>工作表.50</title>
-			<desc>實相</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalText="true"/>
-			<v:textRect cx="20.126" cy="351.352" width="40.26" height="40.252"/>
-			<rect x="0" y="331.226" width="40.252" height="40.252" class="st2"/>
-			<text x="20.13" y="335.35" writing-mode="tb-rl" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>實相</text>		</g>
-		<g id="group56-17" transform="translate(26.0698,-111.109)" v:mID="56" v:groupContext="group">
-			<title>工作表.56</title>
-			<g id="shape2-18" v:mID="2" v:groupContext="shape" transform="translate(5.63482,-5.63482)">
+		<g id="group61-1" transform="translate(0.197735,-0.375)">
+			<title>工作表.61</title>
+			<g id="shape50-2" transform="translate(42.06,-126.142)">
+				<title>工作表.50</title>
+				<desc>實相</desc>
+				<rect x="0" y="292.435" width="19.8425" height="40.252" class="st1"/>
+				<text x="9.92" y="296.56" writing-mode="tb-rl" class="st2">實相</text>			</g>
+			<g id="shape2-5" transform="translate(5.63482,-95.9528)">
 				<title>圓形</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M0 325.42 A46.063 46.063 0 0 1 92.13 325.42 A46.063 46.063 0 1 1 0 325.42 Z" class="st4"/>
+				<path d="M0 286.62 A46.063 46.063 0 0 1 92.13 286.62 A46.063 46.063 0 1 1 0 286.62 Z" class="st3"/>
 			</g>
-			<g id="shape3-20" v:mID="3" v:groupContext="shape" transform="translate(48.8632,-97.6191)">
+			<g id="shape3-7" transform="translate(48.8632,-187.937)">
 				<title>三角形</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape4-22" v:mID="4" v:groupContext="shape" transform="translate(100.829,-94.8223) rotate(7)">
+			<g id="shape4-9" transform="translate(96.1011,-185.429) rotate(7)">
 				<title>三角形.4</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape6-24" v:mID="6" v:groupContext="shape" transform="translate(170.648,-80.3383) rotate(17)">
+			<g id="shape6-11" transform="translate(159.307,-172.351) rotate(17)">
 				<title>三角形.6</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape7-26" v:mID="7" v:groupContext="shape" transform="translate(219.478,-62.4644) rotate(24)">
+			<g id="shape7-13" transform="translate(203.7,-156.136) rotate(24)">
 				<title>三角形.7</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape8-28" v:mID="8" v:groupContext="shape" transform="translate(-12.6525,-92.8258) rotate(-8.5)">
+			<g id="shape8-15" transform="translate(-6.91876,-183.57) rotate(-8.5)">
 				<title>三角形.8</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape9-30" v:mID="9" v:groupContext="shape" transform="translate(-72.9335,-78.6808) rotate(-17)">
+			<g id="shape9-17" transform="translate(-61.592,-170.694) rotate(-17)">
 				<title>三角形.9</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape10-32" v:mID="10" v:groupContext="shape" transform="translate(-127.575,-57.3305) rotate(-25)">
+			<g id="shape10-19" transform="translate(-111.182,-151.283) rotate(-25)">
 				<title>三角形.10</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape12-34" v:mID="12" v:groupContext="shape" transform="translate(276.781,-31.7938) rotate(33)">
+			<g id="shape12-21" transform="translate(255.654,-128.37) rotate(33)">
 				<title>三角形.12</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape13-36" v:mID="13" v:groupContext="shape" transform="translate(-183.947,-24.8541) rotate(-34)">
+			<g id="shape13-23" transform="translate(-162.255,-121.804) rotate(-34)">
 				<title>三角形.13</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape14-38" v:mID="14" v:groupContext="shape" transform="translate(328.714,7.33733) rotate(42)">
+			<g id="shape14-25" transform="translate(302.757,-92.9443) rotate(42)">
 				<title>三角形.14</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape15-40" v:mID="15" v:groupContext="shape" transform="translate(-229.765,11.3934) rotate(-42)">
+			<g id="shape15-27" transform="translate(-203.809,-88.8883) rotate(-42)">
 				<title>三角形.15</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape16-42" v:mID="16" v:groupContext="shape" transform="translate(373.886,54.2634) rotate(51)">
+			<g id="shape16-29" transform="translate(343.739,-50.4336) rotate(51)">
 				<title>三角形.16</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape17-44" v:mID="17" v:groupContext="shape" transform="translate(-274.173,58.8904) rotate(-51)">
+			<g id="shape17-31" transform="translate(-244.026,-45.8066) rotate(-51)">
 				<title>三角形.17</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape18-46" v:mID="18" v:groupContext="shape" transform="translate(411.172,107.492) rotate(60)">
+			<g id="shape18-33" transform="translate(377.578,-2.22161) rotate(60)">
 				<title>三角形.18</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape19-48" v:mID="19" v:groupContext="shape" transform="translate(-310.766,112.714) rotate(-60)">
+			<g id="shape19-35" transform="translate(-277.172,3.00032) rotate(-60)">
 				<title>三角形.19</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape20-50" v:mID="20" v:groupContext="shape" transform="translate(-333.891,159.488) rotate(-67)">
+			<g id="shape20-37" transform="translate(-298.184,45.5363) rotate(-67)">
 				<title>三角形.20</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape21-52" v:mID="21" v:groupContext="shape" transform="translate(432.204,147.8) rotate(66)">
+			<g id="shape21-39" transform="translate(396.766,34.4684) rotate(66)">
 				<title>三角形.21</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape22-54" v:mID="22" v:groupContext="shape" transform="translate(-355.57,227.568) rotate(-77)">
+			<g id="shape22-41" transform="translate(-317.773,107.185) rotate(-77)">
 				<title>三角形.22</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape23-56" v:mID="23" v:groupContext="shape" transform="translate(454.19,209.055) rotate(75)">
+			<g id="shape23-43" transform="translate(416.721,89.986) rotate(75)">
 				<title>三角形.23</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape24-58" v:mID="24" v:groupContext="shape" transform="translate(-363.866,278.951) rotate(-84)">
+			<g id="shape24-45" transform="translate(-325.287,153.896) rotate(-84)">
 				<title>三角形.24</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape25-60" v:mID="25" v:groupContext="shape" transform="translate(-364.72,350.369) rotate(-94)">
+			<g id="shape25-47" transform="translate(-326.023,218.554) rotate(-94)">
 				<title>三角形.25</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape26-62" v:mID="26" v:groupContext="shape" transform="translate(-354.862,414.54) rotate(-103)">
+			<g id="shape26-49" transform="translate(-317.065,276.704) rotate(-103)">
 				<title>三角形.26</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape27-64" v:mID="27" v:groupContext="shape" transform="translate(-342.109,458.165) rotate(-109)">
+			<g id="shape27-51" transform="translate(-305.431,316.427) rotate(-109)">
 				<title>三角形.27</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape28-66" v:mID="28" v:groupContext="shape" transform="translate(-319.176,511.848) rotate(-117)">
+			<g id="shape28-53" transform="translate(-284.613,365.128) rotate(-117)">
 				<title>三角形.28</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape29-68" v:mID="29" v:groupContext="shape" transform="translate(-284.818,567.033) rotate(-126)">
+			<g id="shape29-55" transform="translate(-253.435,415.123) rotate(-126)">
 				<title>三角形.29</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape30-70" v:mID="30" v:groupContext="shape" transform="translate(467.175,279.335) rotate(85)">
+			<g id="shape30-57" transform="translate(428.531,153.607) rotate(85)">
 				<title>三角形.30</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape31-72" v:mID="31" v:groupContext="shape" transform="translate(469.097,318.363) rotate(90)">
+			<g id="shape31-59" transform="translate(430.306,189.254) rotate(90)">
 				<title>三角形.31</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape32-74" v:mID="32" v:groupContext="shape" transform="translate(464.345,383.21) rotate(99)">
+			<g id="shape32-61" transform="translate(426.032,248.033) rotate(99)">
 				<title>三角形.32</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape33-76" v:mID="33" v:groupContext="shape" transform="translate(447.446,452.759) rotate(109)">
+			<g id="shape33-63" transform="translate(410.768,311.02) rotate(109)">
 				<title>三角形.33</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape34-78" v:mID="34" v:groupContext="shape" transform="translate(425.128,506.797) rotate(117)">
+			<g id="shape34-65" transform="translate(390.564,360.077) rotate(117)">
 				<title>三角形.34</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape35-80" v:mID="35" v:groupContext="shape" transform="translate(391.546,562.423) rotate(126)">
+			<g id="shape35-67" transform="translate(360.163,410.514) rotate(126)">
 				<title>三角形.35</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape36-82" v:mID="36" v:groupContext="shape" transform="translate(354.057,607.627) rotate(134)">
+			<g id="shape36-69" transform="translate(326.153,451.571) rotate(134)">
 				<title>三角形.36</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape37-84" v:mID="37" v:groupContext="shape" transform="translate(310.894,647.115) rotate(142)">
+			<g id="shape37-71" transform="translate(287.012,487.438) rotate(142)">
 				<title>三角形.37</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape38-86" v:mID="38" v:groupContext="shape" transform="translate(262.568,680.201) rotate(150)">
+			<g id="shape38-73" transform="translate(243.173,517.498) rotate(150)">
 				<title>三角形.38</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape39-88" v:mID="39" v:groupContext="shape" transform="translate(-148.058,686.453) rotate(-151)">
+			<g id="shape39-75" transform="translate(-129.251,523.416) rotate(-151)">
 				<title>三角形.39</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape40-90" v:mID="40" v:groupContext="shape" transform="translate(-197.607,654.737) rotate(-143)">
+			<g id="shape40-77" transform="translate(-174.262,494.648) rotate(-143)">
 				<title>三角形.40</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape41-92" v:mID="41" v:groupContext="shape" transform="translate(-246.891,611.648) rotate(-134)">
+			<g id="shape41-79" transform="translate(-218.987,455.592) rotate(-134)">
 				<title>三角形.41</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape42-94" v:mID="42" v:groupContext="shape" transform="translate(210.178,706.105) rotate(158)">
+			<g id="shape42-81" transform="translate(195.647,541.029) rotate(158)">
 				<title>三角形.42</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape43-96" v:mID="43" v:groupContext="shape" transform="translate(-91.8291,711.999) rotate(-159.5)">
+			<g id="shape43-83" transform="translate(-78.2442,546.555) rotate(-159.5)">
 				<title>三角形.43</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape44-98" v:mID="44" v:groupContext="shape" transform="translate(141.878,727.426) rotate(168)">
+			<g id="shape44-85" transform="translate(133.812,560.374) rotate(168)">
 				<title>三角形.44</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape45-100" v:mID="45" v:groupContext="shape" transform="translate(-35.559,728.275) rotate(-167.5)">
+			<g id="shape45-87" transform="translate(-27.1631,561.295) rotate(-167.5)">
 				<title>三角形.45</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape46-102" v:mID="46" v:groupContext="shape" transform="translate(90.4406,735.541) rotate(175)">
+			<g id="shape46-89" transform="translate(87.0597,567.788) rotate(175)">
 				<title>三角形.46</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape47-104" v:mID="47" v:groupContext="shape" transform="translate(25.5603,736.594) rotate(-176)">
+			<g id="shape47-91" transform="translate(28.2662,568.788) rotate(-176)">
 				<title>三角形.47</title>
-				<v:userDefs>
-					<v:ud v:nameU="visVersion" v:val="VT0(14):26"/>
-				</v:userDefs>
-				<path d="M6.11 371.48 L2.83 365.81 L-0.44 371.48 L6.11 371.48 Z" class="st5"/>
+				<path d="M6.11 332.69 L2.83 327.02 L-0.44 332.69 L6.11 332.69 Z" class="st4"/>
 			</g>
-			<g id="shape51-106" v:mID="51" v:groupContext="shape" transform="translate(423.176,273.717) rotate(90)">
+			<g id="shape51-93" transform="translate(384.385,144.608) rotate(90)">
 				<title>工作表.51</title>
-				<path d="M0 371.48 L29.06 371.48" class="st6"/>
+				<path d="M0 332.69 L29.06 332.69" class="st5"/>
 			</g>
-			<g id="shape52-109" v:mID="52" v:groupContext="shape" transform="translate(151.715,-25.2241) rotate(15.6192)">
+			<g id="shape52-96" transform="translate(141.271,-116.975) rotate(15.6192)">
 				<title>工作表.52</title>
-				<path d="M0 371.48 L41.17 371.48" class="st6"/>
+				<path d="M0 332.69 L41.17 332.69" class="st5"/>
 			</g>
-			<g id="shape53-112" v:mID="53" v:groupContext="shape" transform="translate(96.3415,701.322) rotate(173.098)">
+			<g id="shape53-99" transform="translate(91.6797,533.703) rotate(173.098)">
 				<title>工作表.53</title>
-				<path d="M0 371.48 L42.72 371.48" class="st6"/>
+				<path d="M0 332.69 L42.72 332.69" class="st5"/>
 			</g>
-			<g id="shape54-115" v:mID="54" v:groupContext="shape" transform="translate(374.814,90.4356) rotate(60.4367)">
+			<g id="shape54-102" transform="translate(341.073,-19.5346) rotate(60.4367)">
 				<title>工作表.54</title>
-				<path d="M0 371.48 L74.21 371.48" class="st7"/>
+				<path d="M0 332.69 L73.33 332.69" class="st6"/>
 			</g>
-			<g id="shape55-121" v:mID="55" v:groupContext="shape" transform="translate(-300.299,132.356) rotate(-56.4477)">
+			<g id="shape55-108" transform="translate(-267.971,24.6864) rotate(-56.4477)">
 				<title>工作表.55</title>
-				<path d="M0 371.48 L70.58 371.48" class="st7"/>
+				<path d="M0 332.69 L69.7 332.69" class="st6"/>
 			</g>
+			<g id="shape57-113" transform="translate(74.2332,-1.13687E-13)">
+				<title>工作表.57</title>
+				<desc>涅槃寂靜印</desc>
+				<rect x="0" y="244.53" width="19.8425" height="88.1575" class="st1"/>
+				<text x="9.92" y="248.61" writing-mode="tb-rl" class="st2">涅槃寂靜印</text>			</g>
+			<g id="shape58-116" transform="translate(10.5954,-5.68434E-14)">
+				<title>工作表.58</title>
+				<desc>諸行無常印</desc>
+				<rect x="0" y="244.53" width="19.8425" height="88.1575" class="st1"/>
+				<text x="9.92" y="248.61" writing-mode="tb-rl" class="st2">諸行無常印</text>			</g>
+			<g id="shape59-119" transform="translate(41.7229,-195.874)">
+				<title>工作表.59</title>
+				<desc>諸法無我空印</desc>
+				<rect x="0" y="196.624" width="19.8425" height="136.063" class="st1"/>
+				<text x="9.92" y="200.66" writing-mode="tb-rl" class="st2">諸法無我（空）印</text>			</g>
 		</g>
-		<g id="shape57-126" v:mID="57" v:groupContext="shape" transform="translate(98.0353,-20.7912)">
-			<title>工作表.57</title>
-			<desc>涅槃寂靜印</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalText="true"/>
-			<v:textRect cx="12.189" cy="327.399" width="24.38" height="88.1575"/>
-			<rect x="0" y="283.321" width="24.378" height="88.1575" class="st2"/>
-			<text x="12.19" y="287.4" writing-mode="tb-rl" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>涅槃寂靜印</text>		</g>
-		<g id="shape58-129" v:mID="58" v:groupContext="shape" transform="translate(34.3975,-20.7912)">
-			<title>工作表.58</title>
-			<desc>諸行無常印</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalText="true"/>
-			<v:textRect cx="12.189" cy="327.399" width="24.38" height="88.1575"/>
-			<rect x="0" y="283.321" width="24.378" height="88.1575" class="st2"/>
-			<text x="12.19" y="287.4" writing-mode="tb-rl" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>諸行無常印</text>		</g>
-		<g id="shape59-132" v:mID="59" v:groupContext="shape" transform="translate(65.525,-216.665)">
-			<title>工作表.59</title>
-			<desc>諸法無我空印</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalText="true"/>
-			<v:textRect cx="12.189" cy="303.447" width="24.38" height="136.063"/>
-			<rect x="0" y="235.415" width="24.378" height="136.063" class="st2"/>
-			<text x="12.19" y="239.45" writing-mode="tb-rl" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>諸法無我（空）印</text>		</g>
 	</g>
 </svg>

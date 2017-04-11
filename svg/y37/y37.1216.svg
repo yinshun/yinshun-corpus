@@ -1,391 +1,267 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<!-- 由 Microsoft Visio 11.0, SVG Export, v1.0 產生 y37.1216.svg Page-1 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 y37.1216-h.svg 頁-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="6.99682in" height="12.8649in"
-		viewBox="0 0 503.771 926.275" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
-	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false">
-		<v:userDefs>
-			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Box)"/>
-			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
-		</v:userDefs>
-	</v:documentProperties>
-
+		width="6.34309in" height="12.0065in" viewBox="0 0 456.703 864.467" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st4">
 	<style type="text/css">
 	<![CDATA[
 		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
 		.st2 {fill:#000000;font-family:新細明體;font-size:1.33333em}
 		.st3 {fill:#000000;font-family:新細明體;font-size:0.666664em}
-		.st4 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;stroke-width:0.24}
-		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
-	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+	<g>
 		<title>頁-1</title>
-		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
-				v:shadowOffsetY="-8.50394"/>
-		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(23.9093,-871.468)">
-			<title>工作表.1</title>
-			<desc>《首楞嚴三昧經》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="914.086" width="168.1" height="24.378"/>
-			<rect x="0" y="901.897" width="168.094" height="24.378" class="st1"/>
-			<text x="4" y="918.89" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>《首楞嚴（三昧）經》</text>		</g>
-		<g id="shape2-4" v:mID="2" v:groupContext="shape" transform="translate(311.768,-871.468)">
-			<title>工作表.2</title>
-			<desc>漢支婁迦讖初譯佚</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="914.086" width="168.1" height="24.378"/>
-			<rect x="0" y="901.897" width="168.094" height="24.378" class="st1"/>
-			<text x="4" y="918.89" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>漢支婁迦讖初譯（佚）</text>		</g>
-		<g id="shape3-7" v:mID="3" v:groupContext="shape" transform="translate(23.9093,-834.901)">
-			<title>工作表.3</title>
-			<desc>《伅真陀羅所問如來三昧經》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="108" cy="914.086" width="216" height="24.378"/>
-			<rect x="0" y="901.897" width="216" height="24.378" class="st1"/>
-			<text x="4" y="918.89" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>《伅真陀羅所問如來三昧經》</text>		</g>
-		<g id="shape4-10" v:mID="4" v:groupContext="shape" transform="translate(23.9093,-750.429)">
-			<title>工作表.4</title>
-			<desc>《般舟三昧經》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="60.0945" cy="866.181" width="120.19" height="120.189"/>
-			<rect x="0" y="806.086" width="120.189" height="120.189" class="st1"/>
-			<text x="4" y="870.98" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>《般舟三昧經》</text>		</g>
-		<g id="shape5-13" v:mID="5" v:groupContext="shape" transform="translate(23.9093,-713.862)">
-			<title>工作表.5</title>
-			<desc>《光明三昧經》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="60.0945" cy="866.181" width="120.19" height="120.189"/>
-			<rect x="0" y="806.086" width="120.189" height="120.189" class="st1"/>
-			<text x="4" y="870.98" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>《光明三昧經》</text>		</g>
-		<g id="shape6-16" v:mID="6" v:groupContext="shape" transform="translate(23.9093,-653.342)">
-			<title>工作表.6</title>
-			<desc>《成具光明定意　經》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="842.228" width="168.1" height="168.094"/>
-			<rect x="0" y="758.181" width="168.094" height="168.094" class="st1"/>
-			<text x="4" y="847.03" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>《成具光明定意　經》</text>		</g>
-		<g id="shape7-19" v:mID="7" v:groupContext="shape" transform="translate(23.9093,-640.728)">
-			<title>工作表.7</title>
-			<desc>《慧印三昧經》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="60.0945" cy="866.181" width="120.19" height="120.189"/>
-			<rect x="0" y="806.086" width="120.189" height="120.189" class="st1"/>
-			<text x="4" y="870.98" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>《慧印三昧經》</text>		</g>
-		<g id="shape8-22" v:mID="8" v:groupContext="shape" transform="translate(23.9093,-532.161)">
-			<title>工作表.8</title>
-			<desc>《寶積三昧文殊師利問菩薩法身經》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="132.094" cy="794.181" width="264.19" height="264.189"/>
-			<rect x="0" y="662.086" width="264.189" height="264.189" class="st1"/>
-			<text x="4" y="798.98" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>《寶積三昧文殊師利問菩薩法身經》</text>		</g>
-		<g id="shape9-25" v:mID="9" v:groupContext="shape" transform="translate(23.9093,-567.594)">
-			<title>工作表.9</title>
-			<desc>《法律三昧經》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="60.0945" cy="866.181" width="120.19" height="120.189"/>
-			<rect x="0" y="806.086" width="120.189" height="120.189" class="st1"/>
-			<text x="4" y="870.98" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>《法律三昧經》</text>		</g>
-		<g id="shape10-28" v:mID="10" v:groupContext="shape" transform="translate(23.9093,-531.027)">
-			<title>工作表.10</title>
-			<desc>《佛印三昧經》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="60.0945" cy="866.181" width="120.19" height="120.189"/>
-			<rect x="0" y="806.086" width="120.189" height="120.189" class="st1"/>
-			<text x="4" y="870.98" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>《佛印三昧經》</text>		</g>
-		<g id="shape11-31" v:mID="11" v:groupContext="shape" transform="translate(23.9093,-494.46)">
-			<title>工作表.11</title>
-			<desc>《自誓三昧經》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="60.0945" cy="866.181" width="120.19" height="120.189"/>
-			<rect x="0" y="806.086" width="120.189" height="120.189" class="st1"/>
-			<text x="4" y="870.98" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>《自誓三昧經》</text>		</g>
-		<g id="shape12-34" v:mID="12" v:groupContext="shape" transform="translate(23.9093,-457.894)">
-			<title>工作表.12</title>
-			<desc>《金剛三昧經》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="60.0945" cy="866.181" width="120.19" height="120.189"/>
-			<rect x="0" y="806.086" width="120.189" height="120.189" class="st1"/>
-			<text x="4" y="870.98" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>《金剛三昧經》</text>		</g>
-		<g id="shape13-37" v:mID="13" v:groupContext="shape" transform="translate(23.9093,-357.405)">
-			<title>工作表.13</title>
-			<desc>《金剛三昧本性清淨不壞不滅經》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="124.016" cy="802.26" width="248.04" height="248.031"/>
-			<rect x="0" y="678.244" width="248.031" height="248.031" class="st1"/>
-			<text x="4" y="807.06" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>《金剛三昧本性清淨不壞不滅經》</text>		</g>
-		<g id="shape14-40" v:mID="14" v:groupContext="shape" transform="translate(23.9093,-384.76)">
-			<title>工作表.14</title>
-			<desc>《如幻三昧經》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="60.0945" cy="866.181" width="120.19" height="120.189"/>
-			<rect x="0" y="806.086" width="120.189" height="120.189" class="st1"/>
-			<text x="4" y="870.98" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>《如幻三昧經》</text>		</g>
-		<g id="shape15-43" v:mID="15" v:groupContext="shape" transform="translate(23.9093,-316.161)">
-			<title>工作表.15</title>
-			<desc>《文殊支利普超三昧經》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="92.126" cy="834.149" width="184.26" height="184.252"/>
-			<rect x="0" y="742.023" width="184.252" height="184.252" class="st1"/>
-			<text x="4" y="838.95" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>《文殊支利普超三昧經》</text>		</g>
-		<g id="shape16-46" v:mID="16" v:groupContext="shape" transform="translate(23.9093,-295.61)">
-			<title>工作表.16</title>
-			<desc>《弘道廣顯三昧經》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="76.1102" cy="850.165" width="152.23" height="152.22"/>
-			<rect x="0" y="774.055" width="152.22" height="152.22" class="st1"/>
-			<text x="4" y="854.97" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>《弘道廣顯三昧經》</text>		</g>
-		<g id="shape17-49" v:mID="17" v:groupContext="shape" transform="translate(23.9093,-267.122)">
-			<title>工作表.17</title>
-			<desc>《無極寶三昧經》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="68.0315" cy="858.244" width="136.07" height="136.063"/>
-			<rect x="0" y="790.212" width="136.063" height="136.063" class="st1"/>
-			<text x="4" y="863.04" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>《無極寶三昧經》</text>		</g>
-		<g id="shape18-52" v:mID="18" v:groupContext="shape" transform="translate(23.9093,-238.492)">
-			<title>工作表.18</title>
-			<desc>《賢劫三昧經》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="60.0945" cy="866.181" width="120.19" height="120.189"/>
-			<rect x="0" y="806.086" width="120.189" height="120.189" class="st1"/>
-			<text x="4" y="870.98" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>《賢劫三昧經》</text>		</g>
-		<g id="shape19-55" v:mID="19" v:groupContext="shape" transform="translate(23.9093,-169.894)">
-			<title>工作表.19</title>
-			<desc>《等目菩薩所問三昧經》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="92.126" cy="834.149" width="184.26" height="184.252"/>
-			<rect x="0" y="742.023" width="184.252" height="184.252" class="st1"/>
-			<text x="4" y="838.95" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>《等目菩薩所問三昧經》</text>		</g>
-		<g id="shape20-58" v:mID="20" v:groupContext="shape" transform="translate(23.9093,-149.342)">
-			<title>工作表.20</title>
-			<desc>《等集眾德三昧經》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="76.1102" cy="850.165" width="152.23" height="152.22"/>
-			<rect x="0" y="774.055" width="152.22" height="152.22" class="st1"/>
-			<text x="4" y="854.97" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>《等集眾德三昧經》</text>		</g>
-		<g id="shape21-61" v:mID="21" v:groupContext="shape" transform="translate(23.9093,-120.854)">
-			<title>工作表.21</title>
-			<desc>《超日明三昧經》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="68.0315" cy="858.244" width="136.07" height="136.063"/>
-			<rect x="0" y="790.212" width="136.063" height="136.063" class="st1"/>
-			<text x="4" y="863.04" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>《超日明三昧經》</text>		</g>
-		<g id="shape22-64" v:mID="22" v:groupContext="shape" transform="translate(23.9093,-84.2872)">
-			<title>工作表.22</title>
-			<desc>《觀佛三昧海經》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="68.0315" cy="858.244" width="136.07" height="136.063"/>
-			<rect x="0" y="790.212" width="136.063" height="136.063" class="st1"/>
-			<text x="4" y="863.04" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>《觀佛三昧海經》</text>		</g>
-		<g id="shape23-67" v:mID="23" v:groupContext="shape" transform="translate(23.9093,-55.6573)">
-			<title>工作表.23</title>
-			<desc>《法華三昧經》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="60.0945" cy="866.181" width="120.19" height="120.189"/>
-			<rect x="0" y="806.086" width="120.189" height="120.189" class="st1"/>
-			<text x="4" y="870.98" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>《法華三昧經》</text>		</g>
-		<g id="shape24-70" v:mID="24" v:groupContext="shape" transform="translate(23.9093,-66.9959)">
-			<title>工作表.24</title>
-			<desc>《菩薩念佛三昧經》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="76.1102" cy="914.086" width="152.23" height="24.378"/>
-			<rect x="0" y="901.897" width="152.22" height="24.378" class="st1"/>
-			<text x="4" y="918.89" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>《菩薩念佛三昧經》</text>		</g>
-		<g id="shape25-73" v:mID="25" v:groupContext="shape" transform="translate(23.9093,-30.429)">
-			<title>工作表.25</title>
-			<desc>《月燈三昧經》</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="60.0945" cy="914.086" width="120.19" height="24.378"/>
-			<rect x="0" y="901.897" width="120.189" height="24.378" class="st1"/>
-			<text x="4" y="918.89" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>《月燈三昧經》</text>		</g>
-		<g id="shape26-76" v:mID="26" v:groupContext="shape" transform="translate(136.303,-721.516)">
-			<title>工作表.26</title>
-			<desc>三昧</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="20.126" cy="906.149" width="40.26" height="40.252"/>
-			<rect x="0" y="886.023" width="40.252" height="40.252" class="st1"/>
-			<text x="4" y="908.55" class="st3" v:langID="1028"><v:paragraph/><v:tabList/>三昧</text>		</g>
-		<g id="shape27-79" v:mID="27" v:groupContext="shape" transform="translate(311.768,-834.901)">
-			<title>工作表.27</title>
-			<desc>漢支婁迦讖初譯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="60.0945" cy="914.086" width="120.19" height="24.378"/>
-			<rect x="0" y="901.897" width="120.189" height="24.378" class="st1"/>
-			<text x="4" y="918.89" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>漢支婁迦讖初譯</text>		</g>
-		<g id="shape28-82" v:mID="28" v:groupContext="shape" transform="translate(311.768,-750.429)">
-			<title>工作表.28</title>
-			<desc>漢支婁迦讖初譯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="60.0945" cy="866.181" width="120.19" height="120.189"/>
-			<rect x="0" y="806.086" width="120.189" height="120.189" class="st1"/>
-			<text x="4" y="870.98" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>漢支婁迦讖初譯</text>		</g>
-		<g id="shape29-85" v:mID="29" v:groupContext="shape" transform="translate(311.768,-689.909)">
-			<title>工作表.29</title>
-			<desc>漢支婁迦讖初譯佚</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="842.228" width="168.1" height="168.094"/>
-			<rect x="0" y="758.181" width="168.094" height="168.094" class="st1"/>
-			<text x="4" y="847.03" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>漢支婁迦讖初譯（佚）</text>		</g>
-		<g id="shape30-88" v:mID="30" v:groupContext="shape" transform="translate(311.768,-698.838)">
-			<title>工作表.30</title>
-			<desc>漢文曜譯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="36" cy="890.275" width="72" height="72"/>
-			<rect x="0" y="854.275" width="72" height="72" class="st1"/>
-			<text x="4" y="895.08" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>漢文曜譯</text>		</g>
-		<g id="shape31-91" v:mID="31" v:groupContext="shape" transform="translate(311.768,-664.823)">
-			<title>工作表.31</title>
-			<desc>吳支謙譯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="36" cy="890.275" width="72" height="72"/>
-			<rect x="0" y="854.275" width="72" height="72" class="st1"/>
-			<text x="4" y="895.08" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>吳支謙譯</text>		</g>
-		<g id="shape32-94" v:mID="32" v:groupContext="shape" transform="translate(311.768,-644.13)">
-			<title>工作表.32</title>
-			<desc>失譯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="20.126" cy="906.149" width="40.26" height="40.252"/>
-			<rect x="0" y="886.023" width="40.252" height="40.252" class="st1"/>
-			<text x="4" y="910.95" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>失譯</text>		</g>
-		<g id="shape33-97" v:mID="33" v:groupContext="shape" transform="translate(311.768,-607.563)">
-			<title>工作表.33</title>
-			<desc>失譯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="20.126" cy="906.149" width="40.26" height="40.252"/>
-			<rect x="0" y="886.023" width="40.252" height="40.252" class="st1"/>
-			<text x="4" y="910.95" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>失譯</text>		</g>
-		<g id="shape34-100" v:mID="34" v:groupContext="shape" transform="translate(311.768,-570.996)">
-			<title>工作表.34</title>
-			<desc>失譯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="20.126" cy="906.149" width="40.26" height="40.252"/>
-			<rect x="0" y="886.023" width="40.252" height="40.252" class="st1"/>
-			<text x="4" y="910.95" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>失譯</text>		</g>
-		<g id="shape35-103" v:mID="35" v:groupContext="shape" transform="translate(311.768,-534.429)">
-			<title>工作表.35</title>
-			<desc>失譯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="20.126" cy="906.149" width="40.26" height="40.252"/>
-			<rect x="0" y="886.023" width="40.252" height="40.252" class="st1"/>
-			<text x="4" y="910.95" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>失譯</text>		</g>
-		<g id="shape36-106" v:mID="36" v:groupContext="shape" transform="translate(311.768,-461.295)">
-			<title>工作表.36</title>
-			<desc>失譯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="20.126" cy="906.149" width="40.26" height="40.252"/>
-			<rect x="0" y="886.023" width="40.252" height="40.252" class="st1"/>
-			<text x="4" y="910.95" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>失譯</text>		</g>
-		<g id="shape37-109" v:mID="37" v:groupContext="shape" transform="translate(311.768,-473.909)">
-			<title>工作表.37</title>
-			<desc>失譯佚</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="44.0787" cy="882.197" width="88.16" height="88.1575"/>
-			<rect x="0" y="838.118" width="88.1575" height="88.1575" class="st1"/>
-			<text x="4" y="887" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>失譯（佚）</text>		</g>
-		<g id="shape38-112" v:mID="38" v:groupContext="shape" transform="translate(311.768,-392.838)">
-			<title>工作表.38</title>
-			<desc>晉竺法護初譯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="52.0157" cy="874.26" width="104.04" height="104.031"/>
-			<rect x="0" y="822.244" width="104.031" height="104.031" class="st1"/>
-			<text x="4" y="879.06" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>晉竺法護初譯</text>		</g>
-		<g id="shape39-115" v:mID="39" v:groupContext="shape" transform="translate(311.768,-364.209)">
-			<title>工作表.39</title>
-			<desc>晉竺法護譯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="44.0787" cy="882.197" width="88.16" height="88.1575"/>
-			<rect x="0" y="838.118" width="88.1575" height="88.1575" class="st1"/>
-			<text x="4" y="887" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>晉竺法護譯</text>		</g>
-		<g id="shape40-118" v:mID="40" v:groupContext="shape" transform="translate(311.768,-327.642)">
-			<title>工作表.40</title>
-			<desc>晉竺法護譯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="44.0787" cy="882.197" width="88.16" height="88.1575"/>
-			<rect x="0" y="838.118" width="88.1575" height="88.1575" class="st1"/>
-			<text x="4" y="887" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>晉竺法護譯</text>		</g>
-		<g id="shape41-121" v:mID="41" v:groupContext="shape" transform="translate(311.768,-291.075)">
-			<title>工作表.41</title>
-			<desc>晉竺法護譯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="44.0787" cy="882.197" width="88.16" height="88.1575"/>
-			<rect x="0" y="838.118" width="88.1575" height="88.1575" class="st1"/>
-			<text x="4" y="887" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>晉竺法護譯</text>		</g>
-		<g id="shape42-124" v:mID="42" v:groupContext="shape" transform="translate(311.768,-254.508)">
-			<title>工作表.42</title>
-			<desc>晉竺法護譯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="44.0787" cy="882.197" width="88.16" height="88.1575"/>
-			<rect x="0" y="838.118" width="88.1575" height="88.1575" class="st1"/>
-			<text x="4" y="887" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>晉竺法護譯</text>		</g>
-		<g id="shape43-127" v:mID="43" v:groupContext="shape" transform="translate(311.768,-217.941)">
-			<title>工作表.43</title>
-			<desc>晉竺法護譯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="44.0787" cy="882.197" width="88.16" height="88.1575"/>
-			<rect x="0" y="838.118" width="88.1575" height="88.1575" class="st1"/>
-			<text x="4" y="887" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>晉竺法護譯</text>		</g>
-		<g id="shape44-130" v:mID="44" v:groupContext="shape" transform="translate(311.768,-181.374)">
-			<title>工作表.44</title>
-			<desc>晉竺法護譯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="44.0787" cy="882.197" width="88.16" height="88.1575"/>
-			<rect x="0" y="838.118" width="88.1575" height="88.1575" class="st1"/>
-			<text x="4" y="887" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>晉竺法護譯</text>		</g>
-		<g id="shape45-133" v:mID="45" v:groupContext="shape" transform="translate(311.768,-144.807)">
-			<title>工作表.45</title>
-			<desc>晉聶承遠譯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="44.0787" cy="882.197" width="88.16" height="88.1575"/>
-			<rect x="0" y="838.118" width="88.1575" height="88.1575" class="st1"/>
-			<text x="4" y="887" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>晉聶承遠譯</text>		</g>
-		<g id="shape46-136" v:mID="46" v:groupContext="shape" transform="translate(311.768,-84.2872)">
-			<title>工作表.46</title>
-			<desc>東晉佛陀跋陀羅譯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="68.0315" cy="858.244" width="136.07" height="136.063"/>
-			<rect x="0" y="790.212" width="136.063" height="136.063" class="st1"/>
-			<text x="4" y="863.04" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>東晉佛陀跋陀羅譯</text>		</g>
-		<g id="shape47-139" v:mID="47" v:groupContext="shape" transform="translate(311.768,-71.6731)">
-			<title>工作表.47</title>
-			<desc>劉宋智嚴譯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="44.0787" cy="882.197" width="88.16" height="88.1575"/>
-			<rect x="0" y="838.118" width="88.1575" height="88.1575" class="st1"/>
-			<text x="4" y="887" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>劉宋智嚴譯</text>		</g>
-		<g id="shape48-142" v:mID="48" v:groupContext="shape" transform="translate(311.768,-27.1691)">
-			<title>工作表.48</title>
-			<desc>劉宋功德直譯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="52.0157" cy="874.26" width="104.04" height="104.031"/>
-			<rect x="0" y="822.244" width="104.031" height="104.031" class="st1"/>
-			<text x="4" y="879.06" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>劉宋功德直譯</text>		</g>
-		<g id="shape49-145" v:mID="49" v:groupContext="shape" transform="translate(311.768,-30.429)">
-			<title>工作表.49</title>
-			<desc>劉宋先公譯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="44.0787" cy="914.086" width="88.16" height="24.378"/>
-			<rect x="0" y="901.897" width="88.1575" height="24.378" class="st1"/>
-			<text x="4" y="918.89" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>劉宋先公譯</text>		</g>
-		<g id="group54-148" transform="translate(-440.744,908.035) rotate(-90)" v:mID="54" v:groupContext="group">
-			<title>工作表.54</title>
-			<g id="shape50-149" v:mID="50" v:groupContext="shape" transform="translate(-36.48,926.275) rotate(-90)">
-				<title>工作表.50</title>
-				<path d="M0 926.28 L467.29 926.28" class="st4"/>
-			</g>
-			<g id="shape51-152" v:mID="51" v:groupContext="shape" transform="translate(-926.275,926.275) rotate(-90)">
-				<title>工作表.51</title>
-				<path d="M0 926.28 L467.29 926.28" class="st4"/>
-			</g>
-			<g id="shape52-155" v:mID="52" v:groupContext="shape">
-				<title>工作表.52</title>
-				<path d="M0 926.28 L889.8 926.28" class="st4"/>
-			</g>
-			<g id="shape53-158" v:mID="53" v:groupContext="shape" transform="translate(1.91847E-013,-467.291)">
-				<title>工作表.53</title>
-				<path d="M0 926.28 L889.8 926.28" class="st4"/>
-			</g>
+		<g id="group50-1" transform="translate(0.375,-0.375)">
+			<title>工作表.50</title>
+			<g id="shape1-2" transform="translate(0,-841.039)">
+				<title>工作表.1</title>
+				<desc>《首楞嚴三昧經》</desc>
+				<rect x="0" y="841.789" width="168.094" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">《首楞嚴（三昧）經》</text>			</g>
+			<g id="shape2-5" transform="translate(287.858,-841.039)">
+				<title>工作表.2</title>
+				<desc>漢支婁迦讖初譯佚</desc>
+				<rect x="0" y="841.789" width="168.094" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">漢支婁迦讖初譯（佚）</text>			</g>
+			<g id="shape3-8" transform="translate(0,-804.472)">
+				<title>工作表.3</title>
+				<desc>《伅真陀羅所問如來三昧經》</desc>
+				<rect x="0" y="841.789" width="216" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">《伅真陀羅所問如來三昧經》</text>			</g>
+			<g id="shape4-11" transform="translate(3.11751E-13,-767.906)">
+				<title>工作表.4</title>
+				<desc>《般舟三昧經》</desc>
+				<rect x="0" y="841.789" width="120.189" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">《般舟三昧經》</text>			</g>
+			<g id="shape5-14" transform="translate(4.39648E-13,-731.339)">
+				<title>工作表.5</title>
+				<desc>《光明三昧經》</desc>
+				<rect x="0" y="841.789" width="120.189" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">《光明三昧經》</text>			</g>
+			<g id="shape6-17" transform="translate(5.11591E-13,-694.772)">
+				<title>工作表.6</title>
+				<desc>《成具光明定意　經》</desc>
+				<rect x="0" y="841.789" width="168.094" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">《成具光明定意　經》</text>			</g>
+			<g id="shape7-20" transform="translate(6.95444E-13,-658.205)">
+				<title>工作表.7</title>
+				<desc>《慧印三昧經》</desc>
+				<rect x="0" y="841.789" width="120.189" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">《慧印三昧經》</text>			</g>
+			<g id="shape8-23" transform="translate(6.39488E-13,-621.638)">
+				<title>工作表.8</title>
+				<desc>《寶積三昧文殊師利問菩薩法身經》</desc>
+				<rect x="0" y="841.789" width="264.189" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">《寶積三昧文殊師利問菩薩法身經》</text>			</g>
+			<g id="shape9-26" transform="translate(8.23341E-13,-585.071)">
+				<title>工作表.9</title>
+				<desc>《法律三昧經》</desc>
+				<rect x="0" y="841.789" width="120.189" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">《法律三昧經》</text>			</g>
+			<g id="shape10-29" transform="translate(1.21503E-12,-548.504)">
+				<title>工作表.10</title>
+				<desc>《佛印三昧經》</desc>
+				<rect x="0" y="841.789" width="120.189" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">《佛印三昧經》</text>			</g>
+			<g id="shape11-32" transform="translate(1.21503E-12,-511.937)">
+				<title>工作表.11</title>
+				<desc>《自誓三昧經》</desc>
+				<rect x="0" y="841.789" width="120.189" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">《自誓三昧經》</text>			</g>
+			<g id="shape12-35" transform="translate(1.46283E-12,-475.37)">
+				<title>工作表.12</title>
+				<desc>《金剛三昧經》</desc>
+				<rect x="0" y="841.789" width="120.189" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">《金剛三昧經》</text>			</g>
+			<g id="shape13-38" transform="translate(1.64668E-12,-438.803)">
+				<title>工作表.13</title>
+				<desc>《金剛三昧本性清淨不壞不滅經》</desc>
+				<rect x="0" y="841.789" width="248.031" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">《金剛三昧本性清淨不壞不滅經》</text>			</g>
+			<g id="shape14-41" transform="translate(1.59073E-12,-402.236)">
+				<title>工作表.14</title>
+				<desc>《如幻三昧經》</desc>
+				<rect x="0" y="841.789" width="120.189" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">《如幻三昧經》</text>			</g>
+			<g id="shape15-44" transform="translate(1.72662E-12,-365.669)">
+				<title>工作表.15</title>
+				<desc>《文殊支利普超三昧經》</desc>
+				<rect x="0" y="841.789" width="184.252" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">《文殊支利普超三昧經》</text>			</g>
+			<g id="shape16-47" transform="translate(1.8705E-12,-329.102)">
+				<title>工作表.16</title>
+				<desc>《弘道廣顯三昧經》</desc>
+				<rect x="0" y="841.789" width="152.22" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">《弘道廣顯三昧經》</text>			</g>
+			<g id="shape17-50" transform="translate(1.95843E-12,-292.535)">
+				<title>工作表.17</title>
+				<desc>《無極寶三昧經》</desc>
+				<rect x="0" y="841.789" width="136.063" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">《無極寶三昧經》</text>			</g>
+			<g id="shape18-53" transform="translate(2.09432E-12,-255.969)">
+				<title>工作表.18</title>
+				<desc>《賢劫三昧經》</desc>
+				<rect x="0" y="841.789" width="120.189" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">《賢劫三昧經》</text>			</g>
+			<g id="shape19-56" transform="translate(2.22222E-12,-219.402)">
+				<title>工作表.19</title>
+				<desc>《等目菩薩所問三昧經》</desc>
+				<rect x="0" y="841.789" width="184.252" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">《等目菩薩所問三昧經》</text>			</g>
+			<g id="shape20-59" transform="translate(2.23821E-12,-182.835)">
+				<title>工作表.20</title>
+				<desc>《等集眾德三昧經》</desc>
+				<rect x="0" y="841.789" width="152.22" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">《等集眾德三昧經》</text>			</g>
+			<g id="shape21-62" transform="translate(2.46203E-12,-146.268)">
+				<title>工作表.21</title>
+				<desc>《超日明三昧經》</desc>
+				<rect x="0" y="841.789" width="136.063" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">《超日明三昧經》</text>			</g>
+			<g id="shape22-65" transform="translate(2.60592E-12,-109.701)">
+				<title>工作表.22</title>
+				<desc>《觀佛三昧海經》</desc>
+				<rect x="0" y="841.789" width="136.063" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">《觀佛三昧海經》</text>			</g>
+			<g id="shape23-68" transform="translate(2.74181E-12,-73.1339)">
+				<title>工作表.23</title>
+				<desc>《法華三昧經》</desc>
+				<rect x="0" y="841.789" width="120.189" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">《法華三昧經》</text>			</g>
+			<g id="shape24-71" transform="translate(2.66986E-12,-36.5669)">
+				<title>工作表.24</title>
+				<desc>《菩薩念佛三昧經》</desc>
+				<rect x="0" y="841.789" width="152.22" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">《菩薩念佛三昧經》</text>			</g>
+			<g id="shape25-74">
+				<title>工作表.25</title>
+				<desc>《月燈三昧經》</desc>
+				<rect x="0" y="841.789" width="120.189" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">《月燈三昧經》</text>			</g>
+			<g id="shape26-77" transform="translate(112.394,-699.024)">
+				<title>工作表.26</title>
+				<desc>三昧</desc>
+				<rect x="0" y="841.789" width="40.252" height="22.6772" class="st1"/>
+				<text x="4" y="855.53" class="st3">三昧</text>			</g>
+			<g id="shape27-80" transform="translate(287.858,-804.472)">
+				<title>工作表.27</title>
+				<desc>漢支婁迦讖初譯</desc>
+				<rect x="0" y="841.789" width="120.189" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">漢支婁迦讖初譯</text>			</g>
+			<g id="shape28-83" transform="translate(287.858,-767.906)">
+				<title>工作表.28</title>
+				<desc>漢支婁迦讖初譯</desc>
+				<rect x="0" y="841.789" width="120.189" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">漢支婁迦讖初譯</text>			</g>
+			<g id="shape29-86" transform="translate(287.858,-731.339)">
+				<title>工作表.29</title>
+				<desc>漢支婁迦讖初譯佚</desc>
+				<rect x="0" y="841.789" width="168.094" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">漢支婁迦讖初譯（佚）</text>			</g>
+			<g id="shape30-89" transform="translate(287.858,-692.22)">
+				<title>工作表.30</title>
+				<desc>漢文曜譯</desc>
+				<rect x="0" y="841.789" width="72" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">漢文曜譯</text>			</g>
+			<g id="shape31-92" transform="translate(287.858,-658.205)">
+				<title>工作表.31</title>
+				<desc>吳支謙譯</desc>
+				<rect x="0" y="841.789" width="72" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">吳支謙譯</text>			</g>
+			<g id="shape32-95" transform="translate(287.858,-621.638)">
+				<title>工作表.32</title>
+				<desc>失譯</desc>
+				<rect x="0" y="841.789" width="40.252" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">失譯</text>			</g>
+			<g id="shape33-98" transform="translate(287.858,-585.071)">
+				<title>工作表.33</title>
+				<desc>失譯</desc>
+				<rect x="0" y="841.789" width="40.252" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">失譯</text>			</g>
+			<g id="shape34-101" transform="translate(287.858,-548.504)">
+				<title>工作表.34</title>
+				<desc>失譯</desc>
+				<rect x="0" y="841.789" width="40.252" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">失譯</text>			</g>
+			<g id="shape35-104" transform="translate(287.858,-511.937)">
+				<title>工作表.35</title>
+				<desc>失譯</desc>
+				<rect x="0" y="841.789" width="40.252" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">失譯</text>			</g>
+			<g id="shape36-107" transform="translate(287.858,-438.803)">
+				<title>工作表.36</title>
+				<desc>失譯</desc>
+				<rect x="0" y="841.789" width="40.252" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">失譯</text>			</g>
+			<g id="shape37-110" transform="translate(287.858,-475.37)">
+				<title>工作表.37</title>
+				<desc>失譯佚</desc>
+				<rect x="0" y="841.789" width="88.1575" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">失譯（佚）</text>			</g>
+			<g id="shape38-113" transform="translate(287.858,-402.236)">
+				<title>工作表.38</title>
+				<desc>晉竺法護初譯</desc>
+				<rect x="0" y="841.789" width="104.031" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">晉竺法護初譯</text>			</g>
+			<g id="shape39-116" transform="translate(287.858,-365.669)">
+				<title>工作表.39</title>
+				<desc>晉竺法護譯</desc>
+				<rect x="0" y="841.789" width="88.1575" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">晉竺法護譯</text>			</g>
+			<g id="shape40-119" transform="translate(287.858,-329.102)">
+				<title>工作表.40</title>
+				<desc>晉竺法護譯</desc>
+				<rect x="0" y="841.789" width="88.1575" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">晉竺法護譯</text>			</g>
+			<g id="shape41-122" transform="translate(287.858,-292.535)">
+				<title>工作表.41</title>
+				<desc>晉竺法護譯</desc>
+				<rect x="0" y="841.789" width="88.1575" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">晉竺法護譯</text>			</g>
+			<g id="shape42-125" transform="translate(287.858,-255.969)">
+				<title>工作表.42</title>
+				<desc>晉竺法護譯</desc>
+				<rect x="0" y="841.789" width="88.1575" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">晉竺法護譯</text>			</g>
+			<g id="shape43-128" transform="translate(287.858,-219.402)">
+				<title>工作表.43</title>
+				<desc>晉竺法護譯</desc>
+				<rect x="0" y="841.789" width="88.1575" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">晉竺法護譯</text>			</g>
+			<g id="shape44-131" transform="translate(287.858,-182.835)">
+				<title>工作表.44</title>
+				<desc>晉竺法護譯</desc>
+				<rect x="0" y="841.789" width="88.1575" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">晉竺法護譯</text>			</g>
+			<g id="shape45-134" transform="translate(287.858,-146.268)">
+				<title>工作表.45</title>
+				<desc>晉聶承遠譯</desc>
+				<rect x="0" y="841.789" width="88.1575" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">晉聶承遠譯</text>			</g>
+			<g id="shape46-137" transform="translate(287.858,-109.701)">
+				<title>工作表.46</title>
+				<desc>東晉佛陀跋陀羅譯</desc>
+				<rect x="0" y="841.789" width="136.063" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">東晉佛陀跋陀羅譯</text>			</g>
+			<g id="shape47-140" transform="translate(287.858,-73.1339)">
+				<title>工作表.47</title>
+				<desc>劉宋智嚴譯</desc>
+				<rect x="0" y="841.789" width="88.1575" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">劉宋智嚴譯</text>			</g>
+			<g id="shape48-143" transform="translate(287.858,-36.5669)">
+				<title>工作表.48</title>
+				<desc>劉宋功德直譯</desc>
+				<rect x="0" y="841.789" width="104.031" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">劉宋功德直譯</text>			</g>
+			<g id="shape49-146" transform="translate(287.858,-7.95808E-13)">
+				<title>工作表.49</title>
+				<desc>劉宋先公譯</desc>
+				<rect x="0" y="841.789" width="88.1575" height="22.6772" class="st1"/>
+				<text x="4" y="857.93" class="st2">劉宋先公譯</text>			</g>
 		</g>
 	</g>
 </svg>

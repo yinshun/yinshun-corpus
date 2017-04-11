@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<!-- 由 Microsoft Visio 11.0, SVG Export, v1.0 產生 y22.0147.svg Page-1 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 y22.0147-h.svg 頁-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="5.6683in" height="5.28264in"
-		viewBox="0 0 408.118 380.35" xml:space="preserve" color-interpolation-filters="sRGB" class="st4">
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="5.01457in" height="2.86475in"
+		viewBox="0 0 361.049 206.262" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
 	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false">
 		<v:userDefs>
-			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Box)"/>
-			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+			<v:ud v:nameU="msvConvertTheme"/>
 		</v:userDefs>
 	</v:documentProperties>
 
@@ -15,8 +14,7 @@
 	<![CDATA[
 		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
 		.st2 {fill:#000000;font-family:新細明體;font-size:1.33333em}
-		.st3 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;stroke-width:0.24}
-		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
@@ -24,129 +22,113 @@
 		<title>頁-1</title>
 		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
 				v:shadowOffsetY="-8.50394"/>
-		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(23.9094,-281.522)">
-			<title>工作表.1</title>
-			<desc>羅什譯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="28.063" cy="352.287" width="56.13" height="56.126"/>
-			<rect x="0" y="324.224" width="56.126" height="56.126" class="st1"/>
-			<text x="4.06" y="357.09" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>羅什譯</text>		</g>
-		<g id="shape2-4" v:mID="2" v:groupContext="shape" transform="translate(23.9094,-208.388)">
-			<title>工作表.2</title>
-			<desc>羅什譯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="28.063" cy="352.287" width="56.13" height="56.126"/>
-			<rect x="0" y="324.224" width="56.126" height="56.126" class="st1"/>
-			<text x="4.06" y="357.09" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>羅什譯</text>		</g>
-		<g id="shape3-7" v:mID="3" v:groupContext="shape" transform="translate(23.9094,-135.254)">
-			<title>工作表.3</title>
-			<desc>羅什譯</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="28.063" cy="352.287" width="56.13" height="56.126"/>
-			<rect x="0" y="324.224" width="56.126" height="56.126" class="st1"/>
-			<text x="4.06" y="357.09" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>羅什譯</text>		</g>
-		<g id="shape4-10" v:mID="4" v:groupContext="shape" transform="translate(168.209,-257.569)">
-			<title>工作表.4</title>
-			<desc>三眾共諍五事</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="52.0157" cy="328.335" width="104.04" height="104.031"/>
-			<rect x="0" y="276.319" width="104.031" height="104.031" class="st1"/>
-			<text x="4.02" y="333.13" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>三眾共諍五事</text>		</g>
-		<g id="shape5-13" v:mID="5" v:groupContext="shape" transform="translate(87.9882,-200.451)">
-			<title>工作表.5</title>
-			<desc>育王時代</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="36" cy="344.35" width="72" height="72"/>
-			<rect x="0" y="308.35" width="72" height="72" class="st1"/>
-			<text x="4" y="349.15" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>育王時代</text>		</g>
-		<g id="shape6-16" v:mID="6" v:groupContext="shape" transform="translate(87.9882,-273.585)">
-			<title>工作表.6</title>
-			<desc>育王時代</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="36" cy="344.35" width="72" height="72"/>
-			<rect x="0" y="308.35" width="72" height="72" class="st1"/>
-			<text x="4" y="349.15" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>育王時代</text>		</g>
-		<g id="shape7-19" v:mID="7" v:groupContext="shape" transform="translate(87.9882,-127.317)">
-			<title>工作表.7</title>
-			<desc>育王時代</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="36" cy="344.35" width="72" height="72"/>
-			<rect x="0" y="308.35" width="72" height="72" class="st1"/>
-			<text x="4" y="349.15" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>育王時代</text>		</g>
-		<g id="shape8-22" v:mID="8" v:groupContext="shape" transform="translate(87.9882,-237.018)">
-			<title>工作表.8</title>
-			<desc>二百年中</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="36" cy="344.35" width="72" height="72"/>
-			<rect x="0" y="308.35" width="72" height="72" class="st1"/>
-			<text x="4" y="349.15" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>二百年中</text>		</g>
-		<g id="shape9-25" v:mID="9" v:groupContext="shape" transform="translate(87.9882,-163.884)">
-			<title>工作表.9</title>
-			<desc>二百年滿</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="36" cy="344.35" width="72" height="72"/>
-			<rect x="0" y="308.35" width="72" height="72" class="st1"/>
-			<text x="4" y="349.15" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>二百年滿</text>		</g>
-		<g id="shape10-28" v:mID="10" v:groupContext="shape" transform="translate(87.9882,-90.75)">
-			<title>工作表.10</title>
-			<desc>二百年滿</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="36" cy="344.35" width="72" height="72"/>
-			<rect x="0" y="308.35" width="72" height="72" class="st1"/>
-			<text x="4" y="349.15" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>二百年滿</text>		</g>
-		<g id="shape11-31" v:mID="11" v:groupContext="shape" transform="translate(168.209,-188.97)">
-			<title>工作表.11</title>
-			<desc>外道大天出家分出三部</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="296.303" width="168.1" height="168.094"/>
-			<rect x="0" y="212.256" width="168.094" height="168.094" class="st1"/>
-			<text x="4.05" y="301.1" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>外道大天出家分出三部</text>		</g>
-		<g id="shape12-34" v:mID="12" v:groupContext="shape" transform="translate(168.209,-160.341)">
-			<title>工作表.12</title>
-			<desc>四眾共諍外道五因緣</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="76.1102" cy="304.24" width="152.23" height="152.22"/>
-			<rect x="0" y="228.13" width="152.22" height="152.22" class="st1"/>
-			<text x="4.11" y="309.04" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>四眾共諍外道五因緣</text>		</g>
-		<g id="shape13-37" v:mID="13" v:groupContext="shape" transform="translate(168.209,-91.8839)">
-			<title>工作表.13</title>
-			<desc>外道大天出家重諍五事分二部</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="108" cy="272.35" width="216" height="216"/>
-			<rect x="0" y="164.35" width="216" height="216" class="st1"/>
-			<text x="4" y="277.15" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>外道大天出家重諍五事分二部</text>		</g>
-		<g id="shape14-40" v:mID="14" v:groupContext="shape" transform="translate(168.209,-95.2854)">
-			<title>工作表.14</title>
-			<desc>四眾共諍大天五事</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="68.0315" cy="312.319" width="136.07" height="136.063"/>
-			<rect x="0" y="244.287" width="136.063" height="136.063" class="st1"/>
-			<text x="4.03" y="317.12" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>四眾共諍大天五事</text>		</g>
-		<g id="shape15-43" v:mID="15" v:groupContext="shape" transform="translate(168.209,-18.75)">
-			<title>工作表.15</title>
-			<desc>外道大天出家重諍五事分三部</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="108" cy="272.35" width="216" height="216"/>
-			<rect x="0" y="164.35" width="216" height="216" class="st1"/>
-			<text x="4" y="277.15" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>外道大天出家重諍五事分三部</text>		</g>
-		<g id="group20-46" transform="translate(9.52753,271.459) rotate(-90)" v:mID="20" v:groupContext="group">
-			<title>工作表.20</title>
-			<g id="shape16-47" v:mID="16" v:groupContext="shape" transform="translate(6.39488E-014,-371.638)">
-				<title>工作表.16</title>
-				<path d="M0 380.35 L218.55 380.35" class="st3"/>
-			</g>
-			<g id="shape17-50" v:mID="17" v:groupContext="shape">
-				<title>工作表.17</title>
-				<path d="M0 380.35 L218.55 380.35" class="st3"/>
-			</g>
-			<g id="shape18-53" v:mID="18" v:groupContext="shape" transform="translate(-161.799,380.35) rotate(-90)">
-				<title>工作表.18</title>
-				<path d="M0 380.35 L371.64 380.35" class="st3"/>
-			</g>
-			<g id="shape19-56" v:mID="19" v:groupContext="shape" transform="translate(-380.35,380.35) rotate(-90)">
-				<title>工作表.19</title>
-				<path d="M0 380.35 L371.64 380.35" class="st3"/>
-			</g>
+		<g id="group16-1" transform="translate(0.375,-0.375)" v:mID="16" v:groupContext="group">
+			<title>工作表.16</title>
+			<g id="shape1-2" v:mID="1" v:groupContext="shape" transform="translate(-1.9984E-14,-182.835)">
+				<title>工作表.1</title>
+				<desc>羅什譯</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="28.063" cy="194.923" width="56.13" height="22.6772"/>
+				<rect x="0" y="183.585" width="56.126" height="22.6772" class="st1"/>
+				<text x="4.06" y="199.72" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>羅什譯</text>			</g>
+			<g id="shape2-5" v:mID="2" v:groupContext="shape" transform="translate(2.39808E-13,-109.701)">
+				<title>工作表.2</title>
+				<desc>真諦譯</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="28.063" cy="194.923" width="56.13" height="22.6772"/>
+				<rect x="0" y="183.585" width="56.126" height="22.6772" class="st1"/>
+				<text x="4.06" y="199.72" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>真諦譯</text>			</g>
+			<g id="shape3-8" v:mID="3" v:groupContext="shape" transform="translate(4.91607E-13,-36.5669)">
+				<title>工作表.3</title>
+				<desc>玄奘譯</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="28.063" cy="194.923" width="56.13" height="22.6772"/>
+				<rect x="0" y="183.585" width="56.126" height="22.6772" class="st1"/>
+				<text x="4.06" y="199.72" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>玄奘譯</text>			</g>
+			<g id="shape4-11" v:mID="4" v:groupContext="shape" transform="translate(144.299,-182.835)">
+				<title>工作表.4</title>
+				<desc>三眾共諍五事</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="52.0157" cy="194.923" width="104.04" height="22.6772"/>
+				<rect x="0" y="183.585" width="104.031" height="22.6772" class="st1"/>
+				<text x="4.02" y="199.72" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>三眾共諍五事</text>			</g>
+			<g id="shape5-14" v:mID="5" v:groupContext="shape" transform="translate(64.0787,-109.701)">
+				<title>工作表.5</title>
+				<desc>育王時代</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="36" cy="194.923" width="72" height="22.6772"/>
+				<rect x="0" y="183.585" width="72" height="22.6772" class="st1"/>
+				<text x="4" y="199.72" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>育王時代</text>			</g>
+			<g id="shape6-17" v:mID="6" v:groupContext="shape" transform="translate(64.0787,-182.835)">
+				<title>工作表.6</title>
+				<desc>育王時代</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="36" cy="194.923" width="72" height="22.6772"/>
+				<rect x="0" y="183.585" width="72" height="22.6772" class="st1"/>
+				<text x="4" y="199.72" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>育王時代</text>			</g>
+			<g id="shape7-20" v:mID="7" v:groupContext="shape" transform="translate(64.0787,-36.5669)">
+				<title>工作表.7</title>
+				<desc>育王時代</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="36" cy="194.923" width="72" height="22.6772"/>
+				<rect x="0" y="183.585" width="72" height="22.6772" class="st1"/>
+				<text x="4" y="199.72" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>育王時代</text>			</g>
+			<g id="shape8-23" v:mID="8" v:groupContext="shape" transform="translate(64.0787,-146.268)">
+				<title>工作表.8</title>
+				<desc>二百年中</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="36" cy="194.923" width="72" height="22.6772"/>
+				<rect x="0" y="183.585" width="72" height="22.6772" class="st1"/>
+				<text x="4" y="199.72" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>二百年中</text>			</g>
+			<g id="shape9-26" v:mID="9" v:groupContext="shape" transform="translate(64.0787,-73.1339)">
+				<title>工作表.9</title>
+				<desc>二百年滿</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="36" cy="194.923" width="72" height="22.6772"/>
+				<rect x="0" y="183.585" width="72" height="22.6772" class="st1"/>
+				<text x="4" y="199.72" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>二百年滿</text>			</g>
+			<g id="shape10-29" v:mID="10" v:groupContext="shape" transform="translate(64.0787,0)">
+				<title>工作表.10</title>
+				<desc>二百年滿</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="36" cy="194.923" width="72" height="22.6772"/>
+				<rect x="0" y="183.585" width="72" height="22.6772" class="st1"/>
+				<text x="4" y="199.72" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>二百年滿</text>			</g>
+			<g id="shape11-32" v:mID="11" v:groupContext="shape" transform="translate(144.299,-146.268)">
+				<title>工作表.11</title>
+				<desc>外道大天出家分出三部</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="84.0472" cy="194.923" width="168.1" height="22.6772"/>
+				<rect x="0" y="183.585" width="168.094" height="22.6772" class="st1"/>
+				<text x="4.05" y="199.72" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>外道大天出家分出三部</text>			</g>
+			<g id="shape12-35" v:mID="12" v:groupContext="shape" transform="translate(144.299,-109.701)">
+				<title>工作表.12</title>
+				<desc>四眾共諍外道五因緣</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="76.1102" cy="194.923" width="152.23" height="22.6772"/>
+				<rect x="0" y="183.585" width="152.22" height="22.6772" class="st1"/>
+				<text x="4.11" y="199.72" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>四眾共諍外道五因緣</text>			</g>
+			<g id="shape13-38" v:mID="13" v:groupContext="shape" transform="translate(144.299,-73.1339)">
+				<title>工作表.13</title>
+				<desc>外道大天出家重諍五事分二部</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="108" cy="194.923" width="216" height="22.6772"/>
+				<rect x="0" y="183.585" width="216" height="22.6772" class="st1"/>
+				<text x="4" y="199.72" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>外道大天出家重諍五事分二部</text>			</g>
+			<g id="shape14-41" v:mID="14" v:groupContext="shape" transform="translate(144.299,-36.5669)">
+				<title>工作表.14</title>
+				<desc>四眾共諍大天五事</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="68.0315" cy="194.923" width="136.07" height="22.6772"/>
+				<rect x="0" y="183.585" width="136.063" height="22.6772" class="st1"/>
+				<text x="4.03" y="199.72" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>四眾共諍大天五事</text>			</g>
+			<g id="shape15-44" v:mID="15" v:groupContext="shape" transform="translate(144.299,-5.11591E-13)">
+				<title>工作表.15</title>
+				<desc>外道大天出家重諍五事分三部</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="108" cy="194.923" width="216" height="22.6772"/>
+				<rect x="0" y="183.585" width="216" height="22.6772" class="st1"/>
+				<text x="4" y="199.72" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>外道大天出家重諍五事分三部</text>			</g>
 		</g>
 	</g>
 </svg>

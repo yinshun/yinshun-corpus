@@ -1,56 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<!-- 由 Microsoft Visio 11.0, SVG Export, v1.0 產生 y09.0125-3.svg Page-1 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 y09.0125-3-h.svg 頁-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.472441in" height="0.15748in"
-		viewBox="0 0 34.0157 11.3386" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
+		width="0.425951in" height="0.122415in" viewBox="0 0 30.6684 8.81385" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st2">
 	<title>y09.0125</title>
-	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false"/>
 
 	<style type="text/css">
 	<![CDATA[
 		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.16}
-		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;stroke-width:0.72}
-		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
-	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
-		<title>Page-1</title>
-		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
-				v:shadowOffsetY="-8.50394"/>
-		<g id="shape3-1" v:mID="3" v:groupContext="shape" transform="translate(19.9235,9.09101) rotate(-90)">
-			<title>工作表.3</title>
-			<path d="M2 -17.17 L2 -13.44 A2.92859 2.92859 -180 0 0 3.37 -10.96 L3.37 -10.96 A2.57451 2.57451 -180 0 0 6.11 -10.96
-						 L6.26 -11.05 A1.05227 1.05227 -180 0 0 6.26 -12.83 L6.26 -12.83 A2.66328 2.66328 -180 0 0 3.42 -12.83 L2.52
-						 -12.27 A1.50477 1.50477 -180 0 0 1.82 -10.99 L1.82 -10.99 A1.50477 1.50477 0 0 1 1.11 -9.72 L0.59 -9.39
-						 A1.05227 1.05227 -180 0 0 0.59 -7.61 L2 -6.72 L3.61 -5.71 A2.48573 2.48573 -180 0 0 6.26 -5.71 L6.26 -5.71
-						 a0.982117 0.982117 -180 0 0 -1.59872E-014 -1.66299 L6.11 -7.46 A2.39695 2.39695 -180 0 0 3.56 -7.46 L3.56
-						 -7.46 A2.72662 2.72662 -180 0 0 2.29 -5.15 L2.29 -4.05 A3.25973 3.25973 0 0 1 1.58 -2.02 L1.24 -1.6 a0.576738
-						 0.576738 -180 0 0 0.104051 0.819474 L1.39 -0.74 A1.07273 1.07273 0 0 1 1.82 0.11 L1.82 0.11 a0.967353 0.967353
-						 -180 0 0 0.452555 0.818997 L3.37 1.63 A2.57451 2.57451 -180 0 0 6.11 1.63 L6.11 1.63 A1.01719 1.01719 -180
-						 0 0 6.11 -0.09 L5.93 -0.21 A2.39695 2.39695 -180 0 0 3.37 -0.21 L2.93 0.07 A1.77348 1.77348 -180 0 0 2.1
-						 1.57 L2.1 1.57 A1.77348 1.77348 0 0 1 1.27 3.07 L0.8 3.37 A1.10488 1.10488 -180 0 0 0.8 5.24 L2.29 6.17
-						 L3.23 6.77 A2.48573 2.48573 -180 0 0 5.88 6.77 L5.97 6.71 a0.911966 0.911966 -180 0 0 0 -1.54421 L5.97 5.16
-						 A2.30818 2.30818 -180 0 0 3.52 5.16 L3.52 5.16 A3.23155 3.23155 -180 0 0 2 7.9 L2 11.34" class="st1"/>
-		</g>
-		<g id="group6-4" transform="translate(25.9103,-18.72)" v:mID="6" v:groupContext="group">
-			<title>工作表.6</title>
-			<g id="shape1-5" v:mID="1" v:groupContext="shape" transform="translate(0,-34.1776)">
-				<title>工作表.1</title>
-				<path d="M0 11.34 L17.01 11.34" class="st2"/>
-			</g>
-			<g id="shape2-8" v:mID="2" v:groupContext="shape" transform="translate(28.3465,-22.839) rotate(90)">
-				<title>工作表.2</title>
-				<path d="M0 11.34 L34.18 11.34" class="st2"/>
-			</g>
-			<g id="shape4-11" v:mID="4" v:groupContext="shape" transform="translate(17.0079,22.6772) rotate(180)">
-				<title>工作表.4</title>
-				<path d="M0 11.34 L17.01 11.34" class="st2"/>
-			</g>
-			<g id="shape5-14" v:mID="5" v:groupContext="shape" transform="translate(11.3386,-22.839) rotate(90)">
-				<title>工作表.5</title>
-				<path d="M0 11.34 L34.18 11.34" class="st2"/>
+	<g>
+		<title>頁-1</title>
+		<g id="group4-1" transform="translate(1.08,-0.985207)">
+			<title>工作表.4</title>
+			<g id="shape3-2" transform="translate(19.6946,8.81385) rotate(-90)">
+				<title>工作表.3</title>
+				<path d="M2 -19.69 L2 -15.97 A2.92859 2.92859 -180 0 0 3.37 -13.49 L3.37 -13.49 A2.57451 2.57451 -180 0 0 6.11 -13.49
+							 L6.26 -13.58 A1.05227 1.05227 -180 0 0 6.26 -15.36 L6.26 -15.36 A2.66328 2.66328 -180 0 0 3.42 -15.36
+							 L2.52 -14.79 A1.50477 1.50477 -180 0 0 1.82 -13.52 L1.82 -13.52 A1.50477 1.50477 0 0 1 1.11 -12.24 L0.59
+							 -11.91 A1.05227 1.05227 -180 0 0 0.59 -10.13 L2 -9.24 L3.61 -8.23 A2.48573 2.48573 -180 0 0 6.26 -8.23
+							 L6.26 -8.23 a0.982117 0.982117 -180 0 0 -1.59872E-14 -1.66299 L6.11 -9.98 A2.39695 2.39695 -180 0 0
+							 3.56 -9.98 L3.56 -9.98 A2.72662 2.72662 -180 0 0 2.29 -7.68 L2.29 -6.58 A3.25973 3.25973 0 0 1 1.58
+							 -4.55 L1.24 -4.12 a0.576738 0.576738 -180 0 0 0.104051 0.819474 L1.39 -3.27 A1.07273 1.07273 0 0 1 1.82
+							 -2.41 L1.82 -2.41 a0.967353 0.967353 -180 0 0 0.452555 0.818997 L3.37 -0.9 A2.57451 2.57451 -180 0 0
+							 6.11 -0.9 L6.11 -0.9 A1.01719 1.01719 -180 0 0 6.11 -2.62 L5.93 -2.74 A2.39695 2.39695 -180 0 0 3.37
+							 -2.74 L2.93 -2.46 A1.77348 1.77348 -180 0 0 2.1 -0.96 L2.1 -0.96 A1.77348 1.77348 0 0 1 1.27 0.55 L0.8
+							 0.84 A1.10488 1.10488 -180 0 0 0.8 2.71 L2.29 3.65 L3.23 4.24 A2.48573 2.48573 -180 0 0 5.88 4.24 L5.97
+							 4.18 a0.911966 0.911966 -180 0 0 0 -1.54421 L5.97 2.64 A2.30818 2.30818 -180 0 0 3.52 2.64 L3.52 2.64
+							 A3.23155 3.23155 -180 0 0 2 5.37 L2 8.81" class="st1"/>
 			</g>
 		</g>
 	</g>

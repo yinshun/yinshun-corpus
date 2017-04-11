@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<!-- 由 Microsoft Visio 11.0, SVG Export, v1.0 產生 y37.0133.svg Page-1 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 y37.0133-h.svg 頁-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="5.75705in" height="4.20194in"
-		viewBox="0 0 414.508 302.539" xml:space="preserve" color-interpolation-filters="sRGB" class="st4">
-	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false">
-		<v:userDefs>
-			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Box)"/>
-			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
-		</v:userDefs>
-	</v:documentProperties>
-
+		width="5.24664in" height="1.90018in" viewBox="0 0 377.758 136.813" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st4">
 	<style type="text/css">
 	<![CDATA[
 		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
@@ -20,90 +13,64 @@
 	]]>
 	</style>
 
-	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+	<g>
 		<title>頁-1</title>
-		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
-				v:shadowOffsetY="-8.50394"/>
-		<g id="group11-1" transform="translate(93.2185,283.789) rotate(-90)" v:mID="11" v:groupContext="group">
+		<g id="group11-1" transform="translate(0.375,-0.375)">
 			<title>工作表.11</title>
-			<g id="shape1-2" v:mID="1" v:groupContext="shape" transform="translate(440.02,-74.4685) rotate(90)">
+			<g id="shape1-2" transform="translate(4.79616E-14,-113.386)">
 				<title>工作表.1</title>
 				<desc>《佛本行集經》</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="63.7795" cy="238.76" width="127.56" height="127.559"/>
-				<rect x="0" y="174.98" width="127.559" height="127.559" class="st1"/>
-				<text x="7.78" y="243.56" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>《佛本行集經》</text>			</g>
-			<g id="shape2-5" v:mID="2" v:groupContext="shape" transform="translate(466.949,104.114) rotate(90)">
+				<rect x="0" y="114.136" width="127.559" height="22.6772" class="st1"/>
+				<text x="7.78" y="130.27" class="st2">《佛本行集經》</text>			</g>
+			<g id="shape2-5" transform="translate(178.583,-113.386)">
 				<title>工作表.2</title>
 				<desc>《大事》</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="36.8504" cy="265.689" width="73.71" height="73.7008"/>
-				<rect x="0" y="228.839" width="73.7008" height="73.7008" class="st1"/>
-				<text x="4.85" y="270.49" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>《大事》</text>			</g>
-			<g id="shape3-8" v:mID="3" v:groupContext="shape" transform="translate(447.106,-71.6339) rotate(90)">
+				<rect x="0" y="114.136" width="73.7008" height="22.6772" class="st1"/>
+				<text x="4.85" y="130.27" class="st2">《大事》</text>			</g>
+			<g id="shape3-8" transform="translate(2.83465,-85.0394)">
 				<title>工作表.3</title>
 				<desc>自性行</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="274.193" width="56.7" height="56.6929"/>
-				<rect x="0" y="245.846" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="278.99" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>自性行</text>			</g>
-			<g id="shape4-11" v:mID="4" v:groupContext="shape" transform="translate(383.327,101.28) rotate(90)">
+				<rect x="0" y="114.136" width="56.6929" height="22.6772" class="st1"/>
+				<text x="4.35" y="130.27" class="st2">自性行</text>			</g>
+			<g id="shape4-11" transform="translate(175.748,-85.0394)">
 				<title>工作表.4</title>
 				<desc>自性行prakṛti-caryā</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="92.126" cy="210.413" width="184.26" height="184.252"/>
-				<rect x="0" y="118.287" width="184.252" height="184.252" class="st1"/>
-				<text x="10.82" y="215.4" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>自性行（<tspan
-							class="st3" v:langID="1033">prakṛti</tspan><tspan class="st3" v:langID="1033">-</tspan><tspan
-							class="st3" v:langID="1033">caryā</tspan>）</text>			</g>
-			<g id="shape5-17" v:mID="5" v:groupContext="shape" transform="translate(418.76,-71.6339) rotate(90)">
+				<rect x="0" y="114.136" width="184.252" height="22.6772" class="st1"/>
+				<text x="10.82" y="130.46" class="st2">自性行（<tspan class="st3">prakṛti</tspan><tspan class="st3">-</tspan><tspan
+							class="st3">caryā</tspan>）</text>			</g>
+			<g id="shape5-17" transform="translate(2.83465,-56.6929)">
 				<title>工作表.5</title>
 				<desc>願性行</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="274.193" width="56.7" height="56.6929"/>
-				<rect x="0" y="245.846" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="278.99" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>願性行</text>			</g>
-			<g id="shape6-20" v:mID="6" v:groupContext="shape" transform="translate(345.059,98.4449) rotate(90)">
+				<rect x="0" y="114.136" width="56.6929" height="22.6772" class="st1"/>
+				<text x="4.35" y="130.27" class="st2">願性行</text>			</g>
+			<g id="shape6-20" transform="translate(172.913,-56.6929)">
 				<title>工作表.6</title>
 				<desc>願行praṇidhāna-caryā</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="102.047" cy="200.492" width="204.1" height="204.094"/>
-				<rect x="0" y="98.4449" width="204.094" height="204.094" class="st1"/>
-				<text x="14.53" y="205.48" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>願行（<tspan
-							class="st3" v:langID="1033">praṇidhāna</tspan><tspan class="st3" v:langID="1033">-</tspan><tspan
-							class="st3" v:langID="1033">caryā</tspan>）</text>			</g>
-			<g id="shape7-26" v:mID="7" v:groupContext="shape" transform="translate(390.413,-71.6339) rotate(90)">
+				<rect x="0" y="114.136" width="204.094" height="22.6772" class="st1"/>
+				<text x="14.53" y="130.46" class="st2">願行（<tspan class="st3">praṇidhāna</tspan><tspan class="st3">-</tspan><tspan
+							class="st3">caryā</tspan>）</text>			</g>
+			<g id="shape7-26" transform="translate(2.83465,-28.3465)">
 				<title>工作表.7</title>
 				<desc>順性行</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="274.193" width="56.7" height="56.6929"/>
-				<rect x="0" y="245.846" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="278.99" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>順性行</text>			</g>
-			<g id="shape8-29" v:mID="8" v:groupContext="shape" transform="translate(330.886,104.114) rotate(90)">
+				<rect x="0" y="114.136" width="56.6929" height="22.6772" class="st1"/>
+				<text x="4.35" y="130.27" class="st2">順性行</text>			</g>
+			<g id="shape8-29" transform="translate(178.583,-28.3465)">
 				<title>工作表.8</title>
 				<desc>順行anuloma-caryā</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="87.874" cy="214.665" width="175.75" height="175.748"/>
-				<rect x="0" y="126.791" width="175.748" height="175.748" class="st1"/>
-				<text x="8.35" y="219.65" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>順行（<tspan
-							class="st3" v:langID="1033">anuloma</tspan><tspan class="st3" v:langID="1033">-</tspan><tspan
-							class="st3" v:langID="1033">caryā</tspan>）</text>			</g>
-			<g id="shape9-35" v:mID="9" v:groupContext="shape" transform="translate(362.067,-71.6339) rotate(90)">
+				<rect x="0" y="114.136" width="175.748" height="22.6772" class="st1"/>
+				<text x="8.35" y="130.46" class="st2">順行（<tspan class="st3">anuloma</tspan><tspan class="st3">-</tspan><tspan
+							class="st3">caryā</tspan>）</text>			</g>
+			<g id="shape9-35" transform="translate(2.83465,2.84217E-14)">
 				<title>工作表.9</title>
 				<desc>轉性行</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="274.193" width="56.7" height="56.6929"/>
-				<rect x="0" y="245.846" width="56.6929" height="56.6929" class="st1"/>
-				<text x="4.35" y="278.99" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>轉性行</text>			</g>
-			<g id="shape10-38" v:mID="10" v:groupContext="shape" transform="translate(302.539,105.531) rotate(90)">
+				<rect x="0" y="114.136" width="56.6929" height="22.6772" class="st1"/>
+				<text x="4.35" y="130.27" class="st2">轉性行</text>			</g>
+			<g id="shape10-38" transform="translate(180,-7.38964E-13)">
 				<title>工作表.10</title>
 				<desc>不退行anivartana-c.</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="87.874" cy="214.665" width="175.75" height="175.748"/>
-				<rect x="0" y="126.791" width="175.748" height="175.748" class="st1"/>
-				<text x="6.35" y="219.65" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>不退行（<tspan
-							class="st3" v:langID="1033">anivartana</tspan><tspan class="st3" v:langID="1033">-</tspan><tspan
-							class="st3" v:langID="1033">c</tspan><tspan class="st3" v:langID="1033">.</tspan>）</text>			</g>
+				<rect x="0" y="114.136" width="175.748" height="22.6772" class="st1"/>
+				<text x="6.35" y="130.46" class="st2">不退行（<tspan class="st3">anivartana</tspan><tspan class="st3">-</tspan><tspan
+							class="st3">c.</tspan>）</text>			</g>
 		</g>
 	</g>
 </svg>

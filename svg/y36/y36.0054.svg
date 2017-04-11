@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<!-- 由 Microsoft Visio 11.0, SVG Export, v1.0 產生 y36.0054.svg Page-1 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 y36.0054-h.svg 頁-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.93804in" height="6.74718in"
-		viewBox="0 0 643.539 485.797" xml:space="preserve" color-interpolation-filters="sRGB" class="st6">
-	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false">
-		<v:userDefs>
-			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Box)"/>
-			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
-		</v:userDefs>
-	</v:documentProperties>
-
+		width="8.42763in" height="5.08082in" viewBox="0 0 606.789 365.819" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st6">
 	<style type="text/css">
 	<![CDATA[
 		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
@@ -22,458 +15,347 @@
 	]]>
 	</style>
 
-	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+	<g>
 		<title>頁-1</title>
-		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
-				v:shadowOffsetY="-8.50394"/>
-		<g id="group46-1" transform="translate(18.75,-18.75)" v:mID="46" v:groupContext="group">
-			<title>工作表.46</title>
-			<g id="shape4-2" v:mID="4" v:groupContext="shape" transform="translate(2.52723,-327.638)">
+		<g id="group82-1" transform="translate(0.375,-0.375)">
+			<title>工作表.82</title>
+			<g id="shape4-2" transform="translate(2.52723,-312.503)">
 				<title>工作表.4</title>
 				<desc>一三一</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="30.7251" cy="457.264" width="61.46" height="57.0663"/>
-				<rect x="0" y="428.731" width="61.4502" height="57.0663" class="st1"/>
-				<text x="6.73" y="462.06" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一三一</text>			</g>
-			<g id="shape5-5" v:mID="5" v:groupContext="shape" transform="translate(57.8525,-285.656)">
+				<rect x="0" y="345.977" width="61.4502" height="19.8425" class="st1"/>
+				<text x="6.73" y="360.7" class="st2">一三一</text>			</g>
+			<g id="shape5-5" transform="translate(57.8525,-313.041)">
 				<title>工作表.5</title>
 				<desc>Bhaddekaratta-sutta</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="74.239" cy="414.744" width="148.48" height="142.106"/>
-				<rect x="0" y="343.691" width="148.478" height="142.106" class="st1"/>
-				<text x="10.27" y="419.54" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Bhaddekaratta-sutta</text>			</g>
-			<g id="shape6-8" v:mID="6" v:groupContext="shape" transform="translate(466.324,-320.738)">
+				<rect x="0" y="345.977" width="148.478" height="19.8425" class="st1"/>
+				<text x="10.27" y="360.7" class="st3">Bhaddekaratta-sutta</text>			</g>
+			<g id="shape6-8" transform="translate(466.324,-340.85)">
 				<title>工作表.6</title>
 				<desc>中含其餘品</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="61.3872" cy="422.018" width="122.78" height="127.559"/>
-				<rect x="0" y="358.238" width="122.774" height="127.559" class="st1"/>
-				<text x="0.25em 1.793em 3.337em 4.88em 6.423em" y="426.82" class="st2" v:langID="1028"><v:paragraph
-							v:horizAlign="4"/><v:tabList/>中含其餘品</text>			</g>
-			<g id="shape3-11" v:mID="3" v:groupContext="shape" transform="translate(6.73811,-320.738)">
+				<rect x="0" y="345.977" width="122.774" height="19.8425" class="st1"/>
+				<text x="0.25em 1.793em 3.337em 4.88em 6.423em" y="360.7" class="st2">中含其餘品</text>			</g>
+			<g id="shape3-11" transform="translate(6.73811,-340.85)">
 				<title>工作表.3</title>
 				<desc>中部分別品</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="61.3872" cy="422.018" width="122.78" height="127.559"/>
-				<rect x="0" y="358.238" width="122.774" height="127.559" class="st1"/>
-				<text x="0.25em 1.793em 3.337em 4.88em 6.423em" y="426.82" class="st2" v:langID="1028"><v:paragraph
-							v:horizAlign="4"/><v:tabList/>中部分別品</text>			</g>
-			<g id="shape7-14" v:mID="7" v:groupContext="shape" transform="translate(60.4216,-246.61)">
+				<rect x="0" y="345.977" width="122.774" height="19.8425" class="st1"/>
+				<text x="0.25em 1.793em 3.337em 4.88em 6.423em" y="360.7" class="st2">中部分別品</text>			</g>
+			<g id="shape7-14" transform="translate(60.4216,-283.799)">
 				<title>工作表.7</title>
 				<desc>Ānandabhaddekaratta-s</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="83.8317" cy="404.941" width="167.67" height="161.712"/>
-				<rect x="0" y="324.085" width="167.663" height="161.712" class="st1"/>
-				<text x="8.31" y="409.74" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Ānandabhaddekaratta-s</text>			</g>
-			<g id="shape9-17" v:mID="9" v:groupContext="shape" transform="translate(2.9335,-269.119)">
+				<rect x="0" y="345.977" width="167.663" height="19.8425" class="st1"/>
+				<text x="8.31" y="360.7" class="st3">Ānandabhaddekaratta-s</text>			</g>
+			<g id="shape9-17" transform="translate(2.9335,-255.992)">
 				<title>工作表.9</title>
 				<desc>一三三</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="31.3627" cy="455.256" width="62.73" height="61.0821"/>
-				<rect x="0" y="424.715" width="62.7255" height="61.0821" class="st1"/>
-				<text x="7.36" y="460.06" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一三三</text>			</g>
-			<g id="shape10-20" v:mID="10" v:groupContext="shape" transform="translate(-313.834,243.012) rotate(-90)">
-				<title>工作表.10</title>
-				<desc>Mahākaccāna-b</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalText="true"/>
-				<v:textRect cx="57.1389" cy="431.162" width="114.28" height="109.271"/>
-				<rect x="0" y="376.526" width="114.278" height="109.271" class="st1"/>
-				<text x="59.36" y="380.53" writing-mode="tb-rl" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Mahākaccāna-b</text>			</g>
-			<g id="shape13-23" v:mID="13" v:groupContext="shape" transform="translate(59.3734,-206.731)">
+				<rect x="0" y="345.977" width="62.7255" height="19.8425" class="st1"/>
+				<text x="7.36" y="360.7" class="st2">一三三</text>			</g>
+			<g id="shape13-20" transform="translate(59.3734,-227.974)">
 				<title>工作表.13</title>
 				<desc>Lomasakaṅgiya-b</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="64.6865" cy="420.886" width="129.38" height="129.823"/>
-				<rect x="0" y="355.975" width="129.373" height="129.823" class="st1"/>
-				<text x="7.37" y="425.69" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Lomasakaṅgiya-b</text>			</g>
-			<g id="shape16-26" v:mID="16" v:groupContext="shape" transform="translate(2.86247,-297.622)">
+				<rect x="0" y="345.977" width="129.373" height="19.8425" class="st1"/>
+				<text x="7.37" y="360.7" class="st3">Lomasakaṅgiya-b</text>			</g>
+			<g id="shape16-23" transform="translate(2.86247,-284.495)">
 				<title>工作表.16</title>
 				<desc>一三二</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="30.8432" cy="455.256" width="61.69" height="61.0821"/>
-				<rect x="0" y="424.715" width="61.6865" height="61.0821" class="st1"/>
-				<text x="6.84" y="460.06" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一三二</text>			</g>
-			<g id="shape12-29" v:mID="12" v:groupContext="shape" transform="translate(2.34295,-240.772)">
+				<rect x="0" y="345.977" width="61.6865" height="19.8425" class="st1"/>
+				<text x="6.84" y="360.7" class="st2">一三二</text>			</g>
+			<g id="shape12-26" transform="translate(2.34295,-227.646)">
 				<title>工作表.12</title>
 				<desc>一三四</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="31.3627" cy="455.256" width="62.73" height="61.0821"/>
-				<rect x="0" y="424.715" width="62.7255" height="61.0821" class="st1"/>
-				<text x="7.36" y="460.06" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一三四</text>			</g>
-			<g id="shape18-32" v:mID="18" v:groupContext="shape" transform="translate(61.5279,-151.641)">
+				<rect x="0" y="345.977" width="62.7255" height="19.8425" class="st1"/>
+				<text x="7.36" y="360.7" class="st2">一三四</text>			</g>
+			<g id="shape18-29" transform="translate(61.5279,-198.841)">
 				<title>工作表.18</title>
 				<desc>Cūḷakammavibhaṅga-sutta</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="90.4327" cy="394.928" width="180.87" height="181.738"/>
-				<rect x="0" y="304.06" width="180.865" height="181.738" class="st1"/>
-				<text x="4.68" y="399.73" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Cūḷakammavibhaṅga-sutta</text>			</g>
-			<g id="shape21-35" v:mID="21" v:groupContext="shape" transform="translate(2.34295,-212.063)">
+				<rect x="0" y="345.977" width="180.865" height="19.8425" class="st1"/>
+				<text x="4.68" y="360.7" class="st3">Cūḷakammavibhaṅga-sutta</text>			</g>
+			<g id="shape21-32" transform="translate(2.34295,-198.936)">
 				<title>工作表.21</title>
 				<desc>一三五</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="31.3627" cy="455.256" width="62.73" height="61.0821"/>
-				<rect x="0" y="424.715" width="62.7255" height="61.0821" class="st1"/>
-				<text x="7.36" y="460.06" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一三五</text>			</g>
-			<g id="shape17-38" v:mID="17" v:groupContext="shape" transform="translate(259.535,-242.346)">
+				<rect x="0" y="345.977" width="62.7255" height="19.8425" class="st1"/>
+				<text x="7.36" y="360.7" class="st2">一三五</text>			</g>
+			<g id="shape17-35" transform="translate(259.535,-229.219)">
 				<title>工作表.17</title>
 				<desc>一六六</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="30.8432" cy="455.256" width="61.69" height="61.0821"/>
-				<rect x="0" y="424.715" width="61.6865" height="61.0821" class="st1"/>
-				<text x="6.84" y="460.06" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一六六</text>			</g>
-			<g id="shape22-41" v:mID="22" v:groupContext="shape" transform="translate(61.2991,-161.221)">
+				<rect x="0" y="345.977" width="61.6865" height="19.8425" class="st1"/>
+				<text x="6.84" y="360.7" class="st2">一六六</text>			</g>
+			<g id="shape22-38" transform="translate(61.2991,-170.771)">
 				<title>工作表.22</title>
 				<desc>Mahākamma-v</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="53.3312" cy="432.579" width="106.67" height="106.436"/>
-				<rect x="0" y="379.361" width="106.662" height="106.436" class="st1"/>
-				<text x="4.91" y="437.38" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Mahākamma-v</text>			</g>
-			<g id="shape25-44" v:mID="25" v:groupContext="shape" transform="translate(2.34295,-184.079)">
+				<rect x="0" y="345.977" width="106.662" height="19.8425" class="st1"/>
+				<text x="4.91" y="360.7" class="st3">Mahākamma-v</text>			</g>
+			<g id="shape25-41" transform="translate(2.34295,-170.953)">
 				<title>工作表.25</title>
 				<desc>一三六</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="31.3627" cy="455.256" width="62.73" height="61.0821"/>
-				<rect x="0" y="424.715" width="62.7255" height="61.0821" class="st1"/>
-				<text x="7.36" y="460.06" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一三六</text>			</g>
-			<g id="shape26-47" v:mID="26" v:groupContext="shape" transform="translate(2.34295,-155.733)">
+				<rect x="0" y="345.977" width="62.7255" height="19.8425" class="st1"/>
+				<text x="7.36" y="360.7" class="st2">一三六</text>			</g>
+			<g id="shape26-44" transform="translate(2.34295,-142.606)">
 				<title>工作表.26</title>
 				<desc>一三七</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="31.3627" cy="455.256" width="62.73" height="61.0821"/>
-				<rect x="0" y="424.715" width="62.7255" height="61.0821" class="st1"/>
-				<text x="7.36" y="460.06" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一三七</text>			</g>
-			<g id="shape27-50" v:mID="27" v:groupContext="shape" transform="translate(64.1905,-93.9102)">
+				<rect x="0" y="345.977" width="62.7255" height="19.8425" class="st1"/>
+				<text x="7.36" y="360.7" class="st2">一三七</text>			</g>
+			<g id="shape27-47" transform="translate(58.0063,-142.368)">
 				<title>工作表.27</title>
 				<desc>Saḷāyatana-vibhaṅga sutta</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="90.7649" cy="393.671" width="181.53" height="184.252"/>
-				<rect x="0" y="301.545" width="181.53" height="184.252" class="st1"/>
-				<text x="7.02" y="398.47" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Saḷāyatana-vibhaṅga sutta</text>			</g>
-			<g id="shape30-53" v:mID="30" v:groupContext="shape" transform="translate(59.61,-106.654)">
+				<rect x="0" y="345.977" width="180.902" height="19.8425" class="st1"/>
+				<text x="6.71" y="360.7" class="st3">Saḷāyatana-vibhaṅga sutta</text>			</g>
+			<g id="shape30-50" transform="translate(60.8409,-114.078)">
 				<title>工作表.30</title>
-				<desc>Uddesa-vagga</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="52.8257" cy="434.705" width="105.66" height="102.184"/>
-				<rect x="0" y="383.613" width="105.651" height="102.184" class="st1"/>
-				<text x="7.07" y="439.51" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Uddesa-vagga</text>			</g>
-			<g id="shape33-56" v:mID="33" v:groupContext="shape" transform="translate(2.34295,-127.023)">
+				<desc>Uddesa-vibhaṅga sutta</desc>
+				<rect x="0" y="345.977" width="155.906" height="19.8425" class="st1"/>
+				<text x="4.86" y="360.7" class="st3">Uddesa-vibhaṅga sutta</text>			</g>
+			<g id="shape33-53" transform="translate(2.34295,-113.896)">
 				<title>工作表.33</title>
 				<desc>一三八</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="31.3627" cy="455.256" width="62.73" height="61.0821"/>
-				<rect x="0" y="424.715" width="62.7255" height="61.0821" class="st1"/>
-				<text x="7.36" y="460.06" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一三八</text>			</g>
-			<g id="shape34-59" v:mID="34" v:groupContext="shape" transform="translate(58.8166,-52.6249)">
+				<rect x="0" y="345.977" width="62.7255" height="19.8425" class="st1"/>
+				<text x="7.36" y="360.7" class="st2">一三八</text>			</g>
+			<g id="shape34-56" transform="translate(58.8166,-86.0069)">
 				<title>工作表.34</title>
-				<desc>Araṇavibhaṁga Sutta</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="76.8107" cy="408.747" width="153.63" height="154.1"/>
-				<rect x="0" y="331.697" width="153.621" height="154.1" class="st1"/>
-				<text x="7.28" y="413.55" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Araṇavibhaṁga Sutta</text>			</g>
-			<g id="shape37-62" v:mID="37" v:groupContext="shape" transform="translate(2.34295,-99.0401)">
+				<desc>Araṇavibhaṁga sutta</desc>
+				<rect x="0" y="345.977" width="153.621" height="19.8425" class="st1"/>
+				<text x="8.61" y="360.7" class="st3">Araṇavibhaṁga sutta</text>			</g>
+			<g id="shape37-59" transform="translate(2.34295,-85.9132)">
 				<title>工作表.37</title>
 				<desc>一三九</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="31.3627" cy="455.256" width="62.73" height="61.0821"/>
-				<rect x="0" y="424.715" width="62.7255" height="61.0821" class="st1"/>
-				<text x="7.36" y="460.06" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一三九</text>			</g>
-			<g id="shape38-65" v:mID="38" v:groupContext="shape" transform="translate(4.41715,-71.9291)">
+				<rect x="0" y="345.977" width="62.7255" height="19.8425" class="st1"/>
+				<text x="7.36" y="360.7" class="st2">一三九</text>			</g>
+			<g id="shape38-62" transform="translate(4.41715,-57.3851)">
 				<title>工作表.38</title>
 				<desc>一四</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="29.4259" cy="456.673" width="58.86" height="58.2478"/>
-				<rect x="0" y="427.549" width="58.8518" height="58.2478" class="st1"/>
-				<text x="5.43" y="461.47" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一四０</text>			</g>
-			<g id="shape39-68" v:mID="39" v:groupContext="shape" transform="translate(57.2289,-24.4488)">
+				<rect x="0" y="345.977" width="58.8518" height="19.8425" class="st1"/>
+				<text x="5.43" y="360.7" class="st2">一四０</text>			</g>
+			<g id="shape39-65" transform="translate(57.2289,-57.3851)">
 				<title>工作表.39</title>
-				<desc>Dhātu-vibhaṅga Sutta</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="77.9528" cy="409.193" width="155.91" height="153.208"/>
-				<rect x="0" y="332.589" width="155.906" height="153.208" class="st1"/>
-				<text x="7.97" y="413.99" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Dhātu-vibhaṅga Sutta</text>			</g>
-			<g id="shape42-71" v:mID="42" v:groupContext="shape" transform="translate(-1.19904E-014,-40.9207)">
+				<desc>Dhātu-vibhaṅga sutta</desc>
+				<rect x="0" y="345.977" width="155.906" height="19.8425" class="st1"/>
+				<text x="9.3" y="360.7" class="st3">Dhātu-vibhaṅga sutta</text>			</g>
+			<g id="shape42-68" transform="translate(-1.19904E-14,-29.2114)">
 				<title>工作表.42</title>
 				<desc>一四一</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="31.0084" cy="453.839" width="62.02" height="63.9171"/>
-				<rect x="0" y="421.88" width="62.0168" height="63.9171" class="st1"/>
-				<text x="9.09" y="458.64" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一四一</text>			</g>
-			<g id="shape43-74" v:mID="43" v:groupContext="shape" transform="translate(63.8494,-2.23777)">
+				<rect x="0" y="345.977" width="62.0168" height="19.8425" class="st1"/>
+				<text x="9.09" y="360.7" class="st2">一四一</text>			</g>
+			<g id="shape43-71" transform="translate(60.8409,-29.436)">
 				<title>工作表.43</title>
 				<desc>Saccavibhaṅga sutta</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="71.2635" cy="414.931" width="142.53" height="141.732"/>
-				<rect x="0" y="344.065" width="142.527" height="141.732" class="st1"/>
-				<text x="6.18" y="419.73" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Saccavibhaṅga sutta</text>			</g>
-			<g id="shape44-77" v:mID="44" v:groupContext="shape" transform="translate(462.086,-51.8747)">
+				<rect x="0" y="345.977" width="142.527" height="19.8425" class="st1"/>
+				<text x="6.18" y="360.7" class="st3">Saccavibhaṅga sutta</text>			</g>
+			<g id="shape44-74" transform="translate(462.086,-29.5354)">
 				<title>工作表.44</title>
 				<desc>三一</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="23.1739" cy="464.469" width="46.35" height="42.6572"/>
-				<rect x="0" y="443.14" width="46.3479" height="42.6572" class="st1"/>
-				<text x="7.17" y="469.27" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>三一</text>			</g>
-			<g id="shape45-80" v:mID="45" v:groupContext="shape" transform="translate(513.438,-26.9771)">
+				<rect x="0" y="345.977" width="46.3479" height="19.8425" class="st1"/>
+				<text x="7.17" y="360.7" class="st2">三一</text>			</g>
+			<g id="shape45-77" transform="translate(513.438,-28.0924)">
 				<title>工作表.45</title>
 				<desc>分別聖諦經</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="46.3006" cy="441.014" width="92.61" height="89.5664"/>
-				<rect x="0" y="396.231" width="92.6012" height="89.5664" class="st1"/>
-				<text x="6.3" y="445.81" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>分別聖諦經</text>			</g>
-			<g id="shape2-83" v:mID="2" v:groupContext="shape" transform="translate(267.899,-320.738)">
+				<rect x="0" y="345.977" width="92.6012" height="19.8425" class="st1"/>
+				<text x="6.3" y="360.7" class="st2">分別聖諦經</text>			</g>
+			<g id="shape2-80" transform="translate(267.899,-340.85)">
 				<title>工作表.2</title>
 				<desc>中含根本分別品</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="61.3872" cy="422.018" width="122.78" height="127.559"/>
-				<rect x="0" y="358.238" width="122.774" height="127.559" class="st1"/>
-				<text x="5.39" y="426.82" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>中含根本分別品</text>			</g>
-			<g id="shape1-86" v:mID="1" v:groupContext="shape" transform="translate(259.535,-270.354)">
+				<rect x="0" y="345.977" width="122.774" height="19.8425" class="st1"/>
+				<text x="5.39" y="360.7" class="st2">中含根本分別品</text>			</g>
+			<g id="shape1-83" transform="translate(259.535,-257.228)">
 				<title>工作表.1</title>
 				<desc>一六五</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="30.8432" cy="455.256" width="61.69" height="61.0821"/>
-				<rect x="0" y="424.715" width="61.6865" height="61.0821" class="st1"/>
-				<text x="6.84" y="460.06" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一六五</text>			</g>
-			<g id="shape8-89" v:mID="8" v:groupContext="shape" transform="translate(310.861,-289.557)">
+				<rect x="0" y="345.977" width="61.6865" height="19.8425" class="st1"/>
+				<text x="6.84" y="360.7" class="st2">一六五</text>			</g>
+			<g id="shape8-86" transform="translate(310.861,-285.574)">
 				<title>工作表.8</title>
 				<desc>阿難說經</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="42.5197" cy="446.112" width="85.04" height="79.3701"/>
-				<rect x="0" y="406.427" width="85.0394" height="79.3701" class="st1"/>
-				<text x="10.52" y="450.91" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>阿難說經</text>			</g>
-			<g id="shape11-92" v:mID="11" v:groupContext="shape" transform="translate(314.233,-253.347)">
+				<rect x="0" y="345.977" width="85.0394" height="19.8425" class="st1"/>
+				<text x="10.52" y="360.7" class="st2">阿難說經</text>			</g>
+			<g id="shape11-89" transform="translate(314.233,-257.228)">
 				<title>工作表.11</title>
 				<desc>溫泉林天經</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="47.0118" cy="438.248" width="94.03" height="95.0978"/>
-				<rect x="0" y="390.699" width="94.0236" height="95.0978" class="st1"/>
-				<text x="7.01" y="443.05" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>溫泉林天經</text>			</g>
-			<g id="shape14-95" v:mID="14" v:groupContext="shape" transform="translate(315.27,-218.691)">
+				<rect x="0" y="345.977" width="94.0236" height="19.8425" class="st1"/>
+				<text x="7.01" y="360.7" class="st2">溫泉林天經</text>			</g>
+			<g id="shape14-92" transform="translate(315.27,-228.881)">
 				<title>工作表.14</title>
 				<desc>釋中禪室尊經</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="55.1188" cy="431.939" width="110.24" height="107.717"/>
-				<rect x="0" y="378.081" width="110.238" height="107.717" class="st1"/>
-				<text x="7.12" y="436.74" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>釋中禪室尊經</text>			</g>
-			<g id="shape15-98" v:mID="15" v:groupContext="shape" transform="translate(260.48,-300.709)">
+				<rect x="0" y="345.977" width="110.238" height="19.8425" class="st1"/>
+				<text x="7.12" y="360.7" class="st2">釋中禪室尊經</text>			</g>
+			<g id="shape15-95" transform="translate(260.48,-285.574)">
 				<title>工作表.15</title>
 				<desc>一六七</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="30.7251" cy="457.264" width="61.46" height="57.0663"/>
-				<rect x="0" y="428.731" width="61.4502" height="57.0663" class="st1"/>
-				<text x="6.73" y="462.06" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一六七</text>			</g>
-			<g id="shape19-101" v:mID="19" v:groupContext="shape" transform="translate(256.7,-216.158)">
+				<rect x="0" y="345.977" width="61.4502" height="19.8425" class="st1"/>
+				<text x="6.73" y="360.7" class="st2">一六七</text>			</g>
+			<g id="shape19-98" transform="translate(256.7,-201.26)">
 				<title>工作表.19</title>
 				<desc>一七</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="34.7409" cy="457.028" width="69.49" height="57.5388"/>
-				<rect x="0" y="428.258" width="69.4817" height="57.5388" class="st1"/>
-				<text x="10.74" y="461.83" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一七０</text>			</g>
-			<g id="shape20-104" v:mID="20" v:groupContext="shape" transform="translate(315.519,-215.079)">
+				<rect x="0" y="345.977" width="69.4817" height="19.8425" class="st1"/>
+				<text x="10.74" y="360.7" class="st2">一七０</text>			</g>
+			<g id="shape20-101" transform="translate(315.519,-200.535)">
 				<title>工作表.20</title>
 				<desc>鸚鵡經</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="30.1346" cy="456.673" width="60.27" height="58.2474"/>
-				<rect x="0" y="427.55" width="60.2691" height="58.2474" class="st1"/>
-				<text x="6.13" y="461.47" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>鸚鵡經</text>			</g>
-			<g id="shape23-107" v:mID="23" v:groupContext="shape" transform="translate(262.015,-185.669)">
+				<rect x="0" y="345.977" width="60.2691" height="19.8425" class="st1"/>
+				<text x="6.13" y="360.7" class="st2">鸚鵡經</text>			</g>
+			<g id="shape23-104" transform="translate(262.015,-170.771)">
 				<title>工作表.23</title>
 				<desc>一七一</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="29.4259" cy="457.028" width="58.86" height="57.5388"/>
-				<rect x="0" y="428.258" width="58.8518" height="57.5388" class="st1"/>
-				<text x="5.43" y="461.83" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一七一</text>			</g>
-			<g id="shape24-110" v:mID="24" v:groupContext="shape" transform="translate(311.451,-170.079)">
+				<rect x="0" y="345.977" width="58.8518" height="19.8425" class="st1"/>
+				<text x="5.43" y="360.7" class="st2">一七一</text>			</g>
+			<g id="shape24-107" transform="translate(311.451,-170.771)">
 				<title>工作表.24</title>
 				<desc>分別大業經</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="50.4338" cy="441.437" width="100.87" height="88.7199"/>
-				<rect x="0" y="397.077" width="100.868" height="88.7199" class="st1"/>
-				<text x="10.43" y="446.24" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>分別大業經</text>			</g>
-			<g id="shape28-113" v:mID="28" v:groupContext="shape" transform="translate(260.175,-156.244)">
+				<rect x="0" y="345.977" width="100.868" height="19.8425" class="st1"/>
+				<text x="10.43" y="360.7" class="st2">分別大業經</text>			</g>
+			<g id="shape28-110" transform="translate(260.175,-142.762)">
 				<title>工作表.28</title>
 				<desc>一六三</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="30.8432" cy="455.61" width="61.69" height="60.3734"/>
-				<rect x="0" y="425.424" width="61.6865" height="60.3734" class="st1"/>
-				<text x="6.84" y="460.41" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一六三</text>			</g>
-			<g id="shape29-116" v:mID="29" v:groupContext="shape" transform="translate(316.411,-142.206)">
+				<rect x="0" y="345.977" width="61.6865" height="19.8425" class="st1"/>
+				<text x="6.84" y="360.7" class="st2">一六三</text>			</g>
+			<g id="shape29-113" transform="translate(316.411,-142.543)">
 				<title>工作表.29</title>
 				<desc>分別六處經</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="45.4731" cy="441.792" width="90.95" height="88.0112"/>
-				<rect x="0" y="397.786" width="90.9463" height="88.0112" class="st1"/>
-				<text x="5.47" y="446.59" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>分別六處經</text>			</g>
-			<g id="shape31-119" v:mID="31" v:groupContext="shape" transform="translate(262.639,-129.399)">
+				<rect x="0" y="345.977" width="90.9463" height="19.8425" class="st1"/>
+				<text x="5.47" y="360.7" class="st2">分別六處經</text>			</g>
+			<g id="shape31-116" transform="translate(262.639,-114.078)">
 				<title>工作表.31</title>
 				<desc>一六四</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3794" cy="457.451" width="56.76" height="56.6929"/>
-				<rect x="0" y="429.104" width="56.7587" height="56.6929" class="st1"/>
-				<text x="4.38" y="462.25" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一六四</text>			</g>
-			<g id="shape32-122" v:mID="32" v:groupContext="shape" transform="translate(316.697,-112.559)">
+				<rect x="0" y="345.977" width="56.7587" height="19.8425" class="st1"/>
+				<text x="4.38" y="360.7" class="st2">一六四</text>			</g>
+			<g id="shape32-119" transform="translate(316.697,-114.314)">
 				<title>工作表.32</title>
 				<desc>分別觀法經</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="45.1188" cy="440.374" width="90.24" height="90.8459"/>
-				<rect x="0" y="394.951" width="90.2376" height="90.8459" class="st1"/>
-				<text x="5.12" y="445.17" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>分別觀法經</text>			</g>
-			<g id="shape35-125" v:mID="35" v:groupContext="shape" transform="translate(262.672,-101.339)">
+				<rect x="0" y="345.977" width="90.2376" height="19.8425" class="st1"/>
+				<text x="5.12" y="360.7" class="st2">分別觀法經</text>			</g>
+			<g id="shape35-122" transform="translate(262.672,-85.7316)">
 				<title>工作表.35</title>
 				<desc>一六九</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="28.3465" cy="457.736" width="56.7" height="56.1214"/>
-				<rect x="0" y="429.676" width="56.6929" height="56.1214" class="st1"/>
-				<text x="4.35" y="462.54" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一六九</text>			</g>
-			<g id="shape36-128" v:mID="36" v:groupContext="shape" transform="translate(313.348,-76.5284)">
+				<rect x="0" y="345.977" width="56.6929" height="19.8425" class="st1"/>
+				<text x="4.35" y="360.7" class="st2">一六九</text>			</g>
+			<g id="shape36-125" transform="translate(313.348,-86.0787)">
 				<title>工作表.36</title>
 				<desc>拘樓瘦無諍經</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="57.0401" cy="432.579" width="114.09" height="106.436"/>
-				<rect x="0" y="379.361" width="114.08" height="106.436" class="st1"/>
-				<text x="9.04" y="437.38" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>拘樓瘦無諍經</text>			</g>
-			<g id="shape40-131" v:mID="40" v:groupContext="shape" transform="translate(253.123,-70.1919)">
+				<rect x="0" y="345.977" width="114.08" height="19.8425" class="st1"/>
+				<text x="9.04" y="360.7" class="st2">拘樓瘦無諍經</text>			</g>
+			<g id="shape40-128" transform="translate(253.123,-57.3851)">
 				<title>工作表.40</title>
 				<desc>一六二</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="37.5755" cy="454.936" width="75.16" height="61.7223"/>
-				<rect x="0" y="424.075" width="75.151" height="61.7223" class="st1"/>
-				<text x="13.58" y="459.74" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一六二</text>			</g>
-			<g id="shape41-134" v:mID="41" v:groupContext="shape" transform="translate(316.411,-57.166)">
+				<rect x="0" y="345.977" width="75.151" height="19.8425" class="st1"/>
+				<text x="13.58" y="360.7" class="st2">一六二</text>			</g>
+			<g id="shape41-131" transform="translate(316.411,-57.5039)">
 				<title>工作表.41</title>
 				<desc>分別六界經</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="45.4731" cy="441.791" width="90.95" height="88.0115"/>
-				<rect x="0" y="397.786" width="90.9463" height="88.0115" class="st1"/>
-				<text x="5.47" y="446.59" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>分別六界經</text>			</g>
-			<g id="shape47-137" v:mID="47" v:groupContext="shape" transform="translate(7.99361E-014,-12.5743)">
+				<rect x="0" y="345.977" width="90.9463" height="19.8425" class="st1"/>
+				<text x="5.47" y="360.7" class="st2">分別六界經</text>			</g>
+			<g id="shape47-134" transform="translate(7.99361E-14,-0.864895)">
 				<title>工作表.47</title>
 				<desc>一四二</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="31.0084" cy="453.839" width="62.02" height="63.9171"/>
-				<rect x="0" y="421.88" width="62.0168" height="63.9171" class="st1"/>
-				<text x="9.09" y="458.64" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一四二</text>			</g>
-			<g id="shape48-140" v:mID="48" v:groupContext="shape" transform="translate(58.7859,5.68434E-014)">
+				<rect x="0" y="345.977" width="62.0168" height="19.8425" class="st1"/>
+				<text x="9.09" y="360.7" class="st2">一四二</text>			</g>
+			<g id="shape48-137" transform="translate(58.7859,-0.692205)">
 				<title>工作表.48</title>
 				<desc>Dakkhiṇā-v</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="44.1517" cy="441.437" width="88.31" height="88.7202"/>
-				<rect x="0" y="397.077" width="88.3033" height="88.7202" class="st1"/>
-				<text x="6.39" y="446.24" class="st3" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Dakkhiṇā-v</text>			</g>
-			<g id="shape49-143" v:mID="49" v:groupContext="shape" transform="translate(444.781,-14.544)">
+				<rect x="0" y="345.977" width="88.3033" height="19.8425" class="st1"/>
+				<text x="6.39" y="360.7" class="st3">Dakkhiṇā-v</text>			</g>
+			<g id="shape49-140" transform="translate(444.781,5.68434E-14)">
 				<title>工作表.49</title>
 				<desc>一八</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="33.3235" cy="456.673" width="66.65" height="58.2478"/>
-				<rect x="0" y="427.549" width="66.6471" height="58.2478" class="st1"/>
-				<text x="9.32" y="461.47" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>一八０</text>			</g>
-			<g id="shape50-146" v:mID="50" v:groupContext="shape" transform="translate(513.362,-8.14961)">
+				<rect x="0" y="345.977" width="66.6471" height="19.8425" class="st1"/>
+				<text x="9.32" y="360.7" class="st2">一八０</text>			</g>
+			<g id="shape50-143" transform="translate(513.362,-0.692205)">
 				<title>工作表.50</title>
 				<desc>瞿曇彌經</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-				<v:textRect cx="37.8039" cy="449.587" width="75.61" height="72.421"/>
-				<rect x="0" y="413.376" width="75.6077" height="72.421" class="st1"/>
-				<text x="5.8" y="454.39" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>瞿曇彌經</text>			</g>
-			<g id="group55-149" transform="translate(-353.519,115.453) rotate(-90)" v:mID="55" v:groupContext="group">
-				<title>工作表.55</title>
-				<g id="shape51-150" v:mID="51" v:groupContext="shape" transform="translate(514.144,357.865) rotate(90)">
-					<title>工作表.51</title>
-					<path d="M0 485.8 L127.56 485.8" class="st4"/>
-				</g>
-				<g id="shape52-153" v:mID="52" v:groupContext="shape" transform="translate(0,-127.559)">
-					<title>工作表.52</title>
-					<path d="M0 485.8 L28.35 485.8" class="st4"/>
-				</g>
-				<g id="shape53-156" v:mID="53" v:groupContext="shape" transform="translate(0,-0.373417)">
-					<title>工作表.53</title>
-					<path d="M0 485.8 L28.35 485.8" class="st4"/>
-				</g>
-				<g id="shape54-159" v:mID="54" v:groupContext="shape" transform="translate(485.797,358.238) rotate(90)">
-					<title>工作表.54</title>
-					<path d="M0 485.8 L127.56 485.8" class="st4"/>
-				</g>
+				<rect x="0" y="345.977" width="75.6077" height="19.8425" class="st1"/>
+				<text x="5.8" y="360.7" class="st2">瞿曇彌經</text>			</g>
+			<g id="shape51-146" transform="translate(4.16876,-364.944)">
+				<title>工作表.51</title>
+				<path d="M0 365.82 L129 365.82" class="st4"/>
 			</g>
-			<g id="group56-162" transform="translate(107.298,115.453) rotate(-90)" v:mID="56" v:groupContext="group">
-				<title>工作表.56</title>
-				<g id="shape57-163" v:mID="57" v:groupContext="shape" transform="translate(514.144,357.865) rotate(90)">
-					<title>工作表.57</title>
-					<path d="M0 485.8 L127.56 485.8" class="st4"/>
-				</g>
-				<g id="shape58-166" v:mID="58" v:groupContext="shape" transform="translate(0,-127.559)">
-					<title>工作表.58</title>
-					<path d="M0 485.8 L28.35 485.8" class="st4"/>
-				</g>
-				<g id="shape59-169" v:mID="59" v:groupContext="shape" transform="translate(0,-0.373417)">
-					<title>工作表.59</title>
-					<path d="M0 485.8 L28.35 485.8" class="st4"/>
-				</g>
-				<g id="shape60-172" v:mID="60" v:groupContext="shape" transform="translate(485.797,358.238) rotate(90)">
-					<title>工作表.60</title>
-					<path d="M0 485.8 L127.56 485.8" class="st4"/>
-				</g>
+			<g id="shape52-149" transform="translate(-361.273,29.2215) rotate(-90)">
+				<title>工作表.52</title>
+				<path d="M0 365.82 L28.35 365.82" class="st4"/>
 			</g>
-			<g id="group61-175" transform="translate(-91.1274,115.453) rotate(-90)" v:mID="61" v:groupContext="group">
-				<title>工作表.61</title>
-				<g id="shape62-176" v:mID="62" v:groupContext="shape" transform="translate(514.144,357.865) rotate(90)">
-					<title>工作表.62</title>
-					<path d="M0 485.8 L127.56 485.8" class="st4"/>
-				</g>
-				<g id="shape63-179" v:mID="63" v:groupContext="shape" transform="translate(0,-127.559)">
-					<title>工作表.63</title>
-					<path d="M0 485.8 L28.35 485.8" class="st4"/>
-				</g>
-				<g id="shape64-182" v:mID="64" v:groupContext="shape" transform="translate(0,-0.373417)">
-					<title>工作表.64</title>
-					<path d="M0 485.8 L28.35 485.8" class="st4"/>
-				</g>
-				<g id="shape65-185" v:mID="65" v:groupContext="shape" transform="translate(485.797,358.238) rotate(90)">
-					<title>工作表.65</title>
-					<path d="M0 485.8 L127.56 485.8" class="st4"/>
-				</g>
+			<g id="shape53-152" transform="translate(-232.655,29.2215) rotate(-90)">
+				<title>工作表.53</title>
+				<path d="M0 365.82 L28.35 365.82" class="st4"/>
 			</g>
-			<g id="shape66-188" v:mID="66" v:groupContext="shape" transform="translate(172.1,-299.478)">
+			<g id="shape54-155" transform="translate(4.54638,-336.598)">
+				<title>工作表.54</title>
+				<path d="M0 365.82 L129 365.82" class="st4"/>
+			</g>
+			<g id="shape57-158" transform="translate(465.915,-364.944)">
+				<title>工作表.57</title>
+				<path d="M0 365.82 L122.42 365.82" class="st4"/>
+			</g>
+			<g id="shape58-161" transform="translate(100.454,29.2215) rotate(-90)">
+				<title>工作表.58</title>
+				<path d="M0 365.82 L28.35 365.82" class="st4"/>
+			</g>
+			<g id="shape59-164" transform="translate(222.512,29.2215) rotate(-90)">
+				<title>工作表.59</title>
+				<path d="M0 365.82 L28.35 365.82" class="st4"/>
+			</g>
+			<g id="shape60-167" transform="translate(466.273,-336.598)">
+				<title>工作表.60</title>
+				<path d="M0 365.82 L122.42 365.82" class="st4"/>
+			</g>
+			<g id="shape62-170" transform="translate(273.349,-364.944)">
+				<title>工作表.62</title>
+				<path d="M0 365.82 L113.75 365.82" class="st4"/>
+			</g>
+			<g id="shape63-173" transform="translate(-92.137,29.2215) rotate(-90)">
+				<title>工作表.63</title>
+				<path d="M0 365.82 L28.35 365.82" class="st4"/>
+			</g>
+			<g id="shape64-176" transform="translate(21.2771,29.2215) rotate(-90)">
+				<title>工作表.64</title>
+				<path d="M0 365.82 L28.35 365.82" class="st4"/>
+			</g>
+			<g id="shape65-179" transform="translate(273.682,-336.598)">
+				<title>工作表.65</title>
+				<path d="M0 365.82 L113.75 365.82" class="st4"/>
+			</g>
+			<g id="shape66-182" transform="translate(172.1,-265.732)">
 				<title>工作表.66</title>
-				<path d="M0 485.8 L87.74 485.8" class="st5"/>
+				<path d="M0 365.82 L87.74 365.82" class="st5"/>
 			</g>
-			<g id="shape67-191" v:mID="67" v:groupContext="shape" transform="translate(183.302,-271.132)">
+			<g id="shape67-185" transform="translate(183.302,-237.385)">
 				<title>工作表.67</title>
-				<path d="M0 485.8 L76.54 485.8" class="st5"/>
+				<path d="M0 365.82 L76.54 365.82" class="st5"/>
 			</g>
-			<g id="shape68-194" v:mID="68" v:groupContext="shape" transform="translate(208.814,-101.053)">
+			<g id="shape68-188" transform="translate(208.814,-67.3064)">
 				<title>工作表.68</title>
-				<path d="M0 485.8 L56.69 485.8" class="st5"/>
+				<path d="M0 365.82 L56.69 365.82" class="st5"/>
 			</g>
-			<g id="shape69-197" v:mID="69" v:groupContext="shape" transform="translate(203.144,-72.7066)">
+			<g id="shape69-191" transform="translate(203.144,-38.9599)">
 				<title>工作表.69</title>
-				<path d="M0 485.8 L255.12 485.8" class="st5"/>
+				<path d="M0 365.82 L255.12 365.82" class="st5"/>
 			</g>
-			<g id="shape70-200" v:mID="70" v:groupContext="shape" transform="translate(163.528,-157.746)">
-				<title>工作表.70</title>
-				<path d="M0 485.8 L97.3 485.8" class="st5"/>
-			</g>
-			<g id="shape71-203" v:mID="71" v:groupContext="shape" transform="translate(163.528,-214.439)">
+			<g id="shape71-194" transform="translate(163.528,-180.692)">
 				<title>工作表.71</title>
-				<path d="M0 485.8 L97.3 485.8" class="st5"/>
+				<path d="M0 365.82 L97.3 365.82" class="st5"/>
 			</g>
-			<g id="shape72-206" v:mID="72" v:groupContext="shape" transform="translate(242.829,-242.785)">
+			<g id="shape72-197" transform="translate(242.829,-209.039)">
 				<title>工作表.72</title>
-				<path d="M0 485.8 L17.01 485.8" class="st5"/>
+				<path d="M0 365.82 L17.01 365.82" class="st5"/>
 			</g>
-			<g id="shape73-209" v:mID="73" v:groupContext="shape" transform="translate(223.124,-327.825)">
+			<g id="shape73-200" transform="translate(223.124,-294.078)">
 				<title>工作表.73</title>
-				<path d="M0 485.8 L36.71 485.8" class="st5"/>
+				<path d="M0 365.82 L36.71 365.82" class="st5"/>
 			</g>
-			<g id="shape74-212" v:mID="74" v:groupContext="shape" transform="translate(141.057,-44.3601)">
+			<g id="shape74-203" transform="translate(141.057,-10.6135)">
 				<title>工作表.74</title>
-				<path d="M0 485.8 L310.96 485.8" class="st5"/>
+				<path d="M0 365.82 L310.96 365.82" class="st5"/>
 			</g>
-			<g id="shape75-215" v:mID="75" v:groupContext="shape" transform="translate(210.506,-127.767)">
+			<g id="shape75-206" transform="translate(210.506,-94.0209)">
 				<title>工作表.75</title>
-				<path d="M0 485.8 L56.69 485.8" class="st5"/>
+				<path d="M0 365.82 L56.69 365.82" class="st5"/>
 			</g>
-			<g id="shape77-218" v:mID="77" v:groupContext="shape" transform="translate(243.824,-184.46)">
+			<g id="shape77-209" transform="translate(235.88,-150.714)">
 				<title>工作表.77</title>
-				<path d="M0 485.8 L17.01 485.8" class="st5"/>
+				<path d="M0 365.82 L24.95 365.82" class="st5"/>
 			</g>
+			<g id="shape80-212" transform="translate(210.506,-124.113)">
+				<title>工作表.80</title>
+				<path d="M0 365.82 L56.69 365.82" class="st5"/>
+			</g>
+			<g id="shape10-215" transform="translate(-170.109,109.895) rotate(-90)">
+				<title>工作表.10</title>
+				<desc>Mahākaccāna-b</desc>
+				<rect x="0" y="212.198" width="19.8425" height="153.621" class="st1"/>
+				<text x="12.14" y="238.38" writing-mode="tb-rl" class="st3">Mahākaccāna-b</text>			</g>
 		</g>
 	</g>
 </svg>

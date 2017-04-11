@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<!-- 由 Microsoft Visio 11.0, SVG Export, v1.0 產生 y35.0366.svg Page-1 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 y35.0366-h.svg 頁-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="9.08579in" height="5.94603in"
-		viewBox="0 0 654.177 428.114" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
-	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false">
-		<v:userDefs>
-			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Box)"/>
-			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
-		</v:userDefs>
-	</v:documentProperties>
-
+		width="8.57538in" height="5.40412in" viewBox="0 0 617.427 389.096" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st5">
 	<style type="text/css">
 	<![CDATA[
 		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
@@ -21,388 +14,283 @@
 	]]>
 	</style>
 
-	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+	<g>
 		<title>頁-1</title>
-		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
-				v:shadowOffsetY="-8.50394"/>
-		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(227.38,-348.419)">
-			<title>工作表.1</title>
-			<desc>　和上　弟子　供養和上　</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="100.063" cy="415.925" width="200.13" height="24.378"/>
-			<rect x="0" y="403.736" width="200.126" height="24.378" class="st1"/>
-			<text x="20" y="420.73" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>　和上　弟子　供養和上　</text>		</g>
-		<g id="shape2-4" v:mID="2" v:groupContext="shape" transform="translate(19.3169,-384.986)">
-			<title>工作表.2</title>
-			<desc>〔僧祇律〕</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="44.0787" cy="415.925" width="88.16" height="24.378"/>
-			<rect x="0" y="403.736" width="88.1575" height="24.378" class="st1"/>
-			<text x="4" y="420.73" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>〔僧祇律〕</text>		</g>
-		<g id="shape3-7" v:mID="3" v:groupContext="shape" transform="translate(227.38,-384.986)">
-			<title>工作表.3</title>
-			<desc>〔毘尼摩得勒伽〕</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="68.0315" cy="415.925" width="136.07" height="24.378"/>
-			<rect x="0" y="403.736" width="136.063" height="24.378" class="st1"/>
-			<text x="4" y="420.73" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>〔毘尼摩得勒伽〕</text>		</g>
-		<g id="shape4-10" v:mID="4" v:groupContext="shape" transform="translate(435.301,-384.986)">
-			<title>工作表.4</title>
-			<desc>〔毘尼母經〕</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="52.0157" cy="415.925" width="104.04" height="24.378"/>
-			<rect x="0" y="403.736" width="104.031" height="24.378" class="st1"/>
-			<text x="4" y="420.73" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>〔毘尼母經〕</text>		</g>
-		<g id="shape7-13" v:mID="7" v:groupContext="shape" transform="translate(355.222,-384.986)">
-			<title>工作表.7</title>
-			<desc>①</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.189" cy="415.925" width="24.38" height="24.378"/>
-			<rect x="0" y="403.736" width="24.378" height="24.378" class="st1"/>
-			<text x="6.19" y="419.53" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>①</text>		</g>
-		<g id="shape8-16" v:mID="8" v:groupContext="shape" transform="translate(19.3169,-311.852)">
-			<title>工作表.8</title>
-			<desc>　弟子法有關依止部分</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="100.063" cy="415.925" width="200.13" height="24.378"/>
-			<rect x="0" y="403.736" width="200.126" height="24.378" class="st1"/>
-			<text x="20" y="420.73" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>　弟子法（有關依止部分，</text>		</g>
-		<g id="shape9-19" v:mID="9" v:groupContext="shape" transform="translate(19.3169,-235.459)">
-			<title>工作表.9</title>
-			<desc>　綜合在內</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="52.0157" cy="376.098" width="104.04" height="104.031"/>
-			<rect x="0" y="324.083" width="104.031" height="104.031" class="st1"/>
-			<text x="20" y="380.9" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>　綜合在內）</text>		</g>
-		<g id="shape5-22" v:mID="5" v:groupContext="shape" transform="translate(19.3169,-348.419)">
-			<title>工作表.5</title>
-			<desc>　和上阿闍黎共住弟子依止</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="100.063" cy="415.925" width="200.13" height="24.378"/>
-			<rect x="0" y="403.736" width="200.126" height="24.378" class="st1"/>
-			<text x="20" y="420.73" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>　和上阿闍黎共住弟子依止</text>		</g>
-		<g id="shape6-25" v:mID="6" v:groupContext="shape" transform="translate(18.75,-347.852)">
-			<title>工作表.6</title>
-			<desc>4 3</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.7559" cy="415.358" width="25.52" height="25.5118"/>
-			<rect x="0" y="402.602" width="25.5118" height="25.5118" class="st1"/>
-			<text x="5.56" y="418.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>4 3</text>		</g>
-		<g id="shape12-28" v:mID="12" v:groupContext="shape" transform="translate(19.3169,-150.844)">
-			<title>工作表.12</title>
-			<desc>　沙彌法此上是「雜誦跋</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="100.063" cy="328.051" width="200.13" height="200.126"/>
-			<rect x="0" y="227.988" width="200.126" height="200.126" class="st1"/>
-			<text x="20" y="332.85" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>　沙彌法（此上是「雜誦跋</text>		</g>
-		<g id="shape13-31" v:mID="13" v:groupContext="shape" transform="translate(18.75,-238.152)">
-			<title>工作表.13</title>
-			<desc>4 4</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.7559" cy="415.358" width="25.52" height="25.5118"/>
-			<rect x="0" y="402.602" width="25.5118" height="25.5118" class="st1"/>
-			<text x="5.56" y="418.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>4 4</text>		</g>
-		<g id="shape10-34" v:mID="10" v:groupContext="shape" transform="translate(19.3169,-162.325)">
-			<title>工作表.10</title>
-			<desc>　渠法」</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="52.0157" cy="376.098" width="104.04" height="104.031"/>
-			<rect x="0" y="324.083" width="104.031" height="104.031" class="st1"/>
-			<text x="20" y="380.9" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>　渠法」）</text>		</g>
-		<g id="shape11-37" v:mID="11" v:groupContext="shape" transform="translate(19.3169,-77.7106)">
-			<title>工作表.11</title>
-			<desc>　和上教共行弟子　共行弟</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="100.063" cy="328.051" width="200.13" height="200.126"/>
-			<rect x="0" y="227.988" width="200.126" height="200.126" class="st1"/>
-			<text x="20" y="332.85" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>　和上教共行弟子　共行弟</text>		</g>
-		<g id="shape14-40" v:mID="14" v:groupContext="shape" transform="translate(18.75,-165.018)">
-			<title>工作表.14</title>
-			<desc>7</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.7559" cy="415.358" width="25.52" height="25.5118"/>
-			<rect x="0" y="402.602" width="25.5118" height="25.5118" class="st1"/>
-			<text x="9.94" y="418.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>7</text>		</g>
-		<g id="shape15-43" v:mID="15" v:groupContext="shape" transform="translate(147.443,-165.585)">
-			<title>工作表.15</title>
-			<desc>8</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.189" cy="415.925" width="24.38" height="24.378"/>
-			<rect x="0" y="403.736" width="24.378" height="24.378" class="st1"/>
-			<text x="9.37" y="419.53" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>8</text>		</g>
-		<g id="shape16-46" v:mID="16" v:groupContext="shape" transform="translate(19.3169,-97.128)">
-			<title>工作表.16</title>
-			<desc>　子事和上</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="44.0787" cy="384.035" width="88.16" height="88.1575"/>
-			<rect x="0" y="339.957" width="88.1575" height="88.1575" class="st1"/>
-			<text x="20" y="388.84" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>　子事和上</text>		</g>
-		<g id="shape17-49" v:mID="17" v:groupContext="shape" transform="translate(19.3169,-92.4508)">
-			<title>工作表.17</title>
-			<desc>　阿闍黎教依止弟子　依止</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="100.063" cy="415.925" width="200.13" height="24.378"/>
-			<rect x="0" y="403.736" width="200.126" height="24.378" class="st1"/>
-			<text x="20" y="420.73" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>　阿闍黎教依止弟子　依止</text>		</g>
-		<g id="shape18-52" v:mID="18" v:groupContext="shape" transform="translate(18.75,-92.4508)">
-			<title>工作表.18</title>
-			<desc>9</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.7559" cy="415.358" width="25.52" height="25.5118"/>
-			<rect x="0" y="402.602" width="25.5118" height="25.5118" class="st1"/>
-			<text x="9.94" y="418.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>9</text>		</g>
-		<g id="shape19-55" v:mID="19" v:groupContext="shape" transform="translate(163.033,-92.4508)">
-			<title>工作表.19</title>
-			<desc>1 0</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.189" cy="415.925" width="24.38" height="24.378"/>
-			<rect x="0" y="403.736" width="24.378" height="24.378" class="st1"/>
-			<text x="4.99" y="419.53" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>1 0</text>		</g>
-		<g id="shape20-58" v:mID="20" v:groupContext="shape" transform="translate(19.3169,-55.8839)">
-			<title>工作表.20</title>
-			<desc>　弟子事阿闍黎</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="60.0945" cy="415.925" width="120.19" height="24.378"/>
-			<rect x="0" y="403.736" width="120.189" height="24.378" class="st1"/>
-			<text x="20" y="420.73" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>　弟子事阿闍黎</text>		</g>
-		<g id="shape21-61" v:mID="21" v:groupContext="shape" transform="translate(47.2382,-19.3169)">
-			<title>工作表.21</title>
-			<desc>此上是「威儀法」</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="415.925" width="168.1" height="24.378"/>
-			<rect x="0" y="403.736" width="168.094" height="24.378" class="st1"/>
-			<text x="4" y="420.73" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>（此上是「威儀法」）</text>		</g>
-		<g id="shape22-64" v:mID="22" v:groupContext="shape" transform="translate(227.38,-347.852)">
-			<title>工作表.22</title>
-			<desc>158</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.7559" cy="415.358" width="25.52" height="25.5118"/>
-			<rect x="0" y="402.602" width="25.5118" height="25.5118" class="st1"/>
-			<text x="4.3" y="418.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>158</text>		</g>
-		<g id="shape23-67" v:mID="23" v:groupContext="shape" transform="translate(274.719,-347.852)">
-			<title>工作表.23</title>
-			<desc>159</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.7559" cy="415.358" width="25.52" height="25.5118"/>
-			<rect x="0" y="402.602" width="25.5118" height="25.5118" class="st1"/>
-			<text x="4.3" y="418.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>159</text>		</g>
-		<g id="shape24-70" v:mID="24" v:groupContext="shape" transform="translate(322.624,-347.852)">
-			<title>工作表.24</title>
-			<desc>160</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.7559" cy="415.358" width="25.52" height="25.5118"/>
-			<rect x="0" y="402.602" width="25.5118" height="25.5118" class="st1"/>
-			<text x="4.3" y="418.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>160</text>		</g>
-		<g id="shape25-73" v:mID="25" v:groupContext="shape" transform="translate(227.38,-311.852)">
-			<title>工作表.25</title>
-			<desc>　阿闍黎　近住弟子　和上</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="100.063" cy="415.925" width="200.13" height="24.378"/>
-			<rect x="0" y="403.736" width="200.126" height="24.378" class="st1"/>
-			<text x="20" y="420.73" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>　阿闍黎　近住弟子　和上</text>		</g>
-		<g id="shape26-76" v:mID="26" v:groupContext="shape" transform="translate(401.994,-347.852)">
-			<title>工作表.26</title>
-			<desc>161</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.7559" cy="415.358" width="25.52" height="25.5118"/>
-			<rect x="0" y="402.602" width="25.5118" height="25.5118" class="st1"/>
-			<text x="4.3" y="418.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>161</text>		</g>
-		<g id="shape27-79" v:mID="27" v:groupContext="shape" transform="translate(290.593,-311.285)">
-			<title>工作表.27</title>
-			<desc>162</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.7559" cy="415.358" width="25.52" height="25.5118"/>
-			<rect x="0" y="402.602" width="25.5118" height="25.5118" class="st1"/>
-			<text x="4.3" y="418.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>162</text>		</g>
-		<g id="shape28-82" v:mID="28" v:groupContext="shape" transform="translate(370.53,-311.285)">
-			<title>工作表.28</title>
-			<desc>163</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.7559" cy="415.358" width="25.52" height="25.5118"/>
-			<rect x="0" y="402.602" width="25.5118" height="25.5118" class="st1"/>
-			<text x="4.3" y="418.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>163</text>		</g>
-		<g id="shape29-85" v:mID="29" v:groupContext="shape" transform="translate(227.38,-187.411)">
-			<title>工作表.29</title>
-			<desc>　阿闍黎共行弟子近住弟子</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="100.063" cy="328.051" width="200.13" height="200.126"/>
-			<rect x="0" y="227.988" width="200.126" height="200.126" class="st1"/>
-			<text x="20" y="332.85" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>　阿闍黎共行弟子近住弟子</text>		</g>
-		<g id="shape30-88" v:mID="30" v:groupContext="shape" transform="translate(227.38,-150.844)">
-			<title>工作表.30</title>
-			<desc>　沙彌　依止　與依止　受</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="100.063" cy="328.051" width="200.13" height="200.126"/>
-			<rect x="0" y="227.988" width="200.126" height="200.126" class="st1"/>
-			<text x="20" y="332.85" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>　沙彌　依止　與依止　受</text>		</g>
-		<g id="shape31-91" v:mID="31" v:groupContext="shape" transform="translate(227.38,-238.152)">
-			<title>工作表.31</title>
-			<desc>164</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.7559" cy="415.358" width="25.52" height="25.5118"/>
-			<rect x="0" y="402.602" width="25.5118" height="25.5118" class="st1"/>
-			<text x="4.3" y="418.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>164</text>		</g>
-		<g id="shape32-94" v:mID="32" v:groupContext="shape" transform="translate(274.719,-238.152)">
-			<title>工作表.32</title>
-			<desc>154</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.7559" cy="415.358" width="25.52" height="25.5118"/>
-			<rect x="0" y="402.602" width="25.5118" height="25.5118" class="st1"/>
-			<text x="4.3" y="418.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>154</text>		</g>
-		<g id="shape33-97" v:mID="33" v:groupContext="shape" transform="translate(322.624,-238.152)">
-			<title>工作表.33</title>
-			<desc>156</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.7559" cy="415.358" width="25.52" height="25.5118"/>
-			<rect x="0" y="402.602" width="25.5118" height="25.5118" class="st1"/>
-			<text x="4.3" y="418.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>156</text>		</g>
-		<g id="shape34-100" v:mID="34" v:groupContext="shape" transform="translate(386.687,-238.152)">
-			<title>工作表.34</title>
-			<desc>155</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.7559" cy="415.358" width="25.52" height="25.5118"/>
-			<rect x="0" y="402.602" width="25.5118" height="25.5118" class="st1"/>
-			<text x="4.3" y="418.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>155</text>		</g>
-		<g id="shape35-103" v:mID="35" v:groupContext="shape" transform="translate(227.38,-154.246)">
-			<title>工作表.35</title>
-			<desc>　依止　捨依止</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="60.0945" cy="368.02" width="120.19" height="120.189"/>
-			<rect x="0" y="307.925" width="120.189" height="120.189" class="st1"/>
-			<text x="20" y="372.82" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>　依止　捨依止</text>		</g>
-		<g id="shape36-106" v:mID="36" v:groupContext="shape" transform="translate(274.719,-201.585)">
-			<title>工作表.36</title>
-			<desc>157</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.7559" cy="415.358" width="25.52" height="25.5118"/>
-			<rect x="0" y="402.602" width="25.5118" height="25.5118" class="st1"/>
-			<text x="4.3" y="418.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>157</text>		</g>
-		<g id="shape37-109" v:mID="37" v:groupContext="shape" transform="translate(227.38,-109.742)">
-			<title>工作表.37</title>
-			<desc>　和上　共行弟子</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="68.0315" cy="360.083" width="136.07" height="136.063"/>
-			<rect x="0" y="292.051" width="136.063" height="136.063" class="st1"/>
-			<text x="20" y="364.88" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>　和上　共行弟子</text>		</g>
-		<g id="shape38-112" v:mID="38" v:groupContext="shape" transform="translate(227.38,-165.018)">
-			<title>工作表.38</title>
-			<desc>275</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.7559" cy="415.358" width="25.52" height="25.5118"/>
-			<rect x="0" y="402.602" width="25.5118" height="25.5118" class="st1"/>
-			<text x="4.3" y="418.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>275</text>		</g>
-		<g id="shape39-115" v:mID="39" v:groupContext="shape" transform="translate(274.719,-165.018)">
-			<title>工作表.39</title>
-			<desc>276</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.7559" cy="415.358" width="25.52" height="25.5118"/>
-			<rect x="0" y="402.602" width="25.5118" height="25.5118" class="st1"/>
-			<text x="4.3" y="418.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>276</text>		</g>
-		<g id="shape40-118" v:mID="40" v:groupContext="shape" transform="translate(227.38,-28.5295)">
-			<title>工作表.40</title>
-			<desc>　阿闍黎　近住弟子</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="76.1102" cy="352.004" width="152.23" height="152.22"/>
-			<rect x="0" y="275.894" width="152.22" height="152.22" class="st1"/>
-			<text x="20" y="356.8" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>　阿闍黎　近住弟子</text>		</g>
-		<g id="shape41-121" v:mID="41" v:groupContext="shape" transform="translate(227.38,-91.8839)">
-			<title>工作表.41</title>
-			<desc>277</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.7559" cy="415.358" width="25.52" height="25.5118"/>
-			<rect x="0" y="402.602" width="25.5118" height="25.5118" class="st1"/>
-			<text x="4.3" y="418.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>277</text>		</g>
-		<g id="shape42-124" v:mID="42" v:groupContext="shape" transform="translate(290.593,-91.8839)">
-			<title>工作表.42</title>
-			<desc>278</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.7559" cy="415.358" width="25.52" height="25.5118"/>
-			<rect x="0" y="402.602" width="25.5118" height="25.5118" class="st1"/>
-			<text x="4.3" y="418.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>278</text>		</g>
-		<g id="shape43-127" v:mID="43" v:groupContext="shape" transform="translate(227.38,-19.3169)">
-			<title>工作表.43</title>
-			<desc>　沙彌</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="28.063" cy="415.925" width="56.13" height="24.378"/>
-			<rect x="0" y="403.736" width="56.126" height="24.378" class="st1"/>
-			<text x="20" y="420.73" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>　沙彌</text>		</g>
-		<g id="shape44-130" v:mID="44" v:groupContext="shape" transform="translate(227.38,-18.75)">
-			<title>工作表.44</title>
-			<desc>279</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.7559" cy="415.358" width="25.52" height="25.5118"/>
-			<rect x="0" y="402.602" width="25.5118" height="25.5118" class="st1"/>
-			<text x="4.3" y="418.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>279</text>		</g>
-		<g id="shape45-133" v:mID="45" v:groupContext="shape" transform="translate(435.301,-178.341)">
-			<title>工作表.45</title>
-			<desc>　失依止</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="36" cy="392.114" width="72" height="72"/>
-			<rect x="0" y="356.114" width="72" height="72" class="st1"/>
-			<text x="20" y="396.91" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>　失依止</text>		</g>
-		<g id="shape46-136" v:mID="46" v:groupContext="shape" transform="translate(435.301,-201.585)">
-			<title>工作表.46</title>
-			<desc>217</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.7559" cy="415.358" width="25.52" height="25.5118"/>
-			<rect x="0" y="402.602" width="25.5118" height="25.5118" class="st1"/>
-			<text x="4.3" y="418.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>217</text>		</g>
-		<g id="shape47-139" v:mID="47" v:groupContext="shape" transform="translate(435.301,-19.3169)">
-			<title>工作表.47</title>
-			<desc>　沙彌法</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="36" cy="415.925" width="72" height="24.378"/>
-			<rect x="0" y="403.736" width="72" height="24.378" class="st1"/>
-			<text x="20" y="420.73" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>　沙彌法</text>		</g>
-		<g id="shape48-142" v:mID="48" v:groupContext="shape" transform="translate(435.301,-18.75)">
-			<title>工作表.48</title>
-			<desc>208</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.7559" cy="415.358" width="25.52" height="25.5118"/>
-			<rect x="0" y="402.602" width="25.5118" height="25.5118" class="st1"/>
-			<text x="4.3" y="418.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>208</text>		</g>
-		<g id="shape49-145" v:mID="49" v:groupContext="shape" transform="translate(435.301,-97.128)">
-			<title>工作表.49</title>
-			<desc>　尚阿闍黎</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="44.0787" cy="384.035" width="88.16" height="88.1575"/>
-			<rect x="0" y="339.957" width="88.1575" height="88.1575" class="st1"/>
-			<text x="20" y="388.84" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>　尚阿闍黎</text>		</g>
-		<g id="shape50-148" v:mID="50" v:groupContext="shape" transform="translate(435.301,-77.7106)">
-			<title>工作表.50</title>
-			<desc>　共行弟子共宿弟子奉事和</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="100.063" cy="328.051" width="200.13" height="200.126"/>
-			<rect x="0" y="227.988" width="200.126" height="200.126" class="st1"/>
-			<text x="20" y="332.85" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>　共行弟子共宿弟子奉事和</text>		</g>
-		<g id="shape51-151" v:mID="51" v:groupContext="shape" transform="translate(435.301,-165.018)">
-			<title>工作表.51</title>
-			<desc>206</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.7559" cy="415.358" width="25.52" height="25.5118"/>
-			<rect x="0" y="402.602" width="25.5118" height="25.5118" class="st1"/>
-			<text x="4.3" y="418.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>206</text>		</g>
-		<g id="shape52-154" v:mID="52" v:groupContext="shape" transform="translate(435.301,-20.5925)">
-			<title>工作表.52</title>
-			<desc>　和尚阿闍黎畜弟子法</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="84.0472" cy="344.067" width="168.1" height="168.094"/>
-			<rect x="0" y="260.02" width="168.094" height="168.094" class="st1"/>
-			<text x="20" y="348.87" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>　和尚阿闍黎畜弟子法</text>		</g>
-		<g id="shape53-157" v:mID="53" v:groupContext="shape" transform="translate(435.301,-91.8839)">
-			<title>工作表.53</title>
-			<desc>207</desc>
-			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="12.7559" cy="415.358" width="25.52" height="25.5118"/>
-			<rect x="0" y="402.602" width="25.5118" height="25.5118" class="st1"/>
-			<text x="4.3" y="418.96" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>207</text>		</g>
-		<g id="shape54-160" v:mID="54" v:groupContext="shape" transform="translate(-200.734,403.978) rotate(-90)">
-			<title>工作表.54</title>
-			<path d="M0 428.11 L343.98 428.11" class="st4"/>
-		</g>
-		<g id="shape55-163" v:mID="55" v:groupContext="shape" transform="translate(7.18701,403.978) rotate(-90)">
-			<title>工作表.55</title>
-			<path d="M0 428.11 L343.98 428.11" class="st4"/>
+		<g id="group56-1" transform="translate(0.375,-0.375)">
+			<title>工作表.56</title>
+			<g id="shape1-2" transform="translate(208.63,-329.102)">
+				<title>工作表.1</title>
+				<desc>　和上　弟子　供養和上　</desc>
+				<rect x="0" y="366.419" width="200.126" height="22.6772" class="st1"/>
+				<text x="20" y="382.56" class="st2">和上　弟子　供養和上</text>			</g>
+			<g id="shape2-5" transform="translate(0.566929,-365.669)">
+				<title>工作表.2</title>
+				<desc>〔僧祇律〕</desc>
+				<rect x="0" y="366.419" width="88.1575" height="22.6772" class="st1"/>
+				<text x="4" y="382.56" class="st2">〔僧祇律〕</text>			</g>
+			<g id="shape3-8" transform="translate(208.63,-365.669)">
+				<title>工作表.3</title>
+				<desc>〔毘尼摩得勒伽〕</desc>
+				<rect x="0" y="366.419" width="136.063" height="22.6772" class="st1"/>
+				<text x="4" y="382.56" class="st2">〔毘尼摩得勒伽〕</text>			</g>
+			<g id="shape4-11" transform="translate(416.551,-365.669)">
+				<title>工作表.4</title>
+				<desc>〔毘尼母經〕</desc>
+				<rect x="0" y="366.419" width="104.031" height="22.6772" class="st1"/>
+				<text x="4" y="382.56" class="st2">〔毘尼母經〕</text>			</g>
+			<g id="shape7-14" transform="translate(336.472,-365.669)">
+				<title>工作表.7</title>
+				<desc>①</desc>
+				<rect x="0" y="366.419" width="24.378" height="22.6772" class="st1"/>
+				<text x="6.19" y="381.36" class="st3">①</text>			</g>
+			<g id="shape8-17" transform="translate(0.566929,-292.535)">
+				<title>工作表.8</title>
+				<desc>　弟子法有關依止部分</desc>
+				<rect x="0" y="366.419" width="200.126" height="22.6772" class="st1"/>
+				<text x="20" y="382.56" class="st2">弟子法（有關依止部分，</text>			</g>
+			<g id="shape9-20" transform="translate(0.566929,-255.969)">
+				<title>工作表.9</title>
+				<desc>　綜合在內</desc>
+				<rect x="0" y="366.419" width="104.031" height="22.6772" class="st1"/>
+				<text x="20" y="382.56" class="st2">綜合在內）</text>			</g>
+			<g id="shape5-23" transform="translate(0.566929,-329.102)">
+				<title>工作表.5</title>
+				<desc>　和上阿闍黎共住弟子依止</desc>
+				<rect x="0" y="366.419" width="200.126" height="22.6772" class="st1"/>
+				<text x="20" y="382.56" class="st2">和上阿闍黎共住弟子依止</text>			</g>
+			<g id="shape6-26" transform="translate(-2.19824E-14,-329.102)">
+				<title>工作表.6</title>
+				<desc>4 3</desc>
+				<rect x="0" y="366.419" width="25.5118" height="22.6772" class="st1"/>
+				<text x="5.56" y="381.36" class="st3">4 3</text>			</g>
+			<g id="shape12-29" transform="translate(0.566929,-219.402)">
+				<title>工作表.12</title>
+				<desc>　沙彌法此上是「雜誦跋</desc>
+				<rect x="0" y="366.419" width="200.126" height="22.6772" class="st1"/>
+				<text x="20" y="382.56" class="st2">沙彌法（此上是「雜誦跋</text>			</g>
+			<g id="shape13-32" transform="translate(4.89608E-13,-219.402)">
+				<title>工作表.13</title>
+				<desc>4 4</desc>
+				<rect x="0" y="366.419" width="25.5118" height="22.6772" class="st1"/>
+				<text x="5.56" y="381.36" class="st3">4 4</text>			</g>
+			<g id="shape10-35" transform="translate(0.566929,-182.835)">
+				<title>工作表.10</title>
+				<desc>　渠法」</desc>
+				<rect x="0" y="366.419" width="104.031" height="22.6772" class="st1"/>
+				<text x="20" y="382.56" class="st2">渠法」）</text>			</g>
+			<g id="shape11-38" transform="translate(0.566929,-146.268)">
+				<title>工作表.11</title>
+				<desc>　和上教共行弟子　共行弟</desc>
+				<rect x="0" y="366.419" width="200.126" height="22.6772" class="st1"/>
+				<text x="20" y="382.56" class="st2">和上教共行弟子　共行弟</text>			</g>
+			<g id="shape14-41" transform="translate(6.11511E-13,-146.268)">
+				<title>工作表.14</title>
+				<desc>7</desc>
+				<rect x="0" y="366.419" width="25.5118" height="22.6772" class="st1"/>
+				<text x="9.94" y="381.36" class="st3">7</text>			</g>
+			<g id="shape15-44" transform="translate(128.693,-146.268)">
+				<title>工作表.15</title>
+				<desc>8</desc>
+				<rect x="0" y="366.419" width="24.378" height="22.6772" class="st1"/>
+				<text x="9.37" y="381.36" class="st3">8</text>			</g>
+			<g id="shape16-47" transform="translate(0.566929,-109.701)">
+				<title>工作表.16</title>
+				<desc>　子事和上</desc>
+				<rect x="0" y="366.419" width="88.1575" height="22.6772" class="st1"/>
+				<text x="20" y="382.56" class="st2">子事和上</text>			</g>
+			<g id="shape17-50" transform="translate(0.566929,-73.1339)">
+				<title>工作表.17</title>
+				<desc>　阿闍黎教依止弟子　依止</desc>
+				<rect x="0" y="366.419" width="200.126" height="22.6772" class="st1"/>
+				<text x="20" y="382.56" class="st2">阿闍黎教依止弟子　依止</text>			</g>
+			<g id="shape18-53" transform="translate(8.71303E-13,-73.7008)">
+				<title>工作表.18</title>
+				<desc>9</desc>
+				<rect x="0" y="366.419" width="25.5118" height="22.6772" class="st1"/>
+				<text x="9.94" y="381.36" class="st3">9</text>			</g>
+			<g id="shape19-56" transform="translate(144.283,-73.1339)">
+				<title>工作表.19</title>
+				<desc>1 0</desc>
+				<rect x="0" y="366.419" width="24.378" height="22.6772" class="st1"/>
+				<text x="4.99" y="381.36" class="st3">1 0</text>			</g>
+			<g id="shape20-59" transform="translate(0.566929,-36.5669)">
+				<title>工作表.20</title>
+				<desc>　弟子事阿闍黎</desc>
+				<rect x="0" y="366.419" width="120.189" height="22.6772" class="st1"/>
+				<text x="20" y="382.56" class="st2">弟子事阿闍黎</text>			</g>
+			<g id="shape21-62" transform="translate(28.4882,0)">
+				<title>工作表.21</title>
+				<desc>此上是「威儀法」</desc>
+				<rect x="0" y="366.419" width="168.094" height="22.6772" class="st1"/>
+				<text x="4" y="382.56" class="st2">（此上是「威儀法」）</text>			</g>
+			<g id="shape22-65" transform="translate(208.63,-329.102)">
+				<title>工作表.22</title>
+				<desc>158</desc>
+				<rect x="0" y="366.419" width="25.5118" height="22.6772" class="st1"/>
+				<text x="4.3" y="381.36" class="st3">158</text>			</g>
+			<g id="shape23-68" transform="translate(255.969,-329.102)">
+				<title>工作表.23</title>
+				<desc>159</desc>
+				<rect x="0" y="366.419" width="25.5118" height="22.6772" class="st1"/>
+				<text x="4.3" y="381.36" class="st3">159</text>			</g>
+			<g id="shape24-71" transform="translate(303.874,-329.102)">
+				<title>工作表.24</title>
+				<desc>160</desc>
+				<rect x="0" y="366.419" width="25.5118" height="22.6772" class="st1"/>
+				<text x="4.3" y="381.36" class="st3">160</text>			</g>
+			<g id="shape25-74" transform="translate(208.63,-292.535)">
+				<title>工作表.25</title>
+				<desc>　阿闍黎　近住弟子　和上</desc>
+				<rect x="0" y="366.419" width="200.126" height="22.6772" class="st1"/>
+				<text x="20" y="382.56" class="st2">阿闍黎　近住弟子　和上</text>			</g>
+			<g id="shape26-77" transform="translate(383.244,-329.102)">
+				<title>工作表.26</title>
+				<desc>161</desc>
+				<rect x="0" y="366.419" width="25.5118" height="22.6772" class="st1"/>
+				<text x="4.3" y="381.36" class="st3">161</text>			</g>
+			<g id="shape27-80" transform="translate(271.843,-292.535)">
+				<title>工作表.27</title>
+				<desc>162</desc>
+				<rect x="0" y="366.419" width="25.5118" height="22.6772" class="st1"/>
+				<text x="4.3" y="381.36" class="st3">162</text>			</g>
+			<g id="shape28-83" transform="translate(351.78,-292.535)">
+				<title>工作表.28</title>
+				<desc>163</desc>
+				<rect x="0" y="366.419" width="25.5118" height="22.6772" class="st1"/>
+				<text x="4.3" y="381.36" class="st3">163</text>			</g>
+			<g id="shape29-86" transform="translate(208.63,-255.969)">
+				<title>工作表.29</title>
+				<desc>　阿闍黎共行弟子近住弟子</desc>
+				<rect x="0" y="366.419" width="200.126" height="22.6772" class="st1"/>
+				<text x="20" y="382.56" class="st2">阿闍黎共行弟子近住弟子</text>			</g>
+			<g id="shape30-89" transform="translate(208.63,-219.402)">
+				<title>工作表.30</title>
+				<desc>　沙彌　依止　與依止　受</desc>
+				<rect x="0" y="366.419" width="200.126" height="22.6772" class="st1"/>
+				<text x="20" y="382.56" class="st2">沙彌　依止　與依止　受</text>			</g>
+			<g id="shape31-92" transform="translate(208.63,-219.402)">
+				<title>工作表.31</title>
+				<desc>164</desc>
+				<rect x="0" y="366.419" width="25.5118" height="22.6772" class="st1"/>
+				<text x="4.3" y="381.36" class="st3">164</text>			</g>
+			<g id="shape32-95" transform="translate(255.969,-219.402)">
+				<title>工作表.32</title>
+				<desc>154</desc>
+				<rect x="0" y="366.419" width="25.5118" height="22.6772" class="st1"/>
+				<text x="4.3" y="381.36" class="st3">154</text>			</g>
+			<g id="shape33-98" transform="translate(303.874,-219.402)">
+				<title>工作表.33</title>
+				<desc>156</desc>
+				<rect x="0" y="366.419" width="25.5118" height="22.6772" class="st1"/>
+				<text x="4.3" y="381.36" class="st3">156</text>			</g>
+			<g id="shape34-101" transform="translate(367.937,-219.402)">
+				<title>工作表.34</title>
+				<desc>155</desc>
+				<rect x="0" y="366.419" width="25.5118" height="22.6772" class="st1"/>
+				<text x="4.3" y="381.36" class="st3">155</text>			</g>
+			<g id="shape35-104" transform="translate(208.63,-182.835)">
+				<title>工作表.35</title>
+				<desc>　依止　捨依止</desc>
+				<rect x="0" y="366.419" width="120.189" height="22.6772" class="st1"/>
+				<text x="20" y="382.56" class="st2">依止　捨依止</text>			</g>
+			<g id="shape36-107" transform="translate(255.969,-182.835)">
+				<title>工作表.36</title>
+				<desc>157</desc>
+				<rect x="0" y="366.419" width="25.5118" height="22.6772" class="st1"/>
+				<text x="4.3" y="381.36" class="st3">157</text>			</g>
+			<g id="shape37-110" transform="translate(208.63,-146.268)">
+				<title>工作表.37</title>
+				<desc>　和上　共行弟子</desc>
+				<rect x="0" y="366.419" width="136.063" height="22.6772" class="st1"/>
+				<text x="20" y="382.56" class="st2">和上　共行弟子</text>			</g>
+			<g id="shape38-113" transform="translate(208.63,-146.268)">
+				<title>工作表.38</title>
+				<desc>275</desc>
+				<rect x="0" y="366.419" width="25.5118" height="22.6772" class="st1"/>
+				<text x="4.3" y="381.36" class="st3">275</text>			</g>
+			<g id="shape39-116" transform="translate(255.969,-146.268)">
+				<title>工作表.39</title>
+				<desc>276</desc>
+				<rect x="0" y="366.419" width="25.5118" height="22.6772" class="st1"/>
+				<text x="4.3" y="381.36" class="st3">276</text>			</g>
+			<g id="shape40-119" transform="translate(208.63,-73.1339)">
+				<title>工作表.40</title>
+				<desc>　阿闍黎　近住弟子</desc>
+				<rect x="0" y="366.419" width="152.22" height="22.6772" class="st1"/>
+				<text x="20" y="382.56" class="st2">阿闍黎　近住弟子</text>			</g>
+			<g id="shape41-122" transform="translate(208.63,-73.1339)">
+				<title>工作表.41</title>
+				<desc>277</desc>
+				<rect x="0" y="366.419" width="25.5118" height="22.6772" class="st1"/>
+				<text x="4.3" y="381.36" class="st3">277</text>			</g>
+			<g id="shape42-125" transform="translate(271.843,-73.1339)">
+				<title>工作表.42</title>
+				<desc>278</desc>
+				<rect x="0" y="366.419" width="25.5118" height="22.6772" class="st1"/>
+				<text x="4.3" y="381.36" class="st3">278</text>			</g>
+			<g id="shape43-128" transform="translate(208.63,-5.11591E-13)">
+				<title>工作表.43</title>
+				<desc>　沙彌</desc>
+				<rect x="0" y="366.419" width="56.126" height="22.6772" class="st1"/>
+				<text x="20" y="382.56" class="st2">沙彌</text>			</g>
+			<g id="shape44-131" transform="translate(208.63,-3.97904E-13)">
+				<title>工作表.44</title>
+				<desc>279</desc>
+				<rect x="0" y="366.419" width="25.5118" height="22.6772" class="st1"/>
+				<text x="4.3" y="381.36" class="st3">279</text>			</g>
+			<g id="shape45-134" transform="translate(416.551,-182.835)">
+				<title>工作表.45</title>
+				<desc>　失依止</desc>
+				<rect x="0" y="366.419" width="72" height="22.6772" class="st1"/>
+				<text x="20" y="382.56" class="st2">失依止</text>			</g>
+			<g id="shape46-137" transform="translate(416.551,-182.835)">
+				<title>工作表.46</title>
+				<desc>217</desc>
+				<rect x="0" y="366.419" width="25.5118" height="22.6772" class="st1"/>
+				<text x="4.3" y="381.36" class="st3">217</text>			</g>
+			<g id="shape47-140" transform="translate(416.551,-1.3074E-12)">
+				<title>工作表.47</title>
+				<desc>　沙彌法</desc>
+				<rect x="0" y="366.419" width="72" height="22.6772" class="st1"/>
+				<text x="20" y="382.56" class="st2">沙彌法</text>			</g>
+			<g id="shape48-143" transform="translate(416.551,-1.19371E-12)">
+				<title>工作表.48</title>
+				<desc>208</desc>
+				<rect x="0" y="366.419" width="25.5118" height="22.6772" class="st1"/>
+				<text x="4.3" y="381.36" class="st3">208</text>			</g>
+			<g id="shape49-146" transform="translate(416.551,-109.701)">
+				<title>工作表.49</title>
+				<desc>　尚阿闍黎</desc>
+				<rect x="0" y="366.419" width="88.1575" height="22.6772" class="st1"/>
+				<text x="20" y="382.56" class="st2">尚阿闍黎</text>			</g>
+			<g id="shape50-149" transform="translate(416.551,-146.268)">
+				<title>工作表.50</title>
+				<desc>　共行弟子共宿弟子奉事和</desc>
+				<rect x="0" y="366.419" width="200.126" height="22.6772" class="st1"/>
+				<text x="20" y="382.56" class="st2">共行弟子共宿弟子奉事和</text>			</g>
+			<g id="shape51-152" transform="translate(416.551,-146.268)">
+				<title>工作表.51</title>
+				<desc>206</desc>
+				<rect x="0" y="366.419" width="25.5118" height="22.6772" class="st1"/>
+				<text x="4.3" y="381.36" class="st3">206</text>			</g>
+			<g id="shape52-155" transform="translate(416.551,-73.1339)">
+				<title>工作表.52</title>
+				<desc>　和尚阿闍黎畜弟子法</desc>
+				<rect x="0" y="366.419" width="168.094" height="22.6772" class="st1"/>
+				<text x="20" y="382.56" class="st2">和尚阿闍黎畜弟子法</text>			</g>
+			<g id="shape53-158" transform="translate(416.551,-73.1339)">
+				<title>工作表.53</title>
+				<desc>207</desc>
+				<rect x="0" y="366.419" width="25.5118" height="22.6772" class="st1"/>
+				<text x="4.3" y="381.36" class="st3">207</text>			</g>
+			<g id="shape54-161" transform="translate(-180.467,385.128) rotate(-90)">
+				<title>工作表.54</title>
+				<path d="M0 389.1 L343.98 389.1" class="st4"/>
+			</g>
+			<g id="shape55-164" transform="translate(27.4547,385.128) rotate(-90)">
+				<title>工作表.55</title>
+				<path d="M0 389.1 L343.98 389.1" class="st4"/>
+			</g>
 		</g>
 	</g>
 </svg>
