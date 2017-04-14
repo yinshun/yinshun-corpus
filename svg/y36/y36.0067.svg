@@ -266,12 +266,12 @@
 				<desc>緒分六</desc>
 				<rect x="0" y="824.356" width="56.126" height="22.6772" class="st1"/>
 				<text x="4" y="841.69" class="st4"><tspan class="st5">緒分六</tspan></text>			</g>
-			<g id="shape51-171" transform="translate(208.488,1.13687E-13)">
+			<g id="shape51-171" transform="translate(208.488,0)">
 				<title>工作表.51</title>
 				<desc>定品</desc>
 				<rect x="0" y="824.356" width="88.1575" height="22.6772" class="st1"/>
 				<text x="50.94" y="840.5" class="st2">定品</text>			</g>
-			<g id="shape52-174" transform="translate(208.488,1.13687E-13)">
+			<g id="shape52-174" transform="translate(208.488,0)">
 				<title>工作表.52</title>
 				<desc>緒分十</desc>
 				<rect x="0" y="824.356" width="56.126" height="22.6772" class="st1"/>
@@ -313,9 +313,9 @@
 				<text x="50.94" y="840.5" class="st2">行品</text>			</g>
 			<g id="shape60-202" transform="translate(400.677,-121.89)">
 				<title>工作表.60</title>
-				<desc>緒分十</desc>
+				<desc>緒分五</desc>
 				<rect x="0" y="824.356" width="56.126" height="22.6772" class="st1"/>
-				<text x="4" y="841.69" class="st4"><tspan class="st5">緒分十</tspan></text>			</g>
+				<text x="4" y="841.69" class="st4"><tspan class="st5">緒分五</tspan></text>			</g>
 			<g id="shape61-206" transform="translate(400.677,-195.024)">
 				<title>工作表.61</title>
 				<desc>因品</desc>
