@@ -126,7 +126,8 @@ var note=function(tag,closing,kpos,tpos,start,end){ //note cannot be nested.
 			//leave it
 		} else {
 			if (closing) {
-				const t=this.substring(start,end);
+				var t=this.substring(start,end);
+				t=t.replace(/<ref type="yinshun" target=".*?"\/>/g,"");
 				parseCBETA(t,this.kPos);
 				t&&this.putArticleField("yinshunnote",t);
 			} else {

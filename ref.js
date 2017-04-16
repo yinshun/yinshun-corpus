@@ -50,6 +50,7 @@ var parse=function(type,target,krange){
 		var link=(type=="Taisho")?m[1]:m[1]+"p"+m[2]+(m[3]||"");
 
 		if (type=="yinshun") {
+			if (target=="vol:37;page:p11") debugger
 			var vol=adjustvol(m[1]);
 			var pg=m[2];
 			if (pg[0]=="a") { //序言
