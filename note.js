@@ -136,6 +136,7 @@ var note=function(tag,closing,kpos,tpos,start,end){ //note cannot be nested.
 		}
 	}
 	
+	
 } 
 
 var noteReset=function(){

@@ -7,7 +7,8 @@ var patterns={
 	"Taisho":/no:(.+)/ //for n1,26,99,100,125 with sub sid
 }
 const yinshunVolOffset={ //只能引正文頁碼 1p1是妙雲序目 2p1才是金剛經講記的正文
-	1:1,8:1,9:1,10:2,12:2,13:2,25:1,30:2,33:1,34:2,35:1,36:1,
+	1:1,8:1,9:1,10:2,12:2,13:2,25:1,30:2,//acc 12
+	33:2, 34:2,35:1,36:1,
 	37:2,38:1,39:1,40:1,42:1,43:1
 }
 const adjustvol=function(v){
@@ -50,7 +51,6 @@ var parse=function(type,target,krange){
 		var link=(type=="Taisho")?m[1]:m[1]+"p"+m[2]+(m[3]||"");
 
 		if (type=="yinshun") {
-			if (target=="vol:37;page:p11") debugger
 			var vol=adjustvol(m[1]);
 			var pg=m[2];
 			if (pg[0]=="a") { //序言
