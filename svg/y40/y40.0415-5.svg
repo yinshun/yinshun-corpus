@@ -1,11 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
-<g>
-	<path stroke="#000000" stroke-width="3" stroke-miterlimit="10" d="M50,5C25.147,5,5,25.147,5,50h90C95,25.147,74.853,5,50,5z"/>
-	<path fill="#FFFFFF" stroke="#000000" stroke-width="3" stroke-miterlimit="10" d="M5,50c0,24.853,20.147,45,45,45
-		c24.853,0,45-20.147,45-45H5z"/>
-</g>
+<!-- 由 Microsoft Visio, SVG Export 產生 y40.0415-5.svg 頁-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="1in" height="1in" viewBox="0 0 72 72" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:#000000;stroke-linecap:butt;stroke-width:2.25}
+		.st2 {fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.25}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>頁-1</title>
+		<g id="group1-1" transform="translate(2.25,-2.25)">
+			<title>工作表.1</title>
+			<g id="shape2-2" transform="translate(0,-33.75)">
+				<title>工作表.2</title>
+				<path d="M33.75 38.25 C15.11 38.25 0 53.36 0 72 L67.5 72 C67.5 53.36 52.39 38.25 33.75 38.25 Z" class="st1"/>
+			</g>
+			<g id="shape3-4">
+				<title>工作表.3</title>
+				<path d="M0 38.25 C0 56.89 15.11 72 33.75 72 C52.39 72 67.5 56.89 67.5 38.25 L0 38.25 Z" class="st2"/>
+			</g>
+		</g>
+	</g>
 </svg>
