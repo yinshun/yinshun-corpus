@@ -106,7 +106,11 @@ const notefinalize=function(){
 	linktotaisho=[];
 }
 var note=function(tag,closing,kpos,tpos,start,end){ //note cannot be nested.
-	if (tag.attributes.type=="editorial")return;
+	if (tag.attributes.type=="editorial" && closing) {
+		const krange=this.makeRange(kpos,this.kPos);
+		this.putArticleField("span","hide",krange);
+		return;
+	}
 	var xmlid=tag.attributes["xml:id"];
 	if (xmlid) {
 		if (closing) { //closing a note in note group
