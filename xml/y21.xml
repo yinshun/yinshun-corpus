@@ -1679,172 +1679,204 @@ n="130.13"/><p>史地，內容極多，略有地理、傳記、歷史三類。�
 n="131.01"/>屬於此。</p><lb
 n="131.02"/><p>文藝，略有文學與藝術二類。</p><lb  
 n="131.03"/><p>這樣的後五目，大體近於古代的<title level="m">《雜藏》</title>。綜合而略為編目，如下：</p>    
-<list> 
-<cb n="1"/><lb n="1"/><item>一　總論<list rend="margin-left:1em">
-    <lb n="2"/><item>1.　目錄</item>
-    <lb n="3"/><item>2.　索引</item>
-    <lb n="4"/><item>3.　提要</item>
-    <lb n="5"/><item>4.　悉曇</item>
-    <lb n="6"/><item>5.　音義</item>
-    <lb n="7"/><item>6.　辭典</item>
-    <lb n="8"/><item>7.　彙輯</item>
-    <lb n="9"/><item>8.　叢書</item>
-    <lb n="10"/><item>9.　其他</item></list></item>
-<cb n="2"/><lb n="1"/><item>二　經及經釋<list rend="margin-left:1em">
-    <lb n="2"/><item>1.　阿含<list rend="margin-left:1em">
-    <lb n="3"/><item>甲　雜阿含<lb n="4"/>（經典，並以全譯；分<lb n="5"/>譯，即抽譯一部分；經<lb n="6"/>釋；經釋的注釋；四類<lb n="7"/>為次第。不具者，缺。<lb n="8"/>）</item>
-    <lb n="9"/><item>乙　中阿含</item>
-    <lb n="10"/><item>丙　長阿含</item>
+<list>
+<lb n="131.04"/><item>一　總論</item>
+<lb n="131.05"/><item>　1.　目錄</item>
+<lb n="131.06"/><item>　2.　索引</item>
+<lb n="131.07"/><item>　3.　提要</item>
+<lb n="131.08"/><item>　4.　悉曇</item>
+<lb n="131.09"/><item>　5.　音義</item>
+<lb n="131.10"/><item>　6.　辭典</item>
+<lb n="131.11"/><item>　7.　彙輯</item>
+<lb n="131.12"/><item>　8.　叢書</item>
+<lb n="131.13"/><item>　9.　其他</item>
+<lb n="131.14"/><item>二　經及經釋</item>
+<lb n="131.15"/><item>　1.　阿含</item>
+<lb n="131.16"/><item>　　甲　雜阿含</item>
+<lb n="131.17"/><item>　　　　（經典，並以全譯；分</item>
+<lb n="131.18"/><item>　　　　譯，即抽譯一部分；經</item>
+<lb n="131.19"/><item>　　　　釋；經釋的注釋；四類</item>
+<lb n="131.20"/><item>　　　　為次第。不具者，缺。）</item>
+<lb n="131.21"/><item>　　乙　中阿含</item>
+<lb n="131.22"/><item>　　丙　長阿含</item>
 <pb n="132"/>
-<cb n="1"/><lb n="1"/><item>丁　增一阿含</item>
-    <lb n="2"/><item>戊　阿含流類（如正法念處<lb n="3"/>經等）</item></list></item>    
-    <lb n="4"/><item>2.　般若</item>
-    <lb n="5"/><item>3.　寶積</item>
-    <lb n="6"/><item>4.　大集</item>
-    <lb n="7"/><item>5.　華嚴</item>
-    <lb n="8"/><item>6.　涅槃</item>
-    <lb n="9"/><item>7.　大乘經集（小部甚多）</item></list></item>
-    <lb n="10"/><item>三　律及律釋<list rend="margin-left:1em">
-    <lb n="11"/><item>1.　大眾律<lb n="12"/>（律典，並以廣律；戒經<lb n="13"/>；羯磨；母論；律釋；律
- <cb n="2"/><lb n="1"/>釋之注釋；日常行法等為<lb n="2"/>次，不具者，缺。）</item>
-    <lb n="3"/><item>2.　銅鍱律（錫蘭傳之上座律<lb n="4"/>）</item>
-    <lb n="5"/><item>3.　化地（五分）律</item>
-    <lb n="6"/><item>4.　法藏（四分）律</item>
-    <lb n="7"/><item>5.　一切有（十誦等）律</item>
-    <lb n="8"/><item>6.　飲光律</item>
-    <lb n="9"/><item>7.　正量律</item>
-    <lb n="10"/><item>8.　聲聞雜律</item>
-    <lb n="11"/><item>9.　大乘律</item></list></item>
-    <lb n="12"/><item>四　論及論釋<list rend="margin-left:1em">
-    <lb n="13"/><item>1.　印度（錫緬泰附）宗論<list rend="margin-left:1em">
+<lb n="132.01"/><item>　　丁　增一阿含</item>
+<lb n="132.02"/><item>　　戊　阿含流類</item>
+<lb n="132.03"/><item>　　　　（如《正法念處經》等）</item>
+<lb n="132.04"/><item>　2.　般若</item>
+<lb n="132.05"/><item>　3.　寶積</item>
+<lb n="132.06"/><item>　4.　大集</item>
+<lb n="132.07"/><item>　5.　華嚴</item>
+<lb n="132.08"/><item>　6.　涅槃</item>
+<lb n="132.09"/><item>　7.　大乘經集</item>
+<lb n="132.10"/><item>　　　（《小部》甚多）</item>
+<lb n="132.11"/><item>三　律及律釋</item>
+<lb n="132.12"/><item>　1.　大眾律</item>
+<lb n="132.13"/><item>　　　（律典，並以廣律；戒經</item>
+<lb n="132.14"/><item>　　　；羯磨；母論；律釋；律</item>
+<lb n="132.15"/><item>　　　釋之注釋；日常行法等為</item>
+<lb n="132.16"/><item>　　　次，不具者，缺。）</item>
+<lb n="132.17"/><item>　2.　銅鍱律</item>
+<lb n="132.18"/><item>　　　（錫蘭傳之上座律）</item>
+<lb n="132.19"/><item>　3.　化地（五分）律</item>
+<lb n="132.20"/><item>　4.　法藏（四分）律</item>
+<lb n="132.21"/><item>　5.　一切有（十誦等）律</item>
+<lb n="132.22"/><item>　6.　飲光律</item>
+<lb n="132.23"/><item>　7.　正量律</item>
+<lb n="132.24"/><item>　8.　聲聞雜律</item>
+<lb n="132.25"/><item>　9.　大乘律</item>
+<lb n="132.26"/><item>四　論及論釋</item>
+<lb n="132.27"/><item>　1.　印度（錫緬泰附）宗論</item>
 <pb n="133"/>
-<cb n="1"/><lb n="1"/><item>甲　阿毘曇<list rend="margin-left:1em">
-    <lb n="2"/><item>子　舍利弗毘曇<lb n="3"/>（論典，並以論；論<lb n="4"/>釋；論釋之注釋；論<lb n="5"/>要等為次。不具者，<lb n="6"/>缺。）</item>
-    <lb n="7"/><item>丑　銅鍱系毘曇</item>
-    <lb n="8"/><item>寅　一切有系毘曇</item>
-    <lb n="9"/><item>卯　犢子系毘曇</item>
-    <lb n="10"/><item>辰　晚期折衷論</item></list></item>
-    <lb n="11"/><item>乙　中觀</item>
-    <lb n="12"/><item>丙　瑜伽</item>
-    <lb n="13"/><item>丁　現觀莊嚴</item>
-<cb n="2"/><lb n="1"/><item>戊　大乘論集</item></list></item>
-    <lb n="2"/><item>2.　中國（內地）宗論<list rend="margin-left:1em">
-    <lb n="3"/><item>甲　三論宗論</item>
-    <lb n="4"/><item>乙　天臺宗論</item>
-    <lb n="5"/><item>丙　唯識宗論</item>
-    <lb n="6"/><item>丁　賢首宗論</item>
-    <lb n="7"/><item>戊　淨土宗論</item></list></item>
-    <lb n="8"/><item>3.　西藏（蒙古附）宗論<lb n="9"/>（宗喀巴菩提道次第等，<lb n="10"/>屬此。）</item>
-    <lb n="11"/><item>4.　日本宗論<list rend="margin-left:1em">
-    <lb n="12"/><item>甲　真宗論</item>
-    <lb n="13"/><item>乙　日蓮宗論</item>
+<lb n="133.01"/><item>　　甲　阿毘曇</item>
+<lb n="133.02"/><item>　　　子　舍利弗毘曇</item>
+<lb n="133.03"/><item>　　　　　（論典，並以論；論</item>
+<lb n="133.04"/><item>　　　　　釋；論釋之注釋；論</item>
+<lb n="133.05"/><item>　　　　　要等為次。不具者，</item>
+<lb n="133.06"/><item>　　　　　缺。）</item>
+<lb n="133.07"/><item>　　　丑　銅鍱系毘曇</item>
+<lb n="133.08"/><item>　　　寅　一切有系毘曇</item>
+<lb n="133.09"/><item>　　　卯　犢子系毘曇</item>
+<lb n="133.10"/><item>　　　辰　晚期折衷論</item>
+<lb n="133.11"/><item>　　乙　中觀</item>
+<lb n="133.12"/><item>　　丙　瑜伽</item>
+<lb n="133.13"/><item>　　丁　現觀莊嚴</item>
+<lb n="133.14"/><item>　　戊　大乘論集</item>
+<lb n="133.15"/><item>　2.　中國（內地）宗論</item>
+<lb n="133.16"/><item>　　甲　三論宗論</item>
+<lb n="133.17"/><item>　　乙　天臺宗論</item>
+<lb n="133.18"/><item>　　丙　唯識宗論</item>
+<lb n="133.19"/><item>　　丁　賢首宗論</item>
+<lb n="133.20"/><item>　　戊　淨土宗論</item>
+<lb n="133.21"/><item>　3.　西藏（蒙古附）宗論</item>
+<lb n="133.22"/><item>　　　（宗喀巴《菩提道次第》等，</item>
+<lb n="133.23"/><item>　　　屬此。）</item>
+<lb n="133.24"/><item>　4.　日本宗論</item>
+<lb n="133.25"/><item>　　甲　真宗論</item>
+<lb n="133.26"/><item>　　乙　日蓮宗論</item>
 <pb n="134"/>
-<cb n="1"/><lb n="1"/><item>丙　時宗論</item>
-    <lb n="2"/><item>丁　其他</item></list></item></list></item>
-    <lb n="3"/><item>五　密續及儀軌<list rend="margin-left:1em">
-    <lb n="4"/><item>1.　事部<lb n="5"/>（每一密典，各有續即經<lb n="6"/>；儀軌修法；論；注解等<lb n="7"/>。不具者，缺。）</item>
-    <lb n="8"/><item>2.　行部</item>
-    <lb n="9"/><item>3.　瑜伽部</item>
-    <lb n="10"/><item>4.　無上瑜伽部</item>
-    <lb n="11"/><item>5.　密論（如宗喀巴之密宗道<lb n="12"/>次第；弘法之即身成佛義<lb n="13"/>等。）</item></list></item>
-<cb n="2"/><lb n="1"/><item>六　禪及語錄<list rend="margin-left:1em">
-    <lb n="2"/><item>1.　聲聞禪法</item>
-    <lb n="3"/><item>2.　大乘禪法<lb n="4"/>（天臺之摩訶止觀等屬此<lb n="5"/>。）</item>
-    <lb n="6"/><item>3.　秘密禪法（略，入密部中<lb n="7"/>。）</item>
-    <lb n="8"/><item>4.　禪宗法語<list rend="margin-left:1em">
-    <lb n="9"/><item>甲　偈頌</item>
-    <lb n="10"/><item>乙　語錄</item></list></item></list></item>
-    <lb n="11"/><item>七　法義<list rend="margin-left:1em">
-    <lb n="12"/><item>1.　概論</item>
-    <lb n="13"/><item>2.　宗乘論</item>
+<lb n="134.01"/><item>　　丙　時宗論</item>
+<lb n="134.02"/><item>　　丁　其他</item>
+<lb n="134.03"/><item>五　密續及儀軌</item>
+<lb n="134.04"/><item>　1.　事部</item>
+<lb n="134.05"/><item>　　　（每一密典，各有續即經</item>
+<lb n="134.06"/><item>　　　；儀軌修法；論；注解等</item>
+<lb n="134.07"/><item>　　　。不具者，缺。）</item>
+<lb n="134.08"/><item>　2.　行部</item>
+<lb n="134.09"/><item>　3.　瑜伽部</item>
+<lb n="134.10"/><item>　4.　無上瑜伽部</item>
+<lb n="134.11"/><item>　5.　密論</item>
+<lb n="134.12"/><item>　　　（如宗喀巴之《密宗道</item>
+<lb n="134.13"/><item>　　　次第》；弘法之《即身成佛義》</item>
+<lb n="134.14"/><item>　　　等。）</item>
+<lb n="134.15"/><item>六　禪及語錄</item>
+<lb n="134.16"/><item>　1.　聲聞禪法</item>
+<lb n="134.17"/><item>　2.　大乘禪法</item>
+<lb n="134.18"/><item>　　　（天臺之《摩訶止觀》等屬此。）</item>
+<lb n="134.19"/><item>　3.　秘密禪法</item>
+<lb n="134.20"/><item>　　　（略，入密部中。）</item>
+<lb n="134.21"/><item>　4.　禪宗法語</item>
+<lb n="134.22"/><item>　　甲　偈頌</item>
+<lb n="134.23"/><item>　　乙　語錄</item>
+<lb n="134.24"/><item>七　法義</item>
+<lb n="134.25"/><item>　1.　概論</item>
+<lb n="134.26"/><item>　2.　宗乘論</item>
 <pb n="135"/>
-<cb n="1"/><lb n="1"/><item>3.　哲學</item>
-    <lb n="2"/><item>4.　心理學</item>
-    <lb n="3"/><item>5.　倫理學</item>
-    <lb n="4"/><item>6.　論理學</item>
-    <lb n="5"/><item>7.　佛學與世間學<list rend="margin-left:1em">
-    <lb n="6"/><item>甲　與印度諸教學</item>
-    <lb n="7"/><item>乙　與中亞諸教學</item>
-    <lb n="8"/><item>丙　與中國儒道學</item>
-    <lb n="9"/><item>丁　與日本神道教</item>
-    <lb n="10"/><item>戊　與西洋宗教哲學</item></list></item>
-    <lb n="11"/><item>8.　真身佛與菩薩</item>
-    <lb n="12"/><item>9.　瑜伽與神通</item>
-    <lb n="13"/><item>10.　其他</item></list></item>
-<cb n="2"/><lb n="1"/><item>八　制儀<list rend="margin-left:1em">
-    <lb n="2"/><item>1.　僧制<list rend="margin-left:1em">
-    <lb n="3"/><item>甲　印度晚期僧制</item>
-    <lb n="4"/><item>乙　錫緬泰僧制</item>
-    <lb n="5"/><item>丙　中國（內地）僧制</item>
-    <lb n="6"/><item>丁　蒙藏僧制</item>
-    <lb n="7"/><item>戊　日本僧制</item></list></item>
-    <lb n="8"/><item>2.　僧經濟</item>
-    <lb n="9"/><item>3.　僧教育</item>
-    <lb n="10"/><item>4.　布教</item>
-    <lb n="11"/><item>5.　救濟事業</item>
-    <lb n="12"/><item>6.　戒殺放生</item>
-    <lb n="13"/><item>7.　儀式<list rend="margin-left:1em">
+<lb n="135.01"/><item>　3.　哲學</item>
+<lb n="135.02"/><item>　4.　心理學</item>
+<lb n="135.03"/><item>　5.　倫理學</item>
+<lb n="135.04"/><item>　6.　論理學</item>
+<lb n="135.05"/><item>　7.　佛學與世間學</item>
+<lb n="135.06"/><item>　　甲　與印度諸教學</item>
+<lb n="135.07"/><item>　　乙　與中亞諸教學</item>
+<lb n="135.08"/><item>　　丙　與中國儒道學</item>
+<lb n="135.09"/><item>　　丁　與日本神道教</item>
+<lb n="135.10"/><item>　　戊　與西洋宗教哲學</item>
+<lb n="135.11"/><item>　8.　真身佛與菩薩</item>
+<lb n="135.12"/><item>　9.　瑜伽與神通</item>
+<lb n="135.13"/><item>　10.　其他</item>
+<lb n="135.14"/><item>八　制儀</item>
+<lb n="135.15"/><item>　1.　僧制</item>
+<lb n="135.16"/><item>　　甲　印度晚期僧制</item>
+<lb n="135.17"/><item>　　乙　錫緬泰僧制</item>
+<lb n="135.18"/><item>　　丙　中國（內地）僧制</item>
+<lb n="135.19"/><item>　　丁　蒙藏僧制</item>
+<lb n="135.20"/><item>　　戊　日本僧制</item>
+<lb n="135.21"/><item>　2.　僧經濟</item>
+<lb n="135.22"/><item>　3.　僧教育</item>
+<lb n="135.23"/><item>　4.　布教</item>
+<lb n="135.24"/><item>　5.　救濟事業</item>
+<lb n="135.25"/><item>　6.　戒殺放生</item>
+<lb n="135.26"/><item>　7.　儀式</item>
 <pb n="136"/>
-<cb n="1"/><lb n="1"/><item>甲　傳戒儀</item>
-    <lb n="2"/><item>乙　灌頂儀</item>
-    <lb n="3"/><item>丙　懺悔儀</item>
-    <lb n="4"/><item>丁　浴佛等法會儀</item>
-    <lb n="5"/><item>戊　放生儀</item>
-    <lb n="6"/><item>己　講經儀</item>
-    <lb n="7"/><item>庚　齋食儀</item>
-    <lb n="8"/><item>辛　制服</item>
-    <lb n="9"/><item>壬　其他</item></list></item></list></item>
-    <lb n="10"/><item>九　史地<list rend="margin-left:1em">
-    <lb n="11"/><item>1.　（人文）地理<list rend="margin-left:1em">
-    <lb n="12"/><item>甲　地方誌</item>
-    <lb n="13"/><item>乙　寺剎志（山志等）</item>
-<cb n="2"/><lb n="1"/><item>丙　遊歷記</item>
-    <lb n="2"/><item>丁　古蹟考察</item></list></item>
-    <lb n="3"/><item>2.　傳記<list rend="margin-left:1em">
-    <lb n="4"/><item>甲　釋尊及弟子傳<lb n="5"/>（本生，本行，著重於<lb n="6"/>歷史的。）</item>
-    <lb n="7"/><item>乙　僧尼傳</item>
-    <lb n="8"/><item>丙　居士傳</item>
-    <lb n="9"/><item>丁　宗祖傳記</item>
-    <lb n="10"/><item>戊　傳燈錄</item>
-    <lb n="11"/><item>己　往生傳</item>
-    <lb n="12"/><item>庚　靈驗記</item></list></item>
-    <lb n="13"/><item>3.　歷史<list rend="margin-left:1em">
+<lb n="136.01"/><item>　　甲　傳戒儀</item>
+<lb n="136.02"/><item>　　乙　灌頂儀</item>
+<lb n="136.03"/><item>　　丙　懺悔儀</item>
+<lb n="136.04"/><item>　　丁　浴佛等法會儀</item>
+<lb n="136.05"/><item>　　戊　放生儀</item>
+<lb n="136.06"/><item>　　己　講經儀</item>
+<lb n="136.07"/><item>　　庚　齋食儀</item>
+<lb n="136.08"/><item>　　辛　制服</item>
+<lb n="136.09"/><item>　　壬　其他</item>
+<lb n="136.10"/><item>九　史地</item>
+<lb n="136.11"/><item>　1.　（人文）地理</item>
+<lb n="136.12"/><item>　　甲　地方誌</item>
+<lb n="136.13"/><item>　　乙　寺剎志（山志等）</item>
+<lb n="136.14"/><item>　　丙　遊歷記</item>
+<lb n="136.15"/><item>　　丁　古蹟考察</item>
+<lb n="136.16"/><item>　2.　傳記</item>
+<lb n="136.17"/><item>　　甲　釋尊及弟子傳</item>
+<lb n="136.18"/><item>　　　　（本生，本行，著重於</item>
+<lb n="136.19"/><item>　　　　歷史的。）</item>
+<lb n="136.20"/><item>　　乙　僧尼傳</item>
+<lb n="136.21"/><item>　　丙　居士傳</item>
+<lb n="136.22"/><item>　　丁　宗祖傳記</item>
+<lb n="136.23"/><item>　　戊　傳燈錄</item>
+<lb n="136.24"/><item>　　己　往生傳</item>
+<lb n="136.25"/><item>　　庚　靈驗記</item>
+<lb n="136.26"/><item>　3.　歷史</item>
 <pb n="137"/>
-<cb n="1"/><lb n="1"/><item>甲　佛教通史</item>
-    <lb n="2"/><item>乙　各地佛教史<lb n="3"/>（印度，西域，南方，<lb n="4"/>中國（內地），蒙藏，<lb n="5"/>日本，朝鮮，歐美。）</item>
-    <lb n="6"/><item>丙　教典史<lb n="7"/>（集成，著作，傳譯，<lb n="8"/>印刻等。）</item>
-    <lb n="9"/><item>丁　教派史<lb n="10"/>（印，華，日等諸教派<lb n="11"/>。）</item></list></item></list></item>
-    <lb n="12"/><item>十　文藝<list rend="margin-left:1em">
-    <lb n="13"/><item>1.　文學<list rend="margin-left:1em">
-<cb n="2"/><lb n="1"/><item>甲　譬喻‧因緣</item>
-    <lb n="2"/><item>乙　變文‧寶卷</item>
-    <lb n="3"/><item>丙　詩‧偈‧讚</item>
-    <lb n="4"/><item>丁　序跋‧發願文</item>
-    <lb n="5"/><item>戊　散文</item>
-    <lb n="6"/><item>己　筆記</item>
-    <lb n="7"/><item>庚　小說</item>
-    <lb n="8"/><item>辛　戲劇</item>
-    <lb n="9"/><item>壬　詩文集</item></list></item>
-    <lb n="10"/><item>2.　藝術<list rend="margin-left:1em">
-    <lb n="11"/><item>甲　樂曲</item>
-    <lb n="12"/><item>乙　圖像</item>
-    <lb n="13"/><item>丙　雕塑</item>
+<lb n="137.01"/><item>　　甲　佛教通史</item>
+<lb n="137.02"/><item>　　乙　各地佛教史</item>
+<lb n="137.03"/><item>　　　　（印度，西域，南方，</item>
+<lb n="137.04"/><item>　　　　中國（內地），蒙藏，</item>
+<lb n="137.05"/><item>　　　　日本，朝鮮，歐美。）</item>
+<lb n="137.06"/><item>　　丙　教典史</item>
+<lb n="137.07"/><item>　　　　（集成，著作，傳譯，</item>
+<lb n="137.08"/><item>　　　　印刻等。）</item>
+<lb n="137.09"/><item>　　丁　教派史</item>
+<lb n="137.10"/><item>　　　　（印，華，日等諸教派。）</item>
+<lb n="137.11"/><item>十　文藝</item>
+<lb n="137.12"/><item>　1.　文學</item>
+<lb n="137.13"/><item>　　甲　譬喻‧因緣</item>
+<lb n="137.14"/><item>　　乙　變文‧寶卷</item>
+<lb n="137.15"/><item>　　丙　詩‧偈‧讚</item>
+<lb n="137.16"/><item>　　丁　序跋‧發願文</item>
+<lb n="137.17"/><item>　　戊　散文</item>
+<lb n="137.18"/><item>　　己　筆記</item>
+<lb n="137.19"/><item>　　庚　小說</item>
+<lb n="137.20"/><item>　　辛　戲劇</item>
+<lb n="137.21"/><item>　　壬　詩文集</item>
+<lb n="137.22"/><item>　2.　藝術</item>
+<lb n="137.23"/><item>　　甲　樂曲</item>
+<lb n="137.24"/><item>　　乙　圖像</item>
+<lb n="137.25"/><item>　　丙　雕塑</item>
 <pb n="138"/>
-<cb n="1"/><lb n="1"/><item>丁　建築</item>
-    <lb n="2"/><item>戊　法物</item>
-    <lb n="3"/><item>己　合香</item></list></item>
-    <lb n="4"/><item>3.　術數<list rend="margin-left:1em">
-<cb n="2"/><lb n="1"/><item>甲　曆數</item>
-    <lb n="2"/><item>乙　醫藥</item>
-    <lb n="3"/><item>丙　占卜</item></list></item></list></item>
-</list><lb 
-n="138.04"/><lb 
-n="138.05"/><p>這一編目，當然是並不完備，還需要修正，補充。但至少可以了解：在現代<lb
-n="138.06"/>而來談佛書，已決不是舊有的華文大藏了。還有，各種語文的編集為一，也應有<lb
-n="138.07"/>一先後。我覺得：阿含，聲聞律部分，可以巴利語文為先，其次是華文，日文，<lb
-n="138.08"/>片段的梵文本。大乘的經論，應以華文為先，以梵文為次；因為梵文太殘佚不備<lb
-n="138.09"/>了。其次是藏文，日文等。秘密部分，應以藏文為先，梵文，華文，日文等為次<lb
-n="138.10"/>。還有些近代著作，要以西文及日文領先了。</p></div>
+<lb n="138.01"/><item>　　丁　建築</item>
+<lb n="138.02"/><item>　　戊　法物</item>
+<lb n="138.03"/><item>　　己　合香</item>
+<lb n="138.04"/><item>　3.　術數</item>
+<lb n="138.05"/><item>　　甲　曆數</item>
+<lb n="138.06"/><item>　　乙　醫藥</item>
+<lb n="138.07"/><item>　　丙　占卜</item>
+</list><lb
+n="138.08"/><lb
+n="138.09"/><p>這一編目，當然是並不完備，還需要修正，補充。但至少可以了解：在現代<lb
+n="138.10"/>而來談佛書，已決不是舊有的華文大藏了。還有，各種語文的編集為一，也應有<lb
+n="138.11"/>一先後。我覺得：阿含，聲聞律部分，可以巴利語文為先，其次是華文，日文，<lb
+n="138.12"/>片段的梵文本。大乘的經論，應以華文為先，以梵文為次；因為梵文太殘佚不備<lb
+n="138.13"/>了。其次是藏文，日文等。秘密部分，應以藏文為先，梵文，華文，日文等為次<lb
+n="138.14"/>。還有些近代著作，要以西文及日文領先了。</p></div>
 <pb n="139"/><lb
 n="139.01"/><div><head><choice><orig>一〇</orig><reg>十</reg></choice>、論僧才之培養<note type="editorial">民國四七年講</note></head><lb
 n="139.02"/><div><head>一　弘法人才的重要</head><lb

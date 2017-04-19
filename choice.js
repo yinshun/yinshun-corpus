@@ -19,6 +19,12 @@ var corr=function(tag,closing,kpos,tpos,start,end){
 	if (!closing){
 		this.inChoice=3;
 	}
+	const t=this.substring(start,end);
+	if (closing && t.indexOf('<lb')>-1) {
+		
+		console.log('lb in corr/reg',this.stringify(kpos), t);
+	}
+
 }
 var reg=corr;
 
