@@ -3041,7 +3041,7 @@ n="224.12"/><p>大藏經中，有些是重複的。重複的原因不一：有�
 n="225.01"/>，久了被認為不同的譯本；或是被編入大部，而仍舊編列別本；也有是古人的抄<lb
 n="225.02"/>錄混雜，使人誤認為又一譯本。重複本是應該刪去的，在<title>《大正藏經》</title>中（譯者<lb
 n="225.03"/>人名，這裡姑且依<title>《大正藏》</title>說），如：</p><lb
-n="225.04"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:86">八六　<title>佛說泥犁經</title></ref><editor role="translator">東晉竺曇無蘭譯</editor></bibl></listBibl><lb
+n="225.04"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:86">八六　<title>佛說泥犁經</title></ref><editor role="translator">，東晉竺曇無蘭譯</editor></bibl></listBibl><lb
 n="225.05"/><p>本經從<q type="嚴謹引文">「聞如是」<note resp="謝淑歆">《泥犁經》卷1(CBETA, T01, no. 86, p. 907, a13)</note></q>起，到<q type="嚴謹引文">「當復還入惡道中」<note resp="謝淑歆">《泥犁經》卷1(CBETA, T01, no. 86, p. 909, b1)</note></q>止<note place="inline">（<choice><orig></orig><reg>大正</reg></choice>一‧九〇九中）</note>，確是<bibl><title level="m">《中阿<lb
 n="225.06"/>含》</title><ref type="Taisho" target="no:26.199">（一九九）</ref><title level="m">《癡慧地經》</title></bibl>的異譯（缺智慧一大段）。但接著說：<q type="嚴謹引文">「聞如是…<lb
 n="225.07"/>…佛說教如是，比丘皆歡喜」<note resp="謝淑歆">《泥犁經》卷1(CBETA, T01, no. 86, p. 909, b2-p. 910, c21)</note></q><note place="inline">（<choice><orig></orig><reg>大正</reg></choice>一‧九〇九中——九一〇下）</note>，顯然是另一經本。這一大<lb
@@ -3049,21 +3049,21 @@ n="225.08"/>段文句，與竺曇無蘭所譯的，<bibl><ref type="Taisho" targ
 n="225.09"/>，是抄錄所引起的）。這是竺曇無蘭的另一譯本，所以附在<title level="m">《佛說泥犁經》</title>下的<lb
 n="225.10"/>部分，應該刪去。如因文字小不同而要保存的話，可改為四二經的「別本」。</p></div><lb
 n="225.11"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:499">四九九　<title>佛為阿支羅迦葉自化<note place="inline" rendition="#inline_small_note">他</note>作苦經</title></ref><editor role="unknown-translator">失譯</editor></bibl><lb
-n="225.12"/><bibl><ref type="Taisho" target="no:503">五〇三　<title>比丘避女惡名欲自殺經</title></ref><editor role="translator">西晉法炬譯</editor></bibl></listBibl><lb
+n="225.12"/><bibl><ref type="Taisho" target="no:503">五〇三　<title>比丘避女惡名欲自殺經</title></ref><editor role="translator">，西晉法炬譯</editor></bibl></listBibl><lb
 n="225.13"/><p>這二經，依<bibl><title level="m">《出三藏記集》</title><biblScope type="卷" n="4"><note place="inline">（卷四）</note></biblScope></bibl>，都是「抄」出的。四九九經，與<bibl><title level="m">《雜阿
 <pb n="226"/><lb
 n="226.01"/>含》</title><ref type="Taisho" target="no:99.302">（三〇二）經</ref></bibl>；五〇三經，與<bibl><title level="m">《雜阿含》</title><ref type="Taisho" target="no:99.1344">（一三四四）經</ref></bibl>，文句都是相同的<lb
 n="226.02"/>。這都是「抄」出的，應該刪去。</p></div><lb
-n="226.03"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:128">一二八　<title>須摩提女經</title></ref><editor role="translator">吳支謙譯</editor></bibl></listBibl><lb
+n="226.03"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:128">一二八　<title>須摩提女經</title></ref><editor role="translator">，吳支謙譯</editor></bibl></listBibl><lb
 n="226.04"/><p>本經是<bibl><title level="m">《增壹阿含經》</title>（三〇）<title level="a">〈須陀品〉</title><ref type="Taisho" target="no:125.30.3">第三經</ref></bibl>的異譯。<title>《大正藏》</title>所載<lb
 n="226.05"/>的別本——宋、元、明本，其實就是<bibl><title level="m">《增壹阿含經》</title><title level="a">〈須陀品〉</title><ref type="Taisho" target="no:125.30.3">第三經</ref></bibl>，文句相<lb
 n="226.06"/>同，所以「別本」是應該刪去的。</p></div><lb
-n="226.07"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:232">二三二　<title>文殊師利所說摩訶般若波羅蜜經</title></ref><editor role="translator">梁曼陀羅仙譯</editor></bibl></listBibl><lb
+n="226.07"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:232">二三二　<title>文殊師利所說摩訶般若波羅蜜經</title></ref><editor role="translator">，梁曼陀羅仙譯</editor></bibl></listBibl><lb
 n="226.08"/><p>本經二卷，是<bibl><title level="m">《大般若波羅蜜多經》</title>（七）<title level="a">〈曼殊室利分〉</title></bibl>的異譯，一向列<lb
 n="226.09"/>為「般若部」的異譯。到了唐代，菩提流志編譯<title level="m">《大寶積經》</title>，本經被編為<bibl><title level="m">《大<lb
 n="226.10"/>寶積經》</title>的（四六）<title level="a">〈文殊說般若會〉</title></bibl>。這樣，注明彼此是同本異譯（別編）就<lb
 n="226.11"/>可以了，本經沒有再編入「般若部」的必要，應刪去以免重複。</p></div><lb
-n="226.12"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:336">三三六　<title>須摩提經</title></ref><editor role="translator">唐菩提流志譯</editor></bibl></listBibl><lb
+n="226.12"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:336">三三六　<title>須摩提經</title></ref><editor role="translator">，唐菩提流志譯</editor></bibl></listBibl><lb
 n="226.13"/><p>在<bibl><title level="m">《開元釋教錄》</title><biblScope type="卷" n="9"><note place="inline">（卷九）</note></biblScope></bibl>中，本經題作<title level="m">《妙慧童女所問經》</title>，唐長壽二年（
 <pb n="227"/><lb
 n="227.01"/>西元六九三）譯出。神龍二年（西元七〇六）起，菩提流志又譯出<title level="m">《大寶積經》</title><lb
@@ -3074,7 +3074,7 @@ n="227.05"/>千世界六種震動」<note resp="謝淑歆">《大寶積經》卷
 n="227.06"/>者的脫落。先譯<title level="m">《妙慧童女所問經》</title>，後來編入<title level="m">《大寶積經》</title>的三十會。在譯經<lb
 n="227.07"/>史上，有<title level="m">《妙慧童女所問經》</title>，與<title level="m">《大寶積經》</title>的<title level="a">〈妙慧童女會〉</title>，但決不是再<lb
 n="227.08"/>譯。所以本經已編入<title level="m">《大寶積經》</title>，不應在異譯中再佔篇幅，應刪去以免重出。</p></div><lb
-n="227.09"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:335">三三五　<title>佛說須摩提菩薩經</title></ref><editor role="translator">姚秦鳩摩羅什譯</editor></bibl></listBibl><lb
+n="227.09"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:335">三三五　<title>佛說須摩提菩薩經</title></ref><editor role="translator">，姚秦鳩摩羅什譯</editor></bibl></listBibl><lb
 n="227.10"/><p>這部經，<title level="m">《出三藏記集》</title>是沒有的。隋<bibl><title level="m">《歷代三寶紀》</title><biblScope type="卷" n="8"><note place="inline">（卷八）</note></biblScope></bibl>，才說到鳩摩羅<lb
 n="227.11"/>什所譯的<title level="m">《須摩提菩薩經》</title>。檢閱經文，這是在竺法護所譯的，<bibl><ref type="Taisho" target="no:324">三二四<title level="m">《佛說須<lb
 n="227.12"/>摩提菩薩經》</title></ref></bibl>中，插入竺法護所譯的，<cit><bibl><ref type="Taisho" target="no:567">五六七<title level="m">《佛說梵志女首意經》</title></ref>文一大段：</bibl><q type="嚴謹引文">「<lb
@@ -3082,20 +3082,20 @@ n="227.13"/>女<note place="inline">汝</note>意云何？無上正真之道」<
 <pb n="228"/><lb
 n="228.01"/><q type="嚴謹引文">「女意」</q>上多三十四字，<q type="嚴謹引文">「之道」</q>下多九字，文義也不通順。這不是鳩摩羅什所<lb
 n="228.02"/>譯，也不是「失譯」人名，而是妄人拼湊所成的，應該刪去。</p></div><lb
-n="228.03"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:492">四九二　<title>佛說阿難問事佛吉凶經</title></ref><editor role="translator">漢安世高譯</editor></bibl></listBibl><lb
+n="228.03"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:492">四九二　<title>佛說阿難問事佛吉凶經</title></ref><editor role="translator">，漢安世高譯</editor></bibl></listBibl><lb
 n="228.04"/><p>本經與乞伏秦法堅所譯的，<bibl><ref type="Taisho" target="no:495">四九五<title level="m">《佛說阿難分別經》</title></ref></bibl>，是同本異譯。<title>《大<lb
 n="228.05"/>正藏》</title>所依的<title level="m">《麗藏》</title>本，與明本相同，而宋、元本等大異，所以附為「別本」——<lb
 n="228.06"/><title level="m">《阿難問事佛吉凶經》</title>。然檢閱經文，宋、元等「別本」，與法堅所譯的<title level="m">《佛說<lb
 n="228.07"/>阿難分別經》</title>，文句相同，所以應刪去宋、元等「別本」。</p></div><lb
-n="228.08"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:751">七五一　<title>佛說五無反復經</title></ref><editor role="translator">宋沮渠京聲譯</editor></bibl><lb
-n="228.09"/><bibl><ref type="Taisho" target="no:752">七五二　<title>佛說五無反復經</title></ref><editor role="translator">宋沮渠京聲譯</editor></bibl></listBibl><lb
+n="228.08"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:751">七五一　<title>佛說五無反復經</title></ref><editor role="translator">，宋沮渠京聲譯</editor></bibl><lb
+n="228.09"/><bibl><ref type="Taisho" target="no:752">七五二　<title>佛說五無反復經</title></ref><editor role="translator">，宋沮渠京聲譯</editor></bibl></listBibl><lb
 n="228.10"/><p>同一經名，同一人譯出，是可疑的。<title>《大正藏》</title>在七五一下，附有宋、元等<lb
 n="228.11"/>「別本」。七五二經，是「明藏」本所特有的。其實，二經及別本（共三本），<lb
 n="228.12"/>大體相同，只是七五二經，末後增一小段，又少了一小段。這本是一經，不過在<lb
 n="228.13"/>展轉傳寫中，文字上略有出入與脫落而已。應列七五一經，而以其他二本為「別
 <pb n="229"/><lb
 n="229.01"/>本」，以恢復一經的古說。</p></div><lb
-n="229.02"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:61">六一　<title>佛說受新歲經</title></ref><editor role="translator">西晉竺法護譯</editor></bibl></listBibl><lb
+n="229.02"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:61">六一　<title>佛說受新歲經</title></ref><editor role="translator">，西晉竺法護譯</editor></bibl></listBibl><lb
 n="229.03"/><p>本經與<bibl><title level="m">《增壹阿含經》</title>（三二）<title level="a">〈善聚品〉</title><ref type="Taisho" target="no:125.32.5">第五經</ref></bibl>，文句相同。這是從<title level="m">《增<lb
 n="229.04"/>壹阿含經》</title>抄出，並不是別譯，應刪去以免重複。</p></div><lb
 n="229.05"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:295">二九五　<title>大方廣佛華嚴經入法界品</title></ref></bibl></listBibl><lb
@@ -3118,106 +3118,106 @@ n="230.08"/>是很有價值的！凡是同本異譯的，應該先後次第，�
 n="230.09"/>的，也應該注明是同本異譯，這才能便於修學者的比較。對於這，<title>《大正藏》</title>是<lb
 n="230.10"/>相當不完善的。有些同本異譯，編者似乎也沒有知道。這樣，同本異譯部分，<title>《<lb
 n="230.11"/>大正藏》</title>的編列，有些是應該改正的，如：</p><lb
-n="230.12"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:845">八四五　<title>佛說尊那經</title></ref><editor role="translator">趙宋法賢譯</editor></bibl></listBibl><lb
+n="230.12"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:845">八四五　<title>佛說尊那經</title></ref><editor role="translator">，趙宋法賢譯</editor></bibl></listBibl><lb
 n="230.13"/><p>本經是<bibl><title level="m">《中阿含》</title><ref type="Taisho" target="no:26.7">（七）</ref><title level="m">《世間福經》</title></bibl>的異譯。</p></div>
 <pb n="231"/><lb
-n="231.01"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1495">一四九五　<title>善恭敬經</title></ref><editor role="translator">隋闍那崛多譯</editor></bibl><lb
-n="231.02"/><bibl><ref type="Taisho" target="no:1496">一四九六　<title>佛說正恭敬經</title></ref><editor role="translator">元魏佛陀扇多譯</editor></bibl></listBibl><lb
+n="231.01"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1495">一四九五　<title>善恭敬經</title></ref><editor role="translator">，隋闍那崛多譯</editor></bibl><lb
+n="231.02"/><bibl><ref type="Taisho" target="no:1496">一四九六　<title>佛說正恭敬經</title></ref><editor role="translator">，元魏佛陀扇多譯</editor></bibl></listBibl><lb
 n="231.03"/><p>二經是同本異譯。</p></div><lb
-n="231.04"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:755">七五<choice><sic>四</sic><corr resp="厚觀法師 謝淑歆">五<note resp="厚觀法師">《佛說淨意優婆塞所問經》卷1：「佛說淨意優婆塞所問經　[13]西天[14]譯經三藏朝奉大夫　試光祿卿傳法大師[15]賜紫　臣施護奉　詔譯」(CBETA, T17, no. 755, p. 588, c8-12)</note></corr></choice>　<title>佛說淨意優婆塞所問經</title></ref><editor role="translator">趙宋施護譯</editor></bibl></listBibl><lb
+n="231.04"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:755">七五<choice><sic>四</sic><corr resp="厚觀法師 謝淑歆">五<note resp="厚觀法師">《佛說淨意優婆塞所問經》卷1：「佛說淨意優婆塞所問經　[13]西天[14]譯經三藏朝奉大夫　試光祿卿傳法大師[15]賜紫　臣施護奉　詔譯」(CBETA, T17, no. 755, p. 588, c8-12)</note></corr></choice>　<title>佛說淨意優婆塞所問經</title></ref><editor role="translator">，趙宋施護譯</editor></bibl></listBibl><lb
 n="231.05"/><p>本經是<bibl><title level="m">《中阿含》</title><ref type="Taisho" target="no:26.170">（一七〇）</ref><title level="m">《鸚鵡經》</title></bibl>的異譯。本經初沒有「白狗」因緣<lb
 n="231.06"/>，所以與<bibl><title level="m">《中部》</title>（一三五）<title level="m">《小業分別經》</title></bibl>更為接近。本經共有（華文的）六<lb
 n="231.07"/>譯，還有<bibl><ref type="Taisho" target="no:78">七八<title level="m">《佛說兜調經》</title></ref></bibl>，<bibl><ref type="Taisho" target="no:79">七九<title level="m">《佛說鸚鵡經》</title></ref></bibl>，<bibl><ref type="Taisho" target="no:80">八〇<title level="m">《佛為首迦長者說業<lb
 n="231.08"/>報差別經》</title></ref></bibl>，<bibl><ref type="Taisho" target="no:81">八一<title level="m">《分別善惡報應經》</title></ref></bibl>。八〇經也沒有「白狗」因緣；八〇與八<lb
 n="231.09"/>一經，增多了部分業報說，所以文段要長一些。經典在印度，是有部派不同，及<lb
 n="231.10"/>先後增減的。</p></div><lb
-n="231.11"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:776">七七六　<title>佛說四品法門經</title></ref><editor role="translator">趙宋法賢譯</editor></bibl></listBibl><lb
+n="231.11"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:776">七七六　<title>佛說四品法門經</title></ref><editor role="translator">，趙宋法賢譯</editor></bibl></listBibl><lb
 n="231.12"/><p>本經是<bibl><title level="m">《中阿含》</title><ref type="Taisho" target="no:26.181">（一八一）</ref><title level="m">《多界經》</title></bibl>的異譯。</p></div><lb
-n="231.13"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:737">七三七　<title>所欲致患經</title></ref><editor role="translator">晉竺法護譯</editor></bibl></listBibl>
+n="231.13"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:737">七三七　<title>所欲致患經</title></ref><editor role="translator">，晉竺法護譯</editor></bibl></listBibl>
 <pb n="232"/><lb
 n="232.01"/><p>本經是<bibl><title level="m">《中阿含》</title><ref type="Taisho" target="no:26.99">（九九）</ref><title level="m">《苦陰經》</title></bibl>的異譯。本經也與<bibl><title level="m">《增壹阿含》</title>（二<lb
 n="232.02"/>一）<title level="a">〈三寶品〉</title>的<ref type="Taisho" target="no:125.21.9">九經</ref></bibl>相當。</p></div><lb
-n="232.03"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:538">五三八　<title>佛說呵雕阿那含經</title></ref><editor role="translator">晉竺曇無蘭譯</editor></bibl></listBibl><lb
+n="232.03"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:538">五三八　<title>佛說呵雕阿那含經</title></ref><editor role="translator">，晉竺曇無蘭譯</editor></bibl></listBibl><lb
 n="232.04"/><p>本經是<bibl><title level="m">《中阿含》</title>（<ref type="Taisho" target="no:26.40">四〇</ref>‧<ref type="Taisho" target="no:26.41">四一</ref>）兩篇<title level="m">《手長者經》</title></bibl>的異譯。</p></div><lb
-n="232.05"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:582">五八二　<title>佛說孫多耶致經</title></ref><editor role="translator">吳支謙譯</editor></bibl></listBibl><lb
+n="232.05"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:582">五八二　<title>佛說孫多耶致經</title></ref><editor role="translator">，吳支謙譯</editor></bibl></listBibl><lb
 n="232.06"/><p>本經是<bibl><title level="m">《中阿含》</title><ref type="Taisho" target="no:26.93">（九三）</ref><title level="m">《水淨梵志經》</title></bibl>的異譯。本經又與<bibl><title level="m">《增壹阿含》</title><lb
 n="232.07"/>（一三）<title level="a">〈利養品〉</title><ref type="Taisho" target="no:125.13.5">五經</ref></bibl>相當。</p></div><lb
-n="232.08"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:511">五一一　<title>佛說蓱沙王五願經</title></ref><editor role="translator">吳支謙譯</editor></bibl></listBibl><lb
+n="232.08"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:511">五一一　<title>佛說蓱沙王五願經</title></ref><editor role="translator">，吳支謙譯</editor></bibl></listBibl><lb
 n="232.09"/><p>本經主體部分，是<bibl><title level="m">《中阿含》</title><ref type="Taisho" target="no:26.162">（一六二）</ref><title level="m">《分別六界經》</title></bibl>的異譯。以蓱沙王<lb
 n="232.10"/>五願為緣起，五願出佛傳。後說弗迦沙為牛所觸死，是取<bibl><title level="m">《雜阿含》</title><ref type="Taisho" target="no:99.302">（三〇二）</ref></bibl><lb
 n="232.11"/>經阿支羅迦葉的故事。——以上七經，應編入<title level="m">《中阿含經》</title>的異譯部分。</p></div><lb
-n="232.12"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:803">八〇三　<title>佛說清淨心經</title></ref><editor role="translator">趙宋施護等譯</editor></bibl></listBibl><lb
+n="232.12"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:803">八〇三　<title>佛說清淨心經</title></ref><editor role="translator">，趙宋施護等譯</editor></bibl></listBibl><lb
 n="232.13"/><p>本經是<bibl><title level="m">《雜阿含》</title><ref type="Taisho" target="no:99.710">（七一〇）經</ref></bibl>的異譯。</p></div>
 <pb n="233"/><lb
-n="233.01"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:802">八〇二　<title>佛說信解智力經</title></ref><editor role="translator">趙宋法賢譯</editor></bibl></listBibl><lb
+n="233.01"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:802">八〇二　<title>佛說信解智力經</title></ref><editor role="translator">，趙宋法賢譯</editor></bibl></listBibl><lb
 n="233.02"/><p>本經是<bibl><title level="m">《雜阿含》</title>（<ref type="Taisho" target="no:99.684">六八四</ref>‧<ref type="Taisho" target="no:99.703">七〇三</ref>）二經</bibl>綜合的異譯。</p></div><lb
 n="233.03"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:800">八〇〇　<title>佛說無上處經</title></ref><editor role="unknown-translator">東晉失譯</editor></bibl></listBibl><lb
 n="233.04"/><p><bibl><title level="m">《雜阿含》</title>（<ref type="Taisho" target="no:99.902">九〇二</ref>‧<ref type="Taisho" target="no:99.903">九〇三</ref>‧<ref type="Taisho" target="no:99.904">九〇四</ref>）三經</bibl>，分別說佛、法、僧三寶的究<lb
 n="233.05"/>竟無上。本經是綜合這三經的異譯。</p></div><lb
-n="233.06"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:780">七八〇　<title>佛說十力經</title></ref><editor role="translator">唐勿提<choice><sic>魚犀</sic><corr resp="厚觀法師 謝淑歆">提犀魚<note resp="厚觀法師">《佛說十力經》卷1：「佛說十力經　三藏沙門勿提提犀魚於　安西蓮花寺譯畢進上」(CBETA, T17, no. 780, p. 717, c6-9)</note></corr></choice>譯</editor></bibl><lb
-n="233.07"/><bibl><ref type="Taisho" target="no:781">七八一　<title>佛說十力經</title></ref><editor role="translator">宋施護等譯</editor></bibl></listBibl><lb
+n="233.06"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:780">七八〇　<title>佛說十力經</title></ref><editor role="translator">，唐勿提<choice><sic>魚犀</sic><corr resp="厚觀法師 謝淑歆">提犀魚<note resp="厚觀法師">《佛說十力經》卷1：「佛說十力經　三藏沙門勿提提犀魚於　安西蓮花寺譯畢進上」(CBETA, T17, no. 780, p. 717, c6-9)</note></corr></choice>譯</editor></bibl><lb
+n="233.07"/><bibl><ref type="Taisho" target="no:781">七八一　<title>佛說十力經</title></ref><editor role="translator">，宋施護等譯</editor></bibl></listBibl><lb
 n="233.08"/><p>二經同本異譯，是<bibl><title level="m">《雜阿含》</title>（<ref type="Taisho" target="no:99.701">七〇一</ref>，參閱<ref type="Taisho" target="no:99.684">六八四</ref>）經</bibl>的異譯。</p></div><lb
-n="233.09"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:655">六五五　<title>佛說勝義空經</title></ref><editor role="translator">趙宋施護等譯</editor></bibl></listBibl><lb
+n="233.09"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:655">六五五　<title>佛說勝義空經</title></ref><editor role="translator">，趙宋施護等譯</editor></bibl></listBibl><lb
 n="233.10"/><p>本經是<bibl><title level="m">《雜阿含》</title><ref type="Taisho" target="no:99.335">（三三五）經</ref></bibl>的異譯。</p></div><lb
-n="233.11"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:505">五〇五　<title>佛說隨勇尊者經</title></ref><editor role="translator">趙宋施護譯</editor></bibl></listBibl><lb
+n="233.11"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:505">五〇五　<title>佛說隨勇尊者經</title></ref><editor role="translator">，趙宋施護譯</editor></bibl></listBibl><lb
 n="233.12"/><p>本經是<bibl><title level="m">《雜阿含》</title><ref type="Taisho" target="no:99.252">（二五二）經</ref></bibl>的異譯。</p></div><lb
-n="233.13"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:502">五〇二　<title>佛為年少比丘說正事經</title></ref><editor role="translator">晉法炬譯</editor></bibl></listBibl>
+n="233.13"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:502">五〇二　<title>佛為年少比丘說正事經</title></ref><editor role="translator">，晉法炬譯</editor></bibl></listBibl>
 <pb n="234"/><lb
 n="234.01"/><p>本經是<bibl><title level="m">《雜阿含》</title><ref type="Taisho" target="no:99.815">（八一五）經</ref></bibl>的異譯。</p></div><lb
-n="234.02"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:219">二一九　<title>佛說醫喻經</title></ref><editor role="translator">趙宋施護譯</editor></bibl></listBibl><lb
+n="234.02"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:219">二一九　<title>佛說醫喻經</title></ref><editor role="translator">，趙宋施護譯</editor></bibl></listBibl><lb
 n="234.03"/><p>本經是<bibl><title level="m">《雜阿含》</title><ref type="Taisho" target="no:99.389">（三八九）經</ref></bibl>的異譯。</p></div><lb
-n="234.04"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:504">五〇四　<title>比丘聽施經</title></ref><editor role="translator">晉竺曇無蘭譯</editor></bibl></listBibl><lb
+n="234.04"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:504">五〇四　<title>比丘聽施經</title></ref><editor role="translator">，晉竺曇無蘭譯</editor></bibl></listBibl><lb
 n="234.05"/><p>本經是<bibl><title level="m">《雜阿含》</title><ref type="Taisho" target="no:99.271">（二七一）經</ref></bibl>的異譯。</p></div><lb
-n="234.06"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:718">七一八　<title>佛說分別緣生經</title></ref><editor role="translator">趙宋法天譯</editor></bibl></listBibl><lb
+n="234.06"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:718">七一八　<title>佛說分別緣生經</title></ref><editor role="translator">，趙宋法天譯</editor></bibl></listBibl><lb
 n="234.07"/><p>本經是<bibl><title level="m">《雜阿含》</title>（<ref type="Taisho" target="no:99.1188">一一八八</ref>‧<ref type="Taisho" target="no:99.298">二九八</ref>）經</bibl>糅合而小有變化的異譯本。</p></div><lb
-n="234.08"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:713">七一三　<title>貝多樹下思惟十二因緣經</title></ref><editor role="translator">吳支謙譯</editor></bibl><lb
-n="234.09"/><bibl><ref type="Taisho" target="no:714">七一四　<title>緣起聖道經</title></ref><editor role="translator">唐玄奘譯</editor></bibl><lb
-n="234.10"/><bibl><ref type="Taisho" target="no:715">七一五　<title>佛說舊城喻經</title></ref><editor role="translator">趙宋法賢譯</editor></bibl></listBibl><lb
+n="234.08"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:713">七一三　<title>貝多樹下思惟十二因緣經</title></ref><editor role="translator">，吳支謙譯</editor></bibl><lb
+n="234.09"/><bibl><ref type="Taisho" target="no:714">七一四　<title>緣起聖道經</title></ref><editor role="translator">，唐玄奘譯</editor></bibl><lb
+n="234.10"/><bibl><ref type="Taisho" target="no:715">七一五　<title>佛說舊城喻經</title></ref><editor role="translator">，趙宋法賢譯</editor></bibl></listBibl><lb
 n="234.11"/><p>這三部經，都是<bibl><title level="m">《雜阿含》</title><ref type="Taisho" target="no:99.287">（二八七）經</ref></bibl>的同本異譯。</p></div><lb
-n="234.12"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:799">七九九　<title>佛說略教誡經</title></ref><editor role="translator">唐義淨譯</editor></bibl></listBibl><lb
+n="234.12"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:799">七九九　<title>佛說略教誡經</title></ref><editor role="translator">，唐義淨譯</editor></bibl></listBibl><lb
 n="234.13"/><p>本經是<bibl><title level="m">《雜阿含》</title><ref type="Taisho" target="no:99.272">（二七二）經</ref></bibl>主體部分的異譯；也與<bibl><title level="m">《中阿含》</title><ref type="Taisho" target="no:26.140">（一四〇）</ref>
 <pb n="235"/><lb
 n="235.01"/><title level="m">《至邊經》</title></bibl>相當。——以上十五經，應編入<title level="m">《雜阿含經》</title>的異譯部分。</p></div><lb
-n="235.02"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:756">七五六　<title>佛說八無暇有暇經</title></ref><editor role="translator">唐義淨譯</editor></bibl></listBibl><lb
+n="235.02"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:756">七五六　<title>佛說八無暇有暇經</title></ref><editor role="translator">，唐義淨譯</editor></bibl></listBibl><lb
 n="235.03"/><p>本經是<bibl><title level="m">《增壹阿含》</title>（四二）<title level="a">〈八難品〉</title><ref type="Taisho" target="no:125.42.1">第一經</ref></bibl>的異譯；也與<bibl><title level="m">《中阿含》</title><ref type="Taisho" target="no:26.124">（一<lb
 n="235.04"/>二四）</ref><title level="m">《八難經》</title></bibl>相當。</p></div><lb
-n="235.05"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:513">五一三　<title>佛說琉璃王經</title></ref><editor role="translator">晉竺法護譯</editor></bibl></listBibl><lb
+n="235.05"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:513">五一三　<title>佛說琉璃王經</title></ref><editor role="translator">，晉竺法護譯</editor></bibl></listBibl><lb
 n="235.06"/><p>本經的事緣，與<bibl><title level="m">《增壹阿含》</title>（三四）<title level="a">〈等見品〉</title><ref type="Taisho" target="no:125.34.1">第一經</ref></bibl>相同。</p></div><lb
-n="235.07"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:595">五九五　<title>佛說嗟韈曩法天子受三歸依獲免惡道經</title></ref><editor role="translator">趙宋法天譯</editor></bibl></listBibl><lb
+n="235.07"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:595">五九五　<title>佛說嗟韈曩法天子受三歸依獲免惡道經</title></ref><editor role="translator">，趙宋法天譯</editor></bibl></listBibl><lb
 n="235.08"/><p>本經的事緣，與<bibl><title level="m">《增壹阿含》</title>（三二）<title level="a">〈善聚品〉</title><ref type="Taisho" target="no:125.32.6">六經</ref></bibl>相當。</p></div><lb
-n="235.09"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:138">一三八　<title>佛說十一想思念如來經</title></ref><editor role="translator">宋求那跋陀羅譯</editor></bibl></listBibl><lb
+n="235.09"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:138">一三八　<title>佛說十一想思念如來經</title></ref><editor role="translator">，宋求那跋陀羅譯</editor></bibl></listBibl><lb
 n="235.10"/><p>本經是<title level="m">《增壹阿含經》</title>的異譯。內含二<q type="嚴謹引文">「聞如是」<note resp="謝淑歆">(1)《佛說十一想思念如來經》卷1(CBETA, T02, no. 138, p. 861, a14)；(2)《佛說十一想思念如來經》卷1(CBETA, T02, no. 138, p. 861, a26)</note></q>，也就是二經，為<bibl><title level="m">《增壹<lb
 n="235.11"/>阿含》</title>（五〇）<title level="a">〈禮三寶品〉</title><ref type="Taisho" target="no:125.50.1">第一經</ref>，（四九）<title level="a">〈放牛品〉</title><ref type="Taisho" target="no:125.49.10">第十經</ref></bibl>的異譯，<title>《大正藏<lb
 n="235.12"/>》</title>所注不精確。——以上四經，都是<title level="m">《增壹阿含經》</title>的異譯。</p></div><lb
-n="235.13"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:271">二七一　<title>佛說菩薩行方便境界神通變化經</title></ref><editor role="translator">宋求那跋陀羅譯</editor></bibl>
+n="235.13"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:271">二七一　<title>佛說菩薩行方便境界神通變化經</title></ref><editor role="translator">，宋求那跋陀羅譯</editor></bibl>
 <pb n="236"/><lb
-n="236.01"/><bibl><ref type="Taisho" target="no:272">二七二　<title>大薩遮尼乾子所說經</title></ref><editor role="translator">元魏菩提流支譯</editor></bibl></listBibl><lb
+n="236.01"/><bibl><ref type="Taisho" target="no:272">二七二　<title>大薩遮尼乾子所說經</title></ref><editor role="translator">，元魏菩提流支譯</editor></bibl></listBibl><lb
 n="236.02"/><p>二經是同本異譯，但二七二經多一<title level="a">〈王論品〉</title>。<title>《大正藏》</title>誤以二七一及<bibl><ref type="Taisho" target="no:270">二<lb
 n="236.03"/>七〇<title level="m">《大法鼓經》</title></ref></bibl>為同本異譯，<title level="m">《索引》</title>也同樣誤注，應改正。</p></div><lb
-n="236.04"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:310">三一〇　<title>（寶積經45）無盡<choice><sic></sic><corr resp="厚觀法師 謝淑歆">慧<note resp="厚觀法師">《大寶積經》卷115：「無盡慧菩薩會第四十五」(CBETA, T11, no. 310, p. 648, a14)</note></corr></choice>菩薩會</title></ref><editor role="translator">唐菩提流志譯</editor></bibl><lb
-n="236.05"/><bibl><ref type="Taisho" target="no:307">三〇七　<title>佛說莊嚴菩提心經</title></ref><editor role="translator">姚秦鳩摩羅什譯</editor></bibl><lb
-n="236.06"/><bibl><ref type="Taisho" target="no:308">三〇八　<title>佛說大方廣菩薩十地經</title></ref><editor role="translator">元魏吉迦夜譯</editor></bibl></listBibl><lb
+n="236.04"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:310">三一〇　<title>（寶積經45）無盡<choice><sic></sic><corr resp="厚觀法師 謝淑歆">慧<note resp="厚觀法師">《大寶積經》卷115：「無盡慧菩薩會第四十五」(CBETA, T11, no. 310, p. 648, a14)</note></corr></choice>菩薩會</title></ref><editor role="translator">，唐菩提流志譯</editor></bibl><lb
+n="236.05"/><bibl><ref type="Taisho" target="no:307">三〇七　<title>佛說莊嚴菩提心經</title></ref><editor role="translator">，姚秦鳩摩羅什譯</editor></bibl><lb
+n="236.06"/><bibl><ref type="Taisho" target="no:308">三〇八　<title>佛說大方廣菩薩十地經</title></ref><editor role="translator">，元魏吉迦夜譯</editor></bibl></listBibl><lb
 n="236.07"/><p>上三經是同本異譯。三一〇經已編入<title level="m">《大寶積經》</title>，三〇七與三〇八經，應<lb
 n="236.08"/>該編為<title level="m">《大寶積經》</title>的異譯。六六四‧六六五——<bibl><title level="m">《金光明經》</title>的<title level="a">〈陀羅尼最淨<lb
 n="236.09"/>地品〉</title></bibl>，就是依這部經而秘密化的。</p></div><lb
-n="236.10"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:310">三一〇　<title>（寶積經18）護國菩薩會</title></ref><editor role="translator">隋闍那崛多譯</editor></bibl><lb
-n="236.11"/><bibl><ref type="Taisho" target="no:321">三二一　<title>佛說護國尊者所問大乘經</title></ref><editor role="translator">趙宋施護譯</editor></bibl><lb
-n="236.12"/><bibl><ref type="Taisho" target="no:170">一七〇　<title>德光太子經</title></ref><editor role="translator">晉竺法護譯</editor></bibl></listBibl><lb
+n="236.10"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:310">三一〇　<title>（寶積經18）護國菩薩會</title></ref><editor role="translator">，隋闍那崛多譯</editor></bibl><lb
+n="236.11"/><bibl><ref type="Taisho" target="no:321">三二一　<title>佛說護國尊者所問大乘經</title></ref><editor role="translator">，趙宋施護譯</editor></bibl><lb
+n="236.12"/><bibl><ref type="Taisho" target="no:170">一七〇　<title>德光太子經</title></ref><editor role="translator">，晉竺法護譯</editor></bibl></listBibl><lb
 n="236.13"/><p>上三經是同本異譯。一七〇經不應編在「本緣部」。</p></div>
 <pb n="237"/><lb
-n="237.01"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:310">三一〇　<title>（寶積經14）佛說入胎藏會</title></ref><editor role="translator">唐義淨譯</editor></bibl></listBibl><lb
+n="237.01"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:310">三一〇　<title>（寶積經14）佛說入胎藏會</title></ref><editor role="translator">，唐義淨譯</editor></bibl></listBibl><lb
 n="237.02"/><p>本經是從義淨所譯的，<bibl><ref type="Taisho" target="no:1451">一四五一<title level="m">《根本說一切有部毘奈耶雜事》</title></ref><biblScope type="卷" n="11 12">（卷一一‧<lb
 n="237.03"/>一二）</biblScope></bibl>中抄出，編入「寶積部」的，應該加以注明。</p></div><lb
-n="237.04"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:310">三一〇　<title>（寶積經30）妙慧童女會</title></ref><editor role="translator">唐菩提流志譯</editor></bibl><lb
-n="237.05"/><bibl><ref type="Taisho" target="no:334">三三四　<title>佛說須摩提菩薩經</title></ref><editor role="translator">晉竺法護譯</editor></bibl></listBibl><lb
+n="237.04"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:310">三一〇　<title>（寶積經30）妙慧童女會</title></ref><editor role="translator">，唐菩提流志譯</editor></bibl><lb
+n="237.05"/><bibl><ref type="Taisho" target="no:334">三三四　<title>佛說須摩提菩薩經</title></ref><editor role="translator">，晉竺法護譯</editor></bibl></listBibl><lb
 n="237.06"/><p>二經是同本異譯。<bibl><ref type="Taisho" target="no:335">三三五<title level="m">《佛說須摩提菩薩經》</title></ref>，<ref type="Taisho" target="no:336">三三六<title level="m">《須摩提經》</title></ref></bibl>——<lb
 n="237.07"/><title level="m">《妙慧童女所問經》</title>，應該刪去，前文已經說明了。</p></div><lb
 n="237.08"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:310">三一〇　<title>（寶積經43）普明菩薩會</title></ref><editor role="unknown-translator">失譯</editor></bibl><lb
-n="237.09"/><bibl><ref type="Taisho" target="no:350">三五〇　<title>佛說遺日摩尼寶經</title></ref><editor role="translator">漢支婁迦讖譯</editor></bibl><lb
+n="237.09"/><bibl><ref type="Taisho" target="no:350">三五〇　<title>佛說遺日摩尼寶經</title></ref><editor role="translator">，漢支婁迦讖譯</editor></bibl><lb
 n="237.10"/><bibl><ref type="Taisho" target="no:351">三五一　<title>佛說摩訶衍寶嚴經</title></ref><editor role="unknown-translator">失譯</editor></bibl><lb
-n="237.11"/><bibl><ref type="Taisho" target="no:352">三五二　<title>佛說大迦葉問大寶積正法經</title></ref><editor role="translator">趙宋施護譯</editor></bibl><lb
-n="237.12"/><bibl><ref type="Taisho" target="no:1469">一四六九　<title>佛說迦葉禁戒經</title></ref><editor role="translator">宋沮渠京聲譯</editor></bibl><lb
-n="237.13"/><bibl><ref type="Taisho" target="no:659">六五九　<title>（大乘寶雲經七）寶積品</title></ref><editor role="translator">梁曼陀羅仙共僧伽婆羅譯</editor></bibl></listBibl>
+n="237.11"/><bibl><ref type="Taisho" target="no:352">三五二　<title>佛說大迦葉問大寶積正法經</title></ref><editor role="translator">，趙宋施護譯</editor></bibl><lb
+n="237.12"/><bibl><ref type="Taisho" target="no:1469">一四六九　<title>佛說迦葉禁戒經</title></ref><editor role="translator">，宋沮渠京聲譯</editor></bibl><lb
+n="237.13"/><bibl><ref type="Taisho" target="no:659">六五九　<title>（大乘寶雲經七）寶積品</title></ref><editor role="translator">，梁曼陀羅仙共僧伽婆羅譯</editor></bibl></listBibl>
 <pb n="238"/><lb
 n="238.01"/><p>前四經，是同本異譯。<bibl><ref type="Taisho" target="no:1469">一四六九<title level="m">《佛說迦葉禁戒經》</title></ref></bibl>，是本經後分的異譯，<lb
 n="238.02"/>古人編入「律部」，應改編為<title level="m">《大寶積經》</title>四三會的異譯。六五九（七）<title level="a">〈寶積<lb
@@ -3225,108 +3225,108 @@ n="238.03"/>品〉</title>，也是本經的異譯，卻被編入<title level="m
 n="238.04"/>（三種），都是沒有這一品的。</p></div><lb
 n="238.05"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:457">四五七　<title>佛說彌勒來時經</title></ref><editor role="unknown-translator">失譯</editor></bibl></listBibl><lb
 n="238.06"/><p>本經也是四五三、四五四、四五六——三經的異譯</p></div><lb
-n="238.07"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:460">四六〇　<title>佛說文殊師利淨律經</title></ref><editor role="translator">晉竺法護譯</editor></bibl><lb
-n="238.08"/><bibl><ref type="Taisho" target="no:1489">一四八九　<title>清淨毘尼方廣經</title></ref><editor role="translator">姚秦鳩摩羅什譯</editor></bibl><lb
-n="238.09"/><bibl><ref type="Taisho" target="no:1490">一四九〇　<title>寂調音所問經</title></ref><editor role="translator">宋法海譯</editor></bibl></listBibl><lb
+n="238.07"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:460">四六〇　<title>佛說文殊師利淨律經</title></ref><editor role="translator">，晉竺法護譯</editor></bibl><lb
+n="238.08"/><bibl><ref type="Taisho" target="no:1489">一四八九　<title>清淨毘尼方廣經</title></ref><editor role="translator">，姚秦鳩摩羅什譯</editor></bibl><lb
+n="238.09"/><bibl><ref type="Taisho" target="no:1490">一四九〇　<title>寂調音所問經</title></ref><editor role="translator">，宋法海譯</editor></bibl></listBibl><lb
 n="238.10"/><p>三經是同本異譯，不應分編在二處，以編入「經集部」為宜。</p></div><lb
-n="238.11"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:489">四八九　<title>佛說除蓋障菩薩所問經</title></ref><editor role="translator">趙宋法護等譯</editor></bibl><lb
-n="238.12"/><bibl><ref type="Taisho" target="no:658">六五八　<title>寶雲經</title></ref><editor role="translator">梁曼陀羅仙譯</editor></bibl><lb
-n="238.13"/><bibl><ref type="Taisho" target="no:659">六五九　<title>大乘寶雲經</title></ref><editor role="translator">梁曼陀羅仙共僧伽婆羅譯</editor></bibl>
+n="238.11"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:489">四八九　<title>佛說除蓋障菩薩所問經</title></ref><editor role="translator">，趙宋法護等譯</editor></bibl><lb
+n="238.12"/><bibl><ref type="Taisho" target="no:658">六五八　<title>寶雲經</title></ref><editor role="translator">，梁曼陀羅仙譯</editor></bibl><lb
+n="238.13"/><bibl><ref type="Taisho" target="no:659">六五九　<title>大乘寶雲經</title></ref><editor role="translator">，梁曼陀羅仙共僧伽婆羅譯</editor></bibl>
 <pb n="239"/><lb
-n="239.01"/><bibl><ref type="Taisho" target="no:660">六六〇　<title>佛說寶雨經</title></ref><editor role="translator">唐達磨流支譯</editor></bibl></listBibl><lb
+n="239.01"/><bibl><ref type="Taisho" target="no:660">六六〇　<title>佛說寶雨經</title></ref><editor role="translator">，唐達磨流支譯</editor></bibl></listBibl><lb
 n="239.02"/><p>四經是同本異譯，應該先後次第，編在一處。<title level="m">《大乘寶雲經》</title>多了一品——<lb
 n="239.03"/>（七）<title level="a">〈寶積品〉</title>，是<bibl><title level="m">《大寶積經》</title>（四三）<title level="a">〈普明菩薩會〉</title></bibl>的異譯。</p></div><lb
-n="239.04"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:492">四九二　<title>佛說阿難問事佛吉凶經</title></ref><editor role="translator">漢安世高譯</editor></bibl><lb
-n="239.05"/><bibl><ref type="Taisho" target="no:495">四九五　<title>佛說阿難分別經</title></ref><editor role="translator">乞伏秦法堅譯</editor></bibl><lb
-n="239.06"/><bibl><ref type="Taisho" target="no:793">七三九　<title>慢法經</title></ref><editor role="translator">晉法炬譯</editor></bibl></listBibl><lb
+n="239.04"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:492">四九二　<title>佛說阿難問事佛吉凶經</title></ref><editor role="translator">，漢安世高譯</editor></bibl><lb
+n="239.05"/><bibl><ref type="Taisho" target="no:495">四九五　<title>佛說阿難分別經</title></ref><editor role="translator">，乞伏秦法堅譯</editor></bibl><lb
+n="239.06"/><bibl><ref type="Taisho" target="no:793">七三九　<title>慢法經</title></ref><editor role="translator">，晉法炬譯</editor></bibl></listBibl><lb
 n="239.07"/><p>三經是同本異譯，但<title level="m">《慢法經》</title>僅是該經的前分。<title>《大正藏》</title>分編在各處，<lb
 n="239.08"/>沒有注意到是同本異譯。</p></div><lb
-n="239.09"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:473">四七三　<title>佛說妙吉祥菩薩所問大乘法螺經</title></ref><editor role="translator">趙宋法賢譯</editor></bibl><lb
-n="239.10"/><bibl><ref type="Taisho" target="no:661">六<choice><sic>九</sic><corr resp="厚觀法師 謝淑歆">六<note resp="厚觀法師">《大乘百福相經》卷1：「大乘百福相經　大唐天竺三藏地婆訶羅譯」(CBETA, T16, no. 661, p. 328, c11-13)</note></corr></choice>一　<title>大乘百福相經</title></ref><editor role="translator">唐地婆訶羅譯</editor></bibl><lb
-n="239.11"/><bibl><ref type="Taisho" target="no:662">六<choice><sic>九</sic><corr resp="厚觀法師 謝淑歆">六<note resp="厚觀法師">《大乘百福莊嚴相經》卷1：「大乘百福莊嚴相經　大唐天竺三藏地婆訶羅再譯」(CBETA, T16, no. 662, p. 330, c20-22)</note></corr></choice>二　<title>大乘百福莊嚴經</title></ref><editor role="translator">唐地婆訶羅再譯</editor></bibl></listBibl><lb
+n="239.09"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:473">四七三　<title>佛說妙吉祥菩薩所問大乘法螺經</title></ref><editor role="translator">，趙宋法賢譯</editor></bibl><lb
+n="239.10"/><bibl><ref type="Taisho" target="no:661">六<choice><sic>九</sic><corr resp="厚觀法師 謝淑歆">六<note resp="厚觀法師">《大乘百福相經》卷1：「大乘百福相經　大唐天竺三藏地婆訶羅譯」(CBETA, T16, no. 661, p. 328, c11-13)</note></corr></choice>一　<title>大乘百福相經</title></ref><editor role="translator">，唐地婆訶羅譯</editor></bibl><lb
+n="239.11"/><bibl><ref type="Taisho" target="no:662">六<choice><sic>九</sic><corr resp="厚觀法師 謝淑歆">六<note resp="厚觀法師">《大乘百福莊嚴相經》卷1：「大乘百福莊嚴相經　大唐天竺三藏地婆訶羅再譯」(CBETA, T16, no. 662, p. 330, c20-22)</note></corr></choice>二　<title>大乘百福莊嚴經</title></ref><editor role="translator">，唐地婆訶羅再譯</editor></bibl></listBibl><lb
 n="239.12"/><p>三經是同本異譯。<bibl><ref type="Taisho" target="no:689">四八九<title level="m">《佛說除蓋障菩薩所問經》</title></ref></bibl>（及異譯各本）中，卷<lb
 n="239.13"/>七說<q type="嚴謹引文">「菩薩如風」<note resp="謝淑歆">《佛說除蓋障菩薩所問經》卷7(CBETA, T14, no. 489, p. 720, a7)</note></q>，有<q type="嚴謹引文">「百福之相」<note resp="謝淑歆">《佛說除蓋障菩薩所問經》卷7(CBETA, T14, no. 489, p. 721, a8)</note></q>，與本經大同。這部經傳出遲一些，可說是
 <pb n="240"/><lb
 n="240.01"/>摘出<title level="m">《除蓋障菩薩所問經》</title>的<q type="嚴謹引文">「百福之相」</q>，而自成一經的。</p></div><lb
-n="240.02"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:555">五五五　<title>五母子經</title></ref><editor role="translator">吳支謙譯</editor></bibl><lb
+n="240.02"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:555">五五五　<title>五母子經</title></ref><editor role="translator">，吳支謙譯</editor></bibl><lb
 n="240.03"/><bibl>（別本）　<title>五母子經</title><editor role="translator">吳支謙譯</editor></bibl><lb
 n="240.04"/><bibl><ref type="Taisho" target="no:750">七五〇　<title>沙彌羅經</title></ref><editor role="unknown-translator">失譯</editor></bibl></listBibl><lb
 n="240.05"/><p>二經是同本異譯。</p></div><lb
-n="240.06"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:598">五九八　<title>佛說海龍王經</title></ref><editor role="translator">晉竺法護譯</editor></bibl><lb
-n="240.07"/><bibl><ref type="Taisho" target="no:600">六〇〇　<title>十善業道經</title></ref><editor role="translator">唐實叉難陀譯</editor></bibl><lb
-n="240.08"/><bibl><ref type="Taisho" target="no:601">六〇一　<title>佛為娑伽羅龍王所說大乘經</title></ref><editor role="translator">趙宋施護譯</editor></bibl></listBibl><lb
+n="240.06"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:598">五九八　<title>佛說海龍王經</title></ref><editor role="translator">，晉竺法護譯</editor></bibl><lb
+n="240.07"/><bibl><ref type="Taisho" target="no:600">六〇〇　<title>十善業道經</title></ref><editor role="translator">，唐實叉難陀譯</editor></bibl><lb
+n="240.08"/><bibl><ref type="Taisho" target="no:601">六〇一　<title>佛為娑伽羅龍王所說大乘經</title></ref><editor role="translator">，趙宋施護譯</editor></bibl></listBibl><lb
 n="240.09"/><p>三經是同本異譯。後二經，僅是<bibl>《<title level="m">海龍王經</title>‧<title level="a">十德六度品</title>》</bibl>的部分異譯。</p></div><lb
-n="240.10"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:690">六九〇　<title>希有<choice><sic>校</sic><corr resp="厚觀法師 謝淑歆">挍<note resp="厚觀法師">《佛說希有挍量功德經》卷1：「佛說希有挍量功德經　隋天竺三藏闍那崛多譯」(CBETA, T16, no. 690, p. 783, c3-5)</note></corr></choice>量功德經</title></ref><editor role="translator">隋闍那崛多譯</editor></bibl><lb
-n="240.11"/><bibl><ref type="Taisho" target="no:691">六九一　<title>最無比經</title></ref><editor role="translator">唐玄奘譯</editor></bibl></listBibl><lb
+n="240.10"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:690">六九〇　<title>希有<choice><sic>校</sic><corr resp="厚觀法師 謝淑歆">挍<note resp="厚觀法師">《佛說希有挍量功德經》卷1：「佛說希有挍量功德經　隋天竺三藏闍那崛多譯」(CBETA, T16, no. 690, p. 783, c3-5)</note></corr></choice>量功德經</title></ref><editor role="translator">，隋闍那崛多譯</editor></bibl><lb
+n="240.11"/><bibl><ref type="Taisho" target="no:691">六九一　<title>最無比經</title></ref><editor role="translator">，唐玄奘譯</editor></bibl></listBibl><lb
 n="240.12"/><p>二經是同本異譯。</p></div><lb
-n="240.13"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:723">七二三　<title>分別業報略經</title></ref><editor role="translator">宋僧伽跋<choice><sic>澄</sic><corr resp="厚觀法師 謝淑歆">摩<note resp="厚觀法師">《分別業報略經》卷1：「分別業報略經　大勇菩薩撰　宋天竺三藏僧伽跋摩譯」(CBETA, T17, no. 723, p. 446, b22-25)</note></corr></choice>譯</editor></bibl>
+n="240.13"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:723">七二三　<title>分別業報略經</title></ref><editor role="translator">，宋僧伽跋<choice><sic>澄</sic><corr resp="厚觀法師 謝淑歆">摩<note resp="厚觀法師">《分別業報略經》卷1：「分別業報略經　大勇菩薩撰　宋天竺三藏僧伽跋摩譯」(CBETA, T17, no. 723, p. 446, b22-25)</note></corr></choice>譯</editor></bibl>
 <pb n="241"/><lb
-n="241.01"/><bibl><ref type="Taisho" target="no:725">七二五　<title>佛說六道伽陀經</title></ref><editor role="translator">趙宋法天譯</editor></bibl><lb
-n="241.02"/><bibl><ref type="Taisho" target="no:726">七二六　<title>六趣輪迴經</title></ref><editor role="translator">趙宋日稱譯</editor></bibl><lb
-n="241.03"/><bibl><ref type="Taisho" target="no:729">七二九　<title>分別善惡所起經</title></ref><editor role="translator">漢安世高譯</editor></bibl></listBibl><lb
+n="241.01"/><bibl><ref type="Taisho" target="no:725">七二五　<title>佛說六道伽陀經</title></ref><editor role="translator">，趙宋法天譯</editor></bibl><lb
+n="241.02"/><bibl><ref type="Taisho" target="no:726">七二六　<title>六趣輪迴經</title></ref><editor role="translator">，趙宋日稱譯</editor></bibl><lb
+n="241.03"/><bibl><ref type="Taisho" target="no:729">七二九　<title>分別善惡所起經</title></ref><editor role="translator">，漢安世高譯</editor></bibl></listBibl><lb
 n="241.04"/><p>四經是同本異譯。<title level="m">《分別善惡所起經》</title>，偈頌前多了一段長行。</p></div><lb
-n="241.05"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:734">七三四　<title>佛說鬼問目連經</title></ref><editor role="translator">漢安世高譯</editor></bibl><lb
-n="241.06"/><bibl><ref type="Taisho" target="no:745">七四五　<title>佛說雜藏經</title></ref><editor role="translator">晉法顯譯</editor></bibl><lb
+n="241.05"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:734">七三四　<title>佛說鬼問目連經</title></ref><editor role="translator">，漢安世高譯</editor></bibl><lb
+n="241.06"/><bibl><ref type="Taisho" target="no:745">七四五　<title>佛說雜藏經</title></ref><editor role="translator">，晉法顯譯</editor></bibl><lb
 n="241.07"/><bibl><ref type="Taisho" target="no:746">七四六　<title>餓鬼報應經</title></ref><editor role="unknown-translator">東晉失譯</editor></bibl></listBibl><lb
 n="241.08"/><p>三經是同本異譯。<bibl><ref type="Taisho" target="no:745">七四五<title level="m">《佛說雜藏經》</title></ref></bibl>，後面多了一段槃提王、月明夫人<lb
 n="241.09"/>等故事。</p></div><lb
-n="241.10"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:772">七七二　<title>大乘四法經</title></ref><editor role="translator">唐地婆訶羅譯</editor></bibl><lb
-n="241.11"/><bibl><ref type="Taisho" target="no:773">七七三　<title>佛說菩薩修行四法經</title></ref><editor role="translator">唐地婆訶羅譯</editor></bibl></listBibl><lb
+n="241.10"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:772">七七二　<title>大乘四法經</title></ref><editor role="translator">，唐地婆訶羅譯</editor></bibl><lb
+n="241.11"/><bibl><ref type="Taisho" target="no:773">七七三　<title>佛說菩薩修行四法經</title></ref><editor role="translator">，唐地婆訶羅譯</editor></bibl></listBibl><lb
 n="241.12"/><p>二經同本，同一人譯出，應該是初譯本與再治本。</p></div><lb
-n="241.13"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:811">八一一　<title>佛說決定總持經</title></ref><editor role="translator">晉竺法護譯</editor></bibl>
+n="241.13"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:811">八一一　<title>佛說決定總持經</title></ref><editor role="translator">，晉竺法護譯</editor></bibl>
 <pb n="242"/><lb
-n="242.01"/><bibl><ref type="Taisho" target="no:831">八三一　<title>謗佛經</title></ref><editor role="translator">元魏菩提流支譯</editor></bibl></listBibl><lb
+n="242.01"/><bibl><ref type="Taisho" target="no:831">八三一　<title>謗佛經</title></ref><editor role="translator">，元魏菩提流支譯</editor></bibl></listBibl><lb
 n="242.02"/><p>二經是同本異譯。</p></div><lb
-n="242.03"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:846">八四六　<title>外道問聖大乘法無我義經</title></ref><editor role="translator">趙宋法天譯</editor></bibl><lb
-n="242.04"/><bibl><ref type="Taisho" target="no:1643">一六四三　<title>尼乾子問無我義經</title></ref><editor role="translator">趙宋日稱等譯</editor></bibl></listBibl><lb
+n="242.03"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:846">八四六　<title>外道問聖大乘法無我義經</title></ref><editor role="translator">，趙宋法天譯</editor></bibl><lb
+n="242.04"/><bibl><ref type="Taisho" target="no:1643">一六四三　<title>尼乾子問無我義經</title></ref><editor role="translator">，趙宋日稱等譯</editor></bibl></listBibl><lb
 n="242.05"/><p>二本似乎是經、論不同，然文義次第是一致的，應為同本別傳的異譯。</p></div><lb
-n="242.06"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:157">一五七　<title>悲華經</title></ref><editor role="translator">涼曇無讖譯</editor></bibl><lb
+n="242.06"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:157">一五七　<title>悲華經</title></ref><editor role="translator">，涼曇無讖譯</editor></bibl><lb
 n="242.07"/><bibl><ref type="Taisho" target="no:158">一五八　<title>大乘悲分陀利經</title></ref><editor role="unknown-translator">秦失譯</editor></bibl></listBibl><lb
 n="242.08"/><p>二經是同本異譯。</p></div><lb
-n="242.09"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:191">一九一　<title>佛說眾許摩訶帝經</title></ref><editor role="translator">趙宋法賢譯</editor></bibl></listBibl><lb
+n="242.09"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:191">一九一　<title>佛說眾許摩訶帝經</title></ref><editor role="translator">，趙宋法賢譯</editor></bibl></listBibl><lb
 n="242.10"/><p>本經是<bibl><ref type="Taisho" target="no:1450">一四五〇<title level="m">《根本說一切有部毘奈耶破僧事》</title></ref>，<biblScope type="卷" from="1" to="9">卷一——卷九</biblScope></bibl>的異譯。</p></div><lb
-n="242.11"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:199">一九九　<title>佛五百弟子自說本起經</title></ref><editor role="translator">晉竺法護譯</editor></bibl></listBibl><lb
+n="242.11"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:199">一九九　<title>佛五百弟子自說本起經</title></ref><editor role="translator">，晉竺法護譯</editor></bibl></listBibl><lb
 n="242.12"/><p>本經是從<bibl><ref type="Taisho" target="no:1448">一四四八<title level="m">《根本說一切有部毘奈耶藥事》</title></ref><biblScope type="卷" from="16" to="18">（卷一六——一八）</biblScope></bibl>中摘<lb
 n="242.13"/>出別譯的。末品<title level="a">〈世尊品〉</title>，在<title level="m">《藥事》</title>作長行。</p></div>
 <pb n="243"/><lb
-n="243.01"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1491">一四九一　<title>菩薩藏經</title></ref><editor role="translator">梁僧伽婆羅譯</editor></bibl><lb
-n="243.02"/><bibl><ref type="Taisho" target="no:1492">一四九二　<title>佛說舍利弗悔過經</title></ref><editor role="translator">漢安世高譯</editor></bibl><lb
-n="243.03"/><bibl><ref type="Taisho" target="no:1493">一四九三　<title>大乘三聚懺悔經</title></ref><editor role="translator">隋闍那崛多共笈多譯</editor></bibl></listBibl><lb
+n="243.01"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1491">一四九一　<title>菩薩藏經</title></ref><editor role="translator">，梁僧伽婆羅譯</editor></bibl><lb
+n="243.02"/><bibl><ref type="Taisho" target="no:1492">一四九二　<title>佛說舍利弗悔過經</title></ref><editor role="translator">，漢安世高譯</editor></bibl><lb
+n="243.03"/><bibl><ref type="Taisho" target="no:1493">一四九三　<title>大乘三聚懺悔經</title></ref><editor role="translator">，隋闍那崛多共笈多譯</editor></bibl></listBibl><lb
 n="243.04"/><p>三經是同本異譯。</p></div><lb
-n="243.05"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1557">一五五七　<title>阿毘曇五法行經</title></ref><editor role="translator">漢安世高譯</editor></bibl><lb
-n="243.06"/><bibl><ref type="Taisho" target="no:1556">一五五六　<title>薩婆多宗五事論</title></ref><editor role="translator">唐法成譯</editor></bibl></listBibl><lb
+n="243.05"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1557">一五五七　<title>阿毘曇五法行經</title></ref><editor role="translator">，漢安世高譯</editor></bibl><lb
+n="243.06"/><bibl><ref type="Taisho" target="no:1556">一五五六　<title>薩婆多宗五事論</title></ref><editor role="translator">，唐法成譯</editor></bibl></listBibl><lb
 n="243.07"/><p>二本是同本異譯。是<bibl><ref type="Taisho" target="no:1541">一五四一《<title level="m">眾事分阿毘曇論</title>‧<title level="a">五法品</title>》</ref></bibl>，<bibl><ref type="Taisho" target="no:1542">一五四二《<title level="m"><lb
 n="243.08"/>阿毘達磨品類足論</title>‧<title level="a">辯五事品</title>》</ref></bibl>的異譯。<title level="m">《阿毘曇五法行經》</title>，五法前有苦法<lb
 n="243.09"/>黠<note place="inline">智</note>等八智的解說，應是抄寫者附錄上去的。<bibl><ref type="Taisho" target="no:1155">一一五五<title level="m">《五事毘婆沙論》</title></ref></bibl>，是<title level="a">〈<lb
 n="243.10"/>辯五事品〉</title>的廣釋。<title>《大正藏》</title>所注不分明。</p></div><lb
-n="243.11"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1641">一六四一　<title>隨相論</title></ref><editor role="translator">陳真諦譯</editor></bibl></listBibl><lb
+n="243.11"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1641">一六四一　<title>隨相論</title></ref><editor role="translator">，陳真諦譯</editor></bibl></listBibl><lb
 n="243.12"/><p>本論解說<bibl><ref type="Taisho" target="no:1558">一五五八<title level="m">《阿毘達磨俱舍論》</title></ref></bibl>的四諦、十六行相，應編於<bibl><ref type="Taisho" target="no:1561">一五六一<lb
 n="243.13"/><title level="m">《俱舍論實義疏》</title></ref></bibl>以下。</p></div>
 <pb n="244"/><lb
-n="244.01"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1616">一六一六　<title>十八空論</title></ref><editor role="translator">陳真諦譯</editor></bibl></listBibl><lb
+n="244.01"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1616">一六一六　<title>十八空論</title></ref><editor role="translator">，陳真諦譯</editor></bibl></listBibl><lb
 n="244.02"/><p>本論的內容，是<bibl><ref type="Taisho" target="no:1599">一五九九<title level="m">《中邊分別論》</title></ref></bibl>的部分解釋，應編在<title level="m">《辯中邊論》</title><lb
 n="244.03"/>等以下。</p></div><lb
-n="244.04"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1619">一六一九　<title>無相思塵論</title></ref><editor role="translator">陳真諦譯</editor></bibl><lb
-n="244.05"/><bibl><ref type="Taisho" target="no:1624">一六二四　<title>觀所緣緣論</title></ref><editor role="translator">唐玄奘譯</editor></bibl></listBibl><lb
+n="244.04"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1619">一六一九　<title>無相思塵論</title></ref><editor role="translator">，陳真諦譯</editor></bibl><lb
+n="244.05"/><bibl><ref type="Taisho" target="no:1624">一六二四　<title>觀所緣緣論</title></ref><editor role="translator">，唐玄奘譯</editor></bibl></listBibl><lb
 n="244.06"/><p>二論是同本異譯。</p></div><lb
-n="244.07"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1620">一六二〇　<title>解捲論</title></ref><editor role="translator">陳真諦譯</editor></bibl><lb
-n="244.08"/><bibl><ref type="Taisho" target="no:1621">一六二一　<title>掌中論</title></ref><editor role="translator">唐義淨譯</editor></bibl></listBibl><lb
+n="244.07"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1620">一六二〇　<title>解捲論</title></ref><editor role="translator">，陳真諦譯</editor></bibl><lb
+n="244.08"/><bibl><ref type="Taisho" target="no:1621">一六二一　<title>掌中論</title></ref><editor role="translator">，唐義淨譯</editor></bibl></listBibl><lb
 n="244.09"/><p>二論是同本異譯。</p></div><lb
-n="244.10"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:355">三五五　<title>入法界體性經</title></ref><editor role="translator">隋闍那崛多譯</editor></bibl><lb
-n="244.11"/><bibl><ref type="Taisho" target="no:356">三五六　<title>佛說寶積三昧文殊師利菩薩問法身經</title></ref><editor role="translator">漢安世高譯</editor></bibl></listBibl><lb
+n="244.10"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:355">三五五　<title>入法界體性經</title></ref><editor role="translator">，隋闍那崛多譯</editor></bibl><lb
+n="244.11"/><bibl><ref type="Taisho" target="no:356">三五六　<title>佛說寶積三昧文殊師利菩薩問法身經</title></ref><editor role="translator">，漢安世高譯</editor></bibl></listBibl><lb
 n="244.12"/><p>二經是同本異譯。</p></div><lb
-n="244.13"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1467">一四六七　<title>佛說犯戒罪報輕重經</title></ref><editor role="translator">漢安世高譯</editor></bibl>
+n="244.13"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1467">一四六七　<title>佛說犯戒罪報輕重經</title></ref><editor role="translator">，漢安世高譯</editor></bibl>
 <pb n="245"/><lb
-n="245.01"/><bibl><ref type="Taisho" target="no:1468">一四六八　<title>佛說目連所問經</title></ref><editor role="translator">趙宋法天譯</editor></bibl></listBibl><lb
+n="245.01"/><bibl><ref type="Taisho" target="no:1468">一四六八　<title>佛說目連所問經</title></ref><editor role="translator">，趙宋法天譯</editor></bibl></listBibl><lb
 n="245.02"/><p>二經是同本異譯。<cit><bibl><title level="m">《佛說犯戒罪報輕重經》</title>，在</bibl><q type="嚴謹引文">「目連聞佛所說，歡喜奉行<lb
 n="245.03"/>」</q><note resp="謝淑歆">《佛說犯戒罪報輕重經》卷1(CBETA, T24, no. 1467a, p. 910, c7-8)</note></cit>下，又有<q type="嚴謹引文">「爾時，尊者目連即說偈言」<note resp="謝淑歆">《佛說犯戒罪報輕重經》卷1(CBETA, T24, no. 1467a, p. 910, c9)</note></q>一段，是<title level="m">《佛說目連所問經》</title>所沒有的<lb
 n="245.04"/>。一般說，<q type="嚴謹引文">「聞佛所說，歡喜奉行」</q>，表示經文的終了，<q type="嚴謹引文">「目連即說偈言」</q>，是<lb
 n="245.05"/>不合常情的。偈頌是不屬於這部經的，是譯者或後人所增附，仰推為目連所說，<lb
 n="245.06"/>不過為了引人的尊重而已。</p></div><lb
-n="245.07"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1511">一五一一　<title>金剛般若波羅蜜經論</title></ref><editor role="translator">元魏菩提流支譯</editor></bibl><lb
-n="245.08"/><bibl><ref type="Taisho" target="no:1513">一五一三　<title>能斷金剛般若波羅蜜多經論釋</title></ref><editor role="translator">唐義淨譯</editor></bibl><lb
-n="245.09"/><bibl><ref type="Taisho" target="no:1512">一五一二　<title>金剛仙論</title></ref><editor role="translator">元魏菩提流支譯</editor></bibl><lb
-n="245.10"/><bibl><ref type="Taisho" target="no:1515">一五一五　<title>金剛般若波羅蜜經破取著不壞假名論</title></ref><editor role="translator">唐地婆訶羅等譯</editor></bibl></listBibl><lb
+n="245.07"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1511">一五一一　<title>金剛般若波羅蜜經論</title></ref><editor role="translator">，元魏菩提流支譯</editor></bibl><lb
+n="245.08"/><bibl><ref type="Taisho" target="no:1513">一五一三　<title>能斷金剛般若波羅蜜多經論釋</title></ref><editor role="translator">，唐義淨譯</editor></bibl><lb
+n="245.09"/><bibl><ref type="Taisho" target="no:1512">一五一二　<title>金剛仙論</title></ref><editor role="translator">，元魏菩提流支譯</editor></bibl><lb
+n="245.10"/><bibl><ref type="Taisho" target="no:1515">一五一五　<title>金剛般若波羅蜜經破取著不壞假名論</title></ref><editor role="translator">，唐地婆訶羅等譯</editor></bibl></listBibl><lb
 n="245.11"/><p>無著造偈頌，世親長行解釋，一五一一與一五一三，是這部論的同本異譯。<lb
 n="245.12"/>一五一二，是這部論釋的廣說。一五一五的次第，也是依這部論釋而說的，又兼<lb
 n="245.13"/>取龍樹的中觀說。後二論是解說前論，不能說是同本異譯的。</p></div></div>
@@ -3337,7 +3337,7 @@ n="246.03"/>若部」、「法華部」、「華嚴部」、「寶積部」、�
 n="246.04"/>經集部」、「密教部」、「律部」、「釋經論部」、「毘曇部」、「中觀部」、<lb
 n="246.05"/>「瑜伽部」、「論集部」。部類的區分，有了良好的新的開始；但對傳譯教典的<lb
 n="246.06"/>分部，有些還需要作進一步的審定，如：</p><lb
-n="246.07"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:120">一二〇　<title>央掘魔羅經</title></ref><editor role="translator">宋求那跋陀羅譯</editor></bibl></listBibl><lb
+n="246.07"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:120">一二〇　<title>央掘魔羅經</title></ref><editor role="translator">，宋求那跋陀羅譯</editor></bibl></listBibl><lb
 n="246.08"/><p>央掘魔羅，與<bibl><title level="m">《雜阿含》</title><ref type="Taisho" target="no:99.1077">（一〇七七）經</ref></bibl>所說的，當然是同一人。但本經的<lb
 n="246.09"/>內容，呵斥一切法空，說如來藏我，解脫身有色，怎可編入「阿含部」！本經的<lb
 n="246.10"/>思想，與<title level="m">《阿含經》</title>無關，應編入「經集部」，與<bibl><ref type="Taisho" target="no:666">六六六<title level="m">《大方等如來藏經》</title></ref></bibl>，<lb
@@ -3345,13 +3345,13 @@ n="246.11"/>……<bibl><ref type="Taisho" target="no:669">六六九<title level
 n="246.12"/>為一類。</p></div>
 <pb n="247"/><lb
 n="247.01"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:156">一五六　<title>大方便佛報恩經</title></ref><editor role="unknown-translator">失譯</editor></bibl><lb
-n="247.02"/><bibl><ref type="Taisho" target="no:157">一五七　<title>悲華經</title></ref><editor role="translator">涼曇無讖譯</editor></bibl><lb
+n="247.02"/><bibl><ref type="Taisho" target="no:157">一五七　<title>悲華經</title></ref><editor role="translator">，涼曇無讖譯</editor></bibl><lb
 n="247.03"/><bibl><ref type="Taisho" target="no:158">一五八　<title>大乘悲分陀利經</title></ref><editor role="unknown-translator">失譯</editor></bibl><lb
-n="247.04"/><bibl><ref type="Taisho" target="no:159">一五九　<title>大乘本生心地觀經</title></ref><editor role="translator">唐般若譯</editor></bibl></listBibl><lb
+n="247.04"/><bibl><ref type="Taisho" target="no:159">一五九　<title>大乘本生心地觀經</title></ref><editor role="translator">，唐般若譯</editor></bibl></listBibl><lb
 n="247.05"/><p>這四部經，編在「本緣部」，都不大適合。前三經，應編入（大乘）「經集<lb
 n="247.06"/>部」。<title level="m">《大乘本生心地觀經》</title>，說發菩提心，依月輪觀修三種秘密法門，速證菩<lb
 n="247.07"/>提，應編入「密教部」。</p></div><lb
-n="247.08"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1482">一四八二　<title>佛阿毘曇經</title></ref><editor role="translator">陳真諦譯</editor></bibl></listBibl><lb
+n="247.08"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1482">一四八二　<title>佛阿毘曇經</title></ref><editor role="translator">，陳真諦譯</editor></bibl></listBibl><lb
 n="247.09"/><p>本經二卷，附題「出家相品」，被編入「律部」。其實，這是真諦所傳的，<lb
 n="247.10"/>「佛說九分阿毘曇」的殘本。本有九卷（九分），今只存二卷。二卷的內容是：<lb
 n="247.11"/>前明因緣，與<title level="m">《稻芉經》</title>等相同，佛說（<title level="m">《稻芉經》</title>等作彌勒說），這是「九分<lb
@@ -3359,39 +3359,39 @@ n="247.12"/>毘曇」中的「分別說因緣」——因緣施設。次明律�
 n="247.13"/>是「九分毘曇」中的「分別說戒」——戒施設。這是真諦（依正量部）所傳的「
 <pb n="248"/><lb
 n="248.01"/>九分阿毘曇」殘本，應編入「毘曇部」。</p></div><lb
-n="248.02"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1505">一五〇五　<title>四阿鋡暮抄解</title></ref><editor role="translator">苻秦鳩摩羅佛提等譯</editor></bibl><lb
-n="248.03"/><bibl><ref type="Taisho" target="no:1506">一五〇六　<title>三法度論</title></ref><editor role="translator">東晉僧伽提婆譯</editor></bibl></listBibl><lb
+n="248.02"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1505">一五〇五　<title>四阿鋡暮抄解</title></ref><editor role="translator">，苻秦鳩摩羅佛提等譯</editor></bibl><lb
+n="248.03"/><bibl><ref type="Taisho" target="no:1506">一五〇六　<title>三法度論</title></ref><editor role="translator">，東晉僧伽提婆譯</editor></bibl></listBibl><lb
 n="248.04"/><p>二論是同本異譯。本論不是四阿含經文的解釋，是犢子部系的阿毘曇論。不<lb
 n="248.05"/>是「釋經論」，應編入「毘曇部」。</p><lb
 n="248.06"/><p>犢子部系的論書，還有<bibl><ref type="Taisho" target="no:1644">一六四四<title level="m">《佛說立世阿毘曇論》</title></ref></bibl>，<bibl><ref type="Taisho" target="no:1649">一六四九<title level="m">《三彌底<lb
 n="248.07"/><note place="inline" rendition="#inline_small_note">正量</note>部論》</title></ref></bibl>，與上二部，都應次第的編入「毘曇部」。</p></div><lb
-n="248.08"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1549">一五四九　<title>尊婆須蜜菩薩所集論</title></ref><editor role="translator">苻秦僧伽跋澄譯</editor></bibl></listBibl><lb
+n="248.08"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1549">一五四九　<title>尊婆須蜜菩薩所集論</title></ref><editor role="translator">，苻秦僧伽跋澄譯</editor></bibl></listBibl><lb
 n="248.09"/><p>本論就是瑜伽學者所傳的，「經部異師世友」的<title level="m">《問論》</title>。在說一切有部中<lb
 n="248.10"/>，這是「持經譬喻者」的論書，應編入「論集部」。</p></div><lb
-n="248.11"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1631">一六三一　<title>迴諍論</title></ref><editor role="translator">魏毘目智仙共瞿曇流支譯</editor></bibl><lb
-n="248.12"/><bibl><ref type="Taisho" target="no:1656">一六五六　<title>寶行王正論</title></ref><editor role="translator">陳真諦譯</editor></bibl><lb
-n="248.13"/><bibl><ref type="Taisho" target="no:1660">一六六〇　<title>菩提資糧論</title></ref><editor role="translator">隋達磨笈多譯</editor></bibl>
+n="248.11"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1631">一六三一　<title>迴諍論</title></ref><editor role="translator">，魏毘目智仙共瞿曇流支譯</editor></bibl><lb
+n="248.12"/><bibl><ref type="Taisho" target="no:1656">一六五六　<title>寶行王正論</title></ref><editor role="translator">，陳真諦譯</editor></bibl><lb
+n="248.13"/><bibl><ref type="Taisho" target="no:1660">一六六〇　<title>菩提資糧論</title></ref><editor role="translator">，隋達磨笈多譯</editor></bibl>
 <pb n="249"/><lb
-n="249.01"/><bibl><ref type="Taisho" target="no:1672">一六七二　<title>龍樹菩薩為禪陀迦王說法要偈</title></ref><editor role="translator">宋求那跋摩譯</editor></bibl><lb
-n="249.02"/><bibl><ref type="Taisho" target="no:1673">一六七三　<title>勸發諸王要偈</title></ref><editor role="translator">宋僧伽跋<choice><sic>澄</sic><corr resp="厚觀法師 謝淑歆">摩<note resp="厚觀法師">《勸發諸王要偈》卷1：「勸發諸王要偈　龍樹菩薩撰　宋天竺三藏[1]僧伽跋摩譯」(CBETA, T32, no. 1673, p. 748, a7-10)[1]僧伽＝求那【宋】【元】【明】。</note></corr></choice>譯</editor></bibl><lb
-n="249.03"/><bibl><ref type="Taisho" target="no:1674">一六七四　<title>龍樹菩薩勸誡王頌</title></ref><editor role="translator">唐義淨譯</editor></bibl></listBibl><lb
+n="249.01"/><bibl><ref type="Taisho" target="no:1672">一六七二　<title>龍樹菩薩為禪陀迦王說法要偈</title></ref><editor role="translator">，宋求那跋摩譯</editor></bibl><lb
+n="249.02"/><bibl><ref type="Taisho" target="no:1673">一六七三　<title>勸發諸王要偈</title></ref><editor role="translator">，宋僧伽跋<choice><sic>澄</sic><corr resp="厚觀法師 謝淑歆">摩<note resp="厚觀法師">《勸發諸王要偈》卷1：「勸發諸王要偈　龍樹菩薩撰　宋天竺三藏[1]僧伽跋摩譯」(CBETA, T32, no. 1673, p. 748, a7-10)[1]僧伽＝求那【宋】【元】【明】。</note></corr></choice>譯</editor></bibl><lb
+n="249.03"/><bibl><ref type="Taisho" target="no:1674">一六七四　<title>龍樹菩薩勸誡王頌</title></ref><editor role="translator">，唐義淨譯</editor></bibl></listBibl><lb
 n="249.04"/><p>後三部偈頌，是同本異譯。上列六部論，都是龍樹所作，應編入「中觀部」<lb
 n="249.05"/>。</p></div><lb
 n="249.06"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1654">一六五四　<title><choice><orig>因緣心論頌釋</orig><reg>因緣心論頌、因緣心論釋</reg></choice><note resp="厚觀法師">《因緣心論頌因緣心論釋》卷1：「[4]因緣心論頌　龍猛菩薩作」(CBETA, T32, no. 1654, p. 490, a25-27)[4]大英博物館藏燉煌本 S. 1358【敦】，同別本 S. 246.2【聖乙】。</note></title></ref><editor role="unknown-translator">失譯</editor></bibl><lb
-n="249.07"/><bibl><ref type="Taisho" target="no:1664">一六六四　<title>廣釋菩提心論</title></ref><editor role="translator">趙宋施護譯</editor></bibl></listBibl><lb
+n="249.07"/><bibl><ref type="Taisho" target="no:1664">一六六四　<title>廣釋菩提心論</title></ref><editor role="translator">，趙宋施護譯</editor></bibl></listBibl><lb
 n="249.08"/><p>一六五四是龍樹論，一六六四是蓮華戒所造，都應該編入「中觀部」。</p></div><lb
 n="249.09"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1665">一六六五　<title>金剛頂瑜伽中發阿耨<lb
-n="249.10"/>　　　　　多羅三藐三菩提心論</title></ref><editor role="translator">唐不空譯<note place="inline">出</note></editor></bibl></listBibl><lb
+n="249.10"/>　　　　　多羅三藐三菩提心論</title></ref><editor role="translator">，唐不空譯<note place="inline">出</note></editor></bibl></listBibl><lb
 n="249.11"/><p>本論應編入「密教部」。</p></div><lb
-n="249.12"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:498">四九八　<title>佛說初分說經</title></ref><editor role="translator">趙宋施護譯</editor></bibl></listBibl><lb
+n="249.12"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:498">四九八　<title>佛說初分說經</title></ref><editor role="translator">，趙宋施護譯</editor></bibl></listBibl><lb
 n="249.13"/><p>經說佛化三迦葉，化頻婆娑羅王，化二大弟子，是佛傳的一部分，應編入「
 <pb n="250"/><lb
 n="250.01"/>本緣部」。</p></div><lb
-n="250.02"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:240">二四〇　<title>實相般若波羅蜜經</title></ref><editor role="translator">唐菩提流志譯</editor></bibl><lb
-n="250.03"/><bibl><ref type="Taisho" target="no:241">二四一　<title>金剛頂瑜伽理趣般若經</title></ref><editor role="translator">唐金剛智譯</editor></bibl><lb
-n="250.04"/><bibl><ref type="Taisho" target="no:242">二四二　<title>佛說遍照般若波羅蜜經</title></ref><editor role="translator">趙宋施護譯</editor></bibl><lb
-n="250.05"/><bibl><ref type="Taisho" target="no:243">二四三　<title>大樂金剛不空真實三麼耶經</title></ref><editor role="translator">唐不空譯</editor></bibl><lb
-n="250.06"/><bibl><ref type="Taisho" target="no:244">二四四　<title>佛說最上根本大樂金剛不空三昧大教王經</title></ref><editor role="translator">趙宋法賢譯</editor></bibl></listBibl><lb
+n="250.02"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:240">二四〇　<title>實相般若波羅蜜經</title></ref><editor role="translator">，唐菩提流志譯</editor></bibl><lb
+n="250.03"/><bibl><ref type="Taisho" target="no:241">二四一　<title>金剛頂瑜伽理趣般若經</title></ref><editor role="translator">，唐金剛智譯</editor></bibl><lb
+n="250.04"/><bibl><ref type="Taisho" target="no:242">二四二　<title>佛說遍照般若波羅蜜經</title></ref><editor role="translator">，趙宋施護譯</editor></bibl><lb
+n="250.05"/><bibl><ref type="Taisho" target="no:243">二四三　<title>大樂金剛不空真實三麼耶經</title></ref><editor role="translator">，唐不空譯</editor></bibl><lb
+n="250.06"/><bibl><ref type="Taisho" target="no:244">二四四　<title>佛說最上根本大樂金剛不空三昧大教王經</title></ref><editor role="translator">，趙宋法賢譯</editor></bibl></listBibl><lb
 n="250.07"/><p>這幾部經的心要，是<bibl><ref type="Taisho" target="no:220">二二〇<title level="m">《大般若波羅蜜多經》</title></ref>（一〇）<title level="a">〈般若理趣分〉</title></bibl><lb
 n="250.08"/>的異譯。<title level="a">〈般若理趣分〉</title>的經義，是屬於「秘密大乘」的，但沒有密教的事相。<lb
 n="250.09"/>二四〇——二四三經，譯文附入了秘密字義及咒語；二四四經更大為擴編，成為<lb
@@ -3400,45 +3400,45 @@ n="250.11"/>密字門，三密加持，用作成佛方便的，就屬於秘密�
 n="250.12"/>」，但應注明與「般若部」<title level="a">〈般若理趣分〉</title>的關係。</p></div><lb
 n="250.13"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:230">二三〇　<title>聖八千頌般若波羅蜜多一
 <pb n="251"/><lb
-n="251.01"/>　　　　百八名真實圓義陀羅尼經</title></ref><editor role="translator">趙宋施護等譯</editor></bibl><lb
-n="251.02"/><bibl><ref type="Taisho" target="no:249">二四九　<title>佛說帝釋般若波羅<choice><sic>密</sic><corr resp="厚觀法師 謝淑歆">蜜<note resp="厚觀法師">《佛說帝釋般若波羅蜜多心經》卷1：「[1]佛說帝釋般若波羅蜜多心經」(CBETA, T08, no. 249, p. 846, b18)[1]〔佛說〕－【宋】【元】【宮】。</note></corr></choice>多心經</title></ref><editor role="translator">趙宋施護譯</editor></bibl><lb
-n="251.03"/><bibl><ref type="Taisho" target="no:258">二五八　<title>佛說聖<choice><sic></sic><corr resp="厚觀法師 謝淑歆">佛<note resp="厚觀法師">《佛說聖佛母小字般若波羅蜜多經》卷1：「[9]佛說聖佛母小字般若波羅蜜多經」(CBETA, T08, no. 258, p. 852, c23-24)[9]〔佛說〕－【元】【明】。</note></corr></choice>母小字般若波羅蜜多經</title></ref><editor role="translator">趙宋天息災譯</editor></bibl><lb
-n="251.04"/><bibl><ref type="Taisho" target="no:259">二五九　<title>佛說觀想佛母般若波羅蜜多菩薩經</title></ref><editor role="translator">趙宋天息災譯</editor></bibl></listBibl><lb
+n="251.01"/>　　　　百八名真實圓義陀羅尼經</title></ref><editor role="translator">，趙宋施護等譯</editor></bibl><lb
+n="251.02"/><bibl><ref type="Taisho" target="no:249">二四九　<title>佛說帝釋般若波羅<choice><sic>密</sic><corr resp="厚觀法師 謝淑歆">蜜<note resp="厚觀法師">《佛說帝釋般若波羅蜜多心經》卷1：「[1]佛說帝釋般若波羅蜜多心經」(CBETA, T08, no. 249, p. 846, b18)[1]〔佛說〕－【宋】【元】【宮】。</note></corr></choice>多心經</title></ref><editor role="translator">，趙宋施護譯</editor></bibl><lb
+n="251.03"/><bibl><ref type="Taisho" target="no:258">二五八　<title>佛說聖<choice><sic></sic><corr resp="厚觀法師 謝淑歆">佛<note resp="厚觀法師">《佛說聖佛母小字般若波羅蜜多經》卷1：「[9]佛說聖佛母小字般若波羅蜜多經」(CBETA, T08, no. 258, p. 852, c23-24)[9]〔佛說〕－【元】【明】。</note></corr></choice>母小字般若波羅蜜多經</title></ref><editor role="translator">，趙宋天息災譯</editor></bibl><lb
+n="251.04"/><bibl><ref type="Taisho" target="no:259">二五九　<title>佛說觀想佛母般若波羅蜜多菩薩經</title></ref><editor role="translator">，趙宋天息災譯</editor></bibl></listBibl><lb
 n="251.05"/><p>上四部，應從「般若部」移編「密教部」。在西藏大藏中，這都是屬於密部<lb
 n="251.06"/>的。</p></div><lb
-n="251.07"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:368">三六八　<title>拔一切業障根本得生淨土神<choice><sic>咒</sic><corr resp="厚觀法師 謝淑歆">呪<note resp="厚觀法師">《拔一切業障根本得生淨土神咒》卷1：「[9]拔一切業障根本得生淨土神呪」(CBETA, T12, no. 368, p. 351, c3)[9]麗本宋本缺此經，依明本採錄與元本對校。</note></corr></choice></title></ref><editor role="translator">宋求那跋陀羅譯</editor></bibl><lb
+n="251.07"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:368">三六八　<title>拔一切業障根本得生淨土神<choice><sic>咒</sic><corr resp="厚觀法師 謝淑歆">呪<note resp="厚觀法師">《拔一切業障根本得生淨土神咒》卷1：「[9]拔一切業障根本得生淨土神呪」(CBETA, T12, no. 368, p. 351, c3)[9]麗本宋本缺此經，依明本採錄與元本對校。</note></corr></choice></title></ref><editor role="translator">，宋求那跋陀羅譯</editor></bibl><lb
 n="251.08"/><bibl><ref type="Taisho" target="no:369">三六九　<title>阿彌陀佛說<choice><sic>咒</sic><corr resp="厚觀法師 謝淑歆">呪<note resp="厚觀法師">《阿彌陀佛說咒》卷1：「阿彌陀佛說呪」(CBETA, T12, no. 369, p. 352, a23)</note></corr></choice></title></ref></bibl><lb
 n="251.09"/><bibl><ref type="Taisho" target="no:370">三七〇　<title>阿彌陀鼓音聲王陀羅尼經</title></ref><editor role="unknown-translator">失譯</editor></bibl></listBibl><lb
 n="251.10"/><p>上三部，應編入「密教部」。<title level="m">《大寶積經》</title>四十九會中，（二）<title level="a">〈無邊莊嚴<lb
 n="251.11"/>會〉</title>，應屬「秘密部」，但已編入<title level="m">《寶積經》</title>大部中，只能如舊編列。</p></div><lb
-n="251.12"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:397">三九七　<title>（九）寶幢分</title></ref><editor role="translator">北涼曇無讖譯</editor></bibl><lb
-n="251.13"/><bibl><ref type="Taisho" target="no:397">三九七　<title>（一〇）虛空目分</title></ref><editor role="translator">北涼曇無讖譯</editor></bibl>
+n="251.12"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:397">三九七　<title>（九）寶幢分</title></ref><editor role="translator">，北涼曇無讖譯</editor></bibl><lb
+n="251.13"/><bibl><ref type="Taisho" target="no:397">三九七　<title>（一〇）虛空目分</title></ref><editor role="translator">，北涼曇無讖譯</editor></bibl>
 <pb n="252"/><lb
-n="252.01"/><bibl><ref type="Taisho" target="no:397">三九七　<title>（一三）日密分</title></ref><editor role="translator">北涼曇無讖譯</editor></bibl><lb
-n="252.02"/><bibl><ref type="Taisho" target="no:397">三九七　<title>（一四）日藏分</title></ref><editor role="translator">隋那連提耶舍譯</editor></bibl><lb
-n="252.03"/><bibl><ref type="Taisho" target="no:397">三九七　<title>（一五）月藏分</title></ref><editor role="translator">高齊那連提耶舍譯</editor></bibl><lb
-n="252.04"/><bibl><ref type="Taisho" target="no:397">三九七　<title>（一六）須彌藏分</title></ref><editor role="translator">高齊那連提耶舍譯</editor></bibl></listBibl><lb
+n="252.01"/><bibl><ref type="Taisho" target="no:397">三九七　<title>（一三）日密分</title></ref><editor role="translator">，北涼曇無讖譯</editor></bibl><lb
+n="252.02"/><bibl><ref type="Taisho" target="no:397">三九七　<title>（一四）日藏分</title></ref><editor role="translator">，隋那連提耶舍譯</editor></bibl><lb
+n="252.03"/><bibl><ref type="Taisho" target="no:397">三九七　<title>（一五）月藏分</title></ref><editor role="translator">，高齊那連提耶舍譯</editor></bibl><lb
+n="252.04"/><bibl><ref type="Taisho" target="no:397">三九七　<title>（一六）須彌藏分</title></ref><editor role="translator">，高齊那連提耶舍譯</editor></bibl></listBibl><lb
 n="252.05"/><p><bibl><ref type="Taisho" target="no:397">三九七<title level="m">《大方等大集經》</title></ref></bibl>，<title>《大正藏》</title>所依的六十卷本，是隋僧就編成的。<lb
 n="252.06"/>如（一三）<title level="a">〈日密分〉</title>，（一四）<title level="a">〈日藏分〉</title>，是同本異譯，卻集在一大部中，是<lb
 n="252.07"/>極不合理的！<bibl><title level="m">《大集經》</title>（九）<title level="a">〈寶幢分〉</title></bibl>起，與前八分的意趣不同，每分都有<lb
 n="252.08"/>陀羅尼，廣說龍、神、夜叉、星宿吉凶等，與「秘密教」相通。不過古來都作為<lb
 n="252.09"/><title level="m">《大集》</title>部類，也只好如此了！</p></div><lb
-n="252.10"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:397">三九七　<title>（一七）十方菩薩品</title></ref><editor role="translator">高齊那連提耶舍譯</editor></bibl></listBibl><lb
+n="252.10"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:397">三九七　<title>（一七）十方菩薩品</title></ref><editor role="translator">，高齊那連提耶舍譯</editor></bibl></listBibl><lb
 n="252.11"/><p>這一品，實是安世高所譯的<title level="m">《明度五十校計經》</title>。僧就為了集成六十卷本<title level="m">《<lb
 n="252.12"/>大集經》</title>，竟改變經名，說是高齊那連提耶舍所譯，未免太荒唐了！應恢復經名<lb
 n="252.13"/>及譯者名字，編入「經集部」。</p></div>
 <pb n="253"/><lb
-n="253.01"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:405">四〇五　<title>虛空藏菩薩經</title></ref><editor role="translator">姚秦佛陀耶舍譯</editor></bibl><lb
+n="253.01"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:405">四〇五　<title>虛空藏菩薩經</title></ref><editor role="translator">，姚秦佛陀耶舍譯</editor></bibl><lb
 n="253.02"/><bibl><ref type="Taisho" target="no:406">四〇六　<title>佛說虛空藏菩薩神<choice><sic>咒</sic><corr resp="厚觀法師 謝淑歆">呪</corr></choice>經</title></ref><editor role="unknown-translator">失譯</editor></bibl><lb
-n="253.03"/><bibl><ref type="Taisho" target="no:407">四〇七　<title>虛空藏菩薩神<choice><sic>咒</sic><corr resp="厚觀法師 謝淑歆">呪</corr></choice>經</title></ref><editor role="translator">宋曇摩蜜多譯</editor></bibl><lb
-n="253.04"/><bibl><ref type="Taisho" target="no:408">四〇八　<title>虛空孕菩薩經</title></ref><editor role="translator">隋闍那崛多譯</editor></bibl></listBibl><lb
+n="253.03"/><bibl><ref type="Taisho" target="no:407">四〇七　<title>虛空藏菩薩神<choice><sic>咒</sic><corr resp="厚觀法師 謝淑歆">呪</corr></choice>經</title></ref><editor role="translator">，宋曇摩蜜多譯</editor></bibl><lb
+n="253.04"/><bibl><ref type="Taisho" target="no:408">四〇八　<title>虛空孕菩薩經</title></ref><editor role="translator">，隋闍那崛多譯</editor></bibl></listBibl><lb
 n="253.05"/><p>上四部是同本異譯。虛空藏，與上日藏，月藏，須彌藏，都以藏<note place="inline">胎</note>為名；性<lb
 n="253.06"/>質也相同，是「大集」而傾向秘密的。</p></div><lb
-n="253.07"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:787">七八七　<title>曼殊室利<choice><sic>咒</sic><corr resp="厚觀法師 謝淑歆">呪</corr></choice>藏中校量數珠功德經</title></ref><editor role="translator">唐義淨譯</editor></bibl><lb
-n="253.08"/><bibl><ref type="Taisho" target="no:788">七八八　<title>佛說校量數珠功德經</title></ref><editor role="translator">唐寶思惟譯</editor></bibl><lb
-n="253.09"/><bibl><ref type="Taisho" target="no:789">七八九　<title>金剛頂瑜伽念珠經</title></ref><editor role="translator">唐不空譯</editor></bibl></listBibl><lb
+n="253.07"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:787">七八七　<title>曼殊室利<choice><sic>咒</sic><corr resp="厚觀法師 謝淑歆">呪</corr></choice>藏中校量數珠功德經</title></ref><editor role="translator">，唐義淨譯</editor></bibl><lb
+n="253.08"/><bibl><ref type="Taisho" target="no:788">七八八　<title>佛說校量數珠功德經</title></ref><editor role="translator">，唐寶思惟譯</editor></bibl><lb
+n="253.09"/><bibl><ref type="Taisho" target="no:789">七八九　<title>金剛頂瑜伽念珠經</title></ref><editor role="translator">，唐不空譯</editor></bibl></listBibl><lb
 n="253.10"/><p>前二經是同本異譯。這三部，都應編入「密教部」。</p></div><lb
-n="253.11"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:62">六二　<title>佛說新歲經</title></ref><editor role="translator">東晉竺曇無蘭譯</editor></bibl></listBibl><lb
+n="253.11"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:62">六二　<title>佛說新歲經</title></ref><editor role="translator">，東晉竺曇無蘭譯</editor></bibl></listBibl><lb
 n="253.12"/><p>佛說<title level="m">《新歲經》</title>，本出於<bibl><title level="m">《雜阿含》</title><ref type="Taisho" target="no:99.1212">（一二一二）經</ref></bibl>，又編入<bibl><title level="m">《中阿含》</title><ref type="Taisho" target="no:26.121">（一<lb
 n="253.13"/>二一）經</ref></bibl>，但本經的內容，已大為改觀。說到<q type="嚴謹引文">「虛空諸天八萬四千，咸見開化，
 <pb n="254"/><lb
@@ -3460,7 +3460,7 @@ n="255.04"/>的。部類這麼多，有的又部分抄出（別生）流通，�
 n="255.05"/>難免的！有的是不同的經篇（或殘篇），有的是我國古德的作品，漢、魏、兩晉<lb
 n="255.06"/>所傳出的，錯誤、雜亂的情形，特別嚴重。古代的「經錄」，都曾為此而盡力，<lb
 n="255.07"/>但不免還有些可討論的。先從附錄於經後（或中間）的說起：</p><lb
-n="255.08"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:5">五　<title>佛般泥洹經</title></ref><editor role="translator">西晉白法祖譯</editor></bibl></listBibl><lb
+n="255.08"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:5">五　<title>佛般泥洹經</title></ref><editor role="translator">，西晉白法祖譯</editor></bibl></listBibl><lb
 n="255.09"/><p><cit><bibl><title level="m">《佛般泥洹經》</title>末附記說：</bibl><q type="嚴謹引文">「從佛般泥洹，到永興七年二月十一日，凡已八<lb
 n="255.10"/>百八十七年，餘七月十有一日。至今丙戌歲，合為九百一十五年：是比丘康日所<lb
 n="255.11"/>記也。……一千九百九十四年」</q><note resp="謝淑歆">《佛般泥洹經》卷2(CBETA, T01, no. 5, p. 175, c22-26)</note></cit><note place="inline">（<choice><orig></orig><reg>大正</reg></choice><ref type="taisho" target="vol:1;page:p175c">一‧一七五下</ref>）</note>。這是佛滅年代的一項傳說。經是
@@ -3468,19 +3468,19 @@ n="255.11"/>記也。……一千九百九十四年」</q><note resp="謝淑歆"
 n="256.01"/>西晉白法祖譯的；「永興」是西晉惠帝的年號，但永興是沒有七年的。所說的<q type="嚴謹引文">「<lb
 n="256.02"/>永興七年」</q>，可能是惠帝「元康九年」的誤寫？這一附記，可另行編入「史傳部<lb
 n="256.03"/>」的。</p></div><lb
-n="256.04"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:16">一六　<title>佛說尸迦羅越六方禮經</title></ref><editor role="translator">漢安世高譯</editor></bibl></listBibl><lb
+n="256.04"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:16">一六　<title>佛說尸迦羅越六方禮經</title></ref><editor role="translator">，漢安世高譯</editor></bibl></listBibl><lb
 n="256.05"/><p>經文終了，<q type="嚴謹引文">「作禮而去」<note resp="謝淑歆">《尸迦羅越六方禮經》卷1(CBETA, T01, no. 16, p. 251, c18)</note></q>。以下有<q type="嚴謹引文">「佛說唄偈：<choice><sic>雞</sic><corr resp="厚觀法師 謝淑歆">鷄<note resp="厚觀法師">《尸迦羅越六方禮經》卷1：「佛說唄偈：鷄鳴當早起，被衣來下牀，澡漱令心淨，兩手奉花香。……不與八難貪，隨行生十方。所生趣精進，六度為橋梁，廣勸無極慧，一切蒙神光。」(CBETA, T01, no. 16, p. 251, c19-p. 252, b1)</note></corr></choice>鳴當早起，披衣來下牀，<lb
 n="256.06"/>澡漱令心淨，兩手奉花香（供佛）。……不與八難貪，隨行生十方。所生趣精進<lb
 n="256.07"/>，六度為橋梁，廣勸無極慧，一切蒙神光」</q><note place="inline">（<choice><orig></orig><reg>大正</reg></choice><ref type="taisho" target="vol:1;page:p251c">一‧二五一下</ref>——<ref type="taisho" target="vol:1;page:p252b">二五二中</ref>）</note>。在多部異譯<lb
 n="256.08"/>中，沒有這一「唄偈」，這是後人所增附的。偈文古樸通順，表示在家佛弟子，<lb
 n="256.09"/>在信佛持戒的基礎上，以<q type="嚴謹引文">「六度為橋梁」</q>而求成佛道。提到了般若波羅蜜——<q type="嚴謹引文">「<lb
 n="256.10"/>無極慧」</q>，是在家菩薩的形象。這是中國人所造的好偈頌！</p></div><lb
-n="256.11"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:23">二三　<title>大樓炭經</title></ref><editor role="translator">西晉法立共法炬譯</editor></bibl></listBibl><lb
+n="256.11"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:23">二三　<title>大樓炭經</title></ref><editor role="translator">，西晉法立共法炬譯</editor></bibl></listBibl><lb
 n="256.12"/><p><q type="嚴謹引文">「比丘歡喜，前為佛作禮而去」<note resp="謝淑歆">《大樓炭經》卷6〈13 天地成品〉(CBETA, T01, no. 23, p. 309, c12-13)</note></q>，經文已畢。以下有<q type="嚴謹引文">「地深二十億萬里，…<lb
 n="256.13"/>…盡地起故」<note resp="謝淑歆">《大樓炭經》卷6〈13 天地成品〉(CBETA, T01, no. 23, p. 309, c13-29)</note></q><note place="inline">（<choice><orig></orig><reg>大正</reg></choice><ref type="taisho" target="vol:1;page:p309c">一‧三〇九下</ref>）</note>一段文，「元本」、「明本」缺。這不是經文，可能
 <pb n="257"/><lb
 n="257.01"/>是古人解答世間成壞問題，因便附在這敘述世間成壞的<title level="m">《樓炭經》</title>下。</p></div><lb
-n="257.02"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:26.215">二六　<title>中阿含經（二一五）第一得經</title></ref><editor role="translator">東晉僧伽提婆譯</editor></bibl></listBibl><lb
+n="257.02"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:26.215">二六　<title>中阿含經（二一五）第一得經</title></ref><editor role="translator">，東晉僧伽提婆譯</editor></bibl></listBibl><lb
 n="257.03"/><p>經文末段，是錯亂的。一、<q type="嚴謹引文">「欲，若有人習此法，……愛敬無厭足」<note resp="謝淑歆">《中阿含經》卷59〈4 例品〉(CBETA, T01, no. 26, p. 800, b19-27)</note></q>一段<note place="inline">（<lb
 n="257.04"/><choice><orig></orig><reg>大正</reg></choice><ref type="taisho" target="vol:1;page:p800b">一‧八〇〇中</ref>）</note>，宋本等是附在經後的。這是<bibl><title level="m">《增壹阿含經》</title>（二二）<title level="a">〈三供養品〉</title><lb
 n="257.05"/>，<ref type="Taisho" target="no:125.22.10">第十經</ref></bibl>的後段<note place="inline">（<choice><orig></orig><reg>大正</reg></choice><ref type="taisho" target="vol:2;page:p608c">二‧六〇八下</ref>——<ref type="taisho" target="vol:2;page:p609a">六〇九上</ref>）</note>，錯附在這裡，應從<title level="m">《中阿含經》</title>中刪去<lb
@@ -3490,30 +3490,30 @@ n="257.08"/><p rend="margin-left:3em">（於中若有斷樂）<q type="嚴謹引
 n="257.09"/>說下賤。於中苦<note place="inline">若</note>有斷苦遲者，此斷苦遲故，此斷亦說下賤。於中若有斷<lb
 n="257.10"/>苦速者，此斷苦速故，此斷（亦說下賤。此斷）<note place="inline">（應增補六字）</note>非廣布，不流<lb
 n="257.11"/>布，乃至天人亦不稱廣布」<note resp="謝淑歆">《中阿含經》卷59〈4 例品〉(CBETA, T01, no. 26, p. 800, c1-5)</note></q>。……（此下依經文說）。</p></div><lb
-n="257.12"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:32">三二　<title>佛說四諦經</title></ref><editor role="translator">漢安世高譯</editor></bibl></listBibl><lb
+n="257.12"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:32">三二　<title>佛說四諦經</title></ref><editor role="translator">，漢安世高譯</editor></bibl></listBibl><lb
 n="257.13"/><p>末附<q type="嚴謹引文">「持宿命觀……如後事是也」<note resp="謝淑歆">《四諦經》卷1(CBETA, T01, no. 32, p. 816, c28)</note></q>——二十七字，是後人所附，應依宋本等
 <pb n="258"/><lb
 n="258.01"/>刪去。</p></div><lb
-n="258.02"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:62">六二　<title>佛說新歲經</title></ref><editor role="translator">東晉竺曇無蘭譯</editor></bibl></listBibl><lb
+n="258.02"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:62">六二　<title>佛說新歲經</title></ref><editor role="translator">，東晉竺曇無蘭譯</editor></bibl></listBibl><lb
 n="258.03"/><p>本經在<q type="嚴謹引文">「聞佛所說，莫不歡喜，作禮而去」<note resp="謝淑歆">《新歲經》卷1(CBETA, T01, no. 62, p. 860, c10)</note></q>下，又有「鉢蘭和偈」，五言與<lb
 n="258.04"/>七言的都有，中間還有<q type="嚴謹引文">「一月已<choice><sic>過</sic><corr resp="厚觀法師 謝淑歆">竟<note resp="厚觀法師">《新歲經》卷1：「一月已竟即得一智」(CBETA, T01, no. 62, p. 861, a8)</note></corr></choice>，即得一智」</q>等一段長行。這是元本、明本所<lb
 n="258.05"/>沒有的，大概是校刻者認定為古人所附而刪去的！</p></div><lb
-n="258.06"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:125">一二五　<title>增壹阿含經（一）序品</title></ref><editor role="translator">東晉僧伽提婆譯</editor></bibl></listBibl><lb
+n="258.06"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:125">一二五　<title>增壹阿含經（一）序品</title></ref><editor role="translator">，東晉僧伽提婆譯</editor></bibl></listBibl><lb
 n="258.07"/><p><choice><sic></sic><corr resp="厚觀法師 謝淑歆">第二<note resp="厚觀法師">《增壹阿含經》卷1〈2 十念品〉：「[16]於今我首上，……便說偈曰」(CBETA, T02, no. 125, p. 553, c5-24)[16]（於今…偈曰）二百九十九字前頁如上作偈次行文。</note></corr></choice>品末，附有<q type="嚴謹引文">「於今我首上，……便說偈曰」</q>——二百九十九字，應依宋本等<lb
 n="258.08"/>，在<cit><bibl><title level="a">〈序品〉</title>的</bibl><q type="嚴謹引文">「如上作偈」</q><note resp="謝淑歆">《增壹阿含經》卷1〈1 序品〉(CBETA, T02, no. 125, p. 552, a20)</note></cit>下<note place="inline">（大正<ref type="taisho" target="vol:2;page:p552a">二‧五五二上</ref>）</note>。這樣，也與<bibl><title level="m">《增壹阿含經》</title><note place="inline">（五〇）</note><lb
 n="258.09"/><title level="a">〈禮三寶品〉</title><ref type="Taisho" target="no:125.50.4">第四經</ref></bibl><note place="inline">（<choice><orig></orig><reg>大正</reg></choice><ref type="taisho" target="vol:2;page:p810a">二‧八一〇上</ref>）</note>相合。<title level="a">〈序品〉</title>的長壽王，經（譯）作長生；<lb
 n="258.10"/><q type="嚴謹引文">「善觀者<choice><sic></sic><corr resp="厚觀法師 謝淑歆">，今<note resp="厚觀法師">《增壹阿含經》卷1〈2 十念品〉：「善觀者，今優多羅比丘是」(CBETA, T02, no. 125, p. 553, c20-21)</note></corr></choice>優多羅比丘是」</q>，經說善盡是調達，小有不合。依<title level="a">〈序品〉</title>，優多羅是<lb
 n="258.11"/><title level="m">《增壹阿含》</title>的承受者，似乎<title level="a">〈序品〉</title>是再加修正的。</p></div><lb
-n="258.12"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:125">一二五　<title>增壹阿含經（四六）結禁品</title></ref><editor role="translator">東晉僧伽提婆譯</editor></bibl></listBibl><lb
+n="258.12"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:125">一二五　<title>增壹阿含經（四六）結禁品</title></ref><editor role="translator">，東晉僧伽提婆譯</editor></bibl></listBibl><lb
 n="258.13"/><p>品末，附有<q type="嚴謹引文">「聞如是，一時，……歡喜奉行」<note resp="謝淑歆">《增壹阿含經》卷42〈46 結禁品〉(CBETA, T02, no. 125, p. 780, c7-14)</note></q><note place="inline">（<choice><orig></orig><reg>大正</reg></choice><ref type="taisho" target="vol:2;page:p780c">二‧七八〇下</ref>）</note>。依內容而論，
 <pb n="259"/><lb
 n="259.01"/>這是<bibl><title level="a">〈結禁品〉</title><ref type="Taisho" target="no:125.46.5">第五</ref>「十念」經</bibl>。應該依宋本等，編在「十力」與「十非法」親<lb
 n="259.02"/>近國家間，才能與<title level="a">〈結禁品〉</title>的「錄偈」相合。</p></div><lb
-n="259.03"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:125">一二五　<title>增壹阿含經（四七）善惡品</title></ref><editor role="translator">東晉僧伽提婆譯</editor></bibl></listBibl><lb
+n="259.03"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:125">一二五　<title>增壹阿含經（四七）善惡品</title></ref><editor role="translator">，東晉僧伽提婆譯</editor></bibl></listBibl><lb
 n="259.04"/><p>品末，宋本等有<q type="嚴謹引文">「經言百歲，當經三百冬夏秋，……蓋譯者不善方言也」<note resp="謝淑歆">《增壹阿含經》卷43〈47 善惡品〉(CBETA, T02, no. 125, p. 785, c12-17)</note></q>一<lb
 n="259.05"/>段<note place="inline">（<choice><orig></orig><reg>大正</reg></choice><ref type="taisho" target="vol:2;page:p785c">二‧七八五下</ref>）</note>，是後人對經文的解說。多讀經論的，自然知道印度的一年三季<lb
 n="259.06"/>說，附文可以刪去。</p></div><lb
-n="259.07"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:145">一四五　<title>佛母般泥洹經</title></ref><editor role="translator">宋慧簡譯</editor></bibl></listBibl><lb
+n="259.07"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:145">一四五　<title>佛母般泥洹經</title></ref><editor role="translator">，宋慧簡譯</editor></bibl></listBibl><lb
 n="259.08"/><p>宋、元本等，在這部經的末後，附有<title level="a">〈佛般泥洹後變記〉</title><note place="inline">（<choice><orig></orig><reg>大正</reg></choice><ref type="taisho" target="vol:2;page:p870b">二‧八七〇中</ref>——下）</note><lb
 n="259.09"/>，敘述佛泥洹後，從百歲到千歲，佛教出家眾漸漸墮落的過程。在<bibl><title level="m">《出三藏記集<lb
 n="259.10"/>》</title><biblScope type="卷" n="4"><note place="inline">（卷四）</note></biblScope><title level="a">〈新集續撰失譯雜經錄〉</title></bibl>中，有<title level="m">《泥洹後諸比丘經》</title>一卷<note resp="謝淑歆">《出三藏記集》卷4(CBETA, T55, no. 2145, p. 24, a21)</note>，異名有<title level="m">《泥<lb
@@ -3531,31 +3531,31 @@ n="260.07"/>譯的<title level="m">《佛說太子瑞應本起經》</title>。<
 n="260.08"/>下）</note>：二偈是見於吳支謙譯的<title level="m">《撰集百緣經》</title>。雖還有四偈，沒有查明出處，而偈<lb
 n="260.09"/>頌也偶有一二字的潤飾，但可以斷言的，這讚佛的二十偈，是我國古德所纂集的<lb
 n="260.10"/>，應該編入「讚頌」類。</p></div><lb
-n="260.11"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:172">一七二　<title>佛說菩薩投身飼餓虎起塔因緣經</title></ref><editor role="translator">北涼法盛譯</editor></bibl></listBibl><lb
+n="260.11"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:172">一七二　<title>佛說菩薩投身飼餓虎起塔因緣經</title></ref><editor role="translator">，北涼法盛譯</editor></bibl></listBibl><lb
 n="260.12"/><p>經末<q type="嚴謹引文">「禮佛而去」<note resp="謝淑歆">《菩薩投身飴餓虎起塔因緣經》卷1(CBETA, T03, no. 172, p. 428, a1-2)</note></q>下，宋本續有<q type="嚴謹引文">「爾時國王聞佛說已，……終無絕時」<note resp="謝淑歆">《菩薩投身飴餓虎起塔因緣經》卷1(CBETA, T03, no. 172, p. 428, a3-11)</note></q>——<lb
 n="260.13"/>百二十七字。這是後人對該塔現況的記述，不是經文。</p></div>
 <pb n="261"/><lb
-n="261.01"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:204">二〇四　<title>雜譬喻經</title></ref><editor role="translator">漢支婁迦讖譯</editor></bibl></listBibl><lb
+n="261.01"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:204">二〇四　<title>雜譬喻經</title></ref><editor role="translator">，漢支婁迦讖譯</editor></bibl></listBibl><lb
 n="261.02"/><p>經說十二譬喻以後，又說：<q type="嚴謹引文">「有十八事，人於世間甚大難，……是為十八事<lb
 n="261.03"/>」<note resp="謝淑歆">《雜譬喻經》卷1(CBETA, T04, no. 204, p. 502, a8-21)</note></q><note place="inline">（<choice><orig></orig><reg>大正</reg></choice><ref type="taisho" target="vol:4;page:p502a">四‧五〇二上</ref>）</note>。十八事，與「譬喻」的體裁不合。在<bibl><title level="m">《出三藏記集》</title><biblScope type="卷" n="4"><note place="inline">（卷四）</note></biblScope><title level="a">〈新<lb
 n="261.04"/>集續撰失譯雜經錄〉</title></bibl>中，有<title level="m">《十八難經》</title>一卷，<q type="嚴謹引文">「舊錄所載」<note resp="謝淑歆">《出三藏記集》卷4(CBETA, T55, no. 2145, p. 36, c12)</note></q>。可見十八事本是<lb
 n="261.05"/>另一經篇，一定是被抄寫者寫在經後，這才錯了；應從經末刪去，自成一篇。</p></div><lb
-n="261.06"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:225">二二五　<title>大明度經</title></ref><editor role="translator">吳支謙譯</editor></bibl></listBibl><lb
+n="261.06"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:225">二二五　<title>大明度經</title></ref><editor role="translator">，吳支謙譯</editor></bibl></listBibl><lb
 n="261.07"/><p>在第一<title level="a">〈行品〉</title>中，附有非常簡略的注釋。注中每說<q type="嚴謹引文">「師云」<note resp="謝淑歆">《大明度經》卷1〈1 行品〉(CBETA, T08, no. 225, p. 478, b27)</note></q>，不知道是誰<lb
 n="261.08"/>注的？不會是道安的<title level="m">《道行集異注》</title>，可能是支遁的<title level="m">《道行旨<note place="inline" rendition="#inline_small_note">指</note>歸》</title>。</p></div><lb
-n="261.09"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:383">三八三　<title>摩訶摩耶經</title></ref><editor role="translator">齊曇景譯</editor></bibl></listBibl><lb
+n="261.09"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:383">三八三　<title>摩訶摩耶經</title></ref><editor role="translator">，齊曇景譯</editor></bibl></listBibl><lb
 n="261.10"/><p><title level="m">《摩訶摩耶經》</title>終了，附有「摩訶摩耶經八國分舍利品第二」。有人以<lb
 n="261.11"/>為是<title level="m">《涅槃後分》</title>，其實是從<bibl><title level="m">《長阿含經》</title><biblScope type="卷" n="2"><note place="inline">（二）</note></biblScope><title level="m">《遊行經》</title></bibl>抄出的；文句大致相<lb
 n="261.12"/>合，只刪略些重複的，加上五言的兩偈，七言的五偈半。這是古人抄出增附，妄<lb
 n="261.13"/>稱「摩訶摩耶經八國分舍利品第二」。與<title level="m">《摩訶摩耶經》</title>無關，「疑偽」而沒有
 <pb n="262"/><lb
 n="262.01"/>保存的必要！</p></div><lb
-n="262.02"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:409">四〇九　<title>觀虛空藏菩薩經</title></ref><editor role="translator">宋曇摩蜜多譯</editor></bibl></listBibl><lb
+n="262.02"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:409">四〇九　<title>觀虛空藏菩薩經</title></ref><editor role="translator">，宋曇摩蜜多譯</editor></bibl></listBibl><lb
 n="262.03"/><p>在經的末後，麗本與宋本，又有眾多的佛名、咒語，<q type="嚴謹引文">「該是<choice><sic>校</sic><corr resp="厚觀法師 謝淑歆">後<note resp="厚觀法師">《觀虛空藏菩薩經》卷1：「該是後人採集虛空藏經呪并諸經中佛名及呪。以為勸世修行法」(CBETA, T13, no. 409, p. 678, a6-8)</note></corr></choice>人採集虛空藏<lb
 n="262.04"/>經<choice><sic>咒</sic><corr resp="厚觀法師 謝淑歆">呪</corr></choice>，<choice><sic>並</sic><corr resp="厚觀法師 謝淑歆">并</corr></choice>諸經中佛名及<choice><sic>咒</sic><corr resp="厚觀法師 謝淑歆">呪</corr></choice>，以為勸世修行法」</q>——<q type="嚴謹引文">「校勘大藏竹堂講師」<note resp="謝淑歆">《觀虛空藏菩薩經》卷1(CBETA, T13, no. 409, p. 678, a5-6)</note></q>所批，<lb
 n="262.05"/>是正確的，元本、明本都刪去了。<choice><sic>麗藏本</sic><corr resp="厚觀法師 謝淑歆"><title>《大正藏》</title><note resp="厚觀法師">《高麗藏》第7冊 821c-822a 並無這段文字，參考《觀虛空藏菩薩經》之內容而修訂為《大正藏》。《觀虛空藏菩薩經》卷1：「右觀虛空藏菩薩經……徒存似是。姑為刪之。」(CBETA, T13, no. 409, p. 678, a4-13)</note></corr></choice>雖說<q>「徒存似是，姑為刪之」</q>，不知為<lb
 n="262.06"/>什麼還是保存在經後？這是應該刪去的！</p></div><lb
-n="262.07"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:434">四三四　<title>佛說稱揚諸佛功德經</title></ref><editor role="translator">元魏吉迦夜譯</editor></bibl></listBibl><lb
+n="262.07"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:434">四三四　<title>佛說稱揚諸佛功德經</title></ref><editor role="translator">，元魏吉迦夜譯</editor></bibl></listBibl><lb
 n="262.08"/><p>經後附有<q>「巍巍十方佛……願禮天人師」<note resp="謝淑歆">《佛說稱揚諸佛功德經》卷3(CBETA, T14, no. 434, p. 105, a3-14)</note></q>——六偈，稱揚十方世界佛功德，<lb
 n="262.09"/>勸學大乘。這是出於<title level="m">《六菩薩亦當誦持經》</title>的<note place="inline">（<choice><orig></orig><reg>大正</reg></choice><ref type="taisho" target="vol:14;page:p752b">一四‧七五二中</ref>）</note>，應刪去。</p></div><lb
 n="262.10"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:491">四九一　<title>六菩薩亦當誦持經</title></ref><editor role="unknown-translator">失譯</editor></bibl></listBibl><lb
@@ -3563,7 +3563,7 @@ n="262.11"/><p>本經初列六菩薩名號，後又<q type="嚴謹引文">「別
 n="262.12"/>間有讚佛偈：<q type="嚴謹引文">「巍巍十方佛……願禮天人師」<note resp="謝淑歆">《六菩薩亦當誦持經》卷1(CBETA, T14, no. 491, p. 752, b5-16)</note></q>——十二偈，與經義不合，應別立<lb
 n="262.13"/>。</p></div>
 <pb n="263"/><lb
-n="263.01"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:603">六〇三　<title>陰持入經</title></ref><editor role="translator">漢安世高譯</editor></bibl></listBibl><lb
+n="263.01"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:603">六〇三　<title>陰持入經</title></ref><editor role="translator">，漢安世高譯</editor></bibl></listBibl><lb
 n="263.02"/><p>經後，<title level="m">《麗藏》</title>本附有「佛說慧印三昧百六十三章定解」<note resp="謝淑歆">《陰持入經》卷2(CBETA, T15, no. 603, p. 180, b10)</note>，宋本等是沒有的。考<cit><bibl><ref type="Taisho" target="no:632">六三二<lb
 n="263.03"/><title level="m">《佛說慧印三昧經》</title></ref>說：慧印三昧的境界，</bibl><q type="嚴謹引文">「佛身有百六十二事，難可得知」</q></cit><note place="inline">（<choice><orig></orig><reg>大正</reg></choice><ref type="taisho" target="vol:15;page:p461b">一<lb
 n="263.04"/>五‧四六一中</ref><choice><sic>——下</sic><corr resp="厚觀法師 謝淑歆"></corr></choice>）</note><note resp="厚觀法師">《佛說慧印三昧經》卷1：「佛身有百六十二事。難可得知」(CBETA, T15, no. 632, p. 461, b22)</note>。百六十三事，與<title level="m">《慧印經》</title>相當，但文字小異。可能是古師，<lb
@@ -3572,34 +3572,34 @@ n="263.06"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no
 n="263.07"/><p>經文後，有<q type="嚴謹引文">「十一因緣章，……得道疾」<note resp="謝淑歆">《佛說內身觀章句經》卷1(CBETA, T15, no. 610, p. 240, b14-22)</note></q>——百二十四字，這是另一經文。<lb
 n="263.08"/><bibl><title level="m">《出三藏記集》</title><biblScope type="卷" n="4"><note place="inline">（卷四）</note></biblScope><title level="a">〈新集續撰失譯雜經錄〉</title></bibl>，在十與十一間，有<title level="m">《十二<choice><sic>一</sic><corr resp="厚觀法師 謝淑歆"><note resp="厚觀法師">《出三藏記集》卷4：「十二因緣章經一卷(舊錄云十二因緣經)」(CBETA, T55, no. 2145, p. 30, b8)</note></corr></choice>因<lb
 n="263.09"/>緣章經》</title>，應別立。</p></div><lb
-n="263.10"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:616">六一六　<title>禪法要解</title></ref><editor role="translator">姚秦鳩摩羅什譯</editor></bibl></listBibl><lb
+n="263.10"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:616">六一六　<title>禪法要解</title></ref><editor role="translator">，姚秦鳩摩羅什譯</editor></bibl></listBibl><lb
 n="263.11"/><p><cit><bibl><title level="m">《禪法要解》</title><biblScope type="卷" n="上">卷上</biblScope>後，有</bibl><q type="嚴謹引文">「淨觀者……甚可患也」</q><note resp="謝淑歆">《禪法要解》卷1(CBETA, T15, no. 616, p. 292, b5-c4)</note></cit>一大段文字。從<q type="嚴謹引文">「淨觀者<lb
 n="263.12"/>三品」</q>，到<q type="嚴謹引文">「是名初學禪<choice><sic></sic><corr resp="厚觀法師 謝淑歆">法<note resp="厚觀法師">《禪法要解》卷1：「是名初學禪法門」(CBETA, T15, no. 616, p. 292, b20)</note></corr></choice>門」</q><note place="inline">（<choice><orig></orig><reg>大正</reg></choice><ref type="taisho" target="vol:15;page:p292b">一五‧二九二中</ref>）</note>，是引用<bibl><ref type="Taisho" target="no:614">六一四<title level="m">《坐禪三昧經》</title></ref><biblScope type="卷" n="上">卷上</biblScope></bibl><lb
 n="263.13"/>的<note place="inline">（<choice><orig></orig><reg>大正</reg></choice><ref type="taisho" target="vol:15;page:p272a">一五‧二七二上</ref>）</note>，應刪去。「若定得勝心」以下<note place="inline">（<choice><orig></orig><reg>大正</reg></choice><ref type="taisho" target="vol:15;page:p292b">一五‧二九二中</ref>——下）</note>，也是淨
 <pb n="264"/><lb
 n="264.01"/>觀，出處待考。</p></div><lb
-n="264.02"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:735">七三五　<title>四願經</title></ref><editor role="translator">吳支謙譯</editor></bibl></listBibl><lb
+n="264.02"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:735">七三五　<title>四願經</title></ref><editor role="translator">，吳支謙譯</editor></bibl></listBibl><lb
 n="264.03"/><p><title level="m">《四願經》</title>後，附有一千多字的長文。內容是：一、<q type="嚴謹引文">「佛念天地八方之外，<lb
 n="264.04"/>……弟子聞經歡喜前受教」<note resp="謝淑歆">《佛說四願經》卷1(CBETA, T17, no. 735, p. 537, a17-b16)</note></q><note place="inline">（<choice><orig></orig><reg>大正</reg></choice><ref type="taisho" target="vol:17;page:p537a">一七‧五三七上</ref>——中）</note>，是一篇經文；經前缺些，不知<lb
 n="264.05"/>是什麼經？這是應該別成一篇的。二、<q type="嚴謹引文">「是為痛痒要識如諦知也……歡欣受行」<note resp="謝淑歆">《佛說四願經》卷1(CBETA, T17, no. 735, p. 537, b16-c27)</note></q><lb
 n="264.06"/><note place="inline">（<choice><orig></orig><reg>大正</reg></choice>一七‧五三七‧中——下）</note>，是<title level="m">《七處三觀經》</title>的後半；別處已有<title level="m">《七處三觀經》</title>，這<lb
 n="264.07"/>裡的可以刪去。</p></div><lb
-n="264.08"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:741">七四一　<title>五苦章句經</title></ref><editor role="translator">東晉竺曇無蘭譯</editor></bibl></listBibl><lb
+n="264.08"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:741">七四一　<title>五苦章句經</title></ref><editor role="translator">，東晉竺曇無蘭譯</editor></bibl></listBibl><lb
 n="264.09"/><p>在經末<q type="嚴謹引文">「作禮而去」<note resp="謝淑歆">《五苦章句經》卷1(CBETA, T17, no. 741, p. 548, a1)</note></q>下，有五言偈：<q type="嚴謹引文">「天上福已盡……三界皆禮佛」<note resp="謝淑歆">《五苦章句經》卷1(CBETA, T17, no. 741, p. 548, a2-b24)</note></q>——二<lb
 n="264.10"/>十六偈，說三惡道與八難，勸人信佛修行的，應離此經而獨立成篇。</p></div><lb
-n="264.11"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:771">七七一　<title>四品學法經</title></ref><editor role="translator">宋求那跋陀羅譯</editor></bibl></listBibl><lb
+n="264.11"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:771">七七一　<title>四品學法經</title></ref><editor role="translator">，宋求那跋陀羅譯</editor></bibl></listBibl><lb
 n="264.12"/><p>經後附有二則：一、<q type="嚴謹引文">「若失威儀一事者……疾成大願」<note resp="謝淑歆">《四品學法經》卷1(CBETA, T17, no. 771, p. 708, a13-19)</note></q><note place="inline">（<choice><orig></orig><reg>大正</reg></choice><ref type="taisho" target="vol:17;page:p708a">一七‧七〇八上</ref>）</note>，是<lb
 n="264.13"/>上品出家戒律事。二、<q type="嚴謹引文">「散侍法：問曰……會受真戒號」</q><note place="inline">（<choice><orig></orig><reg>大正</reg></choice><ref type="taisho" target="vol:17;page:p708a">一七‧七〇八上</ref><choice><sic></sic><corr resp="厚觀法師 謝淑歆">——中</corr></choice>）</note><note resp="厚觀法師">《四品學法經》卷1：「散侍法　問曰……會受真戒號」(CBETA, T17, no. 771, p. 708, a20-b11)</note>，是對
 <pb n="265"/><lb
 n="265.01"/>下下品「散侍法」的再解說。這二則，是「四品學法」的解說。</p></div><lb
-n="265.02"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:977">九七七　<title>佛說大白傘蓋總持陀羅尼經</title></ref><editor role="translator">元真智等譯</editor></bibl></listBibl><lb
+n="265.02"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:977">九七七　<title>佛說大白傘蓋總持陀羅尼經</title></ref><editor role="translator">，元真智等譯</editor></bibl></listBibl><lb
 n="265.03"/><p>經後附有<title level="a">〈大白傘蓋佛母總讚歎禱祝偈〉</title>，可以別立。</p></div><lb
-n="265.04"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1425">一四二五　<title>摩訶僧祇律</title></ref><editor role="translator"><choice><sic></sic><corr resp="厚觀法師 謝淑歆">東晉佛陀跋陀羅共法顯譯</corr></choice></editor></bibl></listBibl><lb
+n="265.04"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1425">一四二五　<title>摩訶僧祇律</title></ref><editor role="translator">，<choice><sic></sic><corr resp="厚觀法師 謝淑歆">東晉佛陀跋陀羅共法顯譯</corr></choice></editor></bibl></listBibl><lb
 n="265.05"/><p>律文終了，有<title level="a">〈摩訶僧祇律私記〉</title><note resp="謝淑歆">《摩訶僧祇律》卷40(CBETA, T22, no. 1425, p. 548, a29)</note>。<title level="m">《記》</title>後，附有<title level="m">《佛說犯戒罪報輕重經<lb
 n="265.06"/>》</title><note resp="謝淑歆">《摩訶僧祇律》卷40(CBETA, T22, no. 1425, p. 548, b26)</note>，與<bibl><ref type="Taisho" target="no:1467"><choice><sic>一四九七</sic><corr resp="厚觀法師 謝淑歆">一四六七<note resp="厚觀法師">《佛說犯戒罪報輕重經》卷1：「◎佛說犯戒罪報輕重經」(CBETA, T24, no. 1467a, p. 910, b9)</note></corr></choice><title level="m">《佛說犯戒罪報輕重經》</title></ref></bibl>相同，所以應從<title level="m">《摩訶僧祇律》</title>後刪去<lb
 n="265.07"/>。</p></div><lb
-n="265.08"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:297">二九七　　<title>普賢菩薩行願讚</title></ref><editor role="translator"><choice><sic></sic><corr resp="厚觀法師 謝淑歆">唐不空譯<note resp="厚觀法師">《普賢菩薩行願讚》卷1：「普賢菩薩行願讚　開府儀同三司特進試鴻臚卿　肅國公食邑三千戶賜紫贈司空　諡大鑑正號大廣智大興善寺　三藏沙門不空奉　詔譯」(CBETA, T10, no. 297, p. 880, a3-8)</note></corr></choice></editor></bibl><lb
-n="265.09"/><bibl><ref type="Taisho" target="no:1167">一一六七　<title>八大菩薩曼荼羅經</title></ref><editor role="translator"><choice><sic></sic><corr resp="厚觀法師 謝淑歆">唐不空譯<note resp="厚觀法師">《八大菩薩曼荼羅經》卷1：「八大菩薩曼荼羅經　開府儀同三司特進試鴻臚卿肅國　公食邑三千戶贈司空諡大鑒正號　大廣智大興善寺三藏法師不空奉　詔譯」(CBETA, T20, no. 1167, p. 675, a19-24)</note></corr></choice></editor></bibl></listBibl><lb
+n="265.08"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:297">二九七　　<title>普賢菩薩行願讚</title></ref><editor role="translator">，<choice><sic></sic><corr resp="厚觀法師 謝淑歆">唐不空譯<note resp="厚觀法師">《普賢菩薩行願讚》卷1：「普賢菩薩行願讚　開府儀同三司特進試鴻臚卿　肅國公食邑三千戶賜紫贈司空　諡大鑑正號大廣智大興善寺　三藏沙門不空奉　詔譯」(CBETA, T10, no. 297, p. 880, a3-8)</note></corr></choice></editor></bibl><lb
+n="265.09"/><bibl><ref type="Taisho" target="no:1167">一一六七　<title>八大菩薩曼荼羅經</title></ref><editor role="translator">，<choice><sic></sic><corr resp="厚觀法師 謝淑歆">唐不空譯<note resp="厚觀法師">《八大菩薩曼荼羅經》卷1：「八大菩薩曼荼羅經　開府儀同三司特進試鴻臚卿肅國　公食邑三千戶贈司空諡大鑒正號　大廣智大興善寺三藏法師不空奉　詔譯」(CBETA, T20, no. 1167, p. 675, a19-24)</note></corr></choice></editor></bibl></listBibl><lb
 n="265.10"/><p>這兩部，都是唐不空譯的。在經文後，都附有<title level="a">〈八大菩薩讚〉</title>：<q type="嚴謹引文">「圓寂宮城<lb
 n="265.11"/>門……如彼成讚器」<note resp="謝淑歆">(1)《普賢菩薩行願讚》卷1(CBETA, T10, no. 297, p. 881, b18-c8)；(2)《八大菩薩曼荼羅經》卷1(CBETA, T20, no. 1167, p. 675, c26-p. 676, a16)</note></q>十偈<note place="inline">（<choice><orig></orig><reg>大正</reg></choice><ref type="taisho" target="vol:10;page:p881b">一〇‧八八一中</ref>——下、二〇‧六七五下——六七六上）</note>。這都是<lb
 n="265.12"/>附出，不屬經文，應從二經中刪去，別立<title level="a">〈八大菩薩讚〉</title>一部。</p></div></div>
@@ -3607,7 +3607,7 @@ n="265.12"/>附出，不屬經文，應從二經中刪去，別立<title level="
 n="266.01"/><div><p type="head">二</p><lb
 n="266.02"/><p>大藏經中傳譯的教典，有些是名不符實，有些是內容不純，應值得提出辨別<lb
 n="266.03"/>的，如：</p><lb
-n="266.04"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:160">一六〇　<title>菩薩本生鬘論</title></ref><editor role="translator">趙宋紹德等譯</editor></bibl></listBibl><lb
+n="266.04"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:160">一六〇　<title>菩薩本生鬘論</title></ref><editor role="translator">，趙宋紹德等譯</editor></bibl></listBibl><lb
 n="266.05"/><p>論是聖勇菩薩造的，趙宋紹德、慧詢等譯出。這部論，實是兩部論的湊合，<lb
 n="266.06"/>而又有所缺少的。從第一卷偈頌——歸敬述意，<title level="a">〈投身飼虎緣起第一〉</title>，到卷四<lb
 n="266.07"/><title level="a">〈出家功德緣起第十四〉</title>止，是「菩薩本生」；藏譯的<title level="m">《本生鬘》</title>，也與此相同<lb
@@ -3619,7 +3619,7 @@ n="266.12"/>節。這部論，實是兩部論：一、<title level="m">《菩薩
 <pb n="267"/><lb
 n="267.01"/>嚴尊者護國本生鬘》</title>。本論合為一部，又有所缺佚，到底是譯者還是傳者的錯誤<lb
 n="267.02"/>呢？</p></div><lb
-n="267.03"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:315">三一五　<title>佛說普門品經</title></ref><editor role="translator">西晉竺法護譯</editor></bibl></listBibl><lb
+n="267.03"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:315">三一五　<title>佛說普門品經</title></ref><editor role="translator">，西晉竺法護譯</editor></bibl></listBibl><lb
 n="267.04"/><p>本經是<bibl><title level="m">《大寶積經》</title>（一〇）<title level="a">〈文殊師利普門會〉</title></bibl>的異譯。<title level="m">《普門品經》</title>的<lb
 n="267.05"/>宋、元、明本等，與唐譯雖有長行、偈頌的差別，而內容是相同的。<title>《大正藏》</title><lb
 n="267.06"/>以<title level="m">《麗藏》</title>本為主，與宋本等非常不同。審細的研考，麗本是依竺法護所譯經，敷衍<lb
@@ -3640,7 +3640,7 @@ n="268.06"/>悔文；每卷末，引偽經<title level="m">《大乘蓮華寶達
 n="268.07"/>為隋、唐時代所編的。種種錯誤，經卷一末按語，說得很明白。雖因為<q type="嚴謹引文">「舉國盛<lb
 n="268.08"/>行」<note resp="謝淑歆">《佛說佛名經》卷1〈1 大乘蓮華寶達問答報應沙門品〉(CBETA, T14, no. 441, p. 191, b15)</note></q>，不敢刪削，但不是譯本，就不應該編入印度傳譯的「經集部」。最好是編<lb
 n="268.09"/>入「疑偽部」；或在中國佛教部分，立一「懺儀部」來容攝這些部類。</p></div><lb
-n="268.10"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:443">四四三　<title>五千五百佛名神<choice><sic>咒</sic><corr resp="厚觀法師 謝淑歆">呪<note resp="厚觀法師">《五千五百佛名神咒除障滅罪經》卷1：「五千五百佛名神呪除障滅罪經」(CBETA, T14, no. 443, p. 318, a12)</note></corr></choice>除障滅罪經</title></ref><editor role="translator"><choice><sic>失譯</sic><corr resp="厚觀法師 謝淑歆">隋闍那崛多譯</corr></choice></editor></bibl></listBibl><lb
+n="268.10"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:443">四四三　<title>五千五百佛名神<choice><sic>咒</sic><corr resp="厚觀法師 謝淑歆">呪<note resp="厚觀法師">《五千五百佛名神咒除障滅罪經》卷1：「五千五百佛名神呪除障滅罪經」(CBETA, T14, no. 443, p. 318, a12)</note></corr></choice>除障滅罪經</title></ref><editor role="translator">，<choice><sic>失譯</sic><corr resp="厚觀法師 謝淑歆">隋闍那崛多譯</corr></choice></editor></bibl></listBibl><lb
 n="268.11"/><p>本經八卷。卷二——五，經名<title level="m">《五千五百佛名經》</title>；<bibl><title level="m">《古今譯經圖記》</title><biblScope type="卷" n="4"><note place="inline">（卷四<lb
 n="268.12"/>）</note></biblScope></bibl>，<bibl><title level="m">《開元釋教錄》</title><biblScope type="卷" n="7"><note place="inline">（卷七）</note></biblScope></bibl>全經都是稱為<title level="m">《五千五百佛名經》</title>的。這部經有幾點<lb
 n="268.13"/>是值得注意的：一、經名「五千五百佛」，而實際是四千七百二十佛，為什麼名
@@ -3666,7 +3666,7 @@ n="270.04"/>有些隨意編集。到明代，發現了過去佛名的錯誤，�
 n="270.05"/>佛名。明本末後說：<q type="嚴謹引文">「其無常者，生無量壽佛國」<note resp="謝淑歆">《未來星宿劫千佛名經》卷1(CBETA, T14, no. 448b, p. 399, a4)</note></q><note place="inline">（<choice><orig></orig><reg>大正</reg></choice><ref type="taisho" target="vol:14;page:p399a">一四‧三九九上</ref>）</note>。宋代以來，念<lb
 n="270.06"/>佛往生西方淨土，成為佛教界的風尚；這是明代的修正本。最好，這都應該編入<lb
 n="270.07"/>中國佛教部分的「懺儀部」。</p></div><lb
-n="270.08"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:606">六〇六　<title>修行道地經</title></ref><editor role="translator">晉竺法護譯</editor></bibl></listBibl><lb
+n="270.08"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:606">六〇六　<title>修行道地經</title></ref><editor role="translator">，晉竺法護譯</editor></bibl></listBibl><lb
 n="270.09"/><p><bibl><title level="m">《修行道地經》</title><biblScope type="卷" n="7">卷七</biblScope>，是<title level="a">〈弟子三品修行品第二十八〉</title></bibl>。依<bibl><title level="m">《出三藏記集》</title><lb
 n="270.10"/><biblScope type="卷" n="2"><note place="inline">（卷二）</note></biblScope></bibl>，竺法護所譯的，<title level="m">《修行經》</title>七卷，二十六品。<title level="m">《三品修行經》</title>一卷，<q type="嚴謹引文">「<lb
 n="270.11"/>安公云：近人合大修行經」<note resp="謝淑歆">《出三藏記集》卷2(CBETA, T55, no. 2145, p. 9, a10)</note></q>。可見這本是不同的，但合而為一，已經太久了！前<lb
@@ -3674,7 +3674,7 @@ n="270.12"/>六卷是<title level="m">《修行道地經》</title>，第七卷�
 n="270.13"/>修行道地》</title>是論書中的「觀行論」；<title level="m">《三品修行》</title>是分別三乘修行的論典，最好
 <pb n="271"/><lb
 n="271.01"/>是恢復為原來的二部。</p></div><lb
-n="271.02"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:741">七四一　<title>五苦章句經</title></ref><editor role="translator">東晉竺曇無蘭譯</editor></bibl></listBibl><lb
+n="271.02"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:741">七四一　<title>五苦章句經</title></ref><editor role="translator">，東晉竺曇無蘭譯</editor></bibl></listBibl><lb
 n="271.03"/><p>「五苦章句」，是攝集佛說，沒有序起與流通的。但麗本等都有<q type="嚴謹引文">「爾時，佛<lb
 n="271.04"/>告阿難」<note resp="謝淑歆">《五苦章句經》卷1(CBETA, T17, no. 741, p. 547, c3)</note></q>，到<q type="嚴謹引文">「莫不歡喜，作禮而去」<note resp="謝淑歆">《五苦章句經》卷1(CBETA, T17, no. 741, p. 548, a1)</note></q><note place="inline">（<choice><orig></orig><reg>大正</reg></choice><ref type="taisho" target="vol:17;page:p547c">一七‧五四七下</ref>——<ref type="taisho" target="vol:17;page:p548a">五四八上</ref>）</note>一段流通文。文<lb
 n="271.05"/>中說到：<q type="嚴謹引文">「是經名淨除罪蓋娛樂佛法，一名授無思議光菩薩道決」<note resp="謝淑歆">《五苦章句經》卷1(CBETA, T17, no. 741, p. 547, c6-7)</note></q>，與「五苦章<lb
@@ -3684,16 +3684,16 @@ n="271.08"/>）</note></biblScope></bibl>說有<title level="m">《無思議孩�
 n="271.09"/>」，正與本經流通分相合。可以斷定的是：這是竺法護<title level="m">《無思議光經》</title>的殘篇，<lb
 n="271.10"/>被抄寫者誤附在<title level="m">《五苦章句》</title>以後的。為了保存殘篇，應編在羅什所譯，<title level="m">《不思<lb
 n="271.11"/>議光菩薩經》</title>以下。</p></div><lb
-n="271.12"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:742">七四二　<title>佛說自愛經</title></ref><editor role="translator">東晉竺曇無蘭譯</editor></bibl></listBibl><lb
+n="271.12"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:742">七四二　<title>佛說自愛經</title></ref><editor role="translator">，東晉竺曇無蘭譯</editor></bibl></listBibl><lb
 n="271.13"/><p>這部經，是依<cit><bibl><ref type="Taisho" target="no:211">二一一《<title level="m">法句譬喻經</title>‧<title level="a">雙要品</title>》</ref>，佛說</bibl><q type="嚴謹引文">「心為法本，心尊心
 <pb n="272"/><lb
 n="272.01"/>使」</q></cit>的譬喻<note place="inline">（<choice><orig></orig><reg>大正</reg></choice><ref type="taisho" target="vol:4;page:p582b">四‧五八二中</ref>——<ref type="taisho" target="vol:4;page:p583a">五八三上</ref>）</note>為底本而成的。<title level="m">《法句譬喻經》</title>原文，可以在<lb
 n="272.02"/>本經中勾畫出來，所以這不是譯本，是我國古德的改編，應編入「疑偽部」。</p></div><lb
 n="272.03"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:768">七六八　<title>三慧經</title></ref><editor role="unknown-translator">失譯</editor></bibl></listBibl><lb
 n="272.04"/><p>經名與內容不符。</p></div><lb
-n="272.05"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:791">七九一　<title>佛說出家緣經</title></ref><editor role="translator">漢安世高譯</editor></bibl></listBibl><lb
+n="272.05"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:791">七九一　<title>佛說出家緣經</title></ref><editor role="translator">，漢安世高譯</editor></bibl></listBibl><lb
 n="272.06"/><p>經說犯五戒的過失，與出家因緣無關。</p></div><lb
-n="272.07"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:801">八〇一　<title>佛說無常經，亦名三契經</title></ref><editor role="translator">唐義淨譯</editor></bibl></listBibl><lb
+n="272.07"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:801">八〇一　<title>佛說無常經，亦名三契經</title></ref><editor role="translator">，唐義淨譯</editor></bibl></listBibl><lb
 n="272.08"/><p>經分三段，所以名為「三契」。初後是偈頌，傳說是馬鳴所作。中段，是<title level="m">《<lb
 n="272.09"/>佛說無常經》</title>正文。<title level="m">《佛說無常經》</title>，可說是<bibl><title level="m">《雜阿含》</title><ref type="Taisho" target="no:99.1240">（一二四〇）經</ref></bibl>的異譯<lb
 n="272.10"/>；所差異的，只是對比丘或波斯匿王說而已，可參考<bibl><title level="m">《雜阿含》</title><ref type="Taisho" target="no:99.346">（三四六）經</ref></bibl>初<lb
@@ -3708,7 +3708,7 @@ n="273.04"/><p>經上所說的，是僧伽尸自移塔的事緣，與經名「�
 n="273.05"/>》</title><biblScope type="卷" n="3"><note place="inline">（卷三）</note></biblScope><title level="a">〈新集安公失譯經錄〉</title></bibl>，有<title level="m">《枯樹經》</title>一卷，<q type="嚴謹引文">「安公云出中阿含」<note resp="謝淑歆">《出三藏記集》卷3(CBETA, T55, no. 2145, p. 16, c26)</note></q>。<bibl><title level="m">《<lb
 n="273.06"/>增壹阿含經》</title>（三三）<title level="a">〈五王品〉</title></bibl>末，確有名為<q type="嚴謹引文">「枯樹」<note resp="謝淑歆">《增壹阿含經》卷25〈33 五王品〉(CBETA, T02, no. 125, p. 689, c6)</note></q>經的，但古譯已佚失了<lb
 n="273.07"/>。這不是「經」，可以編入「史傳部」。</p></div><lb
-n="273.08"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:982">九八二　<title>佛母大（金曜）孔雀明王經</title></ref><editor role="translator">唐不空譯</editor></bibl></listBibl><lb
+n="273.08"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:982">九八二　<title>佛母大（金曜）孔雀明王經</title></ref><editor role="translator">，唐不空譯</editor></bibl></listBibl><lb
 n="273.09"/><p><title level="m">《孔雀明王經》</title>，現有六種譯本。九八二是唐不空所譯的，經前有<title level="a">〈讀誦佛<lb
 n="273.10"/>母大孔雀明王經前<choice><orig>啓</orig><reg>啟</reg></choice>請法〉</title>；末後有迴向發願偈。九八四、梁僧伽婆羅所譯，九<lb
 n="273.11"/>八五、唐義淨所譯本，九八七、附秦錄的失譯本，經前經後都有同樣性質的文句<lb
@@ -3733,7 +3733,7 @@ n="275.01"/>咒經》</title></ref></bibl>等相類。<bibl><title level="m">《
 n="275.02"/>咒》</title>一卷，<title level="m">《七佛各說偈》</title>一卷。大抵依據部分譯典、傳說，由古德纂集所成的<lb
 n="275.03"/>，約成立於晉代。<title level="m">《陀羅尼雜集》</title>，也就是纂集的作品，不免有「疑偽」的成分<lb
 n="275.04"/>。</p></div><lb
-n="275.05"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1487">一四八七　<title>佛說菩薩內戒經</title></ref><editor role="translator">宋求那跋<choice><sic>陀羅</sic><corr resp="厚觀法師 謝淑歆">摩<note resp="厚觀法師">《佛說菩薩內戒經》卷1：「佛說菩薩內戒經　宋北印度三藏求那跋摩譯」(CBETA, T24, no. 1487, p. 1028, c9-11)</note></corr></choice>譯</editor></bibl></listBibl><lb
+n="275.05"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:1487">一四八七　<title>佛說菩薩內戒經</title></ref><editor role="translator">，宋求那跋<choice><sic>陀羅</sic><corr resp="厚觀法師 謝淑歆">摩<note resp="厚觀法師">《佛說菩薩內戒經》卷1：「佛說菩薩內戒經　宋北印度三藏求那跋摩譯」(CBETA, T24, no. 1487, p. 1028, c9-11)</note></corr></choice>譯</editor></bibl></listBibl><lb
 n="275.06"/><p>本經題作宋求那跋摩譯。經文分二大段：一、菩薩戒十二時；二、十住菩薩<lb
 n="275.07"/>行。<q type="嚴謹引文">「佛說菩薩戒十二時竟」<note resp="謝淑歆">《佛說菩薩內戒經》卷1(CBETA, T24, no. 1487, p. 1032, c23)</note></q>以下，與題作東晉祇多蜜所譯的，<bibl><ref type="Taisho" target="no:284">二八四<title level="m">《佛說菩<lb
 n="275.08"/>薩十住經》</title></ref></bibl>的文句相同。這二部，不可能是二人別譯的。考尋「經錄」，<bibl><title level="m">《出三<lb
@@ -3751,7 +3751,7 @@ n="276.05"/>。</p></div></div><lb
 n="276.06"/><div><p type="head">三</p><lb
 n="276.07"/><p>古代譯出的<title level="m">《阿含經》</title>，每部都含有多數的經典，在長期的抄寫流通中，不<lb
 n="276.08"/>免有缺佚與次第倒亂的情形，如：</p><lb
-n="276.09"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:99">九九　<title>雜阿含經</title></ref><editor role="translator">宋求那跋陀羅譯</editor></bibl></listBibl><lb
+n="276.09"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:99">九九　<title>雜阿含經</title></ref><editor role="translator">，宋求那跋陀羅譯</editor></bibl></listBibl><lb
 n="276.10"/><p><title level="m">《雜阿含經》</title>五十卷，是宋求那跋陀羅譯出的。近代學者公認：五十卷中的<lb
 n="276.11"/>二三，二五——兩卷，不是經的原文。<title level="m">《雜阿含經》</title>佚失了二卷，大概是以求那<lb
 n="276.12"/>跋陀羅所譯的<title level="m">《無憂<note place="inline" rendition="#inline_small_note">阿育</note>王經》</title>來補足的。<bibl><title level="m">《出三藏記集》</title><biblScope type="卷" n="4"><note place="inline">（卷四）</note></biblScope><title level="a">〈新集續撰失譯
@@ -3763,7 +3763,7 @@ n="277.04"/>錯亂；阿育王譬喻，也已被編入<title level="m">《雜阿
 n="277.05"/>出，別立<title level="m">《無憂王經》</title>，編入「史傳部」。缺失以外，經卷次第也有錯亂的，如<lb
 n="277.06"/>卷二、四、一〇、一二、一三、二三、三一、三六、四一、四三、四六、四七<lb
 n="277.07"/>——一二卷。<title level="a">〈雜阿含經部類之整編〉</title>中，我已有詳細的敘述，這裡不再重說。</p></div><lb
-n="277.08"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:125">一二五　<title>增壹阿含經</title></ref><editor role="translator">東晉僧伽提婆譯</editor></bibl></listBibl><lb
+n="277.08"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:125">一二五　<title>增壹阿含經</title></ref><editor role="translator">，東晉僧伽提婆譯</editor></bibl></listBibl><lb
 n="277.09"/><p><title level="m">《增壹阿含經》</title>，是由曇摩難提誦出而翻譯的。譯經當時的釋道安，在<cit><bibl><title level="a">〈增<lb
 n="277.10"/>壹阿含經序〉</title>中說：</bibl><q type="嚴謹引文">「四十一卷，分為上下部。上部二十六卷，全無遺忘；下部<lb
 n="277.11"/>十五卷，失其錄偈。……合上下部，四百七十二經」<note resp="謝淑歆">《增壹阿含經》卷1(CBETA, T02, no. 125, p. 549, a15-26)</note></q></cit><note place="inline">（<choice><orig></orig><reg>大正</reg></choice><ref type="taisho" target="vol:2;page:p594a">二‧五九四上</ref>）</note>。依安公說，<lb
@@ -3814,7 +3814,7 @@ n="280.13"/>耳」<note resp="謝淑歆">《出三藏記集》卷9：「違本�
 <pb n="281"/><lb
 n="281.01"/><title level="m">《中阿含經》</title>來得好。次第錯亂，文義又不善巧，在我國所譯的「四阿含」中，<lb
 n="281.02"/><title level="m">《增壹阿含經》</title>是最不理想的！</p></div><lb
-n="281.03"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:101">一〇一　<title>雜阿含經（一卷‧二七經）</title></ref><editor role="translator">失譯附吳魏錄</editor></bibl></listBibl><lb
+n="281.03"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:101">一〇一　<title>雜阿含經（一卷‧二七經）</title></ref><editor role="translator">，失譯附吳魏錄</editor></bibl></listBibl><lb
 n="281.04"/><p>全部二十七經；末後一經，別題<title level="m">《七處三觀經》</title>，其餘的都沒有經名。梁僧<lb
 n="281.05"/>祐的<bibl><title level="m">《出三藏記集》</title><biblScope type="卷" n="3"><note place="inline">（卷三）</note></biblScope>的<title level="a">〈新集安公古異經錄〉</title></bibl>中，列舉<title level="m">《色比丘念本起經<lb
 n="281.06"/>》</title>，到<title level="m">《說人自說人骨不知腐經》</title>，下注說：<q type="嚴謹引文">「安公云：上四十五經，出《雜阿含》<lb
@@ -3864,8 +3864,8 @@ n="282.02"/>下：</p>
 n="284.07"/><p>以上二十五經，安公說出於<title level="m">《雜阿含》</title>，後來也就總稱為<title level="m">《雜阿含經》</title>了，<lb
 n="284.08"/>其實也有出於<title level="m">《增一》</title>的。舍利曰（今本誤作「舍日」）是舍利弗的古譯。阿須<lb
 n="284.09"/>倫，經中是譯為「阿遫輪」的；披羅門，經中已改為「婆羅門」了。</p></div><lb
-n="284.10"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:150A"><choice><sic>一五〇</sic><corr resp="厚觀法師 謝淑歆">一五〇Ａ</corr></choice>　<title><choice><sic>Ａ七處三觀經</sic><corr resp="厚觀法師 謝淑歆">七處三觀經<note resp="厚觀法師">《七處三觀經》卷1：「佛說七處三觀[7]經」(CBETA, T02, no. 150A, p. 875, b5)[7]經＋（卷上）【宋】【明】。</note></corr></choice></title></ref><editor role="translator">漢安世高譯</editor></bibl><lb
-n="284.11"/><bibl><ref type="Taisho" target="no:150B"><choice><sic>一五〇</sic><corr resp="厚觀法師 謝淑歆">一五〇Ｂ</corr></choice>　<title><choice><sic>Ｂ九橫經</sic><corr resp="厚觀法師 謝淑歆">九橫經<note resp="厚觀法師">《九橫經》卷1：「佛說九橫經」(CBETA, T02, no. 150B, p. 883, a12)</note></corr></choice></title></ref><editor role="translator">漢安世高譯</editor></bibl></listBibl><lb
+n="284.10"/><div type="correlated"><listBibl><bibl><ref type="Taisho" target="no:150A"><choice><sic>一五〇</sic><corr resp="厚觀法師 謝淑歆">一五〇Ａ</corr></choice>　<title><choice><sic>Ａ七處三觀經</sic><corr resp="厚觀法師 謝淑歆">七處三觀經<note resp="厚觀法師">《七處三觀經》卷1：「佛說七處三觀[7]經」(CBETA, T02, no. 150A, p. 875, b5)[7]經＋（卷上）【宋】【明】。</note></corr></choice></title></ref><editor role="translator">，漢安世高譯</editor></bibl><lb
+n="284.11"/><bibl><ref type="Taisho" target="no:150B"><choice><sic>一五〇</sic><corr resp="厚觀法師 謝淑歆">一五〇Ｂ</corr></choice>　<title><choice><sic>Ｂ九橫經</sic><corr resp="厚觀法師 謝淑歆">九橫經<note resp="厚觀法師">《九橫經》卷1：「佛說九橫經」(CBETA, T02, no. 150B, p. 883, a12)</note></corr></choice></title></ref><editor role="translator">，漢安世高譯</editor></bibl></listBibl><lb
 n="284.12"/><p>本經應分別的解說。一、Ａ<title level="m">《七處三觀經》</title>，二卷，四十七經。四十七經中
 <pb n="285"/><lb
 n="285.01"/>，<title level="m">《佛說九橫（經）》</title>，<title level="m">《佛說積骨經》</title>，<title level="m">《佛說七處三觀經》</title>——三經是有經<lb
