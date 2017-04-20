@@ -67,6 +67,7 @@ const putbilink=function(cor,fieldname) { //put bilink to taisho, return a list 
 }
 
 const finalize=function(){
+	debugger
 	notefinalize.call(this);
 	linkTo[bilinkfield]=putbilink(this,bilinkfield);
 }

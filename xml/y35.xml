@@ -10108,7 +10108,7 @@ n="564.03"/>」形式的，加＊以為記別。</p>
 <table rendition="#custom_table_4">
 <lb n="564.04"/>
 <row>
-<cell>〔銅鍱律〕<ptr type="note" target="#note64.024"/>　　　</cell><cell>〔四分律〕<ptr type="note" target="#note64.025"/>　　　</cell><cell>〔五分律〕<ptr type="note" target="#note64.026"/></cell>
+<cell>〔銅鍱律〕<ptr type="note" target="#note64.024"/>　　　　　</cell><cell>〔四分律〕<ptr type="note" target="#note64.025"/>　　　　</cell><cell>〔五分律〕<ptr type="note" target="#note64.026"/></cell>
 </row>
 <lb n="564.05"/>
 <row>
@@ -10120,7 +10120,7 @@ n="564.03"/>」形式的，加＊以為記別。</p>
 </row>
 <lb n="564.07"/>
 <row>
-<cell>　　　　　　　　　　</cell><cell>　　　　　　　　　　</cell><cell>3 梵志不從王乞</cell>
+<cell>　　　　　　　　　　</cell><cell>　　　　　  　　　　</cell><cell>3 梵志不從王乞</cell>
 </row>
 <lb n="564.08"/>
 <row>
@@ -10148,7 +10148,7 @@ n="564.03"/>」形式的，加＊以為記別。</p>
 </row>
 <lb n="564.14"/>
 <row>
-<cell>8 鵽‧猴‧象　　　　　</cell><cell>11鵽‧猴‧象　　　　　　</cell><cell>7 雉‧猴‧象</cell>
+<cell>8 鵽‧猴‧象　　　　　  </cell><cell>11鵽‧猴‧象　　　　　　</cell><cell>7 雉‧猴‧象</cell>
 </row>
 <lb n="564.15"/>
 <row>
@@ -11285,17 +11285,17 @@ n="632.06"/>菩提分法。眾會事者，所謂八眾」。</p></q><lb
 n="632.07"/><p>「九事」的內容，就是「一切事相應教」的事，<title level="m">《雜阿含經》</title>的內容。「九事」的次第開合<lb
 n="632.08"/>，現有三說，比對如下：</p><lb
 n="632.09"/><figure><graphic url="y35.0632.svg"/><figDesc>
-　〔瑜伽論本地分〕<ptr type="note" target="#note71.005"/>　      〔瑜伽論攝事分〕<ptr type="note" target="#note71.006"/>　     〔雜事〕<ptr type="note" target="#note71.007"/> <lb
+　〔瑜伽論本地分〕<ptr type="note" target="#note71.005"/>      〔瑜伽論攝事分〕<ptr type="note" target="#note71.006"/>     〔雜事〕<ptr type="note" target="#note71.007"/> <lb
 n="632.10"/>　 1 五取蘊─────── 3 蘊─────────1 五蘊<lb
 n="632.11"/>　 2 十二處─────── 5 處─────────2 六處<lb
-n="632.12"/>　 3 十二緣起────── 6 緣起────────4 緣起<lb
-n="632.13"/>　 4 四食──────── 7 食<lb
+n="632.12"/>　 3 十二緣起  ───── 6 緣起───────  4 緣起<lb
+n="632.13"/>　 4 四食 ──────── 7 食<lb
 n="632.14"/>　 5 四聖諦─────── 8 諦─────────5 聖諦<lb
 n="632.15"/>　 6 無量界─────── 4 界─────────3 十八界
 <pb n="633"/><lb
-n="633.01"/>　　　　　　　┌─── 1 弟子所說──────6 聲聞所說<lb
+n="633.01"/>　　　　　　   ┌─── 1 弟子所說──────6 聲聞所說<lb
 n="633.02"/>　 7 佛及弟子─┤<lb
-n="633.03"/>　　　　　　　└─── 2 如來所說──────7 佛所說<lb
+n="633.03"/>　　　　　　   └─── 2 如來所說──────7 佛所說<lb
 n="633.04"/>　 8 四念住等────── 9 念住等───────8 念處等<lb
 n="633.05"/>　 9 八眾──────── 10八眾────────9 伽他
 </figDesc></figure><lb
@@ -11461,7 +11461,7 @@ n="642.05"/>　　6「無因」————┐<lb
 n="642.06"/>　　  　　　　　　　　├　54<lb
 n="642.07"/>　　7「毀他」————┘<lb
 n="642.08"/>　　8「染俱」—————　55 56<lb
-n="642.09"/>ⅩⅠ頌   1「少欲」————┐<lb
+n="642.09"/>ⅩⅠ頌   1「少欲」 ————┐<lb
 n="642.10"/>　　　  　　　　　　　　├ 57<lb
 n="642.11"/>　　　2「自性等」———┘<lb
 n="642.12"/>　　　3「記」—————　 58（以上卷二終）<lb
@@ -11609,7 +11609,7 @@ n="651.05"/>Ⅱ頌1「異」————— 294<lb
 n="651.06"/>　　2「世俗勝義」—— 295<lb
 n="651.07"/>　　3「法爾」———— 296<lb
 n="651.08"/>　　4「此作」———┐<lb
-n="651.09"/>　　 　　　　　　　├ 297<lb
+n="651.09"/>　　  　　　　　　　├ 297<lb
 n="651.10"/>　　5「大空」———┘<lb
 n="651.11"/>　　6「分別」———— 298<lb
 n="651.12"/>　　　　　　　　　　　（299）義見296經。<lb
@@ -11698,9 +11698,9 @@ n="656.13"/>　　3「見等為最勝」　484<lb
 n="656.14"/>　　4「諸受相差別」　485<lb
 n="656.15"/>　　5「知差別」——　486 487 488 489（以上卷一七終）
 <pb n="657"/><lb
-n="657.01"/>　　　　　　 　┌—《中含》（一一九）《說處經》。<lb
+n="657.01"/>　　　　　　  　┌—《中含》（一一九）《說處經》。<lb
 n="657.02"/>　　6「問記」—┤<lb
-n="657.03"/>　　　　　　 　└—《中含》（二二） 《成就戒經》。<lb
+n="657.03"/>　　　　　　  　└—《中含》（二二） 《成就戒經》。<lb
 n="657.04"/>　　（卷九六終）<lb
 n="657.05"/>菩提分法擇攝第四（一總頌‧一二聚‧八一門）<lb
 n="657.06"/>Ⅰ頌1「沙門」——— 《中含》（一〇三）《師子吼經》。<lb
@@ -11721,7 +11721,7 @@ n="658.03"/>　　6「修時」———　610<lb
 n="658.04"/>　　7「障自性」——　611<lb
 n="658.05"/>　　8「說」————┐<lb
 n="658.06"/>　　9「發起」　——┼　612<lb
-n="658.07"/>　　10「修」 ———┘<lb
+n="658.07"/>　　10「修」  ———┘<lb
 n="658.08"/>Ⅲ頌1「諸根」———　613<lb
 n="658.09"/>　　2「愛味」———　614<lb
 n="658.10"/>　　3「前後差別」—　615<lb
@@ -11989,12 +11989,12 @@ n="674.03"/>　　　　　　　　  └──一三九──一七一<lb
 n="674.04"/>　三「斷知」───────一七二──一八七（以上卷七）<lb
 n="674.05"/>　　　　※　　　　　　　　　　　※　　　　　　　　　※<lb
 n="674.06"/>　　　　　　　　┌閻浮車───四九〇<lb
-n="674.07"/>　四「舍利弗」─┼沙門出家──四九一<lb
+n="674.07"/>　四「舍利弗」 ─┼沙門出家──四九一<lb
 n="674.08"/>　　　　　　　　└比丘等───四九二──五〇〇<lb
-n="674.09"/>　　　　　　　　　　　　   ┌─五〇一──五〇三（以上卷一八）<lb
+n="674.09"/>　　　　　　　　　　　　  ┌─五〇一──五〇三（以上卷一八）<lb
 n="674.10"/>　　　　　　　　┌佛與天─┤<lb
-n="674.11"/>　　　　　　　　│　　　　└─五〇四──五〇七<lb
-n="674.12"/>　五「目犍連」─┤<lb
+n="674.11"/>　　　　　　　　│　　　  └─五〇四──五〇七<lb
+n="674.12"/>　五「目犍連」 ─┤<lb
 n="674.13"/>　　　　　　　　└勒叉那───五〇八──五三四<lb
 n="674.14"/>　　　　　　　　　　　　┌─五三五──五三六（以上卷一九）<lb
 n="674.15"/>　六「阿那律」───────┤<lb
@@ -12020,18 +12020,18 @@ n="675.13"/>　　　　　　　　　　　┌──九三七──九三九�
 n="675.14"/>　一五「生死眾多」───┤<lb
 n="675.15"/>　　　　　　　　　　　└──九四〇──九五六<lb
 n="675.16"/>　一六「婆蹉出家」──────九五七──九六四<lb
-n="675.17"/>　　　　　　　　　　　┌──九六五──九六九（以上卷三四）<lb
+n="675.17"/>　　　　　 　　　　　　┌──九六五──九六九（以上卷三四）<lb
 n="675.18"/>　一七「外道出家」───┤<lb
-n="675.19"/>　　　　　　　　　　　└──九七〇──九七九
+n="675.19"/>　　　　　 　　　　　　└──九七〇──九七九
 <pb n="676"/><lb
 n="676.01"/>　　按：從「大迦葉」到「外道出家」，共四卷，與《別譯雜阿含經》（二誦）卷一三──<lb
 n="676.02"/>　　　　卷一九的次第相合。<lb
 n="676.03"/>　　　　　　　　　  ┌───九八〇──九九二（以上卷三五）<lb
 n="676.04"/>　一八「雜」─────┤<lb
 n="676.05"/>　　　　　　　　　  └───一二四一──一二六四<lb
-n="676.06"/>　　　　　　　　　　　 ┌─ 一二六五──一二六六（以上卷四七）<lb
+n="676.06"/>　　　　　　　　　　　  ┌─ 一二六五──一二六六（以上卷四七）<lb
 n="676.07"/>　　　　　　　┌─ 比丘─┤<lb
-n="676.08"/>　一九「病」─┤　　　　 └─ 一〇二三──一〇二九<lb
+n="676.08"/>　一九「病」 ─┤　　　　└─ 一〇二三──一〇二九<lb
 n="676.09"/>　　　　　　　└─ 長者─── 一〇三〇──一〇三八<lb
 n="676.10"/>　二〇「法」────────　一〇三九──一〇六一（以上卷三七）<lb
 n="676.11"/>　　 ※　　　　　※　　　　 ※　　　　　　 ※<lb
@@ -13570,8 +13570,8 @@ n="769.09"/>　48慈心功德　　　│27　　　　　│　　　　　　�
 n="769.10"/>　49善知識　　　　│17　　　　　│　　　　　　　　　 │<lb
 n="769.11"/>　50正作意　　　　│16　　　　　│　　　　　　　　　 │<lb
 n="769.12"/>　51惠施　　　　　│26　　　　　│ 護心品6　　　　　 │<lb
-n="769.13"/>　52犯戒───┐　│　　　　　　│　　　　　　　　　 │<lb
-n="769.14"/>　53持戒───┴─│　　　　　　│ 五戒品　　　　　　│<lb
+n="769.13"/>　52犯戒───┐　　 │　　　　　　│　　　　　　　　　 │<lb
+n="769.14"/>　53持戒───┴──  │　　　　　　│ 五戒品　　　　　　│<lb
 n="769.15"/>　54知而妄語　　　│25　　　　　│　　　　　　　　　 │
 <pb n="770"/><lb
 n="770.01"/>　55妄語而悔　　　│　　　　　　│　　　　　　　　　 │<lb
@@ -14501,23 +14501,23 @@ n="827.05"/><p>Ⅰ與<title level="m">《雜阿含經》</title>大同，或主�
 n="827.06"/>的時期相當。如：</p>
 <table rendition="no_border">
 <lb n="827.07"/>
-<row><cell>〔經集〕　　　　　　　　　</cell><cell>〔雜阿含經〕　</cell><cell>〔附注〕</cell></row>
+<row><cell>〔經集〕　　　　　　　　　　　</cell><cell>〔雜阿含經〕　　　　</cell><cell>〔附注〕</cell></row>
 <lb n="827.08"/>
-<row><cell>蛇品（六）敗亡經　　　　　</cell><cell>一二七九<ptr type="note" target="#note90.003"/></cell><cell></cell></row>
+<row><cell>蛇品（六）敗亡經　　　　　　　</cell><cell>一二七九<ptr type="note" target="#note90.003"/></cell><cell></cell></row>
 <lb n="827.09"/>
-<row><cell>小品（五）針毛經　　　　　</cell><cell>一三二四　　　</cell><cell><title level="m">《相應部》</title>一〇‧三</cell></row>
+<row><cell>小品（五）針毛經　　　　　　　</cell><cell>一三二四　　　　　　</cell><cell><title level="m">《相應部》</title>一〇‧三</cell></row>
 <lb n="827.10"/>
-<row><cell>蛇品（九）雪山夜叉經　　　</cell><cell>一三三九　　　</cell><cell><title level="m">《雜含》</title>有序文</cell></row>
+<row><cell>蛇品（九）雪山夜叉經　　　　　</cell><cell>一三三九　　　　　　</cell><cell><title level="m">《雜含》</title>有序文</cell></row>
 <lb n="827.11"/>
-<row><cell>蛇品（一〇）曠野夜叉經　　</cell><cell>一三三八　　　</cell><cell><title level="m">《相應部》</title>一〇‧一二</cell></row>
+<row><cell>蛇品（一〇）曠野夜叉經　　　　</cell><cell>一三三八　　　　　　</cell><cell><title level="m">《相應部》</title>一〇‧一二</cell></row>
 <lb n="827.12"/>
-<row><cell>蛇品（四）耕田婆羅墮闍經　</cell><cell>九八　　　　　</cell><cell><title level="m">《相應部》</title>七‧二‧一</cell></row>
+<row><cell>蛇品（四）耕田婆羅墮闍經　　　</cell><cell>九八　　　　　　　　</cell><cell><title level="m">《相應部》</title>七‧二‧一</cell></row>
 <lb n="827.13"/>
-<row><cell>蛇品（七）賤民經　　　　　</cell><cell>一〇二　　　　</cell><cell><title level="m">《雜含》</title>末段小異</cell></row>
+<row><cell>蛇品（七）賤民經　　　　　　　</cell><cell>一〇二　　　　　　　</cell><cell><title level="m">《雜含》</title>末段小異</cell></row>
 <lb n="827.14"/>
-<row><cell>小品（一二）婆耆舍經　　　</cell><cell>一二二一　　　</cell><cell></cell></row>
+<row><cell>小品（一二）婆耆舍經　　　　　</cell><cell>一二二一　　　　　　</cell><cell></cell></row>
 <lb n="827.15"/>
-<row><cell>大品（三）善說經　　　　　</cell><cell>一二一八　　　</cell><cell><title level="m">《相應部》</title>八‧五</cell></row>
+<row><cell>大品（三）善說經　　　　　　　</cell><cell>一二一八　　　　　　</cell><cell><title level="m">《相應部》</title>八‧五</cell></row>
 </table>
 <pb n="828"/><lb
 n="828.01"/><p>Ⅱ<title level="m">《雜阿含經》</title>簡略，而<title level="m">《經集》</title>增廣的；或<title level="m">《雜阿含經》</title>別行，而<title level="m">《經集》</title>合為一經的；<lb
@@ -14525,29 +14525,29 @@ n="828.02"/>或因緣不同而主體一致。這都是成立於「祇夜」成�
 n="828.03"/>部分）以外的，如：</p>
 <table rendition="no_border">
 <lb n="828.04"/>
-<row><cell>〔經集〕　　　　　　　　　　　</cell><cell>〔雜阿含經〕　</cell><cell>〔附注〕</cell></row>
+<row><cell>〔經集〕　　　　　　　　　　　　　</cell><cell>〔雜阿含經〕　　　　</cell><cell>〔附注〕</cell></row>
 <lb n="828.05"/>
-<row><cell rows="2">蛇品（二）陀尼耶經　　　　　　</cell><cell rows="2">一〇〇四　　　</cell><cell>經末二頌相同</cell></row>
+<row><cell rows="2">蛇品（二）陀尼耶經　　　　　　　　</cell><cell rows="2">一〇〇四　　　　　　</cell><cell>經末二頌相同</cell></row>
 <lb n="828.06"/>
-<row><cell>　　　　　　　　　　　　　　　　　　　　　　《相應部》一‧二‧二</cell></row>
+<row><cell>　　　　　　　　　　　　　　　　　　　　　　　　　　　《相應部》一‧二‧二</cell></row>
 <lb n="828.07"/>
-<row><cell rows="2">小品（一〇）起立經　　　　　　</cell><cell rows="2">一三三二　　　</cell><cell>初偈相同</cell></row>
+<row><cell rows="2">小品（一〇）起立經　　　　　　　　</cell><cell rows="2">一三三二　　　　　　</cell><cell>初偈相同</cell></row>
 <lb n="828.08"/>
-<row><cell>　　　　　　　　　　　　　　　　　　　　　　《相應部》九‧二</cell></row>
+<row><cell>　　　　　　　　　　　　　　　　　　　　　　　　　　　《相應部》九‧二</cell></row>
 <lb n="828.09"/>
-<row><cell>大品（四）孫陀利迦婆羅墮闍經　</cell><cell>一一八四　　　</cell><cell>《相應部》七‧一‧九</cell></row>
+<row><cell>大品（四）孫陀利迦婆羅墮闍經　　　</cell><cell>一一八四　　　　　　</cell><cell>《相應部》七‧一‧九</cell></row>
 <lb n="828.10"/>
-<row><cell>大品（五）摩伽經　　　　　　　</cell><cell>一一五九　　　</cell><cell></cell></row>
+<row><cell>大品（五）摩伽經　　　　　　　　　</cell><cell>一一五九　　　　　　</cell><cell></cell></row>
 <lb n="828.11"/>
-<row><cell>　　　　　　　　　　　　　　　</cell><cell>一一九四　　　</cell><cell>《相應部》六‧一‧六</cell></row>
+<row><cell>　　　　　　　　　　　　　　　　　</cell><cell>一一九四　　　　　　</cell><cell>《相應部》六‧一‧六</cell></row>
 <lb n="828.12"/>
-<row><cell>大品（一〇）拘迦利耶經　　　　</cell><cell rows="2">一二七八　　　</cell><cell>《相應部》六‧一〇</cell></row>
+<row><cell>大品（一〇）拘迦利耶經　　　　　　</cell><cell rows="2">一二七八　　　　　　</cell><cell>《相應部》六‧一〇</cell></row>
 <lb n="828.13"/>
-<row><cell>　　　　　　　　　　　　　　　</cell><cell>　　　　　　　　《增支部》一〇‧八九</cell></row>
+<row><cell>　　　　　　　　　　　　　　　　　</cell><cell>　　　　　　　　　　《增支部》一〇‧八九</cell></row>
 <lb n="828.14"/>
-<row><cell>小品（一一）羅睺羅經　　　　　</cell><cell>一二一四　　　</cell><cell>《相應部》八‧四　後三頌相同</cell></row>
+<row><cell>小品（一一）羅睺羅經　　　　　　　</cell><cell>一二一四　　　　　　</cell><cell>《相應部》八‧四　後三頌相同</cell></row>
 <lb n="828.15"/>
-<row><cell>小品（三）慚愧經　　　　　　　</cell><cell>九七八　　　　</cell><cell>《相應部》四‧三</cell></row>
+<row><cell>小品（三）慚愧經　　　　　　　　　</cell><cell>九七八　　　　　　　</cell><cell>《相應部》四‧三</cell></row>
 </table>
 <pb n="829"/><lb
 n="829.01"/><p>2.與「中」、「長」阿含有關的，如<bibl><title level="a">〈大品〉</title>（七）<title level="m">《施羅經》</title></bibl>，（九）<title level="m">《婆私吒經》</title>，也<lb
@@ -14783,6 +14783,23 @@ n="840.15"/>兩部偈集與「阿含」有關的，<title level="m">《長老偈
 <row><cell>賴吒惒羅七六九——七八八　　</cell><cell>中含賴吒惒羅經　　　　　　</cell><cell>中部賴吒惒羅經</cell></row>
 <lb n="842.02"/>
 <row><cell>阿那律九一〇——九一九　　　</cell><cell>中含說本經　　　　　　　　</cell><cell></cell></row>
+</table><lb
+n="842.03"/><p>《長老尼偈》與「阿含」相同的，有：</p>
+<table rendition="no_border">
+<lb n="842.04"/>
+<row><cell>〔長老尼偈〕　　　　　　　　</cell><cell>〔漢譯雜阿含經〕　　　　　　　</cell><cell>〔巴利相應部〕</cell></row>
+<lb n="842.05"/>
+<row><cell>世羅五七——五九　　　　　　</cell><cell>一一九八經　　　　　　　　</cell><cell>五‧一<ptr type="note" target="#note94.006"/></cell></row>
+<lb n="842.06"/>
+<row><cell>蓮華色二三〇——二三五　　　</cell><cell>一二〇一　　　　　　　　　</cell><cell>五‧五</cell></row>
+<lb n="842.07"/>
+<row><cell>蘇摩六〇——六二　　　　　　</cell><cell>一一九九　　　　　　　　　</cell><cell>五‧二</cell></row>
+<lb n="842.08"/>
+<row><cell>遮羅一八三——一八八　　　　</cell><cell>一二〇七　　　　　　　　　</cell><cell>五‧八<ptr type="note" target="#note94.007"/></cell></row>
+<lb n="842.09"/>
+<row><cell>尸羅遮羅一九七——二〇三　　</cell><cell>一二〇六　　　　　　　　　</cell><cell>五‧七<ptr type="note" target="#note94.008"/></cell></row>
+<lb n="842.10"/>
+<row><cell>孫陀利三一二——三三七　　　</cell><cell>一一七八<ptr type="note" target="#note94.009"/>　　　　　　　　　</cell><cell></cell></row>
 </table><lb
 n="842.11"/><p><title level="m">《長老尼偈》</title>，見於「雜阿含」，而不見於其他的三部，這是佛滅後，尼眾受到上座的貶抑<lb
 n="842.12"/>，不再像佛陀的時代了。二部的偈頌，部分與<title level="m">《法句》</title>相同。這可能為根據「雜」、「中」、「<lb
