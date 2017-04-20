@@ -16,8 +16,8 @@
 
 	<g>
 		<title>頁-1</title>
-		<g id="group95-1" transform="translate(1.125,-1.125)">
-			<title>工作表.95</title>
+		<g id="group96-1" transform="translate(1.125,-1.125)">
+			<title>工作表.96</title>
 			<g id="shape1-2" transform="translate(0,-425.197)">
 				<title>工作表.1</title>
 				<desc>略示道基</desc>
@@ -33,7 +33,7 @@
 				<desc>結示宗要</desc>
 				<rect x="0" y="427.447" width="75.6077" height="22.6772" class="st1"/>
 				<text x="5.8" y="443.59" class="st2">結示宗要</text>			</g>
-			<g id="shape4-11" transform="translate(0.422929,5.68434E-14)">
+			<g id="shape4-11" transform="translate(0.422929,0)">
 				<title>工作表.4</title>
 				<desc>散攝餘義</desc>
 				<rect x="0" y="427.447" width="77.7337" height="22.6772" class="st1"/>
@@ -198,7 +198,7 @@
 				<desc>雜定品</desc>
 				<rect x="0" y="427.447" width="127.559" height="22.6772" class="st1"/>
 				<text x="0.25em 3.486em 6.722em" y="443.59" class="st2">雜定品</text>			</g>
-			<g id="shape36-110" transform="translate(545.423,-1.98952E-12)">
+			<g id="shape36-110" transform="translate(545.423,-2.21689E-12)">
 				<title>工作表.36</title>
 				<desc>雜品</desc>
 				<rect x="0" y="427.447" width="127.559" height="22.6772" class="st1"/>
@@ -408,6 +408,10 @@
 			<g id="shape94-263" transform="translate(328.916,4.08195) rotate(-15.7209)">
 				<title>工作表.94</title>
 				<path d="M0 450.12 L99.39 450.12" class="st4"/>
+			</g>
+			<g id="shape95-266" transform="translate(75.798,-38.8314)">
+				<title>工作表.95</title>
+				<path d="M0 450.12 L467.72 450.12" class="st4"/>
 			</g>
 		</g>
 	</g>

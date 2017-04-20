@@ -3,7 +3,7 @@
 <!-- 由 Microsoft Visio, SVG Export 產生 y33.0040-h.svg 頁-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
 		width="6.98156in" height="4.32898in" viewBox="0 0 502.673 311.687" xml:space="preserve" color-interpolation-filters="sRGB"
-		class="st9">
+		class="st8">
 	<style type="text/css">
 	<![CDATA[
 		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
@@ -13,8 +13,7 @@
 		.st5 {marker-end:url(#mrkr1-184);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
 		.st6 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.28409090909091}
 		.st7 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
-		.st8 {stroke:#ffffff;stroke-dasharray:3,3;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
-		.st9 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+		.st8 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
@@ -30,7 +29,7 @@
 		<title>頁-1</title>
 		<g id="group75-1" transform="translate(0.375,-0.375)">
 			<title>工作表.75</title>
-			<g id="shape1-2" transform="translate(3.19744E-14,-287.145)">
+			<g id="shape1-2" transform="translate(0,-287.145)">
 				<title>工作表.1</title>
 				<desc>內則情識</desc>
 				<rect x="0" y="291.844" width="85.0394" height="19.8425" class="st1"/>
@@ -169,7 +168,7 @@
 				<desc>偏此立唯物</desc>
 				<rect x="0" y="291.844" width="138.898" height="19.8425" class="st1"/>
 				<text x="13.45" y="306.57" class="st2">（偏此立唯物）</text>			</g>
-			<g id="shape41-89" transform="translate(9.91207E-13,-3.6805)">
+			<g id="shape41-89" transform="translate(9.59233E-13,-3.6805)">
 				<title>工作表.41</title>
 				<desc>外則器界</desc>
 				<rect x="0" y="291.844" width="85.0394" height="19.8425" class="st1"/>
@@ -316,15 +315,11 @@
 				<path d="M28.35 189.8 L56.69 189.8 L56.69 253.58 L84.16 253.58 L84.16 281.92 L56.69 281.92 L56.69 311.69 L28.35 311.69
 							 L28.35 280.78 L0 280.78 L0 253.58 L27.91 253.58 L28.35 189.8 Z" class="st7"/>
 			</g>
-			<g id="shape72-198" transform="translate(201.26,-117.608)">
-				<title>工作表.72</title>
-				<path d="M0 311.69 L28.35 311.69" class="st8"/>
-			</g>
-			<g id="shape74-201" transform="translate(86.4567,-169.507)">
+			<g id="shape74-198" transform="translate(86.4567,-169.507)">
 				<title>工作表.74</title>
 				<path d="M0 311.69 L28.35 311.69" class="st3"/>
 			</g>
-			<g id="shape73-204" transform="translate(86.4567,-140.721)">
+			<g id="shape73-201" transform="translate(86.4567,-140.721)">
 				<title>工作表.73</title>
 				<path d="M0 311.69 L28.35 311.69" class="st3"/>
 			</g>

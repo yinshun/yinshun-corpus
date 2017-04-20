@@ -45,9 +45,9 @@
 				<text x="5.26" y="130.27" class="st2">因因</text>			</g>
 			<g id="shape6-17" transform="translate(69.9213,-56.6929)">
 				<title>工作表.6</title>
-				<desc>十二因緣不生不滅不常不斷非一非二不來不去</desc>
-				<rect x="0" y="114.136" width="328.819" height="22.6772" class="st1"/>
-				<text x="4.41" y="130.27" class="st2">十二因緣不生不滅不常不斷非一非二不來不去</text>			</g>
+				<desc>十二因緣不生不滅、不常不斷、非一非二、不來不去</desc>
+				<rect x="0" y="114.136" width="396.85" height="22.6772" class="st1"/>
+				<text x="6.43" y="130.27" class="st2">十二因緣，不生不滅、不常不斷、非一非二、不來不去</text>			</g>
 			<g id="shape7-20" transform="translate(551.811,-56.6929)">
 				<title>工作表.7</title>
 				<desc>非因非果</desc>
@@ -63,7 +63,7 @@
 				<desc>果</desc>
 				<rect x="0" y="114.136" width="22.6772" height="22.6772" class="st1"/>
 				<text x="4" y="130.27" class="st2">果</text>			</g>
-			<g id="shape10-29" transform="translate(69.9213,-2.84217E-14)">
+			<g id="shape10-29" transform="translate(69.9213,0)">
 				<title>工作表.10</title>
 				<desc>大般涅槃</desc>
 				<rect x="0" y="114.136" width="73.7008" height="22.6772" class="st1"/>
@@ -77,9 +77,9 @@
 				<title>工作表.13</title>
 				<path d="M0 136.81 L14.17 136.81" class="st3"/>
 			</g>
-			<g id="shape14-38" transform="translate(395.906,-68.0315)">
+			<g id="shape14-38" transform="translate(466.772,-68.0315) rotate(1.00391E-05)">
 				<title>工作表.14</title>
-				<path d="M0 136.81 L155.91 136.81" class="st4"/>
+				<path d="M0 136.81 L85.04 136.81" class="st4"/>
 			</g>
 			<g id="shape15-41" transform="translate(140.787,-11.3386)">
 				<title>工作表.15</title>
