@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<!-- 由 Microsoft Visio 11.0, SVG Export, v1.0 產生 y36.0493.svg 頁-1 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 產生 y36.0493.svg 頁-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="6.34514in" height="2.85745in"
-		viewBox="0 0 456.85 205.736" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
-	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false"/>
-
+		width="6.33472in" height="2.84703in" viewBox="0 0 456.1 204.986" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st5">
 	<style type="text/css">
 	<![CDATA[
 		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
@@ -16,104 +14,39 @@
 	]]>
 	</style>
 
-	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+	<g>
 		<title>頁-1</title>
-		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
-				v:shadowOffsetY="-8.50394"/>
-		<g id="group16-1" transform="translate(0.75,-0.75)" v:mID="16" v:groupContext="group">
-			<title>工作表.16</title>
-			<g id="shape1-2" v:mID="1" v:groupContext="shape" transform="translate(0,-45.768)">
+		<g id="group7-1" transform="translate(0.375,-0.375)">
+			<title>工作表.7</title>
+			<g id="shape2-2" transform="translate(0,-45.7684)">
 				<title>工作表.1</title>
 				<desc>　 「是諸法有四相起、住、老、無常」。 　 　 問若有四相是應更復有相答更 　　有四相彼相中餘四相俱生生為 　　生住為住老...</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-				<v:textRect cx="104.173" cy="137.776" width="208.35" height="135.921"/>
-				<rect x="0" y="69.815" width="208.346" height="135.921" class="st1"/>
-				<text x="4" y="96.92" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>　<v:newlineChar/>「<tspan class="st3"
-							v:langID="1028">是諸法有四相</tspan><tspan class="st3" v:langID="1028">：</tspan><tspan class="st3"
-							v:langID="1028">起</tspan><tspan class="st3" v:langID="1028">、</tspan><tspan class="st3" v:langID="1028">住</tspan><tspan
-							class="st3" v:langID="1028">、</tspan><tspan class="st3" v:langID="1028">老</tspan><tspan class="st3"
-							v:langID="1028">、</tspan><tspan class="st3" v:langID="1028">無常</tspan><tspan class="st3"
-							v:langID="1028">」。<v:newlineChar/>　<v:newlineChar/>　</tspan><tspan x="4" dy="1.2em" class="st3"
-							v:langID="1028">　</tspan><tspan x="4" dy="1.2em" class="st3" v:langID="1028">　</tspan><tspan x="4"
-							dy="1.2em" class="st3" v:langID="1028">問</tspan><tspan class="st3" v:langID="1028">：</tspan><tspan
-							class="st3" v:langID="1028">若有四相</tspan><tspan class="st3" v:langID="1028">，</tspan><tspan class="st3"
-							v:langID="1028">是應更復有相</tspan><tspan class="st3" v:langID="1028">？</tspan><tspan class="st3"
-							v:langID="1028">答</tspan><tspan class="st3" v:langID="1028">：</tspan><tspan class="st3" v:langID="1028">更<v:newlineChar/></tspan><tspan
-							x="4" dy="1.2em" class="st3" v:langID="1028">　　</tspan><tspan class="st3" v:langID="1028">有四相</tspan><tspan
-							class="st3" v:langID="1028">，</tspan><tspan class="st3" v:langID="1028">彼相中餘四相俱生</tspan><tspan
-							class="st3" v:langID="1028">：</tspan><tspan class="st3" v:langID="1028">生為<v:newlineChar/></tspan><tspan
-							x="4" dy="1.2em" class="st3" v:langID="1028">　　</tspan><tspan class="st3" v:langID="1028">生</tspan><tspan
-							class="st3" v:langID="1028">，</tspan><tspan class="st3" v:langID="1028">住為住</tspan><tspan class="st3"
-							v:langID="1028">，</tspan><tspan class="st3" v:langID="1028">老為老</tspan><tspan class="st3"
-							v:langID="1028">，</tspan><tspan class="st3" v:langID="1028">無常為無常<v:newlineChar/></tspan><tspan x="4"
-							dy="1.2em" class="st3" v:langID="1028">　　」。<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st3">「</tspan><tspan
-							class="st3" v:langID="1028">問</tspan><tspan class="st3" v:langID="1028">：</tspan><tspan class="st3"
-							v:langID="1028">若爾者不可盡</tspan><tspan class="st3" v:langID="1028">」！<v:newlineChar/></tspan><tspan x="4"
-							dy="1.2em" class="st3">「</tspan><tspan class="st3" v:langID="1028">答</tspan><tspan class="st3"
-							v:langID="1028">：</tspan><tspan class="st3" v:langID="1028">展轉自相為</tspan><tspan class="st3"
-							v:langID="1028">」。</tspan><v:newlineChar/><v:newlineChar/></text>			</g>
-			<g id="shape4-51" v:mID="4" v:groupContext="shape" transform="translate(2.15334,-184.236)">
+				<rect x="0" y="69.0654" width="208.346" height="135.921" class="st1"/>
+				<text x="4" y="96.17" class="st2">「是諸法有四相：起、住、老、無常」。 　 <tspan x="4" dy="1.2em" class="st3">　</tspan><tspan x="4"
+							dy="2.4em" class="st3">「</tspan>問：若有四相，是應更復有相」？ <tspan x="4" dy="1.2em" class="st3">「</tspan>答：更有四相，彼相中餘四相俱生： <tspan
+							x="4" dy="1.2em" class="st3">　　　</tspan>生為生，住為住，老為老，無常 <tspan x="4" dy="1.2em" class="st3">　　　</tspan>為無常」。 <tspan
+							x="4" dy="1.2em" class="st3">「</tspan>問：若爾者不可盡」！ <tspan x="4" dy="1.2em" class="st3">「</tspan>答：展轉自相為」。</text>			</g>
+			<g id="shape3-12" transform="translate(2.15334,-184.236)">
 				<title>工作表.4</title>
 				<desc>甘露味論行品</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-				<v:textRect cx="37.9843" cy="195.736" width="75.97" height="20"/>
-				<rect x="0" y="185.736" width="75.9685" height="20" class="st4"/>
-				<text x="4.98" y="199.64" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>甘露味論行品</text>			</g>
-			<g id="shape14-54" v:mID="14" v:groupContext="shape" transform="translate(218.657,-184.236)">
+				<rect x="0" y="184.986" width="75.9685" height="20" class="st4"/>
+				<text x="4.98" y="198.89" class="st2">甘露味論行品</text>			</g>
+			<g id="shape4-15" transform="translate(218.657,-184.236)">
 				<title>工作表.14</title>
 				<desc>心論行品</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-				<v:textRect cx="26.2205" cy="195.736" width="52.45" height="20"/>
-				<rect x="0" y="185.736" width="52.4409" height="20" class="st4"/>
-				<text x="4.22" y="199.64" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>心論行品</text>			</g>
-			<g id="shape15-57" v:mID="15" v:groupContext="shape" transform="translate(218.657,1.7053E-013)">
+				<rect x="0" y="184.986" width="52.4409" height="20" class="st4"/>
+				<text x="4.22" y="198.89" class="st2">心論行品</text>			</g>
+			<g id="shape5-18" transform="translate(218.657,2.84217E-14)">
 				<title>工作表.15</title>
 				<desc>「一切有為法生住變異壞」。 「一切有為法各各有四相生、住、異、壞 　。世中起故生已生自事立故住已住勢衰 　故異已異滅故壞。...</desc>
-				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
-				<v:textRect cx="118.346" cy="115.169" width="236.7" height="181.134"/>
-				<rect x="0" y="24.6024" width="236.693" height="181.134" class="st1"/>
-				<text x="4" y="38.5" class="st2" v:langID="1033"><v:paragraph/><v:tabList/>「<tspan class="st3" v:langID="1028">一切有為法</tspan><tspan
-							class="st3" v:langID="1028">，</tspan><tspan class="st3" v:langID="1028">生住變異壞</tspan><tspan class="st3"
-							v:langID="1028">」。<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st3">「</tspan><tspan
-							class="st3" v:langID="1028">一切有為法</tspan><tspan class="st3" v:langID="1028">，</tspan><tspan class="st3"
-							v:langID="1028">各各有四相</tspan><tspan class="st3" v:langID="1028">：</tspan><tspan class="st3"
-							v:langID="1028">生</tspan><tspan class="st3" v:langID="1028">、</tspan><tspan class="st3" v:langID="1028">住</tspan><tspan
-							class="st3" v:langID="1028">、</tspan><tspan class="st3" v:langID="1028">異</tspan><tspan class="st3"
-							v:langID="1028">、</tspan><tspan class="st3" v:langID="1028">壞<v:newlineChar/></tspan><tspan x="4"
-							dy="1.2em" class="st3" v:langID="1028">　。</tspan><tspan class="st3" v:langID="1028">世中起故生</tspan><tspan
-							class="st3" v:langID="1028">，</tspan><tspan class="st3" v:langID="1028">已生自事立故住</tspan><tspan
-							class="st3" v:langID="1028">，</tspan><tspan class="st3" v:langID="1028">已住勢衰<v:newlineChar/></tspan><tspan
-							x="4" dy="1.2em" class="st3" v:langID="1028">　</tspan><tspan class="st3" v:langID="1028">故異</tspan><tspan
-							class="st3" v:langID="1028">，</tspan><tspan class="st3" v:langID="1028">已異滅故壞</tspan><tspan class="st3"
-							v:langID="1028">。</tspan><tspan class="st3" v:langID="1028">此相說心不相應行</tspan><tspan class="st3"
-							v:langID="1028">」。<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st3">「</tspan><tspan
-							class="st3" v:langID="1028">問</tspan><tspan class="st3" v:langID="1028">：</tspan><tspan class="st3"
-							v:langID="1028">若一切有為法各有四相者</tspan><tspan class="st3" v:langID="1028">，</tspan><tspan class="st3"
-							v:langID="1028">是有為法復<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st3" v:langID="1028">　　　</tspan><tspan
-							class="st3" v:langID="1028">有相</tspan><tspan class="st3" v:langID="1028">？</tspan><tspan class="st3"
-							v:langID="1028">答</tspan><tspan class="st3" v:langID="1028">：</tspan><tspan class="st3" v:langID="1028">是亦有四相</tspan><tspan
-							class="st3" v:langID="1028">。</tspan><tspan class="st3" v:langID="1028">彼相中餘四相<v:newlineChar/></tspan><tspan
-							x="4" dy="1.2em" class="st3" v:langID="1028">　　　</tspan><tspan class="st3" v:langID="1028">俱生</tspan><tspan
-							class="st3" v:langID="1028">：</tspan><tspan class="st3" v:langID="1028">生為生</tspan><tspan class="st3"
-							v:langID="1028">，</tspan><tspan class="st3" v:langID="1028">住為住</tspan><tspan class="st3"
-							v:langID="1028">，</tspan><tspan class="st3" v:langID="1028">異為異</tspan><tspan class="st3"
-							v:langID="1028">，</tspan><tspan class="st3" v:langID="1028">壞為<v:newlineChar/></tspan><tspan x="4"
-							dy="1.2em" class="st3" v:langID="1028">　　　</tspan><tspan class="st3" v:langID="1028">壞</tspan><tspan
-							class="st3" v:langID="1028">」。<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st3">「</tspan><tspan
-							class="st3" v:langID="1028">問</tspan><tspan class="st3" v:langID="1028">：</tspan><tspan class="st3"
-							v:langID="1028">若爾者便無窮</tspan><tspan class="st3" v:langID="1028">」！<v:newlineChar/></tspan><tspan x="4"
-							dy="1.2em" class="st3">「</tspan><tspan class="st3" v:langID="1028">答</tspan><tspan class="st3"
-							v:langID="1028">：</tspan><tspan class="st3" v:langID="1028">展轉更相為</tspan><tspan class="st3"
-							v:langID="1028">」。<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st3" v:langID="1028">　　　</tspan>「<tspan
-							class="st3" v:langID="1028">此相各各相為</tspan><tspan class="st3" v:langID="1028">。</tspan><tspan
-							class="st3" v:langID="1028">如生生各各相生</tspan><tspan class="st3" v:langID="1028">。</tspan><tspan
-							class="st3" v:langID="1028">住<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st3"
-							v:langID="1028">　　　</tspan><tspan class="st3" v:langID="1028">住各各相生</tspan><tspan class="st3"
-							v:langID="1028">。</tspan><tspan class="st3" v:langID="1028">異異各各相異</tspan><tspan class="st3"
-							v:langID="1028">。</tspan><tspan class="st3" v:langID="1028">壞壞各各<v:newlineChar/></tspan><tspan x="4"
-							dy="1.2em" class="st3" v:langID="1028">　　　</tspan><tspan class="st3" v:langID="1028">相壞</tspan><tspan
-							class="st3" v:langID="1028">。</tspan><tspan class="st3" v:langID="1028">是以非無窮</tspan><tspan class="st3"
-							v:langID="1028">。」</tspan></text>			</g>
+				<rect x="0" y="23.8524" width="236.693" height="181.134" class="st1"/>
+				<text x="4" y="37.75" class="st2">「一切有為法，生住變異壞」。 <tspan x="4" dy="1.2em" class="st3">「</tspan>一切有為法，各各有四相：生、住、異、壞 <tspan
+							x="4" dy="1.2em" class="st3">　。</tspan>世中起故生，已生自事立故住，已住勢衰 <tspan x="4" dy="1.2em" class="st3">　</tspan>故異，已異滅故壞。此相說心不相應行」。 <tspan
+							x="4" dy="1.2em" class="st3">「</tspan>問：若一切有為法各有四相者，是有為法復 <tspan x="4" dy="1.2em" class="st3">　　　</tspan>有相？答：是亦有四相。彼相中餘四相 <tspan
+							x="4" dy="1.2em" class="st3">　　　</tspan>俱生：生為生，住為住，異為異，壞為 <tspan x="4" dy="1.2em" class="st3">　　　</tspan>壞」。 <tspan
+							x="4" dy="1.2em" class="st3">「</tspan>問：若爾者便無窮」！ <tspan x="4" dy="1.2em" class="st3">「</tspan>答：展轉更相為」。 <tspan
+							x="4" dy="1.2em" class="st3">　　　「</tspan>此相各各相為，如生生各各相生，住 <tspan x="4" dy="1.2em" class="st3">　　　</tspan>住各各相生，異異各各相異，壞壞各各 <tspan
+							x="4" dy="1.2em" class="st3">　　　</tspan>相壞：是以非無窮」。</text>			</g>
 		</g>
 	</g>
 </svg>
