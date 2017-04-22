@@ -1,5 +1,6 @@
 var patterns={
-	"taixu":/vol:(\d+);page:p?([\d\-]+)/,
+	//"taixu":/vol:(\d+);page:p?([\d\-]+)/,
+	"taixu":/comp:(\d+);page:p?([\d\-]+)/,  //太虛大師的頁元為 「編」。
 	"taisho":/vol:(\d+);page:p(\d+)([abcd])/,
 	"taisho_v":/vol:(\d+)/,
 	"wxzj":/vol:(\d+);page:p(\d+)([abcd])/,
