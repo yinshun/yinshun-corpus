@@ -3,7 +3,7 @@ var svgcontent="";
 const table=function(tag,isclosing,kpos){
 	const url=tag.attributes.facs;
 	if (!url) {
-		console.log("missing svg",tag)
+		//console.log("missing svg",tag)
 		return;
 	}
 	const fn="svg/"+url.substr(0,3)+'/'+url;
