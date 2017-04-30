@@ -15,6 +15,8 @@ const table=function(tag,isclosing,kpos){
 	}
 
 	if (isclosing&&svg) {
+		this.putEmptyArticleField("p",kpos); //for correct p reflow
+		if (this.kPos>kpos) this.putEmptyArticleField("p",this.kPos); 
 		this.putArticleField("table", svg , this.makeRange(kpos,this.kPos));
 	}
 }
@@ -38,6 +40,8 @@ const graphic=function(tag,isclosing,kpos){
 const figure=function(tag,isclosing,kpos){
 	if (isclosing) {
 		if (svgcontent) {
+			this.putEmptyArticleField("p",kpos); //for correct p reflow
+			if (this.kPos>kpos) this.putEmptyArticleField("p",this.kPos); 
 			this.putArticleField("figure", svgcontent , this.makeRange(kpos,this.kPos));
 		}
 	}
