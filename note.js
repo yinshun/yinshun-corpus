@@ -154,7 +154,7 @@ const processTarget=function(corpus,target,kpos){
 var ref=function(tag,closing,kpos){ //link to taisho or taixu
 	const corpus=tag.attributes.type;
 	var target=tag.attributes.target;
-	if (tag.isSelfClosing) {
+	if (tag.isSelfClosing && closing) {
 		const krange=this.makeRange(this.kPos,this.kPos);
 		target=processTarget(corpus,target,kpos);
 		Ref.parse.call(this,corpus,target,krange);
