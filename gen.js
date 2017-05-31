@@ -45,6 +45,7 @@ rendClass:["q"],
 articleFields:["head","ptr","def","yinshunnote","inlinenote",
 "link","noteid","figure","table",bilinkfield,"p","span","svg"],
 linkTo:linkTo,
+removePunc:true,
 displayOptions:{groupColumn:[12,24,32]},
 extrasize:1024*1024*30, //for svg
 autostart:false,external:{bigrams}}; //set textOnly not to build inverted
