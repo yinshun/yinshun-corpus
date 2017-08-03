@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- 由 Microsoft Visio, SVG Export 產生 y33.0128-h.svg 頁-1 -->
+<!-- 以上檔頭是 Heaven 人工加入。後面檔名請勿刪除 y33.0128-h.svg -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
 		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="7.56947in" height="1.97892in"
 		viewBox="0 0 545.002 142.482" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
@@ -28,11 +28,11 @@
 			<title>工作表.24</title>
 			<g id="shape1-2" v:mID="1" v:groupContext="shape" transform="translate(0,-70.8661)">
 				<title>工作表.1</title>
-				<desc>上座舍利弗毗曇系</desc>
+				<desc>上座舍利弗毘曇系</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="87.1654" cy="128.309" width="174.34" height="28.3465"/>
 				<rect x="0" y="114.136" width="174.331" height="28.3465" class="st1"/>
-				<text x="7.17" y="133.11" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>上座（舍利弗毗曇系）</text>			</g>
+				<text x="7.17" y="133.11" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>上座（舍利弗毘曇系）</text>			</g>
 			<g id="shape2-5" v:mID="2" v:groupContext="shape" transform="translate(226.772,-113.386)">
 				<title>工作表.2</title>
 				<desc>說一切有系</desc>
@@ -42,11 +42,11 @@
 				<text x="5.35" y="133.11" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>說一切有系</text>			</g>
 			<g id="shape3-8" v:mID="3" v:groupContext="shape" transform="translate(453.543,-113.386)">
 				<title>工作表.3</title>
-				<desc>六分毗曇</desc>
+				<desc>六分毘曇</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="36.8504" cy="128.309" width="73.71" height="28.3465"/>
 				<rect x="0" y="114.136" width="73.7008" height="28.3465" class="st1"/>
-				<text x="4.85" y="133.11" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>六分毗曇</text>			</g>
+				<text x="4.85" y="133.11" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>六分毘曇</text>			</g>
 			<g id="shape4-11" v:mID="4" v:groupContext="shape" transform="translate(226.772,-70.8661)">
 				<title>工作表.4</title>
 				<desc>分別說系</desc>
@@ -63,11 +63,11 @@
 				<text x="4.35" y="133.11" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>海南系</text>			</g>
 			<g id="shape6-17" v:mID="6" v:groupContext="shape" transform="translate(453.543,-85.0394)">
 				<title>工作表.6</title>
-				<desc>七部毗曇</desc>
+				<desc>七部毘曇</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="36.8504" cy="128.309" width="73.71" height="28.3465"/>
 				<rect x="0" y="114.136" width="73.7008" height="28.3465" class="st1"/>
-				<text x="4.85" y="133.11" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>七部毗曇</text>			</g>
+				<text x="4.85" y="133.11" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>七部毘曇</text>			</g>
 			<g id="shape7-20" v:mID="7" v:groupContext="shape" transform="translate(325.984,-56.6929)">
 				<title>工作表.7</title>
 				<desc>大陸系</desc>
@@ -77,11 +77,11 @@
 				<text x="4.35" y="133.11" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>大陸系</text>			</g>
 			<g id="shape8-23" v:mID="8" v:groupContext="shape" transform="translate(453.543,-56.6929)">
 				<title>工作表.8</title>
-				<desc>舍利弗毗曇</desc>
+				<desc>舍利弗毘曇</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="45.3543" cy="128.309" width="90.71" height="28.3465"/>
 				<rect x="0" y="114.136" width="90.7087" height="28.3465" class="st1"/>
-				<text x="5.35" y="133.11" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>舍利弗毗曇</text>			</g>
+				<text x="5.35" y="133.11" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>舍利弗毘曇</text>			</g>
 			<g id="shape9-26" v:mID="9" v:groupContext="shape" transform="translate(226.772,-28.3465)">
 				<title>工作表.9</title>
 				<desc>犢子系</desc>

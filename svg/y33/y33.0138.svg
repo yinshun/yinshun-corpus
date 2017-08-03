@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- 由 Microsoft Visio, SVG Export 產生 y33.0138-h.svg 頁-1 -->
+<!-- 以上檔頭是 Heaven 人工加入。後面檔名請勿刪除 y33.0138-h.svg -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
 		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="9.26586in" height="13.7934in"
 		viewBox="0 0 667.142 993.126" xml:space="preserve" color-interpolation-filters="sRGB" class="st6">
@@ -29,18 +29,18 @@
 			<title>工作表.104</title>
 			<g id="shape1-2" v:mID="1" v:groupContext="shape" transform="translate(28.3465,-934.583)">
 				<title>工作表.1</title>
-				<desc>舍 利 弗 毗 曇</desc>
+				<desc>舍 利 弗 毘 曇</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="106.299" cy="978.528" width="212.6" height="29.1969"/>
 				<rect x="0" y="963.929" width="212.598" height="29.1969" class="st1"/>
-				<text x="41.36" y="983.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>舍   利   弗   毗   曇</text>			</g>
+				<text x="41.36" y="983.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>舍   利   弗   毘   曇</text>			</g>
 			<g id="shape2-5" v:mID="2" v:groupContext="shape" transform="translate(240.945,-935.433)">
 				<title>工作表.2</title>
-				<desc>甘 露 味 毗 曇</desc>
+				<desc>甘 露 味 毘 曇</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="92.126" cy="978.528" width="184.26" height="29.1969"/>
 				<rect x="0" y="963.929" width="184.252" height="29.1969" class="st1"/>
-				<text x="27.19" y="983.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>甘   露   味   毗   曇</text>			</g>
+				<text x="27.19" y="983.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>甘   露   味   毘   曇</text>			</g>
 			<g id="shape6-8" v:mID="6" v:groupContext="shape" transform="translate(65.1969,-850.394)">
 				<title>工作表.6</title>
 				<desc>非問一　界總集</desc>
@@ -493,11 +493,11 @@
 			</g>
 			<g id="shape3-215" v:mID="3" v:groupContext="shape" transform="translate(425.197,-935.15)">
 				<title>工作表.3</title>
-				<desc>阿 毗 曇 心 論</desc>
+				<desc>阿 毘 曇 心 論</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="106.299" cy="978.528" width="212.6" height="29.1969"/>
 				<rect x="0" y="963.929" width="212.598" height="29.1969" class="st1"/>
-				<text x="41.36" y="983.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>阿   毗   曇   心   論</text>			</g>
+				<text x="41.36" y="983.33" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>阿   毘   曇   心   論</text>			</g>
 			<g id="shape9-218" v:mID="9" v:groupContext="shape" transform="translate(425.197,-854.646)">
 				<title>工作表.9</title>
 				<desc>一　界品</desc>

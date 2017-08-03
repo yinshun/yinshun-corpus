@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- 由 Microsoft Visio, SVG Export 產生 y33.0069-h.svg 頁-1 -->
+<!-- 以上檔頭是 Heaven 人工加入。後面檔名請勿刪除 y33.0069-h.svg -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
 		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.87216in" height="3.5572in"
 		viewBox="0 0 638.795 256.118" xml:space="preserve" color-interpolation-filters="sRGB" class="st6">
@@ -197,11 +197,11 @@
 				<text x="6.16" y="251" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>3</text>			</g>
 			<g id="shape1-101" v:mID="1" v:groupContext="shape" transform="translate(28.3465,-75.8268)">
 				<title>工作表.1</title>
-				<desc>毗奈耶</desc>
+				<desc>毘奈耶</desc>
 				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 				<v:textRect cx="28.3465" cy="246.197" width="56.7" height="19.8425"/>
 				<rect x="0" y="236.276" width="56.6929" height="19.8425" class="st1"/>
-				<text x="4.35" y="251" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>毗奈耶</text>			</g>
+				<text x="4.35" y="251" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>毘奈耶</text>			</g>
 		</g>
 	</g>
 </svg>

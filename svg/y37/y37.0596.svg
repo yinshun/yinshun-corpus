@@ -363,9 +363,9 @@
 				<text x="5.26" y="442.09" class="st2">重譯</text>			</g>
 			<g id="shape70-209" transform="translate(453.543,-311.811)">
 				<title>工作表.70</title>
-				<desc>重譯</desc>
+				<desc>新譯</desc>
 				<rect x="0" y="425.947" width="42.5197" height="22.6772" class="st1"/>
-				<text x="5.26" y="442.09" class="st2">重譯</text>			</g>
+				<text x="5.26" y="442.09" class="st2">新譯</text>			</g>
 			<g id="shape71-212" transform="translate(453.543,-226.772)">
 				<title>工作表.71</title>
 				<desc>重譯</desc>
@@ -388,9 +388,9 @@
 				<text x="5.26" y="442.09" class="st2">新譯</text>			</g>
 			<g id="shape75-224" transform="translate(453.543,-340.157)">
 				<title>工作表.75</title>
-				<desc>新譯</desc>
+				<desc>重譯</desc>
 				<rect x="0" y="425.947" width="42.5197" height="22.6772" class="st1"/>
-				<text x="5.26" y="442.09" class="st2">新譯</text>			</g>
+				<text x="5.26" y="442.09" class="st2">重譯</text>			</g>
 		</g>
 	</g>
 </svg>
