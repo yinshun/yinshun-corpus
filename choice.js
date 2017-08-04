@@ -21,8 +21,8 @@ var corr=function(tag,closing,kpos,tpos,start,end){
 	}
 	const t=this.substring(start,end);
 	if (closing && t.indexOf('<lb')>-1) {
-		
-		console.log('lb in corr/reg',this.stringify(kpos), t);
+		// 不用特別記錄, 程式能處理了
+		//console.log('lb in corr/reg',this.stringify(kpos), t);
 	}
 
 }
