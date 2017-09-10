@@ -1,0 +1,366 @@
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y01/y01.0018.svg : Y01.0018.01
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y01/y01.0046.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y03/y03.0013.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y03/y03.0014.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y03/y03.0058.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y03/y03.0124.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y05/y05.0045.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y05/y05.0181.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y06/y06.0185.svg : y06.0185
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y06/y06.0218.svg : y06.0218
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y06/y06.0219.svg : y06.0219
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y06/y06.0220.svg : y06.0220
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y06/y06.0221.svg : y06.0221
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y06/y06.0222.svg : y06.0222
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y06/y06.0223.svg : y06.0223
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y06/y06.0224.svg : y06.0224
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y06/y06.0296.svg : y06.0296
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y06/y06.0300.svg : y06.0300
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y06/y06.0338.svg : y06.0338
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y06/y06.0402.svg : y06.0402
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y06/y06.0474.svg : y06.0474
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y06/y06.0475.svg : y06.0475
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y06/y06.0476.svg : y06.0476
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y07/y07.0020.svg : y07.0020
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y07/y07.0021.svg : y20.0020
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y07/y07.0022.svg : y07.0022
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y07/y07.0131.svg : y07.0131
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y07/y07.0132.svg : y07.0132
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y07/y07.0134.svg : y07.0134
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y07/y07.0171.svg : y07.0171
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y08/y08.0011.svg : y08.0011
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y08/y08.0018.svg : y08.0018
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y08/y08.0024.svg : y08.0024
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y08/y08.0048.svg : y08.0048
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y08/y08.0052.svg : y08.0052
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y08/y08.0060.svg : y08.0060
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y08/y08.0106.svg : y08.0106
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y08/y08.0112.svg : y08.0112
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y08/y08.0116.svg : y08.0116
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y08/y08.0126.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y08/y08.0138.svg : y08.0138
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y08/y08.0146.svg : y08.0146
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y09/y09.0081.svg : y09.0081
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y09/y09.0092.svg : y09.0092
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y09/y09.0094.svg : y09.0094
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y09/y09.0107.svg : y09.0107
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y09/y09.0125.svg : y09.0125
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y10/y10.0023.svg : y10.0023
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y10/y10.0041.svg : y10.0041
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y10/y10.0063.svg : y10.0063
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y10/y10.0068.svg : y10.0068
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y10/y10.0072.svg : y10.0072
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y10/y10.0084.svg : y10.0084
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y10/y10.0094.svg : y10.0094
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y10/y10.0114.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y10/y10.0129.svg : y10.0129
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y10/y10.0178.svg : y10.0178
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y11/y11.0025.svg : y11.0025
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y11/y11.0094.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y11/y11.0100.svg : y11.0100
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y11/y11.0103.svg : y11.0103
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y11/y11.0131.svg : y11.0131
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y12/y12.0053.svg : y12.0053
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y12/y12.0142.svg : y12.0142
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y12/y12.0171.svg : y12.0171
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y12/y12.0226.svg : y12.0226
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y12/y12.0256.svg : y12.0256
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y12/y12.0307.svg : y12.0307
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y12/y12.0404.svg : y12.0404
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y13/y13.0015.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y13/y13.0016.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y13/y13.0191.svg : y13.0191
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y13/y13.0230.svg : y13.0630
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y13/y13.0231.svg : y13.0231
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y13/y13.0296.svg : y13.0296
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y13/y13.0490.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y14/y14.0035.svg : y14.0035
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y14/y14.0038.svg : y14.0038
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y14/y14.0040.svg : y14.0040
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y14/y14.0042.svg : y14.0042
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y14/y14.0049.svg : y14.0049
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y14/y14.0052.svg : y14.0052
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y14/y14.0055.svg : y14.0055
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y14/y14.0066.svg : y14.0066
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y14/y14.0153.svg : y14.0153
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y15/y15.0076.svg : y15.0076
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y15/y15.0098.svg : y15.0098
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y16/y16.0034.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y16/y16.0099.svg : y16.0099
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y16/y16.0146.svg : y16.0146
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y16/y16.0192.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y16/y16.0246.svg : Remade Images
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y16/y16.0264.svg : Remade Images
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y16/y16.0278.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y16/y16.0376.svg : Remade Images
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y17/y17.0167.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y19/y19.0164.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y20/y20.0108.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y20/y20.0139.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y21/y21.0054.svg : y21.0054
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y21/y21.0158.svg : y21.0158
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y21/y21.0181.svg : y21.0181
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y22/y22.0003.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y22/y22.0030.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y22/y22.0049.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y22/y22.0067.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y22/y22.0102.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y22/y22.0111.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y22/y22.0126.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y22/y22.0128.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y22/y22.0139.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y22/y22.0147.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y22/y22.0164.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y22/y22.0190.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y22/y22.0254.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y22/y22.0326.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y22/y22.0327.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y22/y22.0339.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y22/y22.0341.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y22/y22.0368.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y25/y25.0161.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y26/y26.0026.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y26/y26.0147.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y26/y26.0222.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y26/y26.0244.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y27/y27.0023.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y27/y27.0123.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y27/y27.0282.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y27/y27.0286.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y28/y28.0009.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y28/y28.0010.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y28/y28.0017.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y28/y28.0030.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y28/y28.0072.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y28/y28.0075.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y28/y28.0076.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y28/y28.0077.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y28/y28.0101.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y30/y30.0008.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y30/y30.0021-1.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y30/y30.0021-2.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y30/y30.0034.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y30/y30.0044.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y30/y30.0066.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0008.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0026.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0040.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0045.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0052.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0055.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0069.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0070.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0083.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0091.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0095.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0097.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0106.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0111.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0128.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0135.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0138.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0188.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0192.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0247.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0256.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0257-1.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0257-2.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0277.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0282.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0303.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0320.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y33/y33.0333.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y34/y34.0023.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y34/y34.0044.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y34/y34.0046.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y34/y34.0193.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y34/y34.0314.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0118.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0147.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0151.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0153.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0154.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0156.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0160.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0182.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0197.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0200.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0258.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0324.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0326.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0327.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0330.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0332.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0366.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0374.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0380.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0382.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0388.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0402.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0414.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0417.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0420.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0421.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0425.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0453.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0455.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0458.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0465.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0471.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0486.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0514.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0515.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0523.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0525.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0586.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0672.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0687.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0698.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0740.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0744.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0789.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y35/y35.0808.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0013-1.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0013-2.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0021.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0037.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0040.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0051-1.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0051-2.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0054.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0067.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0070.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0082.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0084.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0112.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0127.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0151.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0155.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0158.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0163.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0182.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0190.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0208.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0223.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0257.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0273.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0284.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0362.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0433.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0436.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0441.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0452.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0457.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0478.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0482.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0483.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0493.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0494.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0496.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0568.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0582.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0590.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0619-1.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0619-2.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0676.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0682.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0690.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y36/y36.0691.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0046.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0085.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0086.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0133.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0225.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0293.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0331.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0332.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0333.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0335.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0337.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0338.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0342.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0343.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0344.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0347.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0398.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0412.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0450.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0503-1.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0503-2.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0503-3.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0503-4.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0554.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0571.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0579.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0588.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0596.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0599.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0620.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0626.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0663.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0680.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0701.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0721.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0759.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0760.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0761.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0841.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0920.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0924.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.0983.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.1013.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.1019.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.1023.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.1033.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.1050.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.1072.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.1074.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.1077.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.1081.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.1093.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.1105.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.1107.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.1136.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.1216.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y37/y37.1235.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y38/y38.0014.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y38/y38.0029.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y38/y38.0051.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y38/y38.0062.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y38/y38.0065.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y38/y38.0069.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y38/y38.0072.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y38/y38.0111.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y38/y38.0160.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y38/y38.0161.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y38/y38.0175.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y38/y38.0235.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y38/y38.0257.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y39/y39.0063.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y39/y39.0152.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y39/y39.0157.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y39/y39.0163.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y39/y39.0260.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y40/y40.0076.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y40/y40.0108.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y40/y40.0116.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y40/y40.0262.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y40/y40.0274.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y40/y40.0352-1.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y40/y40.0352-2.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y40/y40.0415-1.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y40/y40.0415-2.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y40/y40.0415-3.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y40/y40.0415-4.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y40/y40.0415-5.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y40/y40.0415-6.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y40/y40.0421.svg : 
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y42/y42.0055.svg : y12.0053
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y42/y42.0148.svg : y12.0142
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y42/y42.0177.svg : y12.0171
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y42/y42.0232.svg : y12.0226
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y42/y42.0266.svg : y12.0256
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y42/y42.0317.svg : y12.0307
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y42/y42.0415.svg : y12.0404
+d:/Work/ksana2016/p/yinshun-corpus/newsvg/Y43/y43.0059.svg : 
+count : 365
