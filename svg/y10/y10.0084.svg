@@ -21,9 +21,9 @@
 			<title>工作表.29</title>
 			<g id="shape1-2" transform="translate(1.63928,-1.17664)">
 				<title>工作表.1</title>
-				<desc>大眾分別說犢子</desc>
+				<desc>大眾、分別說、犢子</desc>
 				<rect x="0" y="114.586" width="120.646" height="19.8425" class="st1"/>
-				<text x="4.32" y="129.49" class="st2">大眾分別說犢子</text>			</g>
+				<text x="4.32" y="129.49" class="st2">大眾、分別說、犢子</text>			</g>
 			<g id="shape2-5" transform="translate(354.71,0)">
 				<title>工作表.2</title>
 				<desc>別體同時起</desc>
@@ -56,9 +56,9 @@
 				<text x="4.34" y="129.49" class="st2">上座師資</text>			</g>
 			<g id="shape8-23" transform="translate(225.065,-57.1737)">
 				<title>工作表.8</title>
-				<desc>法救覺天</desc>
+				<desc>法救、覺天</desc>
 				<rect x="0" y="114.586" width="72.6811" height="19.8425" class="st1"/>
-				<text x="4.34" y="129.49" class="st2">法救覺天</text>			</g>
+				<text x="4.34" y="129.49" class="st2">法救、覺天</text>			</g>
 			<g id="shape9-26" transform="translate(224.966,-28.8274)">
 				<title>工作表.9</title>
 				<desc>正統派</desc>
@@ -128,7 +128,7 @@
 			</g>
 			<g id="shape25-74" transform="translate(202.943,-27.9263) rotate(-44.8)">
 				<title>工作表.25</title>
-				<path d="M0 134.43 L80.18 134.43" class="st3"/>
+				<path d="M10 144.43 L80.18 134.43" class="st3"/>
 			</g>
 			<g id="shape26-77" transform="translate(358.303,-80.9121) rotate(26.7651)">
 				<title>工作表.26</title>
@@ -138,9 +138,9 @@
 				<title>工作表.27</title>
 				<path d="M0 134.43 L63.38 134.43" class="st3"/>
 			</g>
-			<g id="shape28-83" transform="translate(120.774,-10.8934) rotate(0.2)">
+			<g id="shape28-83" transform="translate(152.774,-10.8934) rotate(0.2)">
 				<title>工作表.28</title>
-				<path d="M0 134.43 L233.86 134.43" class="st3"/>
+				<path d="M0 134.43 L201.86 134.43" class="st3"/>
 			</g>
 		</g>
 	</g>
