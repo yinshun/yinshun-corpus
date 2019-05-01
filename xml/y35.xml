@@ -2757,7 +2757,7 @@ n="160.05"/>也大致可見了！</p>
 </row>
 <lb n="161.10"/>
 <row>
-<cell>舍內敷僧物</cell><cell>16</cell><cell>12</cell><cell></cell><cell>15</cell><cell>15</cell><cell>15</cell><cell></cell><cell>15</cell><cell>15</cell><cell></cell><cell>15</cell>
+<cell>舍內敷僧物</cell><cell>16</cell><cell><choice><sic>12</sic><corr resp="長慈法師">15</corr></choice></cell><cell></cell><cell>15</cell><cell>15</cell><cell>15</cell><cell></cell><cell>15</cell><cell>15</cell><cell></cell><cell>15</cell>
 </row>
 <lb n="161.11"/>
 <row>
@@ -2853,7 +2853,7 @@ n="160.05"/>也大致可見了！</p>
 </row>
 <lb n="163.04"/>
 <row>
-<cell>別眾食</cell><cell>38</cell><cell>40</cell><cell></cell><cell>36</cell><cell>36</cell><cell>36</cell><cell></cell><cell>32</cell><cell>32</cell><cell></cell><cell>32</cell>
+<cell>別眾食</cell><cell>38</cell><cell>40</cell><cell></cell><cell>36</cell><cell>36</cell><cell>36</cell><cell></cell><cell>32</cell><cell><choice><sic>32</sic><corr resp="長慈法師">33</corr></choice></cell><cell></cell><cell>32</cell>
 </row>
 <lb n="163.05"/>
 <row>
@@ -2949,11 +2949,11 @@ n="160.05"/>也大致可見了！</p>
 </row>
 <lb n="164.13"/>
 <row>
-<cell>捉寶</cell><cell>60</cell><cell>49</cell><cell></cell><cell>58</cell><cell>58</cell><cell>69</cell><cell></cell><cell>84</cell><cell>82</cell><cell></cell><cell>69</cell>
+<cell>捉寶</cell><cell>60</cell><cell>49</cell><cell></cell><cell>58</cell><cell><choice><sic>58</sic><corr resp="長慈法師">59</corr></choice></cell><cell>69</cell><cell></cell><cell>84</cell><cell>82</cell><cell></cell><cell>69</cell>
 </row>
 <lb n="164.14"/>
 <row>
-<cell>不壞色</cell><cell>61</cell><cell>48</cell><cell></cell><cell>59</cell><cell>59</cell><cell>68</cell><cell></cell><cell>58</cell><cell>60</cell><cell></cell><cell>77</cell>
+<cell>不壞色</cell><cell>61</cell><cell>48</cell><cell></cell><cell>59</cell><cell><choice><sic>59</sic><corr resp="長慈法師">58</corr></choice></cell><cell>68</cell><cell></cell><cell>58</cell><cell>60</cell><cell></cell><cell>77</cell>
 </row>
 <lb n="164.15"/>
 <row>
@@ -3009,7 +3009,7 @@ n="160.05"/>也大致可見了！</p>
 </row>
 <lb n="165.13"/>
 <row>
-<cell>與女人期行</cell><cell>73</cell><cell>68</cell><cell></cell><cell>70</cell><cell>70</cell><cell>60</cell><cell></cell><cell>57</cell><cell>30</cell><cell></cell><cell>57</cell>
+<cell>與女人期行</cell><cell>73</cell><cell>68</cell><cell></cell><cell>70</cell><cell>70</cell><cell>60</cell><cell></cell><cell><choice><sic>57</sic><corr resp="長慈法師">67</corr></choice></cell><cell>30</cell><cell></cell><cell>57</cell>
 </row>
 <lb n="165.14"/>
 <row>
