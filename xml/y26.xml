@@ -39,7 +39,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body>
+    <body><milestone title="華雨集第二冊;貳" id="hyb" resp="yap"/>
 <pb n="1"/><lb
 n="1.01"/><articlegroup resp="yap" label="華二;華雨集第二冊"/><opener>方便之道</opener>
 <div xml:id="xu"><head>緒言</head><lb

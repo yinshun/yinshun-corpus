@@ -39,7 +39,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body>
+    <body><milestone id="tanx" title="空之探究序;探序" resp="yap"/>
 <pb n="a1"/><lb
 n="a1.01"/><articlegroup resp="yap" label="探究;空之探究"/><div><head>序</head><lb
 n="a1.02"/><p>我在<cit><bibl><title level="m">《中觀今論》</title>中說：</bibl><q>「在師友中，我是被看作研究三論或空宗的」</q></cit>。我<q>「對於空宗根本<lb
@@ -62,7 +62,7 @@ n="a2.04"/>中道的根本立場；是「中論」（理論的），也是中觀
 n="a2.05"/>引述經論來說明，沒有自己的發揮。最近見到<title level="s">《世界佛學名著譯叢》</title>目錄，知道有梶山雄一等的<lb
 n="a2.06"/>集體著作——<title level="m">《般若思想》</title>與<title level="m">《中觀思想》</title>，沒有能讀到與參考，非常遺憾！希望能有一些共同<lb
 n="a2.07"/>的看法！民國七十三年十一月二十九日，自序於台中華雨精舍。</p></div>
-<pb n="1"/><lb
+<milestone id="tan" title="空之探究;探" resp="yap"/><pb n="1"/><lb
 n="1.01"/><div><head>第一章　<title level="m">《阿含》</title>——空與解脫道</head><lb
 n="1.02"/><div><head>一　引言</head><lb
 n="1.03"/><p>空（<foreign xml:lang="sa">śūnya</foreign>, <foreign xml:lang="pi">suñña</foreign>）與空性（<foreign xml:lang="sa">śūnyatā</foreign>, <foreign xml:lang="pi">suññatā</foreign>），是佛法中的重要術語。在佛法的弘傳流通<lb

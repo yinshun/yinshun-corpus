@@ -29,7 +29,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body>
+    <body><milestone title="性空學探源;性" id="suny" resp="yap"/>
 <!-- 紙本p1-p29，所有引文引用後的下一段，都會內縮兩個字元；紙本p30-p265引文後下一段則無內縮字元 -->
 <pb n="1"/><lb
 n="1.01"/><articlegroup resp="yap" label="性空;性空學探源"/><opener>性空學探源</opener><lb

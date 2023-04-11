@@ -39,7 +39,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body>
+    <body><milestone title="教制教典與教學;制" id="zhi" resp="yap"/>
 <pb n="1"/><lb
 n="1.01"/><articlegroup resp="yap" label="教制;教制教典與教學"/><div><head>一、泛論中國佛教制度</head><note type="editorial">民國四二年撰</note><lb
 n="1.02"/><p>佛教，當然是「正法」中心的。然佛法弘傳於人間而成為佛教時，正法就流<lb
@@ -1681,7 +1681,7 @@ n="131.01"/>屬於此。</p><lb
 n="131.02"/><p>文藝，略有文學與藝術二類。</p><lb  
 n="131.03"/><p>這樣的後五目，大體近於古代的<title level="m">《雜藏》</title>。綜合而略為編目，如下：</p>    
 <list>
-<lb n="131.04"/><item>一　總論</item>
+<lb n="131.04"/><seg resp="yap"><item>一　總論</item>
 <lb n="131.05"/><item>　1.　目錄</item>
 <lb n="131.06"/><item>　2.　索引</item>
 <lb n="131.07"/><item>　3.　提要</item>
@@ -1691,7 +1691,7 @@ n="131.03"/><p>這樣的後五目，大體近於古代的<title level="m">《雜
 <lb n="131.11"/><item>　7.　彙輯</item>
 <lb n="131.12"/><item>　8.　叢書</item>
 <lb n="131.13"/><item>　9.　其他</item>
-<lb n="131.14"/><item>二　經及經釋</item>
+<lb n="131.14"/></seg><seg resp="yap"><item>二　經及經釋</item>
 <lb n="131.15"/><item>　1.　阿含</item>
 <lb n="131.16"/><item>　　甲　雜阿含</item>
 <lb n="131.17"/><item>　　　　（經典，並以全譯；分</item>
@@ -1711,7 +1711,7 @@ n="131.03"/><p>這樣的後五目，大體近於古代的<title level="m">《雜
 <lb n="132.08"/><item>　6.　涅槃</item>
 <lb n="132.09"/><item>　7.　大乘經集</item>
 <lb n="132.10"/><item>　　　（《小部》甚多）</item>
-<lb n="132.11"/><item>三　律及律釋</item>
+<lb n="132.11"/></seg><seg resp="yap"><item>三　律及律釋</item>
 <lb n="132.12"/><item>　1.　大眾律</item>
 <lb n="132.13"/><item>　　　（律典，並以廣律；戒經</item>
 <lb n="132.14"/><item>　　　；羯磨；母論；律釋；律</item>
@@ -1726,7 +1726,7 @@ n="131.03"/><p>這樣的後五目，大體近於古代的<title level="m">《雜
 <lb n="132.23"/><item>　7.　正量律</item>
 <lb n="132.24"/><item>　8.　聲聞雜律</item>
 <lb n="132.25"/><item>　9.　大乘律</item>
-<lb n="132.26"/><item>四　論及論釋</item>
+<lb n="132.26"/></seg><seg resp="yap"><item>四　論及論釋</item>
 <lb n="132.27"/><item>　1.　印度（錫緬泰附）宗論</item>
 <pb n="133"/>
 <lb n="133.01"/><item>　　甲　阿毘曇</item>
@@ -1757,7 +1757,7 @@ n="131.03"/><p>這樣的後五目，大體近於古代的<title level="m">《雜
 <lb n="133.26"/><item>　　乙　日蓮宗論</item>
 <pb n="134"/>
 <lb n="134.01"/><item>　　丙　時宗論</item>
-<lb n="134.02"/><item>　　丁　其他</item>
+<lb n="134.02"/></seg><seg resp="yap"><item>　　丁　其他</item></seg>
 <lb n="134.03"/><item>五　密續及儀軌</item>
 <lb n="134.04"/><item>　1.　事部</item>
 <lb n="134.05"/><item>　　　（每一密典，各有續即經</item>
@@ -1770,7 +1770,7 @@ n="131.03"/><p>這樣的後五目，大體近於古代的<title level="m">《雜
 <lb n="134.12"/><item>　　　（如宗喀巴之《密宗道</item>
 <lb n="134.13"/><item>　　　次第》；弘法之《即身成佛義》</item>
 <lb n="134.14"/><item>　　　等。）</item>
-<lb n="134.15"/><item>六　禪及語錄</item>
+<lb n="134.15"/></seg><seg resp="yap"><item>六　禪及語錄</item>
 <lb n="134.16"/><item>　1.　聲聞禪法</item>
 <lb n="134.17"/><item>　2.　大乘禪法</item>
 <lb n="134.18"/><item>　　　（天臺之《摩訶止觀》等屬此。）</item>
@@ -1779,7 +1779,7 @@ n="131.03"/><p>這樣的後五目，大體近於古代的<title level="m">《雜
 <lb n="134.21"/><item>　4.　禪宗法語</item>
 <lb n="134.22"/><item>　　甲　偈頌</item>
 <lb n="134.23"/><item>　　乙　語錄</item>
-<lb n="134.24"/><item>七　法義</item>
+<lb n="134.24"/></seg><seg resp="yap"><item>七　法義</item>
 <lb n="134.25"/><item>　1.　概論</item>
 <lb n="134.26"/><item>　2.　宗乘論</item>
 <pb n="135"/>
@@ -1796,7 +1796,7 @@ n="131.03"/><p>這樣的後五目，大體近於古代的<title level="m">《雜
 <lb n="135.11"/><item>　8.　真身佛與菩薩</item>
 <lb n="135.12"/><item>　9.　瑜伽與神通</item>
 <lb n="135.13"/><item>　10.　其他</item>
-<lb n="135.14"/><item>八　制儀</item>
+<lb n="135.14"/></seg><seg resp="yap"><item>八　制儀</item>
 <lb n="135.15"/><item>　1.　僧制</item>
 <lb n="135.16"/><item>　　甲　印度晚期僧制</item>
 <lb n="135.17"/><item>　　乙　錫緬泰僧制</item>
@@ -1819,7 +1819,7 @@ n="131.03"/><p>這樣的後五目，大體近於古代的<title level="m">《雜
 <lb n="136.07"/><item>　　庚　齋食儀</item>
 <lb n="136.08"/><item>　　辛　制服</item>
 <lb n="136.09"/><item>　　壬　其他</item>
-<lb n="136.10"/><item>九　史地</item>
+<lb n="136.10"/></seg><seg resp="yap"><item>九　史地</item>
 <lb n="136.11"/><item>　1.　（人文）地理</item>
 <lb n="136.12"/><item>　　甲　地方誌</item>
 <lb n="136.13"/><item>　　乙　寺剎志（山志等）</item>
@@ -1847,7 +1847,7 @@ n="131.03"/><p>這樣的後五目，大體近於古代的<title level="m">《雜
 <lb n="137.08"/><item>　　　　印刻等。）</item>
 <lb n="137.09"/><item>　　丁　教派史</item>
 <lb n="137.10"/><item>　　　　（印，華，日等諸教派。）</item>
-<lb n="137.11"/><item>十　文藝</item>
+<lb n="137.11"/></seg><seg resp="yap"><item>十　文藝</item>
 <lb n="137.12"/><item>　1.　文學</item>
 <lb n="137.13"/><item>　　甲　譬喻‧因緣</item>
 <lb n="137.14"/><item>　　乙　變文‧寶卷</item>
@@ -1869,7 +1869,7 @@ n="131.03"/><p>這樣的後五目，大體近於古代的<title level="m">《雜
 <lb n="138.04"/><item>　3.　術數</item>
 <lb n="138.05"/><item>　　甲　曆數</item>
 <lb n="138.06"/><item>　　乙　醫藥</item>
-<lb n="138.07"/><item>　　丙　占卜</item>
+<lb n="138.07"/><item>　　丙　占卜</item></seg>
 </list><lb
 n="138.08"/><lb
 n="138.09"/><p>這一編目，當然是並不完備，還需要修正，補充。但至少可以了解：在現代<lb

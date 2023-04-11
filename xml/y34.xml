@@ -40,7 +40,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body>
+    <body><milestone id="xiangx" title="印度佛教思想史序;想序" resp="yap"/>
 <pb n="a1"/><lb
 n="a1.01"/><articlegroup resp="yap" label="思想;印度佛教思想史"/><div xml:id="xu"><head>自序</head><lb
 n="a1.02"/><p>民國五十六年，我在<bibl>《<title level="m">說一切有部為主的論書與論師之研究</title>‧<title level="a"><choice><sic>自</sic><corr resp="厚觀法師 謝淑歆"></corr></choice>序</title>》</bibl>中說：在戰亂中所寫<lb
@@ -146,7 +146,7 @@ n="a7.08"/>是不能沒有的；方便適應，才能有利於佛法的弘布。
 n="a7.09"/>便」</q>的精神，闡揚佛法真義，應用有利人間，淨化人間的方便。希望誠信佛法的讀者，從印度佛<lb
 n="a7.10"/>教思想的流變中，能時時回顧，不忘正法，為正法而懷念人間的佛陀！民國七十七年二月三日，<lb
 n="a7.11"/>印順序於南投寄廬。</p></div>
-<pb n="b1"/><lb
+<milestone id="xiangz"  title="印度佛教思想凡例;想例" resp="yap"/><pb n="b1"/><lb
 n="b1.01"/><div><head>凡例</head><lb
 n="b1.02"/><p rend="margin-left:0em">一、本書所引日本<title>《大正新修大藏經》</title>，今簡稱「大正」。</p><lb
 n="b1.03"/><p rend="margin-left:0em">二、日本所譯<title level="m">《南傳大藏經》</title>，簡稱「南傳」。所引文字，並轉譯為華文。</p><lb
@@ -154,7 +154,7 @@ n="b1.04"/><p rend="margin-left:2em;text-indent:-2em">三、日本所譯<title l
 n="b1.05"/>，簡稱為<title level="m">多氏《印度佛教史》</title>。</p><lb
 n="b1.06"/><p rend="margin-left:0em">四、法尊所譯書，如<title level="m">《入中論》</title>等，原本為四川漢藏教理院刊行，簡稱「漢院刊本」。</p><lb
 n="b1.07"/><p rend="margin-left:0em">五、印度波羅（<foreign xml:lang="x-sa-pi">Pāla</foreign>）王朝的年代，依呂澂<title level="m">《西藏佛學原論》</title>（商務本）所說。</p></div>
-<pb n="1"/><lb
+<milestone id="xiang"  title="印度佛教思想;想" resp="yap"/><pb n="1"/><lb
 n="1.01"/><div><head>第一章　「佛法」</head><lb
 n="1.02"/><div><head>第一節　佛法興起與印度的時代文明</head><lb
 n="1.03"/><p>釋迦牟尼（<foreign xml:lang="sa">Śākyamuni</foreign>，以下簡稱「釋尊」）誕生於印度，宣揚「佛法」，為人類開顯了真<lb

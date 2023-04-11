@@ -53,7 +53,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body>
+    <body><milestone title="雜阿含經論會編;雜" id="sax" resp="yap"/>
 <pb n="a1"/><lb
 n="a1.01"/><articlegroup resp="yap" label="雜含上;雜阿含經論會編（上）"/><div xml:id="xu"><head>序</head><lb
 n="a1.02"/><p><title level="m">《雜阿含經》</title>（即<title level="m">《相應阿含》</title>，<title level="m">《相應部》</title>），是佛教界早期結集的聖典，代表了釋尊在<lb
@@ -85,7 +85,7 @@ n="a2.12"/>閱讀漢譯<title level="m">《雜阿含經》</title>的，會給�
 n="a2.13"/><p>這部書的比對配合部分，心如給了很大的幫助；發見了疑問，也就隨時提出來重加審定。校<lb
 n="a2.14"/>對方面，性瀅、依道、慧潤，也是非常精細，所以本書的錯誤，應該是能減到最少的。末了謹以<lb
 n="a2.15"/>虔誠的心情，祝願讀者的正見增明！　中華民國七十二年九月</p></div>
-<pb n="b1"/><lb
+<milestone id="saz" title="雜阿含經部類之整編;類" resp="yap"/><pb n="b1"/><lb
 n="b1.01"/><div><head>雜阿含經部類之整編</head><lb
 n="b1.02"/><div><head>一　雜阿含經的傳譯</head><lb
 n="b1.03"/><p>我國譯出的<title level="m">《雜阿含經》</title>，與巴利本的<title level="m">《相應部》</title>（<foreign xml:lang="pi"><choice><sic>Saṁyutta-nikāya</sic><corr>Saṃyutta-nikāya</corr></choice></foreign>）相當，是劉宋元嘉<lb
@@ -1342,7 +1342,7 @@ n="b73.14"/><p><note xml:id="note209.006"><bibl><title level="m">《雜阿含經
 n="b73.15"/><p><note xml:id="note209.007"><bibl><title level="m">《雜阿含經》</title><biblScope type="卷" n="15">卷一五</biblScope></bibl>（大正<ref type="taisho" target="vol:2;page:p104a">二‧一〇四上</ref>）。</note></p>
 <pb n="b74"/><lb
 n="b74.01"/><p><note xml:id="note209.008"><bibl><title level="m">《雜阿含經》</title><biblScope type="卷" n="7">卷七</biblScope></bibl>（大正<ref type="taisho" target="vol:2;page:p46a">二‧四六上</ref>）。</note></p></div></div></div>
-<pb n="1"/><lb
+<milestone id="saa" title="雜阿含經論會編上;上" resp="yap"/><pb n="1"/><lb
 n="1.01"/><div><opener>雜阿含經論會編</opener><lb
 n="1.02"/><head>五陰誦第一<ptr type="note" target="#note1.001"/></head><lb
 n="1.03"/><p type="head" rendition="#style_follow_head">行擇攝第一<ptr type="note" target="#note1.002"/></p><lb

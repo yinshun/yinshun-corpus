@@ -39,7 +39,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body>
+    <body><milestone id="rux" title="如來藏之研究序;如序" resp="yap"/>
 <pb n="a1"/><lb
 n="a1.01"/><articlegroup resp="yap" label="如來藏;如來藏之研究"/><div xml:id="xu"><head>自序</head><lb
 n="a1.02"/><p>抗戰期間，我寫了<title level="m">《唯識學探源》</title>，<title level="m">《性空學探源》</title>二書。為了探求大乘三系的淵源，還想<lb
@@ -67,7 +67,7 @@ n="a2.09"/>梵我一如，可說達到了一致的地步）。</p><lb
 n="a2.10"/><p>我在<title level="m">《初期大乘佛教之起源與開展》</title>的寫作過程中，附帶集錄些有關如來藏佛性說的資料。<lb
 n="a2.11"/>拿來整理一下，再補充些後期大乘經論的抉擇，題為<title level="m">《如來藏之研究》</title>，作為從前想寫而沒有寫<lb
 n="a2.12"/>的<title level="m">《如來藏學探源》</title>，補足了從前的一番心願！</p></div>
-<pb n="1"/><lb
+<milestone id="ru" title="如來藏之研究;如" resp="yap"/><pb n="1"/><lb
 n="1.01"/><div><head>第一章　序說</head><lb
 n="1.02"/><div><head>第一節　如來藏學在佛教中的地位</head><lb
 n="1.03"/><p>如來藏（<foreign xml:lang="sa">tathāgata-garbha</foreign>），如來界——如來性（<foreign xml:lang="sa">tathāgata-dhātu</foreign>），佛性——佛界<lb

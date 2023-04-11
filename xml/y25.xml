@@ -61,7 +61,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body>
+    <body><milestone title="華雨集序;華序" id="hyx" resp="yap"/>
 <pb n="a1"/><lb
 n="a1.01"/><articlegroup resp="yap" label="\n華一;華雨集第一冊"/><div xml:id="xu1"><head>序</head><lb
 n="a1.02"/><p>民國六十年，我覺得身體有點異樣，想到人命無常，所以寫了<title level="m">《平凡<choice><sic>之</sic><corr resp="厚觀法師 謝淑歆">的</corr></choice>一生<lb
@@ -94,7 +94,7 @@ n="a3.02"/>編寫的。國內不知是那一位大德（傳說是臺南的），
 n="a3.03"/>，並有圖畫。也許曾經參考過我的佛學教科書，竟標題為「印順導師原著」；臺<lb
 n="a3.04"/>北的慈濟文化中心，也有印行結緣的。我不是說這部書不好，只是說這與我的寫<lb
 n="a3.05"/>作無關，不敢掠人之美！民國七十八年一月，序於南投寄廬。</p></div>
-<pb n="a4"/><lb
+<milestone id="hya" title="華雨集第一冊;壹" resp="yap"/><pb n="a4"/><lb
 n="a4.01"/><div><head>一、大樹緊那羅王所問經偈頌講記</head>
 <pb n="1"/><lb
 n="1.01"/><div xml:id="xu2"><head>一　序</head><lb
