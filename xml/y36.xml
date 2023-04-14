@@ -48,7 +48,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body><milestone id="srvstx" title="說一切有部為主的論書與論師之研究序;有序" resp="yap"/>
+    <body><milestone type="bk" id="srvstx" title="說一切有部為主的論書與論師之研究序;有部序" resp="yap"/>
 <pb n="a1"/><lb
 n="a1.01"/><articlegroup resp="yap" label="有部;說一切有部為主的論書與論師之研究"/><div><head>序</head><lb
 n="a1.02"/><p>民國三十一年，我在戰亂聲中，寫了一部<title level="m">《印度之佛教》</title>。那時，我住在深山古寺——四川<lb
@@ -143,7 +143,7 @@ n="a6.10"/><p>本書的刊行，常覺法師負責代為校勘，宏德居士予
 n="a6.11"/><p rend="margin-left:0em">惟願<lb
 n="a6.12"/>三寶的恩威護持，能有進一步寫作的機緣！民國五十六年十月十日。</p><lb
 n="a6.13"/><byline rend="text-align:left;margin-left:28em">印順序於臺北之報恩小築。</byline></div>
-<milestone id="srvst" title="說一切有部為主的論書與論師之研究;有" resp="yap"/><pb n="1"/><lb
+<milestone type="bk" id="srvst" title="說一切有部為主的論書與論師之研究;有部" resp="yap"/><pb n="1"/><lb
 n="1.01"/><div><head>第一章　序論</head><lb
 n="1.02"/><div><head>第一節　論書在全體佛教中的意義</head><lb
 n="1.03"/><div><head>第一項　論書在聖典中的特殊性</head><lb

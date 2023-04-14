@@ -39,7 +39,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body><milestone title="中觀今論序;觀序" id="guanx" resp="yap"/>
+    <body><milestone type="bk" id="guanx" title="中觀今論序;中觀序" resp="yap"/>
 <pb n="a1"/><lb
 n="a1.01"/><articlegroup resp="yap" label="中觀;中觀今論"/><div xml:id="xu"><head>自序</head><lb
 n="a1.02"/><p type="head">一</p><lb
@@ -162,7 +162,7 @@ n="a9.12"/>即空而有，這是怎樣的融通無礙！在這根本的特見中
 n="a9.13"/>說，無不可以一以貫之，這有待於中觀者的不斷努力！</p>
 <pb n="a10"/><lb
 n="a10.01"/><byline rend="text-align:left;margin-left:6em">民國三十八年五月二日，在廈門南普陀寺大覺講社校讀畢，附序。</byline></div>
-<milestone id="guan"  title="中觀今論;觀" resp="yap"/><pb n="1"/><lb
+<milestone type="bk" id="guan"  title="中觀今論;中觀" resp="yap"/><pb n="1"/><lb
 n="1.01"/><div><opener>中觀今論</opener><lb
 n="1.02"/><byline rend="font-family:新細明體;font-weight:bold">——民國三十六年冬在四明雪竇寺說——</byline><lb    
 n="1.03"/><head>引言</head><lb

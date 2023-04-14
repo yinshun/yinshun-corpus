@@ -29,7 +29,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body><milestone title="佛在人間;人" id="ren" resp="yap"/>
+    <body><milestone type="bk" id="ren" title="佛在人間;人間" resp="yap"/><milestone type="ak" id="1c" title="妙下" resp="yap"/>
 <pb n="1"/><lb
 n="1.01"/><articlegroup resp="yap" label="人間;佛在人間"/><div><head>一、佛在人間</head><note type="editorial">民國三〇年撰</note><lb
 n="1.02"/><div><head>一　釋尊小史</head><lb

@@ -39,7 +39,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body><milestone id="yinx" title="印度之佛教序;印序" resp="yap"/>
+    <body><milestone type="bk" id="yinx" title="印度之佛教序;印度序" resp="yap"/>
 <pb n="a1"/><lb
 n="a1.01"/><articlegroup resp="yap" label="印度;印度之佛教"/><div xml:id="xu"><head type="main">自序</head><lb
 n="a1.02"/><subhead type="sub">——編述之緣起、方針與目的——</subhead><lb
@@ -135,7 +135,7 @@ n="a7.08"/>學宗教史》</title>而已。不復一一註出，非掠美也。�
 n="a7.09"/>勸以刊行，且罄其僅有之一切為刊費，心不忍卻，允之。得周君貫仁、蒙君仁慈<lb
 n="a7.10"/>為任校印之責。學友之熱忱可感有如此，令人忘其庸病矣！民國三一、一〇、三<lb
 n="a7.11"/>，印順自序於合江法王學院。</p></div>
-<milestone id="yinz" title="印度之佛教後記;印後" resp="yap"/><pb n="b1"/><lb
+<milestone type="bk" id="yinz" title="印度之佛教後記;印度後" resp="yap"/><pb n="b1"/><lb
 n="b1.01"/><div xml:id="houji"><head><title level="m">《印度之佛教》</title>重版後記</head><lb
 n="b1.02"/><p><title level="m">《印度之佛教》</title>，是民國三十一年寫作的，也是我第一部出版的作品。四十<lb
 n="b1.03"/>多年來，一直沒有再版，這是多少使人感到有點意外的，其實也只是因緣而已。</p><lb
@@ -244,7 +244,7 @@ n="b8.09"/>，我說是不可思議的因緣，在這意外的重版時刻，順
 n="b8.10"/>讀者有這樣的感覺，<title level="m">《印度之佛教》</title>能與大家見面，從過去到現在，都是有點意<lb
 n="b8.11"/>外的！七十四年七月五日，印順記。</p></div><lb
 n="b8.12"/>
-<milestone id="yin" title="印度之佛教;印" resp="yap"/><pb n="1"/><lb
+<milestone type="bk" id="yin" title="印度之佛教;印度" resp="yap"/><pb n="1"/><lb
 n="1.01"/><div><opener>印度之佛教</opener></div><lb 
 n="1.02"/><div><head>第一章　印度佛教流變概觀</head><lb
 n="1.03"/><p>佛教創始於印度釋迦牟尼，乃釋尊本其獨特之深見，應人類之共欲，陶冶印<lb

@@ -39,7 +39,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-<body><milestone title="寶積經講記;寶" id="mhrk" resp="yap"/><pb n="1"/><lb
+<body><milestone type="bk" id="mhrk" title="寶積經講記;寶積" resp="yap"/><pb n="1"/><lb
 n="1.01"/><articlegroup resp="yap" label="寶積;寶積經講記"/><opener>寶積經講記</opener><lb
 n="1.02"/><byline rend="font-family:新細明體;font-weight:bold">——民國五十一年講於臺北慧日講堂——</byline><lb
 n="1.03"/><div><head><seg rend="border-style:solid;border-width:2px;padding:5px">懸論</seg></head><lb

@@ -46,7 +46,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body><milestone id="chanx" title="中國禪宗史序;禪序" resp="yap"/>
+    <body><milestone type="bk" id="chanx" title="中國禪宗史序;禪宗序" resp="yap"/>
 <pb n="a1"/><lb
 n="a1.01"/><articlegroup resp="yap" label="禪宗;中國禪宗史"/><div xml:id="xu"><head>序</head><lb
 n="a1.02"/><p>菩提達摩傳來而發展成的禪宗，在中國佛教史、中國文化史上，佔有重要的光輝的一頁。然<lb
@@ -204,7 +204,7 @@ n="a10.11"/>，那是受到牛頭禪（也就是老莊化）的影響。在中�
 n="a10.12"/>。我不是禪史，或佛教與中國文化關係的專究者，不想作充分具體的闡明。本書僅揭出其重要關<lb
 n="a10.13"/>鍵，奉獻於研究禪宗史的學者！</p><lb
 n="a10.14"/><byline rend="text-align:left;margin-left:17em">民國六十年二月十八日，印順序於嘉義之妙雲蘭若。</byline></div>
-<milestone id="chan" title="中國禪宗史;禪" resp="yap"/><pb n="1"/><lb
+<milestone type="bk" id="chan" title="中國禪宗史;禪宗" resp="yap"/><pb n="1"/><lb
 n="1.01"/><div><head>第一章　菩提達摩之禪</head><lb
 n="1.02"/><div><head>第一節　達摩傳與達摩論</head><lb
 n="1.03"/><p>菩提達摩為中國禪宗公認的東土初祖。達摩到中國來，對當時的中國佛教，並沒有立即引起<lb

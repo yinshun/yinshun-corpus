@@ -39,7 +39,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body><milestone title="以佛法研究佛法;研" id="yan" resp="yap"/>
+    <body><milestone type="bk" id="yan" title="以佛法研究佛法;研究" resp="yap"/>
 <pb n="1"/><lb
 n="1.01"/><articlegroup resp="yap" label="研究;以佛法研究佛法"/><div><head>一、以佛法研究佛法</head><note type="editorial">民國四三年撰</note><lb
 n="1.02"/><p>來寶島一年，對於佛教的近代作品，讀了不少，而最使我同情的，引起非常<lb

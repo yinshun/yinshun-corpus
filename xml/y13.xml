@@ -40,7 +40,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body><milestone title="太虛大師年譜序;虛序" id="xux" resp="yap"/>
+    <body><milestone type="bk" id="xux" title="太虛大師年譜序;太虛序" resp="yap"/>
 <pb n="a1"/><lb
 n="a1.01"/><articlegroup resp="yap" label="太虛;太虛大師年譜"/><div><head>太虛大師年譜　序</head><lb
 n="a1.02"/><p rend="margin-left:0em">吾親教太虛大師，精識五明，殫心三藏。廣長有舌，著作等身。如是我聞，契風<lb
@@ -60,7 +60,7 @@ n="a2.02"/><p rend="margin-left:0em">於戲！然法炬以燭昏衢，駕慈航�
 n="a2.03"/>，思大德以方來。唯願眾善緣成，創出人間淨土；料應大慈赴會，還自<choice><orig>覩</orig><reg>睹</reg></choice>史陀天<lb
 n="a2.04"/>！斯則吾佛之本懷既明，大師之志行亦暢已！</p><lb
 n="a2.05"/><byline rend="text-align:left;margin-left:3em">佛曆二五一六年，第七十七庚寅，暮春之月，皈戒弟子陳靜濤百拜敬題。</byline></div>
-<milestone id="xuz" title="太虛大師年譜附;虛附" resp="yap"/><pb n="b1"/><lb
+<milestone type="bk" id="xuz" title="太虛大師年譜附;太虛附" resp="yap"/><pb n="b1"/><lb
 n="b1.01"/><div xml:id="fuyian"><head>編者附言</head><lb
 n="b1.02"/><p>予編太虛大師年譜成，而深懼無以知大師！蓋編者出家也晚（民國十九年秋<lb
 n="b1.03"/>），禮謁大師也晚（廿三年春），親聆其講授也更晚（廿六年秋）；於大師早年<lb
@@ -119,7 +119,7 @@ n="b4.13"/>於月日下，別以括號說明之。如民元一月一日下，有
 n="b5.01"/>三日」）。</p><lb
 n="b5.02"/><p rend="margin-left:3em;text-indent:-1em">一、凡文記參差，傳說不實，回憶謬忘等，概為按語考正。其不能確定者，<lb
 n="b5.03"/>則兩說以存疑。</p></div>
-<milestone id="xu" title="太虛大師年譜;虛" resp="yap"/><pb n="1"/><lb
+<milestone type="bk" id="xu" title="太虛大師年譜;太虛" resp="yap"/><pb n="1"/><lb
 n="1.01"/><div><opener>太虛大師年譜</opener><lb
 n="1.02"/><head><seg rend="border-style:solid;border-width:2px;padding:5px">名號</seg>、<seg rend="border-style:solid;border-width:2px;padding:5px">籍貫</seg>、<seg rend="border-style:solid;border-width:2px;padding:5px">年齡</seg>、<seg rend="border-style:solid;border-width:2px;padding:5px">眷屬</seg></head><lb
 n="1.03"/><div><head>一　名號</head><lb

@@ -40,7 +40,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body><milestone title="佛法概論序;概序" id="gaix" resp="yap"/>
+    <body><milestone type="bk" id="gaix" title="佛法概論序;概論序" resp="yap"/><milestone type="ak" id="1b" title="妙中" resp="yap"/>
 <pb n="a1"/><lb
 n="a1.01"/><articlegroup resp="yap" label="概論;佛法概論"/><div xml:id="xu"><head>自序</head><lb
 n="a1.02"/><p>三十三年秋，我在北碚漢藏教理院，講<title level="m">《阿含講要》</title>，十三講而止。講稿陸<lb
@@ -78,7 +78,7 @@ n="a3.06"/><p>我願意讀者，本著這樣的見地去讀他！</p><lb
 n="a3.07"/><p>舊稿積壓了四、五年，由於廈島講學因緣，才續寫完成，得以印行流通。這<lb
 n="a3.08"/>一切，都得到學友妙欽法師的助力，特附此誌謝！</p><lb
 n="a3.09"/><byline>民國三十八年八月二十一日，校畢序。</byline></div>
-<milestone id="gai" title="佛法概論;概"  resp="yap"/><pb n="1"/><lb
+<milestone type="bk" id="gai" title="佛法概論;概論"  resp="yap"/><pb n="1"/><lb
 n="1.01"/><div><opener>佛法概論</opener><lb
 n="1.02"/><head>緒言</head><lb
 n="1.03"/><p>「佛法」，為佛與法的結合詞。佛是梵語佛陀的略稱，其義為覺者。法是梵<lb

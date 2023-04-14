@@ -29,7 +29,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body><milestone  title="題唯識學探源;唯題" id="vijnz" resp="yap"/>
+    <body><milestone type="bk" id="vijnz" title="題唯識學探源;唯識題" resp="yap"/>
 <pb n="a1"/><lb
 n="a1.01"/><articlegroup resp="yap" label="唯識;唯識學探源"/><div><head>題唯識學探源　　<persName role="author">太虛</persName></head><lb
 n="a1.02"/><p>日人先有著<title level="m">《唯識思想史》</title>者，留學僧墨禪曾翻譯而未刊，適漢藏教理院講<lb
@@ -38,7 +38,7 @@ n="a1.04"/>已有成書，別命他名為妥。聞之，因僅述至唯識學未
 n="a1.05"/>唯識學探源」。唯識固原本佛言，而閱此則知轉輾於部派思想，起非一緣，流長<lb
 n="a1.06"/>而源遠矣，洵堪為學者探究之一異門方便云。</p><lb
 n="a1.07"/><byline>民國三十三年十二月序於渝寓</byline></div>
-<milestone id="vijnx" title="唯識學探源序;唯序" resp="yap"/><pb n="b1"/><lb
+<milestone type="bk" id="vijnx" title="唯識學探源序;唯識序" resp="yap"/><pb n="b1"/><lb
 n="b1.01"/><div xml:id="xu"><head>自序</head><lb
 n="b1.02"/><p>妙欽與光宗法師，願意負責印行本書，為本書服務；因此取出多年的舊稿，<lb
 n="b1.03"/>從頭校讀一遍，拿去校印流通。此時而能有此事，自然也有一番法喜！</p><lb
@@ -96,7 +96,7 @@ n="b4.13"/>所以這裡只略為一提。</p>
 <pb n="b5"/><lb
 n="b5.01"/><byline rend="text-align:left;margin-left:6em;text-indent:-3em">附記：本書為民國三十三年在四川初版流通，後由上海大法輪書局再版。<lb
 n="b5.02"/>今以重行排印，略為修正。民國五十九年一月印順記。</byline></div>
-<milestone id="vijn" title="唯識學探源;唯" resp="yap"/><pb n="1"/><lb
+<milestone type="bk" id="vijn" title="唯識學探源;唯識" resp="yap"/><pb n="1"/><lb
 n="1.01"/><div><opener>唯識學探源</opener><lb
 n="1.02"/><head>上編　 原始佛教的唯識思想</head><lb
 n="1.03"/><div><head>第一章　原始佛教思想概說</head><lb

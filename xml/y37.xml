@@ -48,7 +48,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body><milestone id="chux" title="初期大乘佛教之起源與開展;初" resp="yap"/>
+    <body><milestone type="bk" id="chux" title="初期大乘佛教之起源與開展;初期序" resp="yap"/><milestone type="ak" id="5" title="大乘" resp="yap"/>
 <pb n="a1"/><lb
 n="a1.01"/><articlegroup resp="yap" label="初期;初期大乘佛教之起源與開展"/><div xml:id="xu"><head>自序　　<persName role="author">印順</persName></head><lb
 n="a1.02"/><p>大乘佛法的淵源，大乘初期的開展情形，大乘是否佛說，在佛教發展史、思想史上，是一個<lb
@@ -127,7 +127,7 @@ n="a5.12"/>書作「索引」；性瀅、心如、依道、慧潤，代為負起
 n="a5.13"/>應該向他們表示我的謝意！近三年來，有馬來亞繼淨法師，香港本幻法師；及臺灣黃陳宏德、許<lb
 n="a5.14"/>林環，菲律賓李賢志，香港梁果福、陳兆恩、胡時基、胡時昇諸居士的樂施刊印費。願以此功德<lb
 n="a5.15"/>，迴向於菩提！中華民國六十九年，七月二十七日，印順序於臺中華雨精舍。</p></div>
-<milestone id="chuz" title="初期大乘佛教之起源與開展例;初例" resp="yap"/><pb n="b1"/><lb
+<milestone type="bk" id="chuz" title="初期大乘佛教之起源與開展例;初期例" resp="yap"/><pb n="b1"/><lb
 n="b1.01"/><div><head>凡例</head><lb
 n="b1.02"/><p rend="margin-left:2em;text-indent:-2em">一、本書所引經名，如名為「佛說某某經」的，「佛說」二字，一概省略。</p><lb
 n="b1.03"/><p rend="margin-left:2em;text-indent:-2em">二、古譯的經文，有的與後代譯語不同，如支婁迦讖的譯文中，「法身」是「法界」的異譯，為<lb
@@ -140,7 +140,7 @@ n="b1.09"/><p rend="margin-left:2em;text-indent:-2em">四、本書引用藏經�
 n="b1.10"/>，但所依據者，為中國佛教會之影印本。<title level="s">《縮刷大藏經》</title>，簡稱<title level="s">《縮刷》</title>。日本譯的<title level="s">《南傳<lb
 n="b1.11"/>大藏經》</title>，簡稱<title level="s">《南傳》</title>。</p><lb
 n="b1.12"/><p rend="margin-left:2em;text-indent:-2em">五、本書所引<title level="m">《南傳大藏經》</title>，並譯為中文，以便讀者。</p></div>
-<milestone id="chu" title="初期大乘佛教之起源與開展;初" resp="yap"/><pb n="1"/><lb
+<milestone type="bk" id="chu" title="初期大乘佛教之起源與開展;初期" resp="yap"/><pb n="1"/><lb
 n="1.01"/><div><head>第一章　序說</head><lb
 n="1.02"/><div><head>第一節　大乘所引起的問題</head><lb
 n="1.03"/><div><head>第一項　大乘非佛說論</head><lb

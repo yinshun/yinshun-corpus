@@ -39,7 +39,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body><milestone id="hye" title="華雨集第五冊;伍" resp="yap"/>
+    <body><milestone type="bk" id="hye" title="華雨集第五冊;華五" resp="yap"/>
 <pb n="1"/><lb
 n="1.01"/><articlegroup resp="yap" label="華五;華雨集第五冊"/><div><head>一、遊心法海六十年</head><note type="editorial">民國七三年撰</note><lb
 n="1.02"/><div><head>一　福緣不足、勉力而行</head><lb

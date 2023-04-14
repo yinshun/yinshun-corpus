@@ -29,7 +29,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body><milestone id="sab" title="雜阿含經論會編中;中" resp="yap"/>
+    <body><milestone type="bk" id="sab" title="雜阿含經論會編中;雜中" resp="yap"/>
 <pb n="1"/><lb
 n="1.01"/><articlegroup resp="yap" label="雜含中;雜阿含經論會編（中）"/><div><opener>雜阿含經論會編</opener><lb  
 n="1.02"/><head>雜因誦第三<ptr type="note" target="#note1.001"/></head><lb

@@ -39,7 +39,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body><milestone title="淨土與禪;淨" id="jing" resp="yap"/>
+    <body><milestone type="bk" id="jing" title="淨土與禪;淨土" resp="yap"/>
 <pb n="1"/><lb
 n="1.01"/><articlegroup resp="yap" label="淨土;淨土與禪"/><div><head>一、淨土新論</head><note type="editorial">民國四〇年講</note><lb
 n="1.02"/><byline rend="font-family:新細明體;font-weight:bold">—— 民國四十年冬在香港青山淨業林說 ——</byline><lb

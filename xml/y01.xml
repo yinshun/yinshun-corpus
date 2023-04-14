@@ -29,7 +29,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body><milestone id="miao" title="妙雲集序目;妙" resp="yap"/>
+    <body><milestone type="bk" id="miao" title="妙雲集序目;序目" resp="yap"/><milestone type="ck" id="1" resp="yap"/>
 <pb n="a1"/><lb
 n="a1.01"/><articlegroup resp="yap" label="般若;般若經講記"/><div xml:id="xu"><head><title level="s">《妙雲集》</title>序目</head><lb
 n="a1.02"/><p>民國五十八年九月，我重回嘉義妙雲蘭若安住。想到自己寫作的，別人記錄<lb
@@ -365,7 +365,7 @@ n="a8.08"/><p>全書的目次如下：</p>
 <lb n="a25.12"/>　　<item>42　〈普陀山誌奇〉的來歷</item>
 <lb n="a25.13"/>　　<item>43　須彌山與四洲</item>
 </list></div>
-<milestone id="vcpp" title="金剛經講記;金" resp="yap"/><pb n="1"/><lb
+<milestone type="bk" id="vcpp" title="金剛經講記;金剛" resp="yap"/><pb n="1"/><lb
 n="1.01"/><div><head>金剛般若波羅蜜經講記</head><lb
 n="1.02"/><byline rend="font-family:新細明體;font-weight:bold">——民國三十一年春講於四川法王學院——</byline><lb
 n="1.03"/><div><head><seg rend="border-style:solid;border-width:2px;padding:5px">懸論</seg></head><lb
@@ -2355,7 +2355,7 @@ n="142.09"/>象。能深刻信解，所以都能奉行佛說，自利利他，�
 n="142.10"/>這部經，聽說這部經，也即是當時佛弟子信受奉行的成果。大家既聞此法，也<lb
 n="142.11"/>應生歡喜心，信受奉行，這才不負如來護念付囑的大悲，名為報佛恩者！（演<lb
 n="142.12"/>培記）</p></div></div></div>
-<milestone id="pph" title="心經講記;心" resp="yap"/><pb n="143"/><lb
+<milestone type="bk" id="pph" title="心經講記;心經" resp="yap"/><pb n="143"/><lb
 n="143.01"/><div><head>般若波羅蜜多心經講記</head><lb
 n="143.02"/><byline rend="font-family:新細明體;font-weight:bold">——民國三十六年夏在雪竇寺說——</byline><lb
 n="143.03"/><div><head><seg rend="border-style:solid;border-width:2px;padding:5px">懸論</seg></head><lb

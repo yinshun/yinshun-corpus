@@ -40,7 +40,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body><milestone id="ping" title="平凡的一生;平" resp="yap"/>
+    <body><milestone type="bk" id="ping" title="平凡的一生;平凡" resp="yap"/>
 <pb n="1"/><lb
 n="1.01"/><articlegroup resp="yap" label="平凡;平凡的一生（重訂本）"/><opener>平凡的一生</opener><lb
 n="1.02"/><div><head>一　一生難忘是因緣</head><lb

@@ -39,7 +39,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body><milestone title="教制教典與教學;制" id="zhi" resp="yap"/>
+    <body><milestone type="bk" id="zhi" title="教制教典與教學;教制" resp="yap"/>
 <pb n="1"/><lb
 n="1.01"/><articlegroup resp="yap" label="教制;教制教典與教學"/><div><head>一、泛論中國佛教制度</head><note type="editorial">民國四二年撰</note><lb
 n="1.02"/><p>佛教，當然是「正法」中心的。然佛法弘傳於人間而成為佛教時，正法就流<lb

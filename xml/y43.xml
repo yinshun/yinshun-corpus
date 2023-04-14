@@ -48,7 +48,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body><milestone id="yongx" title="永光集序;永序" resp="yap"/>
+    <body><milestone type="bk" id="yongx" title="永光集序;永光序" resp="yap"/>
 <pb n="a1"/><lb
 n="a1.01"/><articlegroup resp="yap" label="永光;永光集"/><div xml:id="xu"><head>自序</head><lb
 n="a1.02"/><p>這本書，應該是我最後的一部。</p><lb
@@ -65,7 +65,7 @@ n="a1.11"/>木，的確安靜。這樣，我就時常去住，主要是夏天。
 n="a2.01"/>；在我的寫作中，曾稱之為「南投寄廬」。後來，房屋奉獻給永光寺，這才名為<lb
 n="a2.02"/>永光別苑，作為永光寺僧短期修持與養病的地方。在這永光別苑，集成這一<choice><orig>册</orig><reg>冊</reg></choice>，<lb
 n="a2.03"/>所以就名為<title level="m">《永光集》</title>。八九老僧印順序。</p></div>
-<milestone id="yong" title="永光集;永" resp="yap"/><pb n="1"/><lb
+<milestone type="bk" id="yong" title="永光集;永光" resp="yap"/><pb n="1"/><lb
 n="1.01"/><div><head>一、《大智度論》之作者及其翻譯</head><lb
 n="1.02"/><div><head>前言</head><lb
 n="1.03"/><p><title level="m">《大智度論》</title>（以下簡稱<title level="m">《智論》</title>），是<title level="m">《摩訶般若波羅蜜經》</title>的釋論，目<lb

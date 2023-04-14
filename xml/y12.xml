@@ -29,7 +29,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body><milestone title="成佛之道序;成序" id="chengx" resp="yap"/>
+    <body><milestone type="bk" id="chengx" title="成佛之道序;成佛序" resp="yap"/>
 <pb n="a1"/><lb
 n="a1.01"/><articlegroup resp="yap" label="成佛;成佛之道"/><div xml:id="xu"><head>自序</head><lb
 n="a1.02"/><p>佛法是理智的宗教，不僅是信仰的。所以義理的開導，或是修持的指示，都<lb
@@ -93,7 +93,7 @@ n="a5.05"/>為自己所編的偈頌，寫下簡單的解說。去年底，在善
 n="a5.06"/>稿。算起來，已經過六個年頭了！這部二十萬字的<title level="m">《成佛之道》</title>，正在排印流通，所<lb
 n="a5.07"/>以略說本書的意趣——綜貫一切佛法而向於佛道，以為序。</p><lb
 n="a5.08"/><byline rend="text-align:left;margin-left:0em">中華民國四十九年十月序</byline></div>
-<milestone id="chengz" title="成佛之道偈;成偈" resp="yap"/><pb n="b1"/><lb
+<milestone type="bk" id="chengz" title="成佛之道偈;成佛偈" resp="yap"/><pb n="b1"/><lb
 n="b1.01"/><div><head>成佛之道<seg rend="font-size:large">偈頌</seg></head><lb
 n="b1.02"/><p type="head"><choice><orig>歸敬三寶章</orig><reg>第一章　歸敬三寶</reg></choice></p><lb
 n="b1.03"/><lg><l>有海無邊際，世間多憂苦，流轉起還沒，何處是依怙？</l><lb
@@ -313,7 +313,7 @@ n="b17.12"/><l>諸法真實義，及證真實慧，無變異差別，是故無�
 n="b18.01"/><l>佛得不動身，悲願化三有，示淨或示穢，咸令入涅槃。</l><lb
 n="b18.02"/><l>為除眾疲乏，化作可愛城；終示真實相，故唯一佛乘。</l><lb
 n="b18.03"/><l>一切諸善法，同歸於佛道；所有眾生類，究竟得成佛。</l></lg></div>
-<milestone id="cheng"  title="成佛之道;成" resp="yap"/><pb n="1"/><lb
+<milestone type="bk" id="cheng"  title="成佛之道;成佛" resp="yap"/><pb n="1"/><lb
 n="1.01"/><div><opener>成佛之道</opener><lb
 n="1.02"/><head>第一章　歸敬三寶</head><lb
 n="1.03"/><p>學佛，就是向佛學習。我們以佛為理想，以佛為師範，不斷的向佛學習，如<lb

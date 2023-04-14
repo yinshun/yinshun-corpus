@@ -39,7 +39,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body><milestone title="佛法是救世之光;救" id="jiu" resp="yap"/>
+    <body><milestone type="bk" id="jiu" title="佛法是救世之光;救世" resp="yap"/>
 <pb n="1"/><lb
 n="1.01"/><articlegroup resp="yap" label="救世;佛法是救世之光"/><div><head>一、佛法是救世之光</head><note type="editorial">民國四四年講</note><lb
 n="1.02"/><byline rend="font-family:新細明體;font-weight:bold">——講於菲律賓信願寺——</byline><lb

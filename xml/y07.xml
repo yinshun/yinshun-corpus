@@ -29,7 +29,7 @@
     </revisionDesc>
   </teiHeader>
   <text>
-    <body><milestone title="大乘起信論講記;信" id="mhysp" resp="yap"/>
+    <body><milestone type="bk" id="mhysp" title="大乘起信論講記;起信" resp="yap"/>
 <pb n="1"/><lb
 n="1.01"/><articlegroup resp="yap" label="起信;大乘起信論講記"/><opener>大乘起信論講記</opener><lb
 n="1.02"/><byline rend="font-family:新細明體;font-weight:bold">——民國三十九年在香港大埔墟梅修精舍講——</byline><lb
